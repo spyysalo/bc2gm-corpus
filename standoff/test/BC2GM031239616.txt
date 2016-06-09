@@ -1,0 +1,1 @@
+The gene sequence predicts a 150,825 mol wt apoprotein of 1363 amino acids having an N-terminal hydrophobic signal sequence of 17 amino acids, 19 potential N-linked glycosylation sites, a hydrophobic anchor sequence of approximately 17 amino acids near the C terminus, and a hydrophilic cysteine-rich C terminus of 35 amino acids.

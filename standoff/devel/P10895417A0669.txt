@@ -1,0 +1,1 @@
+Following EPI-C0401, but not saline or DepoFoam vehicle, there were transient (< 72 hr) decreases in food consumption, arousal, hindlimb muscle tone, and body temperature.

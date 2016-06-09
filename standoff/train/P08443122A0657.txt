@@ -1,0 +1,1 @@
+In contrast to T cells, in fibroblasts PILOT gene expression requires only one signal (PMA) and is not affected by CyA.

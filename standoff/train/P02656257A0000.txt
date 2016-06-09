@@ -1,0 +1,1 @@
+The site-specific DNA inversion system Cin encoded by the bacteriophage P1 consists of a recombinase, two inverted crossing-over sites and a recombinational enhancer.

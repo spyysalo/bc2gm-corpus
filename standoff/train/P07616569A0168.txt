@@ -1,0 +1,1 @@
+They include genes encoding three subunits of the cytochrome oxidase (cox1 to 3), apocytochrome b (cob), seven subunits of the NADH dehydrogenase complex (nad1 to 6, nad4L), two ATPase subunits (atp6 and atp9), three ribosomal RNAs (rrn5, srn and lrn), 23 tRNAs and four ribosomal proteins (rps3, rps11, rps12 and rpl16).

@@ -1,0 +1,1 @@
+When single-point mutation was introduced to each GC box, EBS, and GT box in PFP9a20, at least 3-fold less CAT activity was observed in CTLL-R8 cells.

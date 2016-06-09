@@ -1,0 +1,1 @@
+Logistic regression analysis revealed that physicians were 3.6 times more likely to detect thin lesions (</=0.75 mm) compared with nonphysician detectors (95% confidence interval [95% CI], 2.1, 6.5; P = 0.0001).

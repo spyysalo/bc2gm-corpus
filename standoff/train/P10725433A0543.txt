@@ -1,0 +1,1 @@
+A mutation which abrogates the binding of these factors reduces Wp reporter activity specifically in B cell lines, whereas a mutation which converts the site to a consensus CREB-binding sequence maintains wild-type promoter function.

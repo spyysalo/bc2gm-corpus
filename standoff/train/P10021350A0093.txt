@@ -1,0 +1,1 @@
+In the current model, Wingless/Wnt signal stabilizes Armadillo/beta-catenin, which then accumulates in nuclei and binds TCF/LEF family proteins, forming bipartite transcription factors which activate transcription of Wingless/Wnt responsive genes.

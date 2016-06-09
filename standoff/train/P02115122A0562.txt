@@ -1,0 +1,1 @@
+Critical residues required for repression are located within the C-terminal 27 amino acids of c-Fos, since v-Fos and C-terminal truncations of c-Fos did not down regulate.

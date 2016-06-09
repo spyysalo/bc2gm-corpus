@@ -1,0 +1,1 @@
+A gapped search with the C-terminal region of CDED/LIOR revealed a 36-41% similarity to several proteins related to signal transduction and cell replication, such as ORC1 and KSR.

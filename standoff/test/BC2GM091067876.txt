@@ -1,0 +1,1 @@
+Strains lacking a functional RPL16A gene grow as rapidly as wild type, whereas those containing a null allele of RPL16B grow more slowly than wild type.

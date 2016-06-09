@@ -1,0 +1,1 @@
+CES4 on a multicopy plasmid was unable to suppress tif1-A79V .

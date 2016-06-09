@@ -1,0 +1,1 @@
+Transformation of the sconC3 mutant with sconB+ restores the wild-type phenotype.

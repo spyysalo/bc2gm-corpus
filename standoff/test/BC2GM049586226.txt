@@ -1,0 +1,1 @@
+A new family of rate-adaptive pacemakers accomplishes this circadian rate variation by modeling the patient's sleep-wake cycle using a time-of-day clock inside the device.

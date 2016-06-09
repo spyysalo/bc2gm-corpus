@@ -1,0 +1,1 @@
+A GTP/GDP exchange assay was used to assess the potential role of Ras in the pathway leading to ERK phosphorylation; DADLE failed to stimulate GTP/GDP exchange in comparison to PMA.

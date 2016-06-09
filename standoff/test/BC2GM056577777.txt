@@ -1,0 +1,1 @@
+To determine whether transcription of orfX and vfr are controlled by the same mechanisms that control transcription of the region of the divergent ORF (dorf) and of crp, we compared the vfr-orfX and crp-dorf intergenic regions.

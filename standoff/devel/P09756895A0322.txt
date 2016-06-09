@@ -1,0 +1,1 @@
+Genomic locus of chCTCF contains a GC-rich untranslated exon separated from seven coding exons by a long intron.

@@ -1,0 +1,1 @@
+Initial experience with a microprocessor controlled current based defibrillator.

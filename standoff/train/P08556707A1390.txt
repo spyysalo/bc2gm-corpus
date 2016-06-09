@@ -1,0 +1,1 @@
+These data indicate that although 218leu retains normal transactivation activity on a p53 promoter in yeast at physiological temperatures, it is not capable of normal p53 function in the presence of a 248trp allele in SNU-C5 cells.

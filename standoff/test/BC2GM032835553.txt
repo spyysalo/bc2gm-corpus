@@ -1,0 +1,1 @@
+The software is in BASIC adapted for the Hewlett-Packard calculators HP-9845B and HP-85A.

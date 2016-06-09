@@ -1,0 +1,1 @@
+We have subcloned into pBR322 deoxyribonucleic acid (DNA) sequences mapping either in the coding region, the 5' spacer, or the 3' spacer of the H2B histone gene.

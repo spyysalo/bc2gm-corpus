@@ -1,0 +1,1 @@
+Zebrafish cyclops (cyc) encodes a Transforming Growth Factor beta (TGFbeta) signaling factor closely related to mouse Nodal.

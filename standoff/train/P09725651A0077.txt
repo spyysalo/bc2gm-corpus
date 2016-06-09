@@ -1,0 +1,1 @@
+The PC-based RTPS is designed to run in the Microsoft Windows 3.11 environment (and later versions), for computers equipped with 486 or Pentium processors.

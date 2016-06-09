@@ -1,0 +1,1 @@
+An analysis of the dynamics is performed of exactly solvable models for fragile and strong glasses, exploiting the partitioning of the free-energy landscape in inherent structures.

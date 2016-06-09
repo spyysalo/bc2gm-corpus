@@ -1,0 +1,1 @@
+The v-ets oncogene of the avian retrovirus E26 differs from its cellular progenitor p68c-ets-1 by two amino acid substitutions (alanine 285 and isoleucine 445 in c-ets-1 both substituted by valine in v-ets, mutations A and B respectively) and its carboxy-terminal end (mutation C).

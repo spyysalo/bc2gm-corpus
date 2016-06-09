@@ -1,0 +1,1 @@
+To search for transcriptional regulators, we used a fragment of the SpHE promoter containing several individual elements instead of the conventional bait that contains a multimerized cis element.

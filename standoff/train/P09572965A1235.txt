@@ -1,0 +1,1 @@
+A third ORF, ORF5, shows homology with gene agrB from Staphylococcus aureus, which is involved in the mechanism of regulation of the virulence phenotype in this species.

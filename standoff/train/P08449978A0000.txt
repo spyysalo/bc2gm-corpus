@@ -1,0 +1,1 @@
+Analysis of cell cycle regulation in the budding yeast Saccharomyces cerevisiae has shown that a central regulatory protein kinase, Cdc28, undergoes changes in activity through the cell cycle by associating with distinct groups of cyclins that accumulate at different times.

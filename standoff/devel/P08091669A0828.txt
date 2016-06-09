@@ -1,0 +1,1 @@
+To determine whether P35 could activate the 39k promoter in the absence of IE1, the p35 open reading frame was cloned under the control of the ie1 promoter.

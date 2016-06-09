@@ -1,0 +1,1 @@
+Deletion of a 53-bp early promoter region containing the transcription start site and a putative TATA box completely abolishes the ability of upstream elements to drive transcription of the luciferase cDNA.

@@ -1,0 +1,1 @@
+Encapsidation of poliovirus replicons encoding the complete human immunodeficiency virus type 1 gag gene by using a complementation system which provides the P1 capsid protein in trans.

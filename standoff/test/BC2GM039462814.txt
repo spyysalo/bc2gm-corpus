@@ -1,0 +1,1 @@
+We infer that RecA-mediated cleavage of UmuD is another role for RecA in SOS mutagenesis, probably activating UmuD for its mutagenic function.

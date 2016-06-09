@@ -1,0 +1,1 @@
+Nevertheless, we demonstrate that the entire three-component yeast capping apparatus, consisting of RNA 5'-triphosphatase (Cet1p), RNA guanylyltransferase (Ceg1p), and Abd1p could be replaced in vivo by the two-component mammalian apparatus consisting of a bifunctional triphosphatase-guanylyltransferase Mce1p and the methyltransferase Hcm1(121-476)p.

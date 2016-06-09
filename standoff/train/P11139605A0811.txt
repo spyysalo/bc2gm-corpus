@@ -1,0 +1,1 @@
+Deletion analysis showed that the -321/+41 sequence was sufficient for both the constitutive promoter activity and auto-activation and electrophoretic mobility shift assays identified the interaction of C/EBPs and Sp1 to this region.

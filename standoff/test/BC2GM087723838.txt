@@ -1,0 +1,1 @@
+Using mammalian expression vectors (pRSV-neo and pSV2-neo), antisense constructs for perforin and granzyme B were independently electroporated into YT-INDY, a human non-MHC-restricted, IL-2-independent, cytotoxic lymphocyte.

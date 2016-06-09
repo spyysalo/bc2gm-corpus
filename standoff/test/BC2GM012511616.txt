@@ -1,0 +1,1 @@
+To test this hypothesis, we developed a system of transient transfection of rat adipocytes with constructs containing glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and fatty acid synthetase (FAS) promoters fused to gene reporter CAT.

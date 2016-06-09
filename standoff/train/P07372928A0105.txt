@@ -1,0 +1,1 @@
+Tests of the method indicate (1) the Mossbauer source can be placed on the basilar membrane without altering the signal-transmission properties of the cochlea, and (2) the source adheres to the basilar membrane.

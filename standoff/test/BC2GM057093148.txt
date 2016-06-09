@@ -1,0 +1,1 @@
+To understand this dramatic effect, we examined the localization of SR proteins and found that SC35 was shifted to the cytoplasm in sky1Delta yeast, although this phenomenon was not obvious with ASF/SF2, indicating that nuclear import of SR proteins may be differentially regulated by phosphorylation.

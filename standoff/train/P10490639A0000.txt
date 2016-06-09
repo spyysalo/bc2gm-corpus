@@ -1,0 +1,1 @@
+In Saccharomyces cerevisiae, PHO85 encodes a cyclin-dependent protein kinase (Cdk) catalytic subunit with multiple regulatory roles thought to be specified by association with different cyclin partners (Pcls).

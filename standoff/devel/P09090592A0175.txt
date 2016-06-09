@@ -1,0 +1,1 @@
+Although methods to align the control and activation fMR images may correct for some of this motional error, they will be incomplete in correcting for those that depend on spatial orientation.

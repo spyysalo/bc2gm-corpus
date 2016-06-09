@@ -1,0 +1,1 @@
+Adjusting a steady-state warfarin dose depends on the measured INR values and clinical factors: the dose does not need to be adjusted for a single INR that is slightly out of range, and most changes should alter the total weekly dose by 5% to 20%.

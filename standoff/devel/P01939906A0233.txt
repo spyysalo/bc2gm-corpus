@@ -1,0 +1,1 @@
+This generalization of MFP involves defining an appropriate high-resolution cost function, parametrizing the search space of the environment and source, constructing solutions of the wave equation, and utilizing a nonlinear optimization method to search the parameter landscape for the global minimum of the cost function.

@@ -1,0 +1,1 @@
+The sequence of the gene upstream to the cap site contains characteristic RNA polymerase II promoter-binding sites: a putative TATA box at position -29 and a Sp 1 binding site (GGGGCGGAGA) at position -48.

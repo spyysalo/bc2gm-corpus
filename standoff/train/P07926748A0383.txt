@@ -1,0 +1,1 @@
+NOT4 interacts with NOT1 and NOT3 in the two-hybrid assay, and overexpression of NOT3 or NOT4 suppresses not1 and not2 mutations.

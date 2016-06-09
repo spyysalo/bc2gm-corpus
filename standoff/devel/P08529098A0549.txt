@@ -1,0 +1,1 @@
+Striking sequence similarities (57 and 53%) were observed with yeast mitochondrial proteins, SMF1 and SMF2, especially within putative functional domains: exon 6 encoding the second transmembrane spanning domain, site of the murine susceptibility mutation; and exon 11 encoding a conserved transport motif.

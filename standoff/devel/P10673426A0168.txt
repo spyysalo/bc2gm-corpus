@@ -1,0 +1,1 @@
+The central (R) domain is responsible for receptor-binding activity whereas the N-terminal (T) domain mediates translocation, the process by which the C-terminal cytotoxic domain is transported from the receptor to the site of its cytotoxicity.

@@ -1,0 +1,1 @@
+Similar to the mouse gene, the 5' flanking region of human CD79 alpha lacks a TATA box; however, unlike mouse CD79 alpha, a classical octamer motif could not be identified in the human gene.

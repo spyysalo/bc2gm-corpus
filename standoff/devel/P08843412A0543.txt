@@ -1,0 +1,1 @@
+Here we localize a transferable 40-amino acid region within the LBDs of RXR, RAR, TR, and chicken ovalbumin upstream promoter transcription factor that is critical for determining identity in the heterodimeric interaction and for high-affinity DNA binding.

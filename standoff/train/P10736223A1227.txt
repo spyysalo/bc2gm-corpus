@@ -1,0 +1,1 @@
+Based on these data, we conclude that transcription of prgX is initiated from the Qa promoter in prgQ, and PrgX autoregulates its transcription either by mediating transcriptional readthrough or increasing mRNA stability.

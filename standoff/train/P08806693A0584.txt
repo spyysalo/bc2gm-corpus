@@ -1,0 +1,1 @@
+In order to determine which sequences in the GATA-1 promoter are crucial for activation by the ME26 viral protein, we made deletions of the promoter, cloned them into a luciferase expression vector and tested their activity in mouse fibroblasts, which do not express GATA-1.

@@ -1,0 +1,1 @@
+Genetic and molecular data indicate that wild-type Pan and CiD compete for binding to Arm, leading to a compromised transduction of the Wg signal in heterozygous ciD/+ animals and to a dramatic enhancement of the gain-of-function activity of CiD in homozygous mutants.

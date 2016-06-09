@@ -1,0 +1,1 @@
+The development of a data base is described which can be used as common reference for ECG computer programs analyzing 12 or 15 simultaneously recorded leads.

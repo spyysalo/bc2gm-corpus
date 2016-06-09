@@ -1,0 +1,1 @@
+Among the LE6 deletions, only one had a reduced transformation efficiency, while seven transformed cells at least as efficiently as wild-type LE6.

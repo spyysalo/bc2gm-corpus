@@ -1,0 +1,1 @@
+The mechanism by which large molecules, such as the diphosphonate 99mTc-labeled EHDP or 99mTc-labeled pyrophosphate, pass through capillaries in bone is by passive diffusion.

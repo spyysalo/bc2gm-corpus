@@ -1,0 +1,1 @@
+The inferred amino acid sequence of the cyanobacterial HemB protein indicates a significant difference in the metal cofactor requirement from the higher-plant enzymes, which was confirmed by overexpression and biochemical analysis.

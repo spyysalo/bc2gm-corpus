@@ -1,0 +1,1 @@
+The use of the two pharmacokinetic parameters, t1/2 and Cltp, as indices of drug elimination ability are discussed.

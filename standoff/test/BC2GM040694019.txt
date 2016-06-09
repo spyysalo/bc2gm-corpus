@@ -1,0 +1,1 @@
+Immunoblotting with antiphosphotyrosine antibody showed that many yeast proteins, including the p34CDC28 kinase, became phosphorylated at tyrosine in cells expressing v-src.

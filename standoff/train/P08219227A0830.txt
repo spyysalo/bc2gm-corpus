@@ -1,0 +1,1 @@
+Replacement of the CRE with a second copy of the AP-1 site results in a level of transcriptional activity comparable with that of the wild-type sequence, but replacement of the AP-1 site with a CRE abolishes activity.

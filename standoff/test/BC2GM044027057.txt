@@ -1,0 +1,1 @@
+Intensity variations from the variable TR were removed, and the data were evaluated for correlation with the lateralized stimulus.

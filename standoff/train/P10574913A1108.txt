@@ -1,0 +1,1 @@
+By negatively regulating GRK-mediated receptor phosphorylation, beta-arrestin-mediated processes such as Src recruitment and clathrin-mediated internalization, which are required for GPCR-mediated ERK activation, are inhibited, thus dampening further ERK activation.

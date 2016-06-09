@@ -1,0 +1,1 @@
+Two differentially expressed LNX messages encode overlapping proteins with predicted molecular masses of 80 kDa (LNX) and 70 kDa (LNX-b).

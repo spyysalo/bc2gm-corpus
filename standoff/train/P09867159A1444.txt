@@ -1,0 +1,1 @@
+With regard to the optimal threshold values, sensitivity and specificity were 100%/97% and 95%/95% with FDG PET, compared to 86%/92% and 77%/82% with IS, respectively.

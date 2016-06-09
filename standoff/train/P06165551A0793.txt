@@ -1,0 +1,1 @@
+(2) The inappropriateness of adaptive segmentation for the isolation of spikes and sharp waves, which had been anticipated in view of the short duration of such transients in relation to the length of the window (1.2 sec) used for the autocorrelation functions employed in the segmentation algorithm, was confirmed.

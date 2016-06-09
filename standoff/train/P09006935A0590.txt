@@ -1,0 +1,1 @@
+Sp1 binds the CTC repeat with an affinity, KD = 0.37 nM, at least as high as the consensus GC box.

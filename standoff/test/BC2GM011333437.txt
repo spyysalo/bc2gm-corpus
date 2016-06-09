@@ -1,0 +1,1 @@
+The predicted product exhibits 91% amino acid identity to the murine voltage-gated potassium channel protein Kv1.7 (Kcna7), which plays an important role in the repolarization of cell membranes.

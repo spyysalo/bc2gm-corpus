@@ -1,0 +1,1 @@
+For this, cDNAs containing the 60K, 87K, 110K and 170K protein coding sequences were each provided with an ATG start codon and the cDNA containing the 60K coding sequence with a TAA stop codon immediately downstream of the coding sequence.

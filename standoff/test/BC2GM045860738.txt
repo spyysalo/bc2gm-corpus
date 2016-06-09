@@ -1,0 +1,1 @@
+These operons encode subunits of photosystems I (psa) and II (psb), the cytochrome bGf complex (pet), the plastid NAD(P)H dehydrogenase (ndh), and the unidentified open reading frame ycf9.

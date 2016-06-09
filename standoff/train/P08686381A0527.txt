@@ -1,0 +1,1 @@
+Three ORFs (9765orfR002, 9765orfR011 and 9765orfR013) were found to be homologous with Schizosaccharomyces pombe polyadenylate binding protein, Escherichia coli hypothetical 38.1-kDa protein in the BCR 5' region, and transcription regulatory protein Swi3, respectively.

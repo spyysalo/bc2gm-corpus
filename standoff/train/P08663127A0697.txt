@@ -1,0 +1,1 @@
+Hydropathy analysis of KCC1 indicates structural homology to NKCC, including 12 transmembrane domains, a large extracellular loop with potential N-linked glycosylation sites, and cytoplasmic N- and C-terminal regions.

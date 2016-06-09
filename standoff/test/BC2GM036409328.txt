@@ -1,0 +1,1 @@
+PATIENTS: 33 HIV-infected, zidovudine-experienced patients with serum HIV RNA levels of at least 20,000 copies/mL and CD4 counts ranging from 50 to 400 cells/mm3.

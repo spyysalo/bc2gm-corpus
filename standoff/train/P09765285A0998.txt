@@ -1,0 +1,1 @@
+However, changing the half-site to the consensus sequence AGGTCA (IRper-1) increased binding of AaEcR.AaUSP 10-fold over IRhsp-1 and, at the same time, reduced the stringency of the spacer length requirement, with IRper-0 to IRper-5 showing detectable binding.

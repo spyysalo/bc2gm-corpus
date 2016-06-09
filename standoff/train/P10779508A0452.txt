@@ -1,0 +1,1 @@
+In DNase I footprinting protection analysis, both SFRE and ERE regions were protected by glutathione S-transferase-ERRalpha1 fusion protein.

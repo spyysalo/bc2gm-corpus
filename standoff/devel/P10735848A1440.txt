@@ -1,0 +1,1 @@
+RegA is a positive yet nonessential regulator of tol-oprL expression.

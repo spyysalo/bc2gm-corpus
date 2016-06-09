@@ -1,0 +1,1 @@
+With stepwise reductions in flow, the peak (S) and trough (D) points of the maximum shifted-frequency envelope fell in parallel in a linear fashion until D reached zero.

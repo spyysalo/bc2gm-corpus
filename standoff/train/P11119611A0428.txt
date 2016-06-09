@@ -1,0 +1,1 @@
+ORFK10.5 encodes a protein, latency-associated nuclear antigen 2 (LANA2), which is expressed in KSHV-infected hematopoietic tissues, including PEL and CD but not KS lesions.

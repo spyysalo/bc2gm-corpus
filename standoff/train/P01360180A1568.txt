@@ -1,0 +1,1 @@
+Finally, we determined that the P68 amino terminus was both necessary and sufficient for binding dsRNA as we were able to transfer dsRNA-binding properties to a reporter gene product previously unable to bind RNA.

@@ -1,0 +1,1 @@
+Three different techniques of EA analysis were used in the study: 1) fast Fourier transformation (FFT) of EA in a broad band, 2) developed by us alternative method of non-harmonic expansion of the EEG curves taking into account their shape, 3) factor analysis of the EA spectral densities.

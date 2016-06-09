@@ -1,0 +1,1 @@
+Homodimers of the three proteins specifically recognize the G-box motif, with GBF1 and GBF3 binding symmetrically to this palindromic sequence.

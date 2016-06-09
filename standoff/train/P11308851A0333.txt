@@ -1,0 +1,1 @@
+We find that our response function is well approximated by the GSER only within a particular frequency range determined by the material parameters of both the bead and the network.

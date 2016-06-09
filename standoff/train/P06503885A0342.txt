@@ -1,0 +1,1 @@
+This machine drift, which was not associated with a rise in water phantom temperature and did not consistently correlate with estimated x-ray tube heat, could result in a significant overestimation of regional cerebral blood flow (rCBF) for a xenon/CT rCBF protocol involving 5-7 sequential scans obtained at 1-min interscan intervals.

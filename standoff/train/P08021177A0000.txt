@@ -1,0 +1,1 @@
+The fepA-entD and fes-entF operons in the enterobactin synthesis and transport system are divergently transcribed from overlapping promoters, and both are inhibited by the Fur repressor protein under iron-replete conditions.

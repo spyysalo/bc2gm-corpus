@@ -1,0 +1,1 @@
+These results suggest that, for the HML ARS cluster (ARS303, ARS320, and ARS302), inactivity of origins is independent of local transcriptional silencing, even though origins and silencers share key cis- and trans-acting components.

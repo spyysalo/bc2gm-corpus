@@ -1,0 +1,1 @@
+The phosphorylation efficiency is improved by increasing the number of N-terminal arginine residues and by moving the arginyl cluster one residue further away from the serine, the nonapeptide (Arg)4-Ala-Ala-Ser-Val-Ala being the best substrate among all the short peptides tested (Km = 15 microM).

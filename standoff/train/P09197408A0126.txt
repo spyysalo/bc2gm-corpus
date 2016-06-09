@@ -1,0 +1,1 @@
+Sequencing of the facB gene revealed that it encodes a protein that contains an N-terminal GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster for DNA binding, leucine zipper-like heptad repeat motifs and central and C-terminal acidic alpha-helical regions, consistent with a function as a DNA-binding transcriptional activator.

@@ -1,0 +1,1 @@
+The apparent Kd of the MetRS/CAU operator complex is one order magnitude higher than that of the ThrRS/CGU operator complex.

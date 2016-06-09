@@ -1,0 +1,1 @@
+Alignment of the selected sequences allowed us to predict a consensus sequence for binding of the individual homodimeric Rel-related proteins, and DNA-protein binding analysis of the selected DNA sequences revealed sequence specificity of the proteins.

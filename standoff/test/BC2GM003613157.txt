@@ -1,0 +1,1 @@
+DSS4-1 is a dominant suppressor of sec4-8 that encodes a nucleotide exchange protein that aids Sec4p function.

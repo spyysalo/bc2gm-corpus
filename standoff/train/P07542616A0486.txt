@@ -1,0 +1,1 @@
+GCD10 binds RNA in vitro and we present strong biochemical evidence that it is identical to the RNA-binding subunit of yeast initiation factor-3 (eIF-3). eIF-3 is a multisubunit complex that stimulates translation initiation in vitro at several different steps.

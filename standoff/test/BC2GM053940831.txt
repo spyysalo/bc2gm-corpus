@@ -1,0 +1,1 @@
+We have cloned the cDNA for the SLBP from humans, mice, and frogs, using the recently developed yeast three-hybrid system.

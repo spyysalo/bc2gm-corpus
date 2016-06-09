@@ -1,0 +1,1 @@
+BACKGROUND: In lung protective strategy, positive end-expiratory pressure (PEEP) slightly higher than the Pflex (the airway pressure corresponding to the lower inflection point (LIP) on the inspiratory pressure-volume (P-V) curve measured with ZEEP) is generally recommended.

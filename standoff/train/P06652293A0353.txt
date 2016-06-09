@@ -1,0 +1,1 @@
+Increasing the cut-off point to 3 positive responses decreased the sensitivity to 81% and increased the specificity to 94%.

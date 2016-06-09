@@ -1,0 +1,1 @@
+When expressed in COS-7 cells, MKP-4 blocks activation of MAP kinases with the selectivity ERK > p38 = JNK/SAPK.

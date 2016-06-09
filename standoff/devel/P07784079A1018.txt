@@ -1,0 +1,1 @@
+Transfection of non-deleted expression vector into NIH3T3 cells results in acquisition of focus-forming activity while a deleted form of expression vector fails to show this activity even in the presence of basic FGF.

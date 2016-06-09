@@ -1,0 +1,1 @@
+The architecture of the hRap1 Myb domain is very close to that of each of the Myb domains from TRF1, scRap1p and c-Myb.

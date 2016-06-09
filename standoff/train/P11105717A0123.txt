@@ -1,0 +1,1 @@
+METHODS: T2*-weighted, three-dimensional gradient-echo images were acquired by exploiting the magnetic susceptibility difference between oxygenated and deoxygenated hemoglobin in the vasculature and microvasculature.

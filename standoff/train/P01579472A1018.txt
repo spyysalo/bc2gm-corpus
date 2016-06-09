@@ -1,0 +1,1 @@
+Unlike the typical enhancer element, this region functions in an orientation-dependent manner.

@@ -1,0 +1,1 @@
+We have generated various base substitutions and internal deletions in and around DRE (nucleotide positions -93 to -100 with respect to the transcription initiation site) of the PCNA gene in vitro and subsequently examined their effects on the binding to DREF (DRE-binding factor) and PCNA gene promote activity in cultured Drosophila Kc cells as well as in living flies.

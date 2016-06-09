@@ -1,0 +1,1 @@
+Selected parameters: heart rate (HR), arterial blood pressure (ABP) and arterial O2 saturation (SaO2) monitored by pulsoximetry were measured during the procedure.

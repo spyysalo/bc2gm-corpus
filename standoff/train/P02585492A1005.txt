@@ -1,0 +1,1 @@
+Interspecific complementation tests showed that the P7 proteins are unable to complement P1 parA or parB mutants, and the P1 proteins fail to complement the P7 mutations.

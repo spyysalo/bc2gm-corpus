@@ -1,0 +1,1 @@
+Gab2, a new pleckstrin homology domain-containing adapter protein, acts to uncouple signaling from ERK kinase to Elk-1.

@@ -1,0 +1,1 @@
+C/EBP beta V > A selectively binds only the subset of C/EBP sites that are also DBP sites, both as oligonucleotides and within the natural contexts of the albumin and cholesterol hydroxylase promoters.

@@ -1,0 +1,1 @@
+Discriminant function analysis suggests that AUDIT scores can successfully identify SAT-positive and SAT-negative patients; the analysis accounted for 42.5% of the variance and correctly classified 84.6% of the sample.

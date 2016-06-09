@@ -1,0 +1,1 @@
+Very good accuracy (r greater than 0.9) was found when except comparing H*2 with the other machine and the reference methods, except for MCHCH and basophil count.

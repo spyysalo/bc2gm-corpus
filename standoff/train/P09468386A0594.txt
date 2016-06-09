@@ -1,0 +1,1 @@
+Pet-1 can bind specifically to a PEA3 ETS DNA-binding motif and can modulate transcription of synthetic promoter constructs in a sequence-specific manner.

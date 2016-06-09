@@ -1,0 +1,1 @@
+Mean disposition constants (+/- SD) were obtained from individualized fits (V1: 0.398 +/- 0.336 LITER/KG, Vdarea: 2.53 +/- 0.72 liter/kg, alpha: 0.316 +/- 0.294 min -1, beta: 0.00204 +/- 0.00262 min -1, k2: 0.0305 +/- 0.0101 min -1).

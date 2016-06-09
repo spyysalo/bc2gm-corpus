@@ -1,0 +1,1 @@
+An InlC deletion mutant shows reduced virulence when tested in an intravenous mouse model, but intracellular replication of the mutant in Caco-2 and J774 cells appears to be comparable with that of the wild-type strain.

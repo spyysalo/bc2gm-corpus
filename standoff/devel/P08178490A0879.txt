@@ -1,0 +1,1 @@
+Thus, we have separated the signal function from the anchor function of the 6.7K SA domain.

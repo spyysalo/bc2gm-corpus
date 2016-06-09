@@ -1,0 +1,1 @@
+Molecular analysis of the pRA2 partitioning region: ParB autoregulates parAB transcription and forms a nucleoprotein complex with the plasmid partition site, parS.

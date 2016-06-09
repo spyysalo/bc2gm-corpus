@@ -1,0 +1,1 @@
+An expression library was constructed by inserting 5' portion-enriched cDNAs from phytohemagglutinin-stimulated peripheral blood mononuclear cells into upstream of signal sequence-deleted CD4 cDNA in an Epstein-Barr virus shuttle vector.

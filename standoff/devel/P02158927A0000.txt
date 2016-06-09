@@ -1,0 +1,1 @@
+We have determined the nucleotide (nt) sequence of the 7.5-kb COR segment that encompasses a cluster of six genes (CYC1, UTR1, UTR3, OSM1, tRNA(Gly) and RAD7) located on chromosome X of the yeast Saccharomyces cerevisiae.

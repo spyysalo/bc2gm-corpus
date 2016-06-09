@@ -1,0 +1,1 @@
+In contrast to full-length E2F-3, which is expressed only at the G1/S boundary, E2F-3B is detected throughout the cell cycle with peak levels in GO where it is associated with Rb.

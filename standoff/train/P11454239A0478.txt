@@ -1,0 +1,1 @@
+Statistical Analysis included ANOVA, the Pearson Product Moment Correlation Coefficient, Principal Components Analysis and Discriminant Function Analysis and the calculation of Cronbach's alpha (alpha) RESULTS: Both Sensitivity and specificity exceed 90.00 at 23/24, Chronbach's alpha for the total scale was equal to 0.95.

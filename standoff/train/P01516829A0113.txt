@@ -1,0 +1,1 @@
+Previously, we showed that SNF2, SNF5, and SNF6 function interdependently in transcriptional activation, possibly forming a heteromeric complex.

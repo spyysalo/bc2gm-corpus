@@ -1,0 +1,1 @@
+Like Rev-Erb, BD73 binds as a monomer to a DNA sequence which consists of a specific A/T-rich sequence upstream of the consensus hexameric half-site specified by the P box of the DNA-binding domain.

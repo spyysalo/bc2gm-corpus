@@ -1,0 +1,1 @@
+To investigate this issue, we used a recognition task in which two strings of letters are presented sequentially.

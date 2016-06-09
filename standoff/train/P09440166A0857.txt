@@ -1,0 +1,1 @@
+RESULTS: The bovine cDNA insert sequence was 273 nucleotides in length for the entire mRNA coding region, 212 nucleotides in the 5' untranslated region, 83 nucleotides in the 3' untranslated region and a poly(A) tail.

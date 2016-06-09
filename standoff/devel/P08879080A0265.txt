@@ -1,0 +1,1 @@
+Eight-four ACOAs were tested in order to examine the fit of the model to the data by path analysis with LISREL VII.

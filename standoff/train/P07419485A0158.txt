@@ -1,0 +1,1 @@
+For the study of the transition of long to short waves (deep-water waves) a closed-form solution is advantageous; this can, however, only be obtained at the cost of further simplification.

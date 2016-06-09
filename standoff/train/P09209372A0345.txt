@@ -1,0 +1,1 @@
+Here we demonstrate that AML1a, which solely has no effects as a transcriptional regulator, dominantly suppresses transcriptional activation by AML1b, and that AML1a exhibits the higher affinity for DNA-binding than AML1b.

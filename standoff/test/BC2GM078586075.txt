@@ -1,0 +1,1 @@
+Plasmid pNK21, in which 2.05-kb sequence covering the region encoding the nitrilase was was placed under the control of the lac promoter, directed overproduction of enzymatically active nitrilase in response to addition of isopropyl beta-D-thiogalactopyranoside in Escherichia coli.

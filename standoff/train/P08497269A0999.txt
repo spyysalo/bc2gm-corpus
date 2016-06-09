@@ -1,0 +1,1 @@
+This sequence similarity raises the possibility that GCN1 interacts with ribosomes or tRNA molecules and functions in conjunction with GCN2 in monitoring uncharged tRNA levels during the process of translation elongation.

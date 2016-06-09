@@ -1,0 +1,1 @@
+Functional tests using a reporter gene, containing Stat5-binding elements, confirmed that while the variant form was inactive by itself, it could inhibit the function of the full-length receptor.

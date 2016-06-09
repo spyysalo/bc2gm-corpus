@@ -1,0 +1,8 @@
+T1	GENE 30 70	glyceraldehyde-3-phosphate dehydrogenase
+T2	GENE 72 77	GAPDH
+T3	GENE 80 105	3-phosphoglycerate kinase
+T4	GENE 107 110	PGK
+T5	GENE 139 164	triosephosphate isomerase
+T6	GENE 166 169	TIM
+T7	GENE 250 260	gap operon
+T8	GENE 304 320	gap amber mutant

@@ -1,0 +1,1 @@
+The effect of diffusion limitation was quantified in terms of the ratio O2 uptake/O2 requirement (= fraction of cross-sectional area supplied with O2), assuming local O2 requirement per unit volume to be constant and independent of PO2 at PO2 greater than 0.

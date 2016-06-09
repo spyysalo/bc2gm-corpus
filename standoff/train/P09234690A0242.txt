@@ -1,0 +1,1 @@
+Upstream activating sequences (UASs) derived from known Ste12p-dependent genes have previously been characterized to require either multiple PREs or a single PRE coupled to a binding site for a second protein.

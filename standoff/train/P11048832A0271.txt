@@ -1,0 +1,1 @@
+Fisher's exact test or Pearson's chi2 test were used for statistical analysis.

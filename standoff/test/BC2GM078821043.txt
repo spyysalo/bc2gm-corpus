@@ -1,0 +1,1 @@
+A mutated ABF1 site that displays a very low affinity for ABF1 does not functionally replace the ILV1 REB1 site.

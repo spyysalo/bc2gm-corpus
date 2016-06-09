@@ -1,0 +1,1 @@
+Like Mdm2, MdmX is able to bind p53 and inhibit p53 transactivation; however, the ability of MdmX to degrade p53 has yet to be examined.

@@ -1,0 +1,1 @@
+The two yeast pheromone receptors, the a and alpha-factor receptors, share many functional similarities: both G protein-coupled receptors couple to the same downstream signal transduction pathway, and both receptors undergo feedback regulation involving increased phosphorylation on their C-terminal domains in response to ligand challenge.

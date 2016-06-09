@@ -1,0 +1,1 @@
+G-box binding factors (GBFs) constitute a family of plant DNA-binding proteins that bind to the G-box motif, a regulatory cis element present in many plant genes with a palindromic DNA motif of CACGTG.

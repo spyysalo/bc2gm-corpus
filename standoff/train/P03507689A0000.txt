@@ -1,0 +1,1 @@
+Chimeric phage-plasmid expression vectors were constructed from pUC18/19 plasmids by cloning a single-stranded DNA (ssDNA) origin of replication from bacteriophage f1 and inserting a bacteriophage T7 promoter within the beta-galactosidase gene.

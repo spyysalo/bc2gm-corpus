@@ -1,0 +1,1 @@
+The deduced amino acid sequence exhibits 95.3 and 76.1% identity with the CAD sequences of hamster and Squalus acanthias.

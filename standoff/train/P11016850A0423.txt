@@ -1,0 +1,1 @@
+We cloned a DNA fragment encoding the N-terminal part of a protein with significant similarity to members of the LysR family of transcriptional regulators (LTTRs).

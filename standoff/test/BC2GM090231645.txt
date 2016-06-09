@@ -1,0 +1,1 @@
+Using the yeast two-hybrid system, we have isolated an 835 amino acid RING finger (C3HC4 zinc finger) protein, TIF1 beta (also named KAP-1), that specifically interacts with the KRAB domain of the human zinc finger factor KOX1/ZNF10.

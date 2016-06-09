@@ -1,0 +1,1 @@
+The imino proton of T3 in the O6meG.T 12-mer and G3 in the O6meG.N 12-mer helix, which are associated with the modification site, resonate at unusually high field (8.5 to 9.0 ppm) compared to imino protons in Watson-Crick base pairs (12.5 to 14.5 ppm).

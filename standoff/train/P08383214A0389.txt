@@ -1,0 +1,1 @@
+Secondary cleavage of RT at Trp-595-Tyr-596 of Pol yields a truncated form lacking the C-terminal RNase H domain.

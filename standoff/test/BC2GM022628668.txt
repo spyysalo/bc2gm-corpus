@@ -1,0 +1,1 @@
+ES cells in which the gene for the erythroid transcription factor GATA-1 has been disrupted fail to produce mature erythroid cells either in vivo or in vitro.

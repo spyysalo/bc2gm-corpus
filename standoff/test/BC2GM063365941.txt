@@ -1,0 +1,1 @@
+In a previous study of transforming growth factor-beta1-mediated inhibition of the cyclin A promoter, we mapped the inhibitory effect to the ATF site; in the present study of IFN-gamma treatment, functional analysis by transient transfection showed that inhibition of the cyclin A promoter persisted despite mutation of the ATF, NF-Y, or CDE elements.

@@ -1,0 +1,1 @@
+Rep63A (513 amino acids [aa]), encoded by the largest ORF, displayed strong similarity (40% identity) to the replication proteins from plasmids pAMbeta1, pIP501, and pSM19035, indicating that the pAW63 replicon belongs to the pAMbeta1 family of gram-positive theta-replicating plasmids.

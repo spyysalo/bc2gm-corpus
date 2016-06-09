@@ -1,0 +1,1 @@
+Oscilloscope triggering circuit for recording long transients at fast sweep speeds.

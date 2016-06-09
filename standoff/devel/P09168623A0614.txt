@@ -1,0 +1,1 @@
+A xylE transcriptional fusion to the putative mxbD promoter showed low-level expression in wild-type cells grown on one-carbon (C1) compounds and no detectable expression in cells grown on succinate.

@@ -1,0 +1,1 @@
+Reporter constructs function in a parallel manner, demonstrating the key role of the AhR in constitutive as well as TCDD-induced expression of Cyp1B1 in mouse embryo fibroblasts.

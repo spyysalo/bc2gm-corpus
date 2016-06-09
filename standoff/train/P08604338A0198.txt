@@ -1,0 +1,1 @@
+Both EWS-FLI-1 and FLI-1 proteins function as transcription factors that bind specifically to ets sequences (the ets boxes) present in promoter elements.

@@ -1,0 +1,1 @@
+Refined Cox models using a CD4 count of 150/microL rather than 200/microL to distinguish I0 and I1 yielded a simplified model with better fit to the observed data.

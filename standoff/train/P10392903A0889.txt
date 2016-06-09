@@ -1,0 +1,1 @@
+E2 point mutants unable to inhibit cell growth did not repress cdc25A and cdc25B expression, nor did the cell cycle inhibitors hydroxyurea and mimosine.

@@ -1,0 +1,1 @@
+RESULTS: We identified a full-length cDNA with an open reading frame of 2883 bp corresponding to a predicted protein of 961 amino acids that shares greater than 95% homology with the rat gamma-aminobutyric acid B (GABAB) receptor.

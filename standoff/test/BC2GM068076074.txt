@@ -1,0 +1,1 @@
+The BCL-6 POZ domain and other POZ domains interact with the co-repressors N-CoR and SMRT.

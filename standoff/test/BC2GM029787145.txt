@@ -1,0 +1,1 @@
+Although hSSTR5 displays approximately 75% sequence identity with rat SSTR5, the two receptors display significantly different pharmacological profiles, especially with respect to their binding affinities for the SST analogue SMS 201-995.

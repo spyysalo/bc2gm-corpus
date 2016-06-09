@@ -1,0 +1,1 @@
+We developed a system for domain shuffling to establish the function of C1 domains from human Raf kinase and rat PKC eta in yeast.

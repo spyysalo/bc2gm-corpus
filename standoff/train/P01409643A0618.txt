@@ -1,0 +1,1 @@
+By using lambda gt11 expression cloning with oligonucleotides corresponding to the human immunodeficiency virus 1 TATA element, we report the identification of a cellular protein with a calculated molecular mass of 123 kDa that we designate TATA element modulatory factor (TMF).

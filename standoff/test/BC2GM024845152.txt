@@ -1,0 +1,1 @@
+The S. typhimurium aspartyl/asparaginyl beta-hydroxylase homologue (designated lpxO) was cloned into pBluescriptSK and expressed in Escherichia coli K-12, which does not contain lpxO.

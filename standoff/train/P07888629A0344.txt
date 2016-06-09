@@ -1,0 +1,1 @@
+Translation of the coding segment, which was designated MsPRP2, suggested it encodes a chimeric 40,569 Da cell wall protein with an amino-terminal signal sequence, a repetitive proline-rich sequence, and a cysteine-rich carboxyl-terminal sequence homologous to nonspecific lipid transfer proteins.

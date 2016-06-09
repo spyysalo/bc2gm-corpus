@@ -1,0 +1,1 @@
+In Schizosaccharomyces pombe, the activity of the M-phase-inducing Cdc2/Cdc13 cyclin-dependent kinase is inhibited by Wee1 and Mik1 tyrosine kinases, and activated by Cdc25 and Pyp3 tyrosine phosphatases.

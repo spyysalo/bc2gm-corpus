@@ -1,0 +1,1 @@
+This vector should be applicable for high-throughput characterization of new open reading frames found in genome sequencing.

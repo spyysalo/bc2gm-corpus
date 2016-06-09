@@ -1,0 +1,1 @@
+C/EBP delta (NFIL-6 beta) was not detected in complexes utilizing extracts from the IL-1 nonproducing T cell line.

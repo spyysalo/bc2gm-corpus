@@ -1,0 +1,1 @@
+The 5' region shows strong sequence similarity to Escherichia coli consensus promoters and ribosome-binding sequences and allows high levels of expression in E. coli.

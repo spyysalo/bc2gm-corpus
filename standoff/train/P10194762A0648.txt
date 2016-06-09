@@ -1,0 +1,1 @@
+In vitro precipitation with a glutathione-S-transferase-fusion protein containing the C-terminal transactivation domain of STAT5a showed GH-regulated association of ERK1/2 with the fusion protein, while this was not seen when serine 780 in STAT5a was changed to alanine.

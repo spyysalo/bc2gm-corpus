@@ -1,0 +1,1 @@
+The rec8(+), rec10(+), and rec11(+) genes of the fission yeast Schizosaccharomyces pombe exhibit similar specificities for meiotic recombination and rec8(+) is required for sister chromatid cohesion and homolog pairing.

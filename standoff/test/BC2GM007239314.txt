@@ -1,0 +1,1 @@
+Where the resonator has two holes, these terms should be somewhat modified: A is the combined area of the two holes, L is 16/3pi r (~1.7r) for a simple hole in a thin-walled vessel and r is the radius of one hole (Seto, 1971).

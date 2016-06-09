@@ -1,0 +1,1 @@
+Finally, some point mutations in the Gag-Pol PR domain inhibited activation of RT in trans by a wild-type PR, suggesting that the correct conformation of the PR domain in Gag-Pol is prerequisite for activation of RT.

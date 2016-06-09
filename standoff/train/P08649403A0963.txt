@@ -1,0 +1,1 @@
+The growth defect of a reg1 reg2 double mutant is alleviated by a loss-of-function mutation in the SNF1-encoded protein kinase.

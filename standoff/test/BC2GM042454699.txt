@@ -1,0 +1,1 @@
+Expression of the Hox genes egl-5 and mab-5 is reduced in lin-49 and lin-59 mutants, suggesting lin-49 and lin-59 regulate HOM-C gene expression in C. elegans as the trx-G genes do in Drosophila. lin-49 and lin-59 transgenes are expressed widely throughout C. elegans animals.

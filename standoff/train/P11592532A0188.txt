@@ -1,0 +1,1 @@
+METHODS: Humphrey Field Analyzer model 630 (HFA I, program 30-2 with a rectangular 6 degrees x 6 degrees grid) was used as the conventional perimetric method.

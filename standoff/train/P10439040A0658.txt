@@ -1,0 +1,1 @@
+To determine what role eIF4E might play in c-myc expression, the c-myc 5' untranslated region (UTR) was fused in-frame to CAT reporters, and several more derivative constructs were made.

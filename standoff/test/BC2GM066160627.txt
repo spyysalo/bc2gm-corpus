@@ -1,0 +1,1 @@
+Maximum likelihood estimation in covariance structure analysis with truncated data.

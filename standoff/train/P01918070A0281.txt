@@ -1,0 +1,1 @@
+We examined the binding of purified T3 receptor alpha (T3R alpha), overexpressed in Escherichia coli, to wild-type and up and down mutations of the rGH T3RE to evaluate whether transcriptional potency correlates with changes in T3R binding.

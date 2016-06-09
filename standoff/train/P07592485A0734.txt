@@ -1,0 +1,1 @@
+If NCR-sensitive gene expression occurs exclusively by this pathway, as has been thought to be the case, then the NCR sensitivity of a gene's expression should be abolished by a ure2 delta mutation.

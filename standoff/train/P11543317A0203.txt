@@ -1,0 +1,1 @@
+The absorbed dose was measured by combination of two integrating detectors: thermo- luminescent dosemeter of Mg2SiO4: Tb (TDMS) and plastic nuclear track detector (PNTD).

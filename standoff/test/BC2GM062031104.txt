@@ -1,0 +1,1 @@
+In K562 cells, using the bicistronic vector, selection with colchicine led to at least 20-fold higher expression of the MDR1 gene product than did selection with G418, suggesting that the stringent MDR1 selection system is very efficient for obtaining overexpression of foreign genes.

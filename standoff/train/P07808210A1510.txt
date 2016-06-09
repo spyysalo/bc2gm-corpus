@@ -1,0 +1,1 @@
+The negative predictive value is 92%, vs 80% for the NCEP I.

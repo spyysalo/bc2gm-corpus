@@ -1,0 +1,1 @@
+This interaction inhibits the histone acetyltransferase activity of p300, resulting in drastic reduction of nucleosomal histone acetylation and alteration of chromatin structure.

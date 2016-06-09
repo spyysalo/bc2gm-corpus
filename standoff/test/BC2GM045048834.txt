@@ -1,0 +1,1 @@
+Mutational analysis of yeast CEG1 demonstrated that four of the five conserved motifs are essential for capping enzyme function in vivo.

@@ -1,0 +1,1 @@
+The DNA sequences predict proteins for SRP54sc and SRP54sp that are 47% and 52% identical to SRP54mam, respectively.

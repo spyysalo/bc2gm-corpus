@@ -1,0 +1,1 @@
+These equilibrium solutions are then shown to arise from the vertices of a particular convex polyhedron.

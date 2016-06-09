@@ -1,0 +1,1 @@
+Finally, we demonstrated that although the DNA-binding domain of c-myb is required for both the differentiation block and the shift in cell cycle after PMA treatment, phosphorylation by casein kinase II and mitogen-activated protein kinase at positions 11 and 12 or 532 of c-myb, respectively, are not.

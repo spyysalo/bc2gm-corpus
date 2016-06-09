@@ -1,0 +1,1 @@
+Our results suggest that Bry1/Skn7 can influence the expression of MCB- and SCB-driven gene expression in budding yeast, perhaps including genes involved in cell wall metabolism, via a two-component signal transduction pathway which activates Bry1/Skn7 in response to an unidentified signal.

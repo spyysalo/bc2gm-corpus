@@ -1,0 +1,1 @@
+These results indicate that residue 266 serves as a "protein sensor" of altered minor groove interactions and identifies which base pair interactions are altered by these lesions.

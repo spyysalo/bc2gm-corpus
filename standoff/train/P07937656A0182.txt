@@ -1,0 +1,1 @@
+Univariate statistical analysis based on Kaplan-Meier-estimates and Log-Rank-Test showed the following prognostically beneficial factors: Limited disease stage (p = 0.009), NSE serum level less than 25 micrograms/l (p = 0.016), serum alkaline phosphatase less than 200 U/l (p = 0.035), normal serum albumin (p = 0.003) and activity index of minimum of 70 (p < 0.001).

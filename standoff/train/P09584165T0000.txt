@@ -1,0 +1,1 @@
+RACK1, a receptor for activated C kinase and a homolog of the beta subunit of G proteins, inhibits activity of src tyrosine kinases and growth of NIH 3T3 cells.

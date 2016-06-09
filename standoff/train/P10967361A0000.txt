@@ -1,0 +1,1 @@
+Functional magnetic resonance imaging (fMRI) has been increasingly used in studying human brain function given its non-invasive feature and good spatial resolution.

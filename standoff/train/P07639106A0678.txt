@@ -1,0 +1,1 @@
+A model with age and weight described the best fit for TBBMD, whereas age, weight, and height described the best fit for total body TBBMC.

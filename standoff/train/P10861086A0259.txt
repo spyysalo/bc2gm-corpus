@@ -1,0 +1,1 @@
+In reconstitution experiments, we first showed that expression in the RAW 264.7 cell line of C-terminal Src kinase (Csk) inhibited and that of a membrane-anchored, gain-of-function Csk abolished the Fc gamma R-mediated signaling that leads to phagocytosis in a kinase-dependent manner.

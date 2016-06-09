@@ -1,0 +1,1 @@
+The regions encoding the mature proteinases were cloned into an expression vector and recombinant protein produced in Escherichia coli.

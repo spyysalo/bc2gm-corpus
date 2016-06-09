@@ -1,0 +1,1 @@
+Although analysis of the similarity between the 44-kDa protein and the E. coli RecA protein did not show any significant homology between them, it revealed their identity by five amino-acid residues involved in the formation of the epitope that recognized the paratope of the RecA protein antibody for subsequent epitope-paratope binding of these proteins.

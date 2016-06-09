@@ -1,0 +1,1 @@
+IRF-1 acts as a transcriptional activator, while IRF-2 acts as a repressor.

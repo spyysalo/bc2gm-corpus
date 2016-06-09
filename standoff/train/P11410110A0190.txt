@@ -1,0 +1,1 @@
+NIRS was used for the quantitative measurement of muscle O(2) consumption (mV.O(2)) and forearm blood flow (FBF) in 78 healthy subjects.

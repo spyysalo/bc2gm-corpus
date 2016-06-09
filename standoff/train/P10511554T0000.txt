@@ -1,0 +1,1 @@
+A local, high-density, single-nucleotide polymorphism map used to clone Caenorhabditis elegans cdf-1.

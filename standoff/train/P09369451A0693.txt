@@ -1,0 +1,1 @@
+Mutational analysis shows that both an AP-1 like sequence (-294/-285, TGAATCATCA) and an A/T-rich myocyte enhancer factor (MEF)-2 like sequence (-310/-298, TTAAAAATAAAAA) in the 33-bp region are necessary for the OP-1 effect.

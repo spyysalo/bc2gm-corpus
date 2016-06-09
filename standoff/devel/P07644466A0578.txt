@@ -1,0 +1,1 @@
+Here we describe an in vitro assay where the NS3-4A polyprotein, NS3, the serine proteinase domain (the N-terminal 181 residues of NS3), and the NS4A cofactor were produced by cell-free translation and tested for trans-processing of radiolabeled substrates.

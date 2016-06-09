@@ -1,0 +1,1 @@
+DESIGN: Activating protein-1 (AP-1) and Tat-induced transcription were assessed using Jun and hybrid Tat/Jun-expression plasmids and reporter gene constructs which contained AP-1 binding sites upstream of the rat prolactin TATAA element or an HIV-1 LTR construct in which AP-1 binding sites replaced the TAR element.

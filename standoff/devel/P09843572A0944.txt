@@ -1,0 +1,1 @@
+This model is supported by experiments showing that Cdr2 associates with the N-terminal regulatory domain of Wee1 in cell lysates and phosphorylates Wee1 in vitro.

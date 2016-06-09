@@ -1,0 +1,1 @@
+Stably transfected human kidney 293 cells expressing the wild type rat LH/CG receptor (rLHR) or receptors with C-terminal tails truncated at residues 653, 631, or 628 (designated rLHR-t653, rLHR-t631, and rLHR-t628) were used to probe the importance of this region on the regulation of hormonal responsiveness.

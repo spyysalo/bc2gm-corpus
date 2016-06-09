@@ -1,0 +1,1 @@
+The C4BP alpha gene is organized as follows: the first exon codes for the first 198 nucleotides of the 5' UTR.

@@ -1,0 +1,1 @@
+A site-directed R618K mutation in the Stat5 SH2 domain abolished the phosphorylation by Jak2, while deletion of the C terminus led to Stat5 hyperphosphorylation.

@@ -1,0 +1,1 @@
+Using the sequence data obtained from the human TCRAC/TCRDC region, we have extended a polymerase chain reaction-based assay to test for the expression of the individual TCRAJ gene segments.

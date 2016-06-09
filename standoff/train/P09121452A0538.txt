@@ -1,0 +1,1 @@
+Domain switch experiments reveal that C/EBP beta proteins containing either the leucine zipper or the activation domain of C/EBP alpha are unable to stimulate the 2D5 promoter yet are fully capable of transactivating an artificial promoter bearing a high-affinity C/EBP site.

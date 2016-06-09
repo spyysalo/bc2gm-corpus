@@ -1,0 +1,1 @@
+A limited sampling strategy was used based on a bayesian parameter estimation algorithm that is part of the ADAPT II software package.

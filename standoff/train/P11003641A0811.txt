@@ -1,0 +1,1 @@
+Mutating the Fcp1p-binding motif KEFGK in the RAP74 (Tfg1p) subunit of TFIIF to EEFGE led to both synthetic phenotypes in certain fcp1 tfg1 double mutants and a reduced ability of Fcp1p to activate transcription when it is artificially tethered to a promoter.

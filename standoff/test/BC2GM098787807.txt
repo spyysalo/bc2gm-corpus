@@ -1,0 +1,1 @@
+Mapping of the region in KAP-1 required for HP1 interaction showed that amino acid substitutions which abolish HP1 binding in vitro reduce KAP-1 mediated repression in vivo.

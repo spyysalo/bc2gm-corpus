@@ -1,0 +1,1 @@
+Ras2p activates invasive growth using either of two downstream signaling pathways, the filamentation MAPK (Cdc42p/Ste20p/MAPK) cascade or the cAMP-dependent protein kinase (Cyr1p/cAMP/PKA) pathway.

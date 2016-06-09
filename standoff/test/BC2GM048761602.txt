@@ -1,0 +1,1 @@
+Electrophoretic mobility shift analysis of protein-DNA complexes formed with nuclear proteins isolated from I3C-treated and -untreated cells, in combination with supershift assays using Sp1 antibodies, demonstrated that the Sp1-binding site in the CDK6 promoter forms a specific I3C-responsive DNA-protein complex that contains the Sp1 transcription factor.

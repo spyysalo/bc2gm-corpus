@@ -1,0 +1,1 @@
+NB-506 completely inhibits the capacity of topoisomerase I to phosphorylate, in vitro, the human splicing factor 2/alternative splicing factor (SF2/ASF).

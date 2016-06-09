@@ -1,0 +1,1 @@
+CONCLUSIONS: LHB is simple, easy and safe to implement, and is the only technique capable of maintaining independent upper and lower body perfusion pressure.

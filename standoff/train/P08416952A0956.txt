@@ -1,0 +1,1 @@
+Metabolic labeling studies in S. cerevisiae and co-expression of nmt72p with several protein substrates of Nmt1p in Escherichia coli indicate that the Leu99-->Pro substitution causes a reduction in the acylation of some but not all protein substrates.

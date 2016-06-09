@@ -1,0 +1,1 @@
+The Saccharomyces cerevisiae 14DM gene, encoding cytochrome P450 lanosterol 14 alpha-demethylase (14DM), was overexpressed in various S. cerevisiae strains under the control of three strong heterologous yeast transcription promoters (pADC1, pGPD, pPHO5) and under the control of its own promoter.

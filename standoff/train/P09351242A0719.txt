@@ -1,0 +1,1 @@
+Induction of AtP5CS1 mRNA accumulation in salt-treated seedlings involves an immediate early transcriptional response regulated by ABA signalling that is not inhibited by cycloheximide, but abolished by the deficiency of ABA biosynthesis in the aba1 Arabidopsis mutant.

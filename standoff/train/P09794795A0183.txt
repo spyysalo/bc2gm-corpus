@@ -1,0 +1,1 @@
+Ligand binding to the receptor complex leads to tyrosine phosphorylation and activation of Janus kinases (Jak), phosphorylation of the signal transducing subunit gp130, followed by recruitment and phosphorylation of the signal transducer and activator of transcription factors STAT3 and STAT1 and the src homology domain (SH2)-containing protein tyrosine phosphatase (SHP2).

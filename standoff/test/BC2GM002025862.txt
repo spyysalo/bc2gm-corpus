@@ -1,0 +1,1 @@
+Subclones of R15 which reverted to kappa light chain production contained genomic deletions of R15ns and/or the surrounding intron.

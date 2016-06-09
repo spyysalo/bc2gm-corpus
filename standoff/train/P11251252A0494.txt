@@ -1,0 +1,1 @@
+3D image-processing permits to analyse ultrasound data interactively in three orthogonal planes (section mode) or in realistic 3D views (rendering mode).

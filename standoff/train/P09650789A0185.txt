@@ -1,0 +1,1 @@
+Orientation of the nuclear spin system by optical pumping causes an Overhauser shift of the excitonic energy levels proportional to the degree of nuclear orientation.

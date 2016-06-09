@@ -1,0 +1,1 @@
+Cox proportional hazard analysis identified dialysis modality and pre-dialysis UV of less than 1,000 ml/m2 per 24 h as the only significant risk factors for UV survival.

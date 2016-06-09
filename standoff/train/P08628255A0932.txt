@@ -1,0 +1,1 @@
+In synchronized HeLa cells, expression of luciferase activity was induced at the beginning of DNA synthesis and was dependent on the presence of an E2F-binding site in the H2A.1 promoter.

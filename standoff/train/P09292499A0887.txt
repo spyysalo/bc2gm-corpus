@@ -1,0 +1,1 @@
+These repressor sites are pyrimidine rich and bind avidly to the polypyrimidine tract binding protein (PTB) in HeLa nuclear extracts as determined by UV crosslinking/competition assays.

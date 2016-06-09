@@ -1,0 +1,1 @@
+Substitutions of region I with synthetic sequences showed that no specific sequence but rather repeats of three or more consecutive adenines or thymines, without interruption by guanine or cytosine, are required for the ARS activity.

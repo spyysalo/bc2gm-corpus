@@ -1,0 +1,1 @@
+This specific methylation pattern caused inactivation of the HSV tk gene, while methylation of the cytosine residues within the nucleotide sequence from +811 to +1309 had no effect on HSV tk gene activity.

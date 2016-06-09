@@ -1,0 +1,1 @@
+Here we demonstrate that a region of high homology between the members of this class of proteins contains a type A nucleotide binding site consensus sequence which has ATPase activity and is sufficient to bind DNA containing specific mismatched residues.

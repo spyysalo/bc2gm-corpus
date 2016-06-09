@@ -1,0 +1,1 @@
+Whereas mutant 6C4 specified a wild-type-size Pol protein, we detected no full-length Pol protein in 7E4-infected cell extracts.

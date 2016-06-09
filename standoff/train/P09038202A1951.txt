@@ -1,0 +1,1 @@
+These data support the idea that the repression activity of NRSF/REST depends upon the species of promoter to which it is linked and upon the proteins that bind to those promoters.

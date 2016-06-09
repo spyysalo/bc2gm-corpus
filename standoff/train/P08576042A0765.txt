@@ -1,0 +1,1 @@
+Overproduction of HrcA protein from a second copy of hrcA derived from a plasmid (phrcA+) in B. subtilis wild-type and delta hrcA strains prevented heat shock induction of the dnaK and groE operons at the level of transcription almost completely and strongly reduced the amounts of mRNA at a low temperature as well.

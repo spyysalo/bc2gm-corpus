@@ -1,0 +1,1 @@
+EMSA competition experiments showed that mutations within the direct repeats failed to compete for binding of the nuclear proteins to labeled wild type oligonucleotide.

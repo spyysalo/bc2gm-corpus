@@ -1,0 +1,1 @@
+An FP mutant, AcFP875-2, had a 1.6-kbp insertion of S. frugiperda DNA near the 5' end of these transcripts which by S1 analysis were shown to initiate within the host cell sequence.

@@ -1,0 +1,1 @@
+We anticipated SNS function after CVA to be asymmetric and selected null hypotheses of bilaterally symmetric SSR latencies and amplitudes irrespective of side of stimulation and/or recording.

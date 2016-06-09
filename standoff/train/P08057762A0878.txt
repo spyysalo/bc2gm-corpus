@@ -1,0 +1,1 @@
+We have found a satisfactory reproducibility in vitro (T1: 1.9%; T2: 6.2%), while the reproducibility was less satisfactory in vivo (T1: 16.4%; T2: 13.4%).

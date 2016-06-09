@@ -1,0 +1,1 @@
+CRS function in a 5' LTR-linked gene expression assay correlates with the ability of both p60CRS and p40CRS to interact with 5' LTR RNA in vitro.

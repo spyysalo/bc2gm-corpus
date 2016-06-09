@@ -1,0 +1,1 @@
+The C-terminal Cdk2 truncations, however, were non-functional in these strains and thus dependent for activity on the pho85 coding region which remained in the mutant pho85::HIS3 chromosomal locus.

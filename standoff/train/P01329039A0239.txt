@@ -1,0 +1,1 @@
+Although the E-box consensus is minimally defined as CANNTG, the adjacent nucleotides of functional E-boxes are variable for genes regulated by the bHLH proteins.

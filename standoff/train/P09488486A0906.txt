@@ -1,0 +1,1 @@
+A triple-mutant TBP (R231E + R235E + R239S) had greatly reduced activity for yeast U6 snRNA gene transcription while remaining active for Pol II basal transcription.

@@ -1,0 +1,1 @@
+Computer analysis included digital averaging, followed by digital filtering in different frequency bands in order to determine the frequency range corresponding to notches and slurs.

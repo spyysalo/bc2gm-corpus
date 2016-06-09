@@ -1,0 +1,1 @@
+Here we demonstrate that the protein product of the ref-1 gene stimulates the DNA binding activity of Fos-Jun heterodimers, Jun-Jun homodimers and Hela cell AP-1 proteins as well as that of several other transcription factors including NF-kappa B, Myb and members of the ATF/CREB family.

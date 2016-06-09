@@ -1,0 +1,1 @@
+Total cross sections for electron scattering by CO2 molecules in the energy range 400-5000 eV.

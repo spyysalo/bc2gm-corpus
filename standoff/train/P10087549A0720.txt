@@ -1,0 +1,1 @@
+The JTc delta among the three groups did not differ as well: JTc delta of the VT group was 70 ms +/- 30 ms, the JTc delta of the PVC group was 60 msec +/- 25 msec, and the JTc delta of the control group was 70 ms +/- 30 ms.

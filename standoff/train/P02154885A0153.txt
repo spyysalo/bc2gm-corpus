@@ -1,0 +1,1 @@
+The sites targeted for mutagenesis, residues 60, 61, and 66, are located within a putative helical loop structure which may be involved in substrate recognition by the enzyme.

@@ -1,0 +1,1 @@
+In C. albicans, HST6 is expressed constitutively at high levels in the different cell types analysed (yeast, hyphae, white and opaque), demonstrating that HST6 transcription is not repressed in this diploid yeast, unlike in diploid S. cerevisiae, and suggesting a basic biological function for the Hst6p transporter in C. albicans.

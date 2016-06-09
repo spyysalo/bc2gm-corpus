@@ -1,0 +1,1 @@
+We cloned the BamHI-F fragment from the left end of Ad4 in pUC13-1 between the SalI and BamHI sites in order to carry out the structural analysis of the E1A region of Ad4.

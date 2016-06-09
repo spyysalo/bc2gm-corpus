@@ -1,0 +1,1 @@
+PABP is a modular protein, with four N-terminal RNA-binding domains and an extensive C terminus.

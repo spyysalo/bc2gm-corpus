@@ -1,0 +1,1 @@
+The wavenumbers corresponding to the normal modes of vibration were calculated using the DFT (B3LYP/6-31G**) approximation and their agreement with the measured values improved after scaling of the associated force field.

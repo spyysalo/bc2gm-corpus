@@ -1,0 +1,1 @@
+First, the amino-terminal regulatory arm of the GDI binds to the switch I and II domains of Cdc42 leading to the inhibition of both GDP dissociation and GTP hydrolysis.

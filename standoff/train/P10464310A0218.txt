@@ -1,0 +1,1 @@
+Transient tyrosine phosphorylation of Crk in fibroblast growth factor-2-stimulated endothelial cells was dependent on the juxtamembrane tyrosine residue 463 in FGFR-1, and a Crk SH2 domain precipitated FGFR-1 via phosphorylated Tyr-463, indicating direct complex formation between Crk and FGFR-1.

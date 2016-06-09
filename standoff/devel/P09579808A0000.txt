@@ -1,0 +1,1 @@
+UDP-GlcNAc:alpha-6-D-mannoside beta-1,2-N-acetylglucosaminyltransferase II (GnT II; EC 2.4.1.143) is essential for the normal assembly of complex Asn-linked glycans.

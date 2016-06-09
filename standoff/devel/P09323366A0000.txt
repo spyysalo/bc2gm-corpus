@@ -1,0 +1,1 @@
+The malate synthase gene, MLS1, of the yeast Saccharomyces cerevisiae is transcriptionally regulated by the carbon source in the growth medium.

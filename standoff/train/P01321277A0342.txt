@@ -1,0 +1,1 @@
+A recombinant with a 5' end from src and a 3' end from ros, called SRC x ROS, transformed chicken embryo fibroblasts (CEF) to a spindle shape morphology, mimicking that of UR2.

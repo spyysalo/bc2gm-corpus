@@ -1,0 +1,1 @@
+The prototype now structures oncology-related information available on the Internet and also places resources maintained locally at users' disposal.

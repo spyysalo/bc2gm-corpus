@@ -1,0 +1,1 @@
+Rhesus macaques and BALB/c mice inoculated with the Mengo virus SIV recombinants failed to develop CTL responses against the SIV gene products, while one of the HIV-Nef recombinants induced a weak CTL response in mice directed to an HIV1 Nef peptide spanning positions 182-198.

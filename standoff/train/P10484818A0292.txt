@@ -1,0 +1,1 @@
+Activated areas have been identified by means of cross-correlation analysis.

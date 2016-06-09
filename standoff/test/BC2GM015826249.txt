@@ -1,0 +1,1 @@
+It also showed which amino acid residues would contact an extended TATA box with a B recognition element, and evolutionary conservation of the TBP-TFB-DNA complex orientation between two archaeal organisms with widely different optimal temperature for growth (37 and 100 degrees C).

@@ -1,0 +1,1 @@
+Analysis of various deletion mutants indicates that the sequence requirements for binding by QBP in vitro are indistinguishable from those necessary for Q activity in vivo, strongly suggesting that QBP is required for the function of this TATA-independent promoter.

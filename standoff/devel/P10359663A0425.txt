@@ -1,0 +1,1 @@
+In a heterologous transcriptional system in which the upstream regions of oIFNtau were inserted in front of simian virus 40 (SV40) promoter, the regions between bases -654 and -555 were determined as being the enhancer region required for oIFNtau-SV40-CAT transactivation.

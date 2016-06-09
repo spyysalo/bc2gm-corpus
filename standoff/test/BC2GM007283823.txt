@@ -1,0 +1,1 @@
+GeneCalling analysis was successful in detecting members of complex metabolic pathways and uncovering novel genes that were either coincidentally regulated or directly involved in such pathways.

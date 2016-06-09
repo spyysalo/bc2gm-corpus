@@ -1,0 +1,1 @@
+MutY is an adenine-DNA glycosylase with specificity for mismatches involving 8-oxoguanine (oG.A) or guanine (G.A).

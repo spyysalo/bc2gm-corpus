@@ -1,0 +1,1 @@
+The tro operon is flanked by a Holliday structure DNA helicase homolog (upstream) and two ORFs representing a purine nucleoside phosphorylase homolog and tpp15, a previously characterized gene encoding a membrane lipoprotein (downstream).

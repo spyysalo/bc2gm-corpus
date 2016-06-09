@@ -1,0 +1,1 @@
+Analysis of functional domains of Arix reveals an N-terminal activation domain and a C-terminal repression domain.

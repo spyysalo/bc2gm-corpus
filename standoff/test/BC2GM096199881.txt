@@ -1,0 +1,1 @@
+SYC1 (suppressor of yeast cbf5-1) was identified as a multicopy suppressor of cbf5-1 and subsequently was found to be identical to RRN3, an RNA polymerase I transcription factor.

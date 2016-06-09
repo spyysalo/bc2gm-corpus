@@ -1,0 +1,1 @@
+The scr regulon of pUR400 and the chromosomally encoded scr regulon of Klebsiella pneumoniae KAY2026 are both negatively controlled by a specific repressor (ScrR).

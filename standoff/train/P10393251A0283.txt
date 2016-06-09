@@ -1,0 +1,1 @@
+The PAC clone with an insert size of 120kb was isolated and mapped by restriction analysis.

@@ -1,0 +1,1 @@
+Atheroma appears as a very low signal intensity area on 2-dimensional time-of-flight (TOF) magnetic resonance (MR) images, and its components have various signal intensities on spin-echo (SE) images.

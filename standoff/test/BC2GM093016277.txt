@@ -1,0 +1,1 @@
+Both algorithms have been implemented and applied to data simulated for a scanner with a large axial aperture (30 degrees), and also to data acquired with the ECAT HR and the ECAT HR+ scanners.

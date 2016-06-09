@@ -1,0 +1,1 @@
+We recently found that the p72syk protein tyrosine kinase is physically associated with the TCR/CD3 complex and is rapidly tyrosine phosphorylated and activated by receptor triggering also in T cells lacking p56lck.

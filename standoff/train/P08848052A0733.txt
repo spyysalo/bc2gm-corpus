@@ -1,0 +1,1 @@
+These properties indicate that Gle1 is an RNA-export factor and that Rev may mediate viral RNA export by mimicking the function of Gle1.

@@ -1,0 +1,1 @@
+The class II Escherichia coli alanine tRNA synthetase aminoacylates RNA miniduplexes, which reconstruct the acceptor end of alanine tRNA with the critical G3:U70 base pair.

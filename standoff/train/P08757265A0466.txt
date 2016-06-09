@@ -1,0 +1,1 @@
+Neurons were held at -67 mV to equate voltage-dependent effects.

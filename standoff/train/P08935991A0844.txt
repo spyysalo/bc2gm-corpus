@@ -1,0 +1,1 @@
+The nucleotide sequence alignment between mouse and human CA IV shows 69% identity in the coding region and all of the exon-intron boundaries are conserved, as are the sizes of the introns.

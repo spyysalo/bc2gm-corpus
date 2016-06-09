@@ -1,0 +1,1 @@
+Identification of this region as the E. coli tmk gene was confirmed by functional complementation of a yeast dTMP kinase temperature-sensitive mutant and by in vitro enzyme assay of the thymidylate kinase activity in cell extracts of E. coli by use of tmk-overproducing plasmids.

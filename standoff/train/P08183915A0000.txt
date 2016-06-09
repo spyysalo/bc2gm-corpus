@@ -1,0 +1,1 @@
+The gene encoding the 105-kDa protein (p105) precursor of the p50 subunit of transcription factor NF-kappa B also encodes a p70 I kappa B protein, I kappa B gamma, which is identical to the C-terminal 607 amino acids of p105.

@@ -1,0 +1,1 @@
+Plasmids for the cloning and expression of full-length double-stranded cDNAs under control of the SV40 early or late gene promoter.

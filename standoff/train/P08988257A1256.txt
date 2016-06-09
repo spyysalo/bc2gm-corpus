@@ -1,0 +1,1 @@
+Silencing can be restored by creation of a telomere at 13 kb from the reporter construct, or by insertion of 340 bp of yeast telomeric repeat sequence at this site without chromosomal truncation.

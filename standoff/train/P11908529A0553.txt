@@ -1,0 +1,1 @@
+The results are given as: flux, number of stars per cm3, charge of the ions, comparison with other detectors (plastics, AgCl crystals, LiF), energy loss, hit region in the biological objects.

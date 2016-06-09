@@ -1,0 +1,1 @@
+Development of a provisional information-retrieval descriptor language for "Roentgenology and Medical Radiology" for use in the Medinform system

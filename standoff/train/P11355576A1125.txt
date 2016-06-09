@@ -1,0 +1,1 @@
+The cyclins bind to and activate the CDK, which leads to phosphorylation (and then inhibition) of the tumor suppressor protein, pRb. pRb controls commitment to progress from the G1 to S phase, at least in part by repressing the activity of the E2F transcription factors known to promote cell proliferation.

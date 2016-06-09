@@ -1,0 +1,1 @@
+Clinical accuracy of updated version of the Phadebas RAST test.

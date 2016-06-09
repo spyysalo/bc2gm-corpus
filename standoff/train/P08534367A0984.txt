@@ -1,0 +1,1 @@
+PTP-S3 differs from PTP-S4 in having a deletion of 19 amino acids corresponding to exon E1.

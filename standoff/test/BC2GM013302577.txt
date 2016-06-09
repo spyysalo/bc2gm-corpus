@@ -1,0 +1,1 @@
+The herpesvirus entry mediator C (HveC), previously known as poliovirus receptor-related protein 1 (PRR1), and the herpesvirus Ig-like receptor (HIgR) are the bona fide receptors employed by herpes simplex virus-1 and -2 (HSV-1 and -2) for entry into the human cell lines most frequently used in HSV studies.

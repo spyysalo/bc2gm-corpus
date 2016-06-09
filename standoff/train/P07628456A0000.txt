@@ -1,0 +1,1 @@
+The double-stranded RNA binding domain (dsRBD) is an approximately 65 amino acid motif that is found in a variety of proteins that interact with double-stranded (ds) RNA, such as Escherichia coli RNase III and the dsRNA-dependent kinase, PKR.

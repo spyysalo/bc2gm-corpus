@@ -1,0 +1,1 @@
+Analysis of the inferred 1,859-residue ama-1 product showed considerable identity with the largest subunit of RNAP II from other organisms, including the presence of a zinc finger motif near the amino terminus, and a carboxyl-terminal domain of 42 tandemly reiterated heptamers with the consensus Tyr Ser Pro Thr Ser Pro Ser.

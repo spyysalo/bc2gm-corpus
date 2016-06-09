@@ -1,0 +1,1 @@
+Reduced cell numbers 72 h after insonation were recorded when the cells were insonated at an antinode but not when they were at a node.

@@ -1,0 +1,1 @@
+The mRNAs of these genes contain respectively one (YAP1 uORF) and two (YAP2 uORF1 and uORF2) upstream open reading frames. uORF-mediated modulation of post-termination events on the 5'-untranslated region (5'-UTR) directs differential control not only of translation but also of mRNA decay.

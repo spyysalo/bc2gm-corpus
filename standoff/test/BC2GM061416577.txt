@@ -1,0 +1,1 @@
+Confocal fluorescent microscopy analysis demonstrated that WT, VaI, and VaII all distribute equally to the cell surface while, as expected, a WT mutant lacking the two C-terminal valine residues does not.

@@ -1,0 +1,1 @@
+Our results show that the ORF of hAMPK encodes 552 amino acids (aa) (62.250 kDa) and is highly conserved with rAMPK with identities of 97.3 and 90% at the aa and nt levels, respectively.

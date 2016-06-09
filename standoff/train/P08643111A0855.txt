@@ -1,0 +1,1 @@
+The humanized LL2 (hLL2), lacking light chain variable region glycosylation, exhibited immunoreactivities that were comparable to that of chimeric LL2 (cLL2), which was shown previously to have antigen-binding properties similar to its murine counterpart, suggesting that the VK-appended oligosaccharides found in mLL2 are not necessary for antigen binding.

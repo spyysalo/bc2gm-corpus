@@ -1,0 +1,1 @@
+Data on the line spread function (LSF) were obtained from the image of a 0.2 mm wide slit between tungsten blocks that were positioned at the isocentre in front of a polystyrene phantom.

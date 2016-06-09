@@ -1,0 +1,1 @@
+Expression of the proapoptotic protein Bax under the control of a GAL10 promoter in Saccharomyces cerevisiae resulted in galactose-inducible cell death.

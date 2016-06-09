@@ -1,0 +1,1 @@
+Sequence comparison between the translated ORF and a protein database reveal between 26.5 and 23.4% aa sequence homology to bacterial transmembrane (TM) proteins including those mediating chloramphenicol (Cm) and tetracycline (Tc) resistance and an arabinose-proton symport protein.

@@ -1,0 +1,1 @@
+MSSP-1 produced in E. coli as a fusion protein with GST specifically interacted with single-stranded TCTTAT (plus myc(H-P)21) and ACT-ATT (in minus myc(H-P)21), the consensus of which can be referred to as A/TCTA/TA/TT.

@@ -1,0 +1,1 @@
+The M-phase induction activity of Cdc2-Cdc13 is inhibited by Wee1 tyrosine kinase, which phosphorylates Cdc2 on tyrosine-15.

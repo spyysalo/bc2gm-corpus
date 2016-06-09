@@ -1,0 +1,1 @@
+Genomic libraries were stored as frozen cultures in a 96-well format, each well containing approximately 300-600 colonies (12 plates for small library, four for medium-size library and four for large library).

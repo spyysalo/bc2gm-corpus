@@ -1,0 +1,1 @@
+In transformed E. coli, constitutive CAT expression is maintained when as little as 0.3 kilobase of DNA from the 3' end of the 1.6-kilobase segment is inserted in the correct orientation in front of the CAT gene.

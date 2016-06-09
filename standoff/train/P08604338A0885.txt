@@ -1,0 +1,1 @@
+In electromobility shift assays, EWS-FLI-1 binding to the SRE is detectable in the absence of SRF whereas the binding of FLI-1 is not, suggesting that the interaction with DNA is the step which limits ternary complex formation by FLI-1.

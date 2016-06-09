@@ -1,0 +1,1 @@
+Substituting a Ser for Gly69 or a Glu for Lys 71 in the conserved TGEK tetrapeptide in finger II of TFIIIA resulted in the loss of DNA binding.

@@ -1,0 +1,1 @@
+Here we report the cloning of the hemF gene, encoding the aerobic coproporphyrinogen III oxidase from Escherichia coli, by functional complementation of a Saccharomyces cerevisiae HEM13 mutant.

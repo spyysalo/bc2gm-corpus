@@ -1,0 +1,1 @@
+Residues removed from transcripts by splicing were identified.

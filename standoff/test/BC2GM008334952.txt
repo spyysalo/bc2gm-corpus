@@ -1,0 +1,1 @@
+Transfection of both Calu-6 and JEG-3 cells with a PKA expression vector resulted in a 10-fold induction of human renin transcriptional activity in constructs containing the native or consensus CRE and 5-fold activation in a construct containing a nonfunctional CRE.

@@ -1,0 +1,1 @@
+Its hydropathy profile predicts seven transmembrane spans and a hydrophilic amino terminus of approximately 100 residues, and it suggests the presence of an amphiphilic alpha-helix (L-61 to F-97) in close proximity to the first strongly hydrophobic segment of ProW.

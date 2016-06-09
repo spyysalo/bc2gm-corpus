@@ -1,0 +1,1 @@
+Sp1 can activate transcription through immunoglobulin kappa-chain enhancer or P-selectin promoter NF-kappaB sites. p50 homodimers replace Sp1 from the P-selectin promoter by binding site competition and thereby either inhibit basal Sp1-driven expression or, in concert with Bcl-3, stimulate expression.

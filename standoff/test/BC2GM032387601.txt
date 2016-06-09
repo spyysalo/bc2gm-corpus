@@ -1,0 +1,1 @@
+Based on our sequence data, ORF2 from most isolates excluding G1 encode truncated 49 aa (pORF2a) because of an in-frame stop codon, although ORF2s from most G1 isolates encode 202 aa (pORF2ab).

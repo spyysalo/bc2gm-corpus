@@ -1,0 +1,1 @@
+The predicted L mRNA was 6398 nucleotides long and contained a single open reading frame corresponding to an L protein encompassing 2109 amino acids with a MW of 241,546.

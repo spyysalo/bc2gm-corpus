@@ -1,0 +1,1 @@
+Two XPG regions with putative NLS [amino acid (AA) coordinates: NLS-B (AA 1057-1074) and NLS-C (AA 1171-1185)] were each shown to independently localize the beta-gal extensively (> 80%) to the nucleus of HeLa cells.

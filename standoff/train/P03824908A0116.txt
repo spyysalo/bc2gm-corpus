@@ -1,0 +1,1 @@
+The M reading frame differed from the reported sequence by a single nucleotide corresponding to a conservative lysine to arginine amino acid substitution near the carboxy-terminus conserved among the M proteins of paramyxoviruses.

@@ -1,0 +1,1 @@
+Iodine-123 was satisfactorily imaged only with the MEC and pinhole collimators, which in turn yielded MTF values comparable to those measured for 99mTc.

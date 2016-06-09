@@ -1,0 +1,1 @@
+The RNA transcripts structurally equivalent to I(2) sgRNAs of TMV U1 and crTMV, but containing a hairpin structure (H) immediately upstream of IRES(MP,75) (HIRES(MP), (75)(CR)-MP-CP-3'UTR; HIRES(MP,75)(U1)-MP-CP-3'UTR), were able to express the MP gene in vitro.

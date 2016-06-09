@@ -1,0 +1,1 @@
+Catheter transit slows the response to a step increase in concentration by about 0.13 s (from 10 per cent-90 per cent) and prolongs the transit time through the catheter for a volatile anesthetic by about 0.04 s more than N2.

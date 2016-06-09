@@ -1,0 +1,1 @@
+To test whether or not SOCS-3 also binds to the IGFIR, we cloned human SOCS-3 by reverse transcription-polymerase chain reaction from human skeletal muscle mRNA.

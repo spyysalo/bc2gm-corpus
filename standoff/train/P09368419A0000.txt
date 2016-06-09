@@ -1,0 +1,1 @@
+In Arabidopsis, the induction of a dehydration-responsive gene, rd22, is mediated by abscisic acid (ABA) and requires protein biosynthesis for ABA-dependent gene expression.

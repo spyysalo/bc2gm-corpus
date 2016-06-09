@@ -1,0 +1,1 @@
+ARPIA has been implemented by using a relational DBMS, very cheap and highly diffused on personal computers.

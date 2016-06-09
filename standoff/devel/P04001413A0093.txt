@@ -1,0 +1,1 @@
+For this purpose, a simple respiration-control device has been developed that enables the patient to monitor breath-holding during successive scans.

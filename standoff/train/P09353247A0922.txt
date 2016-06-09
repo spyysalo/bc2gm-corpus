@@ -1,0 +1,1 @@
+Furthermore, the over-replication phenotype produced by this mutant p65cdc18 is resistant to increased mitotic cyclin/CDK activity, a known inhibitor of over-replication.

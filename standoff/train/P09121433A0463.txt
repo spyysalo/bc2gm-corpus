@@ -1,0 +1,1 @@
+We show that Rlm1 and Smp1 have MEF2-related DNA-binding specificities: Rlm1 binds with the same specificity as MEF2, CTA(T/A)4TAG, while SMP1 binds a more extended consensus sequence, ACTACTA(T/A)4TAG.

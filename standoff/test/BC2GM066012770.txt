@@ -1,0 +1,1 @@
+To further investigate the role of PKR in transcriptional signaling, we expressed the wild type human PKR and a catalytically inactive dominant negative PKR mutant in the murine pre-B lymphoma 70Z/3 cells.

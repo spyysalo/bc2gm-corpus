@@ -1,0 +1,1 @@
+In this study, we cloned the full-length cDNA of mouse PAX4 by RACE (rapid amplification of cDNA ends) using RNA from MIN6 cells, a mouse insulinoma cell line.

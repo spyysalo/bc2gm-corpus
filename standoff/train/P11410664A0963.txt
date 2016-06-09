@@ -1,0 +1,1 @@
+In this report this technique was applied to human breast carcinoma MDA-MB231 cells overexpressing human MPG in order to assess whether up-regulation of the initial step in BER alters the activity of selected other BER (hOGG1 and APE/ref-1) or direct reversal (MGMT) repair activities.

@@ -1,0 +1,1 @@
+On the other hand, forced overexpression of the wild type, but not the kinase-inactivated mutant of nm23H1, converted the GDP-bound forms of Rac1, Cdc42, and RhoA to their GTP-bound forms in vitro by its nucleoside diphosphate kinase activity, but nm23H1 alone apparently did not produce the GTP-bound form of these GTPases in vivo.

@@ -1,0 +1,1 @@
+Flicker thresholds were measured from 1 to 40 Hz with a vertical-line target used for the asynchrony thresholds.

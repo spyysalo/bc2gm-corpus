@@ -1,0 +1,1 @@
+A selective transcriptional induction system for mammalian cells based on Gal4-estrogen receptor fusion proteins.

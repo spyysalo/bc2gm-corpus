@@ -1,0 +1,1 @@
+Experiments with epitope-tagged proteins show that UEV1A is a nuclear protein, whereas both Kua and Kua-UEV localize to cytoplasmic structures, indicating that the Kua domain determines the cytoplasmic localization of Kua-UEV.

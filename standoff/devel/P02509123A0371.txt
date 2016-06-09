@@ -1,0 +1,1 @@
+In all sessions under IFN, the latency of the P100 component of the VEP was shortened as compared to baseline conditions.

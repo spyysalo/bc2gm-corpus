@@ -1,0 +1,1 @@
+When yeast cells reach a critical size in late G1 they simultaneously start budding, initiate DNA synthesis, and activate transcription of a set of genes that includes G1 cyclins CLN1, CLN2, and many DNA synthesis genes.

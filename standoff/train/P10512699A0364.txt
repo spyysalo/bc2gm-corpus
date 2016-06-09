@@ -1,0 +1,1 @@
+This machinery involves a secondary structure, SECIS element, in the selenoprotein-encoding mRNA, directing selenocysteine insertion at the position of an opal (UGA) codon, normally conferring termination of translation.

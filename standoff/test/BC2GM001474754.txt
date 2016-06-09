@@ -1,0 +1,1 @@
+We have earlier proposed that CG rich sequences resembling CpG islands, which are associated with many imprinted genes and often subject to parental-specific methylation, could act as a common imprinting element.

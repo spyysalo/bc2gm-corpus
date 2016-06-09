@@ -1,0 +1,1 @@
+This computation is performed by a parallel network of locally connected neuron-like elements.

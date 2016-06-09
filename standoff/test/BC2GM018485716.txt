@@ -1,0 +1,1 @@
+When using the high-impedance testing device, the post shock rhythm was initially displayed as 'no signal' (Hewlett Packard XL) or 'asystole' (Physio-Control LIFEPAK 9).

@@ -1,0 +1,1 @@
+We recently described the isolation and characterization of nontoxic PAP mutants, NT123-2, which has a point mutation (E176V) in the active site that abolishes enzymatic activity, and NT124-3, which has a nonsense mutation that results in deletion of the C-terminal 25 aa (W237Stop).

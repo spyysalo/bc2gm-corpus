@@ -1,0 +1,1 @@
+Surprisingly, apo-iso-1-cytochrome c is absent in cyc3- strains, although apo-iso-2-cytochrome c is present at approximately the same level at which holo-iso-2-cytochrome c is found in CYC3+ strains.

@@ -1,0 +1,1 @@
+NGF also induced a synthetic promoter with repeated Sp1 sites linked to a core promoter, and a plasmid regulated by a chimeric transactivator in which the Gal4 DNA binding domain is fused to the Sp1 transactivation domain, indicating that this transactivation domain is regulated by NGF.

@@ -1,0 +1,1 @@
+These include NPF repeats, a leucine heptad repeat enriched in charged residues, and a proline-rich SH3-like and/or WW domain-binding site in the N-terminal domain, which is followed by a membrane core containing four putative transmembrane spans and three amphiphilic segments that are the most highly conserved structural elements.

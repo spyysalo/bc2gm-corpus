@@ -1,0 +1,1 @@
+We have cloned and sequenced COX12, the nuclear gene for subunit VIb of Saccharomyces cerevisiae cytochrome c oxidase.

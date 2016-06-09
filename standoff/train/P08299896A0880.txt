@@ -1,0 +1,1 @@
+Regression line slopes of IBDQ scores were significantly different in patients who deteriorated from those who remained stable ([b] < 0.15; P < 0.0001).

@@ -1,0 +1,1 @@
+In addition, the gcd1-101 mutation suppressed the low translational efficiency of GCN4-lacZ mRNA observed in gcn2- and gcn3- cells.

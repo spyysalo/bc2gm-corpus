@@ -1,0 +1,1 @@
+Although the Src tyrosine kinase induces constitutive Stat3 phosphorylation on tyrosine, activation of Stat3-mediated gene regulation requires both tyrosine and serine phosphorylation of Stat3.

@@ -1,0 +1,1 @@
+Furthermore, we detect hCoch-5B2 on three overlapping YACs, two of which also contain one of the markers linked to DFNA9. mCoch-5B2 was genetically mapped in the mouse to chromosome 12, in a region of homologous synteny with human 14q11.2-q13, which contains the asp1 (audiogenic seizure prone) locus in the mouse.

@@ -1,0 +1,1 @@
+Measures of sedation, BIS, deltaBIS (absolute change of BIS after a painful stimulus), memory, and drug concentration were obtained at each target drug concentration.

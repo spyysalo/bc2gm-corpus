@@ -1,0 +1,1 @@
+We used expression cloning to identify interleukin-6 (IL-6) as one factor that suppressed growth of a pre-B-cell variant line, 1A9-M.

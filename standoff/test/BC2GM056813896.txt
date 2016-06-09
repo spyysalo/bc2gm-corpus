@@ -1,0 +1,1 @@
+NER was also measured by a plasmid host cell re-activation assay using a vector containing a luciferase reporter gene.

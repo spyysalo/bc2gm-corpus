@@ -1,0 +1,1 @@
+Only the native structure of phosphorylated ERK was recognized by VHR and was inactivated with a second-order rate constant of 40,000 M-1 s-1.

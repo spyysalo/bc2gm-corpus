@@ -1,0 +1,1 @@
+The nucleotide sequences at the 5' and 3' ends of these introns are characteristic of spliced transcripts from eukaryotic protein-encoding genes, with one significant difference; i.e., the 5' end of the LAT intron is GC instead of the consensus sequence GT.

@@ -1,0 +1,1 @@
+Csk (C-terminal Src kinase) is a protein tyrosine kinase that phosphorylates Src family member C-terminal tails, resulting in downregulation of Src family members.

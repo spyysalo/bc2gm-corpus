@@ -1,0 +1,1 @@
+In the budding yeast, Saccharomyces cerevisiae, replicators can function outside the chromosome as autonomously replicating sequence (ARS) elements; however, within chromosome III, certain ARSs near the transcriptionally silent HML locus show no replication origin activity.

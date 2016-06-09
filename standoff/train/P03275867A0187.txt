@@ -1,0 +1,1 @@
+GRFI bound to sequences at the negative regulatory elements (silencers) of the silent mating type loci HML E and HMR E and to the upstream activating sequence (UAS) required for transcription of the MAT alpha genes.

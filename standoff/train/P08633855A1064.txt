@@ -1,0 +1,1 @@
+The lacS gene was cloned in an E. coli-Streptococcus shuttle vector and was expressed both in a lacS deletion derivative of S. thermophilus and in a pNZ63-cured strain, L. lactis NZ6091.

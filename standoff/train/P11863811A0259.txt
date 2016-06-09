@@ -1,0 +1,1 @@
+We find that the measured Nusselt number decreased about 20% over the range of Pr spanned in the experiment.

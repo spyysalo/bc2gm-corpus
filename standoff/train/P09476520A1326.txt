@@ -1,0 +1,1 @@
+Simple models of bimolecular interaction did not fully account for the kinetic profiles obtained with the parental antibodies and the hybrids, and this complexity suggested the existence of a conformational heterogeneity in these molecules.

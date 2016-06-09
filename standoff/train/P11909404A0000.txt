@@ -1,0 +1,1 @@
+Nodal domains are regions where a function has definite sign.

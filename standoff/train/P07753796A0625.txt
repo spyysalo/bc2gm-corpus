@@ -1,0 +1,1 @@
+The predicted amino acid sequence contains regions identical to the sequences of peptides derived from bovine liver eIF-2B alpha subunit.

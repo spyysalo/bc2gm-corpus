@@ -1,0 +1,1 @@
+Deletion of the proximal octanucleotide motif from the plasmid containing the -461 fragment of the LPL promoter, resulted in a 79 and 76% decrease in the level of expression in transfected 3T3-L1 adipocytes and HepG2 hepatocytes, respectively.

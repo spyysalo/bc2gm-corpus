@@ -1,0 +1,1 @@
+The S229A variant can better flip modified bases but does not tightly lock the flipped base into the adenine-binding pocket, suggesting that Ser229 could form a contact to the flipped adenine.

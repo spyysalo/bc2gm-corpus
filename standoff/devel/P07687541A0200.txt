@@ -1,0 +1,1 @@
+We here demonstrate that a temperature-sensitive fission yeast mutant which has a mutation in a homologous gene, and two of three additional (mtr1/prp20/srm1) mutants accumulate nuclear poly(A)+ RNA at 37 degrees C.

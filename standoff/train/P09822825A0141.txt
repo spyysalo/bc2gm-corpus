@@ -1,0 +1,1 @@
+In this paper, we show that, like BAP2, the expression of the BAP3 gene in S. cerevisiae is induced by the addition of branched-chain amino acids to the medium.

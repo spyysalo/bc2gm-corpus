@@ -1,0 +1,1 @@
+Codon optimization for high-level expression of human erythropoietin (EPO) in mammalian cells.

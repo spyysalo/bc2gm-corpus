@@ -1,0 +1,1 @@
+The single most important element, by linker-scanning analysis, is a 10-bp region that contains a CCAAT motif.

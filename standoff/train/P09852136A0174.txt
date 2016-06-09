@@ -1,0 +1,1 @@
+We have introduced a mutation (Ser36 --> Asn) into this domain of p190 that decreased its ability to bind guanine nucleotide when expressed as a hemagglutinin (HA)-tagged protein in COS cells.

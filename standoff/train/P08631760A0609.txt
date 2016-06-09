@@ -1,0 +1,1 @@
+This interaction is mediated by the SH2 domain of Crk and can be inhibited with a phosphopeptide containing the Crk-SH2 binding motif.

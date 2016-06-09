@@ -1,0 +1,1 @@
+The Rep78 protein of adeno-associated virus (AAV) contains amino acid sequence motifs common to rolling-circle replication (RCR) initiator proteins.

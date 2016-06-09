@@ -1,0 +1,1 @@
+Srb10 is a physiological regulator of Gcn4 stability because both phosphorylation and turnover of Gcn4 are diminished in srb10 mutants.

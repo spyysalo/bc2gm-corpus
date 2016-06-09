@@ -1,0 +1,1 @@
+The DNase I footprint extended 5' in the silencer region to include an inverted repeat of a six-nucleotide motif (epsilon -267 to -278 bp) which shares 5 of 6 bases with the GATA-1 consensus sequence.

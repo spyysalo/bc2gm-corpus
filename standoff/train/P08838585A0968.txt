@@ -1,0 +1,1 @@
+The final predicted structure has an overall backbone deviation of 0.7 A from that of ras-p21.

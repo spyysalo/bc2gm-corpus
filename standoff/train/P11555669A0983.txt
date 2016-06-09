@@ -1,0 +1,1 @@
+A randomized mix of 180 sections (10 samples x 3 tissues x 3 stains x 2) gave 90 matched pairs.

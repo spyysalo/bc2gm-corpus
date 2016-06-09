@@ -1,0 +1,1 @@
+The function of the C-terminal tail in telomere maintenance is not mediated through the RAP1 interacting factor RIF1: rap1 alleles defective in both the C-terminal tail and RIF1 interaction domains have additive effects on telomere length.

@@ -1,0 +1,1 @@
+This slope tended to be higher (approximately 1.6 dB/dB) for L1 = L2 greater than 80 dB.

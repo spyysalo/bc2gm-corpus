@@ -1,0 +1,1 @@
+We confirmed the interaction between TLS and p65 by the pull-down assay in vitro and by a coimmunoprecipitation experiment followed by Western blot of the cultured cell in vivo.

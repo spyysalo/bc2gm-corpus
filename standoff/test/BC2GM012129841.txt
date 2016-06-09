@@ -1,0 +1,1 @@
+The introduction of FWD1 into cells significantly promotes ubiquitination and degradation of IkappaBalpha in concert with IkappaB kinases, resulting in nuclear translocation of NF-kappaB.

@@ -1,0 +1,1 @@
+In an attempt to understand Wee1 regulation during cell cycle, yeast two-hybrid screening was used to identify Wee1-binding protein(s).

@@ -1,0 +1,1 @@
+Based on a type I error of 0.05, our study had a power greater than or equal to 75% to detect group differences in treatment effect of greater than or equal to 15% to 20%.

@@ -1,0 +1,1 @@
+Consistent with previous reports, addition of a myristoylation signal to mSos1 (MyrSos1) rendered it transforming for NIH 3T3 cells and deletion of the mSos C terminus (MyrSos1-deltaC) did not interfere with this activity.

@@ -1,0 +1,1 @@
+An N-terminal arm from each subunit wraps around the dinucleotide-binding domain of an adjacent subunit, covering the adenine ring of NADP.

@@ -1,0 +1,1 @@
+Two mammalian enzymes, the haem-controlled repressor (HCR) and the double-stranded RNA-activated inhibitor (dsI), phosphorylate Ser-51 of the alpha subunit, thereby inhibiting the exchange of bound nucleotides on, and thus the recycling of, eIF-2.

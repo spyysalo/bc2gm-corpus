@@ -1,0 +1,1 @@
+Oligonucleotide competitors were used to evaluate the accessibility of the TATA-binding site in TIF-IB, TFIID, and TFIIIB.

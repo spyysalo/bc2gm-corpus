@@ -1,0 +1,1 @@
+In an effort to isolate genes with down-regulated expression at the mRNA level during oncogenic transformation of human mammary epithelial cells (MECs), we performed subtractive hybridization between normal MEC strain 76N and its radiation-transformed tumorigenic derivative 76R-30.

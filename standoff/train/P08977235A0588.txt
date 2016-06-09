@@ -1,0 +1,1 @@
+Mutants lacking any tyrosine residues in the cytoplasmic domain maintain their ability to activate STAT5 and STAT1 but cannot activate STAT3, implying that STAT5 and STAT1 activation does not require receptor tyrosine phosphorylation.

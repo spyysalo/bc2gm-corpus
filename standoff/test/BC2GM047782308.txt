@@ -1,0 +1,1 @@
+The biological activity of these mutants was tested by determining their capacity to (i) reconstitute RNA polymerase activity in vivo by cotransfection with proteins NP, PB1, and PA and a virion-like RNA encoding the cat gene into vaccinia virus T7-infected COS-1 cells and (ii) complete with the wild-type PB2 activity.

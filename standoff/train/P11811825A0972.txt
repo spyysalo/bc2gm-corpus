@@ -1,0 +1,1 @@
+The results of our ten-fold cross-validation experiments show that, on the average, the system increases the specificity from 0.19 (0.35) to 0.69 (0.74) at a sensitivity level of 1.0 (0.95).

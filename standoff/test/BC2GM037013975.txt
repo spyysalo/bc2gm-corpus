@@ -1,0 +1,1 @@
+The human sequence contains the element TGACTCT that also is found in a murine ras-responsive enhancer.

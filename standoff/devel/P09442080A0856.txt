@@ -1,0 +1,1 @@
+A reciprocal binding assay using IM-9 cells as a source of SHP-1 and SHP-2 revealed specific association of SHP-2 (but not SHP-1) with a glutathione S-transferase fusion incorporating GHR cytoplasmic domain residues 485-620, but only if the fusion was first rendered tyrosine-phosphorylated.

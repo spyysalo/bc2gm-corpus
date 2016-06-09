@@ -1,0 +1,1 @@
+These results indicate that in addition to Grb2-mediated activation of Ras, PLC-gamma1-mediated DAG production is required for EGF- and PDGF-induced S-phase entry and gene expression, possibly through activation of PKC.

@@ -1,0 +1,1 @@
+The BFA System reads a text file with flows, measured with fluorescent microsphere technique, and constructs the lung anatomy with volumetric pixels showing the flows with a color schema.

@@ -1,0 +1,1 @@
+Escherichia coli JRG582 is an ampD ampE deletion derivative of strain HfrH and accordingly it is derepressed for expression of the cloned inducible beta-lactamase gene of Citrobacter freundii, carried on plasmid pNU305.

@@ -1,0 +1,1 @@
+One unit encodes traA, traF, and traB, while the second encodes traC, traD, and traG.

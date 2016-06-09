@@ -1,0 +1,1 @@
+The 65-bp sequence contains the octameric cAMP-responsive enhancer (CRE) TGACGTCA (nucleotides -48 to -41).

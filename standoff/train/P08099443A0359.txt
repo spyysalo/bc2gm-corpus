@@ -1,0 +1,1 @@
+We show that HRI and dsRNA-PK phosphorylate yeast eIF-2 alpha in vitro and in vivo and functionally substitute for GCN2 protein to stimulate GCN4 translation in yeast.

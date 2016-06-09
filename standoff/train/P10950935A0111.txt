@@ -1,0 +1,1 @@
+To facilitate manipulation of large genomic sequences, we developed a method of converting Escherichia coli P1 artificial chromosomes (PACs) into yeast artificial chromosomes (YACs).

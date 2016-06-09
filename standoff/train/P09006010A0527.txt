@@ -1,0 +1,1 @@
+One linker-peptide insertion in the RsaA C terminus (amino acid 784) had no effect on S-layer biogenesis, while another (amino acid 907) disrupted secretion of the protein, suggesting that RsaA possesses a secretion signal lying C terminal to amino acid 784, near or including amino acid 907.

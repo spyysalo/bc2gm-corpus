@@ -1,0 +1,1 @@
+Quantitative analysis of plasmid loss rates in cdc28-1N strains carrying plasmids with multiple replication origins suggests that a defect in initiating DNA replication probably causes this plasmid loss phenotype.

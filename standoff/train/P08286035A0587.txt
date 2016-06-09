@@ -1,0 +1,1 @@
+Employing this sequence information from c11/1, the c11/1-specific cDNA was generated from poly(A)+RNA of bovine PMNLs by reverse transcription and a combination of polymerase chain reaction (PCR) methods.

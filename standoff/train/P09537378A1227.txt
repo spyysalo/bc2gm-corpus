@@ -1,0 +1,1 @@
+Furthermore, the deletion of bcp from the chromosome had no effect on gcv-lacZ expression.

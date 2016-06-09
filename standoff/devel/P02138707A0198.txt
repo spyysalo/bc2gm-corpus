@@ -1,0 +1,1 @@
+We have previously identified, by screening a lambda gt11 expression library, murine protein mXBP, which binds to a sequence which overlaps the 3' end of the murine class II major histocompatibility complex A alpha gene X box, a conserved transcription element found upstream of all class II genes.

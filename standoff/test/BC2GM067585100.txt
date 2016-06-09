@@ -1,0 +1,1 @@
+K562 erythroleukemia cells stably transfected with constructs containing the human Agamma-globin promoter linked to an enhanced green fluorescent protein (EGFP) reporter, with or without HS2, were analyzed for EGFP expression by flow cytometry.

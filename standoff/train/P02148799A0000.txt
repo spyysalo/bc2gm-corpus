@@ -1,0 +1,1 @@
+The nmr gene is the major negative regulatory gene in the nitrogen control circuit of Neurospora crassa, which, together with positive regulatory genes, governs the expression of multiple unlinked structural genes of the circuit.

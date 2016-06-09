@@ -1,0 +1,1 @@
+It has been previously shown that genes transcribed by RNA polymerase II (RNAP II) are subject to position effect variegation when located near yeast telomeres.

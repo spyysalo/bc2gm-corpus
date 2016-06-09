@@ -1,0 +1,1 @@
+Productive growth of phage P22 in wild-type Salmonella typhimurium correlates with the presence of Abc2, but is independent of the absolute level of ATP-dependent nuclease activity, suggesting a qualitative change in the nature of Abc2-modified RecBCD nuclease activity relative to the native enzyme.

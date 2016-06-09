@@ -1,0 +1,1 @@
+Since the stability of TF1 resides in its primary structure, we cloned a gene coding for TF1, and the primary structure of the beta subunit was deduced from the nucleotide sequence of the gene to compare the sequence with those of beta's of three major categories of F1's; prokaryotic membranes, chloroplasts, and mitochondria.

@@ -1,0 +1,1 @@
+The orthologs of the Y(1) and Y(2) subtypes display high amino acid sequence identities between pig, human, and mouse (92%-94%), whereas the Y(4), Y(5), and y(6) subtypes display lower identities (76%-87%).

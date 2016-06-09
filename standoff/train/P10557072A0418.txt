@@ -1,0 +1,1 @@
+ULKs and UNC-51 share a typical domain structure of an amino-terminal kinase domain, a central proline/serine rich (PS) domain, and a carboxy-terminal (C) domain.

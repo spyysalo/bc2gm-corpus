@@ -1,0 +1,1 @@
+RESULTS: The target dose was comparable in the 3D-CRT and IMRT plans, although improvements were seen when seven and nine IMRT fields were used.

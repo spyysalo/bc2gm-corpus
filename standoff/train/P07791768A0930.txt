@@ -1,0 +1,1 @@
+The effect of these cell cycle regulators is not specific to the rap1s or hmr delta A mutation, since swi6, swi4, and clb5 mutations also suppress mutations in SIR1, another gene implicated in the establishment of silencing.

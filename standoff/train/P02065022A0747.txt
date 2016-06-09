@@ -1,0 +1,1 @@
+Very small deletions within the conserved region completely abolished transforming activity of dbl, while extensive deletion outside of this region had no effect.

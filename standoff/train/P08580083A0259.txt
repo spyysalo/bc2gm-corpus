@@ -1,0 +1,1 @@
+To elucidate the functional significance of Fyn in the expression of viral promoters, we transfected a Fyn-expression vector together with a reporter plasmid containing the chloramphenicol acetyltransferase gene driven by HIV LTR into a human T cell line, Jurkat.

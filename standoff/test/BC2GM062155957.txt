@@ -1,0 +1,1 @@
+Our results show that a combination of Pfu exo(-) at the primer extension step and Taq at the PCR amplification step is ideal for in vivo DNA analysis and DNA damage mapping using LMPCR.

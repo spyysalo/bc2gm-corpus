@@ -1,0 +1,1 @@
+PRL-1 is able to dephosphorylate phosphotyrosine substrates, and mutation of the active-site cysteine residue abolishes this activity.

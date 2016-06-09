@@ -1,0 +1,1 @@
+As in IncP alpha plasmids, these operons are transcribed from a bidirectional promoter region consisting of trfAp for the trfA operon and trbAp and trbBp for the trb operon.

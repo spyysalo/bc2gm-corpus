@@ -1,0 +1,11 @@
+T1	GENE 78 93	HDL cholesterol
+T2	GENE 95 110	LDL cholesterol
+T3	GENE 112 118	apo A1
+T4	GENE 120 125	Lp(a)
+T5	GENE 127 132	HbA1C
+T6	GENE 143 153	fibrinogen
+T7	GENE 155 166	factor VIII
+T8	GENE 168 184	antithrombin III
+T9	GENE 186 217	plasminogen activator inhibitor
+T10	GENE 219 247	tissue plasminogen activator
+T11	GENE 252 273	von Willebrand factor

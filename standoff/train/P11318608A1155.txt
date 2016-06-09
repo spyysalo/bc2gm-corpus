@@ -1,0 +1,1 @@
+Transfection of EGFP-tagged DENTT NLS deletion constructs lacking the bipartite NLS-1 were excluded from the nucleolus.

@@ -1,0 +1,1 @@
+Hrs has a FYVE double zinc finger domain, which specifically binds phosphatidylinositol(3)-phosphate and is conserved in several proteins involved in vesicular traffic.

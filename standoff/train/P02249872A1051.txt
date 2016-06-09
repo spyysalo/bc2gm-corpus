@@ -1,0 +1,1 @@
+This interaction occurs over a wide range of both parameters; for charge density from at least 10 to 800 microC/cm2 and, for charge per phase, from at least 0.05 to 5.0 microC per phase.

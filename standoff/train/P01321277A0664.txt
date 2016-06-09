@@ -1,0 +1,1 @@
+ROS x SRC (R) contains a 16-amino-acid deletion that includes the 3' half of the transmembrane domain of ros.

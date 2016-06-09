@@ -1,0 +1,1 @@
+We have explored the mechanism of action of the fibronectin splicing enhancer and found that the SE element is required for efficient assembly of early splicing complexes, allowing a more efficient interaction of the U2 snRNP with branch site sequences.

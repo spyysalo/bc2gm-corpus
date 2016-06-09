@@ -1,0 +1,1 @@
+In strains lacking tup11 and tup12, the atf1-pcr1 transcriptional activator continues to play a central role in fbp1-lacZ expression; however, spc1 MAPK phosphorylation of atf1 is no longer essential for its activation.

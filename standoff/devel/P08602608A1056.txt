@@ -1,0 +1,1 @@
+However, for the evaluable cases, the performances of the CD3500 and the STKS were broadly similar and generally correlated well with the manual reference procedure.

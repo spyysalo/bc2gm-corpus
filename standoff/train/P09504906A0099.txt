@@ -1,0 +1,1 @@
+Analysis of intragenic revertants shows that this function depends on the amino acid preceding the first cysteine residue of the DNA-binding domain of Hap1p.

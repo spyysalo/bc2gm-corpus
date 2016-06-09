@@ -1,0 +1,1 @@
+This article reports the design and development of an ECG simulator intended for use in the testing, calibration and maintenance of electrocardiographic equipment.

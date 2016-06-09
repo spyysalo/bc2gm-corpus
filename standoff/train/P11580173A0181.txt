@@ -1,0 +1,1 @@
+Plane wave geometry is impractical for clinical use but the results of this work encouraged us to further develop the P3 approximation for a spherical geometry, described in this paper.

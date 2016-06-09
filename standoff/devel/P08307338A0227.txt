@@ -1,0 +1,1 @@
+Mutations in the nuclear gene CBP1 of Saccharomyces cerevisiae result in degradation of mitochondrially encoded cytochrome b (cob) RNA; thus, the cells are unable to respire.

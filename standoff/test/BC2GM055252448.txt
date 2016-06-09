@@ -1,0 +1,1 @@
+To examine the effect of the cAMP signal transduction pathway on transcription of the gene encoding the catalytic subunit of glucose-6-phosphatase (G6Pase), G6Pase-chloramphenicol acetyltransferase (CAT) fusion genes were transiently transfected into either the liver-derived HepG2 or kidney-derived LLC-PK cell line.

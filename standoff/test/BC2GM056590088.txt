@@ -1,0 +1,1 @@
+Cotransfection with C/EBPbeta and GATA-1 expression vectors produced a 5-fold increase compared with cotransfection with the C/EBPbeta or GATA-1 expression vectors individually.

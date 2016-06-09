@@ -1,0 +1,1 @@
+We show that GCNF binds to one of the two DRO sequences in the Prm1 promoter, and to the DRO sequence in the Prm2 promoter in a specific manner.

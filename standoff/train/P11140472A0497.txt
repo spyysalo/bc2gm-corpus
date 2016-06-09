@@ -1,0 +1,1 @@
+We compare the results of this algorithm with the results obtained with two other algorithms, the optimal algorithm for monochannel nonoverlapping noise and the optimal algorithm for multichannel additive noise, and we show that in both cases improvement can be obtained.

@@ -1,0 +1,1 @@
+These aa residues correspond to codons 59 and 108 in the P. falciparum DHFR active site in which similar aa substitutions (Cys Arg-59 and Ser Asn-108) are associated with pyrimethamine resistance.

@@ -1,0 +1,1 @@
+In the final model, grade (p = 0.0002), peritoneal cytologic results (p = 0.0002), progesterone receptor status (p = 0.004), and age as a continuous variable (p = 0.008) were most closely associated with disease-free survival.

@@ -1,0 +1,1 @@
+Analysis for DNA-protein interactions by in vitro DNase-I footprinting identified a broad region of protection extending from nt -12 to +38.

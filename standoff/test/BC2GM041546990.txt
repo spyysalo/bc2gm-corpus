@@ -1,0 +1,1 @@
+In our initial studies, we treated MCF-7 cells with paclitaxel, which results in the arrest of cells in G1 with 4n DNA content (pseudo G1).

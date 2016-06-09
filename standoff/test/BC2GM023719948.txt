@@ -1,0 +1,1 @@
+These sequences were further tested for the presence of an enhancer element, by their ability to activate a fusion reporter gene consisting of the CAT gene linked to the gamma-globin gene promoter, in erythroid (K562) and non-erythroid (HeLa) cells.

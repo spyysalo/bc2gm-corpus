@@ -1,0 +1,1 @@
+The AP-1 recruited by ARF1.GTP is released from the Golgi membrane by treatment with 1 M Tris-HCl (pH 7) or upon reincubation at 37 degreesC, whereas AP-1 recruited with GTPgammaS or by a constitutively active point mutant, ARF1(Q71L), remains membrane bound after either treatment.

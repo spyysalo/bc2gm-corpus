@@ -1,0 +1,1 @@
+A prerequisite for the synthesis of sialylated glycoconjugates is the activated sugar-nucleotide cytidine 5'-monophosphate N-acetylneuraminic acid (CMP-Neu5Ac), which provides a substrate for Golgi sialyltransferases.

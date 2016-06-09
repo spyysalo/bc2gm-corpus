@@ -1,0 +1,1 @@
+A single clone, which was conserved and had near-perfect homology to eight human/rodent expressed sequence tags, was used as template for 5' and 3' rapid amplification of cDNA ends and SPICE (system for polymerase chain reaction amplification of cDNA ends) reactions to obtain the 3.6-kb cDNA, LGL2 (Genbank, AF 110195) encoding a deduced polypeptide (lgl2) of 963 amino acids.

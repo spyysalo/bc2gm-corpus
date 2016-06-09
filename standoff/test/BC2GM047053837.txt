@@ -1,0 +1,1 @@
+The library will thus be useful for the selection of cosmid clones which carry CDC genes from yeast by complementing first, with the vectorial yeast gene URA1, the pyrimidine auxotrophy of most cdc-strains and then, with the respective CDC wild-type genes, of the temperature-sensitive mutant alleles.

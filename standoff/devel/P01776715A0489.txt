@@ -1,0 +1,1 @@
+If delay has occurred between centrifugation and the measurement, causing substantial loss of CO2, equilibration of the sample with a gas mixture corresponding to PCO2 = 5.3 kPa prior to the measurement is recommended.

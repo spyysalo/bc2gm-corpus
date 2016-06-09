@@ -1,0 +1,1 @@
+Mutations abolishing MalK function not only result in inability to transport maltose but also cause constitutive expression of the maltose regulon.

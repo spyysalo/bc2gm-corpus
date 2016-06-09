@@ -1,0 +1,1 @@
+In such conditions, the following kinetic reactions have been studied:  N2(A) + N2(A) --> N2(C,B,V') + N2(X), N2(A) + N2(X,V>5) --> N2(X) + N2(B,V') in pure N2 post-discharges and N2(A) + CH4 --> products, C + N + M2 --> CN(B,V') + M2, N2(X,V>4) + CN --> N2(X) + CN(B,A,V'), in N2-1% CH4 post-discharges.

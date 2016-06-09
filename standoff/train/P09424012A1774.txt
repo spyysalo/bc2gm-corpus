@@ -1,0 +1,1 @@
+Three large field placement errors (two patients with 11.5 and 16.0 mm distances of the planned versus simulated isocenter, respectively and one patient with a 7 degree rotational error) were detected and, as with the smaller errors, were immediately corrected.

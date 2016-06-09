@@ -1,0 +1,1 @@
+METHODS: We studied the clinical benefit of depth-dependent RR, nonuniform AC using a scanning line source, and scatter correction (photon energy recovery [PER]) compared with filtered backprojection alone.

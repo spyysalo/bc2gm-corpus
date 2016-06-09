@@ -1,0 +1,1 @@
+A chromosome transmission fidelity (ctf) mutant, s138, of Saccharomyces cerevisiae was identified by its centromere (CEN) transcriptional readthrough phenotype, suggesting perturbed kinetochore integrity in vivo.

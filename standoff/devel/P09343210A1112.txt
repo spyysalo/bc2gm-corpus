@@ -1,0 +1,1 @@
+Furthermore, deletion and mutation analyses of the VCAM-1 promoter performed with chloramphenicol acetyltransferase constructs revealed that Tax was trans activating the VCAM-1 promoter via two NF-kappaB sites present at bp -72 and -57 in the VCAM-1 gene promoter, with both of them being required for the Tax-induced expression of this adhesion molecule.

@@ -1,0 +1,1 @@
+So it is sometimes more convenient to use the back Radon transform R-1 and then to correct the result, taking into account attenuation.

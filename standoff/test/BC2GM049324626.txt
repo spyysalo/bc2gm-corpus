@@ -1,0 +1,1 @@
+ATF is formulated from the prothrombin time (PT), fibrinogen transformation rate (FTR) (a representation of thrombin activity), and a consideration of the fibrinogen (FBG) content of blood plasma.

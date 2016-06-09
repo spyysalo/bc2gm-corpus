@@ -1,0 +1,1 @@
+VAV and SOCS1 form a protein complex through interactions between the VAV NH(2)-terminal regulatory region and the SH2 domain of SOCS1 in a phosphotyrosine-independent manner.

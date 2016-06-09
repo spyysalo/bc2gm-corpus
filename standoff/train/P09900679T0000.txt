@@ -1,0 +1,1 @@
+Wave cybernetics: A simple model of wave-controlled nonlinear and nonlocal cooperative phenomena.

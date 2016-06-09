@@ -1,0 +1,1 @@
+In the predicted transmembrane domain, Casr-rs2 and Casr-rs3 are 95% identical to Casr-rs1.

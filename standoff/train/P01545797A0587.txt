@@ -1,0 +1,1 @@
+Disruption mutations have been constructed in the SLK1 gene. slk1 null mutants cannot grow at 37 degrees C, but many cells can grow at 30, 24, and 17 degrees C.

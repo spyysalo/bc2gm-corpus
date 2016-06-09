@@ -1,0 +1,1 @@
+The N-terminal small segment of yeast TAF145 (yTAF145) binds to TBP and thereby inhibits TBP function.

@@ -1,0 +1,1 @@
+The Saccharomyces cerevisiae GAL1 and GAL10 genes are controlled in response to the availability of galactose and glucose by multiple activating and repressing proteins bound at adjacent or overlapping sites in UASG.

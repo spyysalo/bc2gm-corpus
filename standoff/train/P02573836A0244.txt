@@ -1,0 +1,1 @@
+To assess the functional importance of these NBS in the overall drug resistance phenotype conferred by mdr1, we introduced amino acid substitutions in the core consensus sequence for nucleotide binding, GXGKST.

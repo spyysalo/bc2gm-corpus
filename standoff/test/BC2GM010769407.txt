@@ -1,0 +1,1 @@
+Simulation results based on the presented model are compared with the experimental data for two types of cMUTs reported in the recent literature.

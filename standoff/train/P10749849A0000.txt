@@ -1,0 +1,1 @@
+An important mechanism by which the tumor suppressor p53 maintains genomic stability is to induce cell cycle arrest through activation of the cyclin-dependent kinase inhibitor p21(WAF1/Cip1) gene.

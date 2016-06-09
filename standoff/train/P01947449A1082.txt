@@ -1,0 +1,1 @@
+(2) Diffusion limitation in the heterogeneous model sets in at a lower O2 requirement value, and increases more gradually with increasing O2 requirement, than in the corresponding homogeneous models with the same average cylinder diameter.

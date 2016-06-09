@@ -1,0 +1,1 @@
+One hundred replicate data sets of 100 subjects each were simulated for each missing data scenario.

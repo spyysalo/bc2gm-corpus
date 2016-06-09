@@ -1,0 +1,1 @@
+The "Ulm Zucker Uhr System" comprises a microdialysis probe, a biosensor (Glucosensor Unitec Ulm s.c.), a sender transferring telemetrically the glucose concentrations, and a receiving indicator.

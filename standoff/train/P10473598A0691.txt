@@ -1,0 +1,1 @@
+Skn-1a lacking the C-terminal region completely lost transactivation ability, irrespective of the promoter tested, and was able to block transactivation by normal Skn-1a in competition assays.

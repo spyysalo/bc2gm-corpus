@@ -1,0 +1,1 @@
+Biochemical experiments have shown that CopG co-operatively associates to its target DNA at low protein:DNA ratios, completely protecting four helical turns on the same face of the double helix in both directions from the inverted repeat that constitutes the CopG primary target.

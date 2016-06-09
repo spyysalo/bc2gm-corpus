@@ -1,0 +1,1 @@
+This study proposes an estimator for such global synchronizing effects upon unit-pair correlations based on local field potentials (LFPs).

@@ -1,0 +1,1 @@
+The length scales of the turbulence were also estimated: at a Reynolds number near 4,000 the macroscale is about 1.25 mm, the Taylor microscale is about 0.85 mm, and the Kolmogoroff scale is near 0.075 mm.

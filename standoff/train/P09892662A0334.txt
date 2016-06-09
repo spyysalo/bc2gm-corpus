@@ -1,0 +1,1 @@
+Here we describe a mutant alpha subunit designed to inhibit receptor-mediated hormonal activation of Gs, the stimulatory regulator of adenylyl cyclase.

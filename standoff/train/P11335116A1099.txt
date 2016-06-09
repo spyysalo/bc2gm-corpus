@@ -1,0 +1,1 @@
+Bandshift experiments demonstrate that BmHR3A binds specifically to RORE (Retinoic acid-related Orphan receptor Response Element)-like sequences in the promoters of both genes, thus suggesting a direct role for BmHR3A in regulating the expression of BmGATAbeta and ESP genes during vitellogenesis.

@@ -1,0 +1,1 @@
+Elevated expression of full-length UhpB or of a soluble hybrid protein, GST-Bc, which is glutathione S-transferase (GST) fused to the cytoplasmic C-terminal portion of UhpB, results in complete blockage of uhpT expression in a uhp(+) strain.

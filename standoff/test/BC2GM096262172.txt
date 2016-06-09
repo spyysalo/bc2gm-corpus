@@ -1,0 +1,1 @@
+The predicted amino acid sequence of the FlaB2 polypeptide was 92% identical to that of T. pallidum FlaB2, with a 76% identity at the nucleotide level.

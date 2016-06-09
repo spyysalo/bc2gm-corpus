@@ -1,0 +1,1 @@
+We show that LexA-GAL4 and LexA-Bicoid fusion proteins are both dependent on SNF2, SNF5, and SNF6 for activation of target genes containing one or multiple lexA operators.

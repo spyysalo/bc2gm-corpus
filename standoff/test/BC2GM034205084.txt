@@ -1,0 +1,1 @@
+In contrast to Torpedo, where only a single transcript is seen, the mouse expresses several mRNAs encoding different isoforms.

@@ -1,0 +1,1 @@
+Substitution of either Val33 (by Gly) or Gly28 (by Ser), two of the most conserved residues in all protein kinases, resulted in enzyme with marginally detectable activity.

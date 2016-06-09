@@ -1,0 +1,1 @@
+The mutation experiments showed that the most critical sequence for the repression of PTH was 5'-GGGGGAGGGGAG-3' (+1 to +12) of PTHSR.

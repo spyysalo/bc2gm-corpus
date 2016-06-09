@@ -1,0 +1,1 @@
+This repression does not require the PU.1 transactivation or PEST domains and cannot be reversed by p300 expression.

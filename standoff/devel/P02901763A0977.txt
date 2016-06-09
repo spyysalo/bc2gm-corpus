@@ -1,0 +1,1 @@
+Codon usage in C. reinhardtii mitochondria is highly biased, with eight codons entirely absent from all protein-coding genes; however, even though codon usage is restricted, it appears that C. reinhardtii mtDNA cannot encode the minimum number of tRNAs needed to support mitochondrial protein synthesis.

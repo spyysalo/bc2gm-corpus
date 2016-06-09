@@ -1,0 +1,1 @@
+Changes in BHR were found to correlate significantly with changes in the levels of 24 h mean SO2, NO2 and smoke; 48 h mean NO2 and smoke; 24 h lag NO2; although the effect was only small, accounting for approximately 10% of the variability in within-subject BHR between visits.

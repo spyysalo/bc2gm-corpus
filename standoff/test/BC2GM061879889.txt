@@ -1,0 +1,1 @@
+TFIIIB assembles autonomously on the upstream promoter of the yeast U6 snRNA (SNR6) gene in vitro, through the interaction of its TBP subunit with a consensus TATA box located at base pair -30.

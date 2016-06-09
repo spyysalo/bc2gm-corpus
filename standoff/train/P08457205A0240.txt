@@ -1,0 +1,1 @@
+Internal amino acid sequence has now been obtained from this protein which shares 50-100% sequence identity with sequences encoded by mammalian G alpha 11 and G alpha q cDNAs.

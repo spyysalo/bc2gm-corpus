@@ -1,0 +1,1 @@
+As usual tests, such as "time" of cephalin are slightly sensible to LMW-Hep, only anti-Xa activity can be used.

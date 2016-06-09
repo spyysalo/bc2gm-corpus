@@ -1,0 +1,1 @@
+Wild-type protein bound azido-ATP well, but mutants with substitutions in the consensus amino acids were unable to bind azido-ATP.

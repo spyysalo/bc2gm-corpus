@@ -1,0 +1,1 @@
+These are the long terminal repeat (LTR) promoter, which regulates expression of the viral structural proteins, and a second internal promoter, located towards the 3' end of the env gene, that directs expression of the viral auxiliary proteins.

@@ -1,0 +1,1 @@
+Analyses of tyrosine residue-mutated PDGF receptors show that Src homology 2 domain-containing proteins including Src family kinases, phosphatidylinositol 3-kinase, the GTPase-activating protein of Ras, the Src homology 2 domain-containing phosphatase SHP-2, phospholipase C-gamma, and Crk do not play a major role in mediating the PDGF-induced activation of p38.

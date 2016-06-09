@@ -1,0 +1,1 @@
+Systematic functional analysis of V1a/V2 hybrid receptors showed that the second intracellular loop of the V1a receptor is required and sufficient for efficient coupling to Gq/11, whereas the third intracellular loop of the V2 receptor is required and sufficient for coupling to Gs.

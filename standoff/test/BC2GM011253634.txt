@@ -1,0 +1,1 @@
+It has been confirmed in animal experiments that the number of microspheres in a myocardial sample approximately follows a Poisson distribution, under adequate experimental conditions.

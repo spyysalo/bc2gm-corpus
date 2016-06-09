@@ -1,0 +1,1 @@
+The 96-bp insert contained a termination signal which caused the premature termination of the protein, leading to the generation of a p53 product 9 amino acids shorter than usual.

@@ -1,0 +1,1 @@
+We show that sae1-1 and sae3-1 mutations each confer a distinct defect in meiotic recombination. sae1-1 produces recombinants but very slowly and ultimately to less than half the wild-type level; sae3-1 makes persistent hyper-resected meiotic double-strand breaks and has a severe defect in formation of recombinants.

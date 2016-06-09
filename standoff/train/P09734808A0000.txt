@@ -1,0 +1,1 @@
+To improve test efficiency, we modified our previously introduced contrast/color card test by including a patterned test stimulus and reducing the number of stimuli in both experimental phases.

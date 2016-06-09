@@ -1,0 +1,1 @@
+Long-latency: locked units responded to shocks with little jitter and long latency (4-11 ms).

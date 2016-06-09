@@ -1,0 +1,1 @@
+This function requires not only the kinase domain of Csk, but also its Src homology 3 (SH3) and SH2 regions.

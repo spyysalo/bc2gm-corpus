@@ -1,0 +1,1 @@
+This locus maps approximately 160 kbp from the genes encoding cytadherence-associated proteins HMW1 and HMW3, and yet insertions therein result in loss of these proteins and a hemadsorption-negative (HA-) phenotype, prompting the designation cytadherence-regulatory locus (crl).

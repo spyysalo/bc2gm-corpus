@@ -1,0 +1,1 @@
+Promoter recognition algorithms identified divergent promoter elements within the CpG island, which lies between the ATM and E14/NPAT genes, and provide evidence for a putative second ATM promoter located within intron 3, immediately upstream of the first coding exon.

@@ -1,0 +1,1 @@
+We propose 2 separate PAI-1 inductory pathways for PMA and IL-1alpha in HepG2, both involving protein tyrosine kinase activation; the serum-induced signaling pathway may (partially) overlap with the PMA-activated protein kinase C/mitogen-activated protein kinase kinase pathway, leading to c-Jun homodimer binding to the PAI-1 TRE.

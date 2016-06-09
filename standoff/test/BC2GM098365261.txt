@@ -1,0 +1,1 @@
+The predicted amino acid sequence contained all consensus regions for S-adenosyl methionine methyltransferases and presented 26% identity with Saccharomyces cerevisiae DHHB-methyltransferase and 38% identity with the rat protein, as well as with a bacterial (Escherichia coli and Salmonella typhimurium) methyltransferase encoded by the UBIG gene.

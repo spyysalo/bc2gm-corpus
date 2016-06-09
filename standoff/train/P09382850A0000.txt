@@ -1,0 +1,1 @@
+BACKGROUND: Checkpoint pathways prevent cell-cycle progression in the event of DNA lesions.

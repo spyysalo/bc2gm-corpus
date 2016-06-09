@@ -1,0 +1,1 @@
+The equation for mean trabecular number passed the test, whereas the validity of the equations for mean trabecular separation and Tb.Wi appeared limited.

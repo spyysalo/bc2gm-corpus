@@ -1,0 +1,1 @@
+Gag protein sequence motifs of the NC domain of primate foamy viruses assumed to be involved in genome encapsidation are not conserved in FeFV.

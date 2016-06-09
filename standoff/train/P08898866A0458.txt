@@ -1,0 +1,1 @@
+To map this regulatory serine phosphorylation site we developed a baculovirus-mediated expression system for wild-type annexin II and for a series of annexin II mutants which contained substitutions in one or more serine residues present in the N-terminal domain.

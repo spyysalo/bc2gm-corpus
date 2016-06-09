@@ -1,0 +1,1 @@
+The C-terminal approximately 50 amino acids of Bel-1 are shown to be essential for Bel-1 activity but can be effectively substituted by the C-terminal activation domain of VP16.

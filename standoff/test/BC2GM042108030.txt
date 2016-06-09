@@ -1,0 +1,1 @@
+Importantly, a single base change in the fifth position of the c-fos sequence (GGTCTnnnAGACC to GGTCA/GnnnAGACC) produced an element that bound the estrogen receptor and conferred estrogen-dependent transcriptional activation of a reporter gene.

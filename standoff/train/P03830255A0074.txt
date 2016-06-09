@@ -1,0 +1,1 @@
+This is based on partitioning an underlying multivariate normal distribution.

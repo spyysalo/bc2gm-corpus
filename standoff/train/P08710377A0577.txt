@@ -1,0 +1,1 @@
+Cbl constitutively interacts with the SH3 domains of Grb2, with a preference for the amino-terminal domain, and is in this way recruited to Shc upon BCR stimulation.

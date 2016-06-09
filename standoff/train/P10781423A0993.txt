@@ -1,0 +1,1 @@
+Comparison of sequences from -215 to +1 bp identified consensus binding sites for the homeodomain transcription factor thyroid transcription factor-1 (TTF-1).

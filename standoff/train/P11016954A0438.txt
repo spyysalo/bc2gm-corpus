@@ -1,0 +1,1 @@
+AGO1 is similar to QDE-2 required for quelling and RDE-1 required for RNAi.

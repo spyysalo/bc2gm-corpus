@@ -1,0 +1,1 @@
+It contains a 5'-noncoding region (NCR) of 73 nucleotides, five open reading frames (ORFs 1 to 5) which encode proteins with M(r) 160 kDa RNA-dependent RNA polymerase (ORF1), 26 kDa movement protein 1 (ORF2), 13 kDa movement protein 2 (ORF3), 10 kDa movement protein 3 (ORF4), 24 kDa coat protein (OFR5), and a 3' NCR of 76 nucleotides.

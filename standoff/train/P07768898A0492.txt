@@ -1,0 +1,1 @@
+Based on the estimated values of divergence of apobec1 sequences in terms of the numbers of synonymous and non-synonymous suhstitutions per site, we found that apobec1 is a fairly rapidly evolving protein.

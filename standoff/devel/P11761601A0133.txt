@@ -1,0 +1,1 @@
+A computer program, ACCESS-IAQ, is developed to simulate the airflow pattern, the time history of the contaminant concentrations in the occupied zone, and the inhalation exposures.

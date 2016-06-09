@@ -1,0 +1,1 @@
+Interestingly, the RNA sequences selected by the mutated zinc knuckle 9G8 variant are efficiently recognized by SRp20, in agreement with the fact that the RBD of 9G8 and SRp20 are similar.

@@ -1,0 +1,1 @@
+To define the minimal VDRE binding domain for human VDR (hVDR), a series of C-terminally truncated hVDR mutants (Delta134, Delta113, Delta102, Delta90, Delta84, Delta80, and Delta60) was generated and expressed in bacteria.

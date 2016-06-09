@@ -1,0 +1,1 @@
+Deletion from either the N- or C-terminal ends of repA (28 and 69 codons, respectively, out of the 286-codon open reading frame) affected the initiator but not the inhibitory activity.

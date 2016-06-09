@@ -1,0 +1,1 @@
+These data should be useful in developing reagents for heterozygote detection and prenatal diagnosis of 11 beta-hydroxylase deficiency, the second most frequent cause of congenital adrenal hyperplasia.

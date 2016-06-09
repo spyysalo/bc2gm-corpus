@@ -1,0 +1,1 @@
+By contrast, PvirE or Plac promoter constructs yielded functional VirE2 only if virE1 was coexpressed with virE2.

@@ -1,0 +1,1 @@
+Rv was 7.7 +/- 1.4 mmHg.ml-1.min.100 g-1 and Cv was 0.59 +/- 0.25 ml/mmHg, tau v calculated from the product of Rv and Cv was 4.20 +/- 1.58 s and from the ratio of delta V to delta Q was 4.95 +/- 1.53 s (P = NS) at a mean Pel of 17.6 +/- 3.7 mmHg. delta V was also produced by changing Pv; the average tau v (1.95 +/- 0.37 s), was shorter than that with changes in flow.

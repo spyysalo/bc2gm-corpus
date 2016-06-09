@@ -1,0 +1,1 @@
+PowerBLAST analysis identified six clusters of expressed sequence tags (ESTs), two known genes (BIR, SUR1) mapped previously to this region, and a previously characterized but unmapped gene NEFA (DNA binding/EF hand/acidic amino-acid-rich).

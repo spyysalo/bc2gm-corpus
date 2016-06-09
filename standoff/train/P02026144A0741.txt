@@ -1,0 +1,1 @@
+Temporal control of GUS expression was found to involve two negative regulatory sequences, NRS1 (-391 to -295) and NRS2 (-518 to -418), as well as the positive domain UAS1.

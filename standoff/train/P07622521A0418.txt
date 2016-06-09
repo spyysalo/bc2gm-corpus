@@ -1,0 +1,1 @@
+Based on previous mapping of the G beta gamma binding region of beta ARK, and conserved residues within the PH domain, we have constructed a series of mutants in the carboxyl terminus of beta ARK in order to determine important residues involved in G beta gamma and PIP2 binding.

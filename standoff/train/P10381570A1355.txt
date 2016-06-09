@@ -1,0 +1,1 @@
+Slp1 represses transcription via this binding site in yeast cells, consistent with its role as a direct repressor of ftz stripes in interstripe regions during late stages of embryogenesis.

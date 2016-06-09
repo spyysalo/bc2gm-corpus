@@ -1,0 +1,1 @@
+As expected, the QOLS-N had a lower correlation with physical health (r = 0.24, p < 0.000) and self-reported symptoms (r = -0.20, p < 0.001), and a higher correlation with mental health (r = 0.52, p < 0.000).

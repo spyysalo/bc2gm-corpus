@@ -1,0 +1,1 @@
+Mutagenesis of SNT1(IRS)CX identified three classes of effector motifs within SNT critical for both sustained ERK activation and neuronal differentiation: 1) four phosphotyrosine motifs that mediate recruitment of Grb2, 2) two phosphotyrosine motifs that mediate recruitment of Shp2, and 3) a C-terminal motif that functions by helping to recruit Sos.

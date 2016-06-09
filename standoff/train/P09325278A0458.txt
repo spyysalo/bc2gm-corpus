@@ -1,0 +1,1 @@
+A data base homology search revealed that the predicted ER1 amino acid sequence contains three regions of similarity to the rat and human proteins encoded by the metastasis-associated gene, mta1, and two regions of similarity to the Caenorhabditis elegans sequence that is similar to mta1.

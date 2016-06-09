@@ -1,0 +1,1 @@
+Antigen dose-response curves were drawn, and the cumulative dose required for a 35% reduction in specific airway conductance was calculated and designated Provocation Dose (PD35).

@@ -1,0 +1,1 @@
+We now show that the FRAP Ser2035-->Ala mutant displays similar binding affinity when compared with the wild-type protein, whereas all other mutations at this site, including mimics of phosphoserine, abolish binding, presumably due to either unfavorable steric interactions or induced conformational changes.

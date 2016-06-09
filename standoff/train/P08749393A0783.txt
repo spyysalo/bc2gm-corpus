@@ -1,0 +1,1 @@
+The PI3K_68D cDNA encodes a protein of 210 kDa, which lacks sequences implicated in linking p110 PI 3-kinases to p85 adaptor proteins, but contains an amino-terminal proline-rich sequence, which could bind to SH3 domains, and a carboxy-terminal C2 domain.

@@ -1,0 +1,1 @@
+There is a cysteine clustering region in an N-terminal region of the c-raf(-1) product deduced from the nucleotide sequence, and this cysteine clustering region was found to be highly homologous to that present in an N-terminal region of protein kinase C, although, in the latter cysteine clusters are present in duplicate.

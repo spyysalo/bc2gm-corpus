@@ -1,0 +1,1 @@
+However, the requirement of rev3 for the production of G.C-->T.A transversions by the rad18 mutator, which induces only these substitutions, was similar to that for rad6-mediated G.C-->T.A transversion.

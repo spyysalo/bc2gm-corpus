@@ -1,0 +1,1 @@
+We found that the gene segment containing the mu m poly(A) signals, along with 536 bp of downstream flanking sequence, acted as a transcription terminator in both myeloma cells and L cell fibroblasts.

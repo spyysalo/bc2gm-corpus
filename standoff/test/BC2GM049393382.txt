@@ -1,0 +1,1 @@
+Protein binding to UAS1MLS1 was observed with extracts from derepressed but not from repressed cells, and could be competed for by an excess of the unlabelled CSRE (ICL1) sequence.

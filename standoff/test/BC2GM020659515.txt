@@ -1,0 +1,1 @@
+The point mutation Asp-316-->Asn in the C-terminus of p38, analogous to the ERK2 (extracellular-signal-regulated kinase 2) sevenmaker mutation, dramatically decreases its binding to MKP-1 and substantially compromises its stimulatory effect on the catalytic activity of this phosphatase.

@@ -1,0 +1,1 @@
+When 10 fields were analysed, a strong relationship was found between the presence of bacteria on Gram staining and the final diagnosis of VAP (for PSB and PTC respectively: sensitivity 74 and 81%, specificity 94 and 100%, positive predictive value 91 and 100%, negative predictive value 82 and 88%).

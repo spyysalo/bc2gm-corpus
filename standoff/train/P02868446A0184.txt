@@ -1,0 +1,1 @@
+The C-terminal domains (CTDs) of the RPase beta subunit and DNA primase (dnaG protein) were not only strongly homologous to each other but also considerably homologous to the RPase alpha, suggesting that an alpha subunit-like enzyme must have been commonly ancestral to core enzyme subunits and primase.

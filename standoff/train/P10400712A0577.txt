@@ -1,0 +1,1 @@
+To investigate the functions of GE, IG, and GS sequences in transcription, we constructed plasmids containing cDNAs of the full-length SV5 genome in which the gene junction sequences (GE, IG, and GS sequences) located between the hemagglutinin-neuraminidase (HN) and the polymerase (L) genes were replaced with the counterpart sequences from other gene junctions.

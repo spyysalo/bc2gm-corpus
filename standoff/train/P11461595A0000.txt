@@ -1,0 +1,1 @@
+We investigate the reaction kinetics of small spherical particles with inertia, obeying coalescence type of reaction, B+B-->B, and being advected by hydrodynamical flows with time-periodic forcing.

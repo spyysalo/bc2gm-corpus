@@ -1,0 +1,1 @@
+Binding of SSP to the stage selector element (SSE) in the proximal gamma-globin promoter is integral to the competitive silencing of a linked beta-promoter in embryonic/fetal stage erythroleukemia (K562) cells.

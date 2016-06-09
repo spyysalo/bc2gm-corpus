@@ -1,0 +1,1 @@
+To understand whether Shc localization in membrane rafts is sufficient to regulate Shc function, we constructed a Shc chimera containing the Ras membrane localization motif at the C-terminus.

@@ -1,0 +1,1 @@
+To isolate genes that contain zinc finger motifs, a human brain cDNA library was screened with an oligonucleotide complementary to the conserved "linker" sequence between adjacent zinc fingers.

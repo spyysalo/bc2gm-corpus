@@ -1,0 +1,1 @@
+MAIN OUTCOME MEASURES: Percentage change in the apnea-hypopnea index (AHI; apnea events + hypopnea events per hour of sleep) and odds of developing moderate-to-severe SDB (defined by an AHI > or =15 events per hour of sleep), with respect to change in weight.

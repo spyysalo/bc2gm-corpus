@@ -1,0 +1,1 @@
+In part as a result of its inability to sustain radiative loses, the BB resonator has extremely low RF power requirements.

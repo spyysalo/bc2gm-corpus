@@ -1,0 +1,1 @@
+Tax was demonstrated to interact directly with CREB1 but not with other bZIP proteins, including CREB2 and Jun.

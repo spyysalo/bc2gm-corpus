@@ -1,0 +1,1 @@
+These data indicate that the SmSmad2 responds to the TGF-beta signals by interaction with receptor I, which phosphorylates it, whereupon it translocates into the nucleus presumably to regulate target gene transcription and consequently elicit a specific TGF-beta effect.

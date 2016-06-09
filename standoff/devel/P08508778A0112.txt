@@ -1,0 +1,1 @@
+Yeast mutants lacking a functional NOP1 gene can be complemented by human fibrillarin but are temperature sensitive for growth and impaired in pre-rRNA processing.

@@ -1,0 +1,1 @@
+We functionally characterised AtXPO1 by its interaction with NESs of animal and plant proteins, which is inhibited by the cytotoxin leptomycin B (LMB), and also by its interaction with the small GTPase Ran1 in the yeast two-hybrid system.

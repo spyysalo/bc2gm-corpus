@@ -1,0 +1,1 @@
+BACKGROUND: In the ubiquitin-dependent proteolysis pathway, a ubiquitin ligase (E3) is responsible for substrate selectivity and timing of degradation.

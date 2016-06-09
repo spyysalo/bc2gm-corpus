@@ -1,0 +1,1 @@
+As expected, homologous loxP sequences efficiently underwent Cre-mediated recombination.

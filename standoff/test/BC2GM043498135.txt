@@ -1,0 +1,1 @@
+SH3A competes with the SH3 domains of Grb2 in binding to mSos1, and the intersectin-mSos1 complex can be separated from Grb2 by sucrose gradient centrifugation.

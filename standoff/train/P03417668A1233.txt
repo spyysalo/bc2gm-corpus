@@ -1,0 +1,1 @@
+These findings indicate that autophosphorylation of Thr286 (alpha subunit) and Thr287 (beta subunit) is responsible for transition of CaM-kinase II to the Ca2+-independent form.

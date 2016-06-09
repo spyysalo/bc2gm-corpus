@@ -1,0 +1,1 @@
+The sequence immediately upstream of the translation start site was G + C rich (greater than 75%) and contained a consensus CCAAT sequence despite the absence of a TATA box.

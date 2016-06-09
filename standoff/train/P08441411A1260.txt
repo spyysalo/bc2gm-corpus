@@ -1,0 +1,1 @@
+In mitogen-stimulated splenocytes, Gfi-1 expression begins to rise at 12 h after stimulation and reaches very high levels after 50 h, suggesting that it may be functionally involved in events occurring after the interaction of IL-2 with its receptor, perhaps during the transition from the G1 to the S phase of the cell cycle.

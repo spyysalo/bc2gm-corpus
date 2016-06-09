@@ -1,0 +1,1 @@
+Existence and uniqueness of solutions of the appropriate boundary value problems are established, in the case of small permeability coefficients and transport rates, or large diffusion coefficients and small resistance to flow constants.

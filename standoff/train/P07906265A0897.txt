@@ -1,0 +1,1 @@
+Preliminary experiments demonstrated that it was possible to produce fasD mutants, whose products remain functional for fimbrial export and assembly.

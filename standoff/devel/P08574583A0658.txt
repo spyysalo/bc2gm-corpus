@@ -1,0 +1,1 @@
+The Clb5 kinase, which promotes S phase, remains active during the G2-phase arrest of cells of the parental strain, but its activity declines rapidly in sim mutants.

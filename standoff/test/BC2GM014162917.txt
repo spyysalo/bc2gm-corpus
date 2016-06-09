@@ -1,0 +1,1 @@
+When gene conversion is initiated by a double-strand break (DSB), any nonhomologous DNA that may be present at the ends must be removed before new DNA synthesis can be initiated.

@@ -1,0 +1,1 @@
+We have cloned and sequenced the mouse NMO1 cDNA, which encodes the NAD(P)H:menadione oxidoreductase [also called NAD(P)H:(quinone acceptor) oxidoreductase; quinone reductase; azo dye reductase; DT diaphorase; EC 1.6.99.2].

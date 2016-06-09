@@ -1,0 +1,1 @@
+Here we demonstrate that another cellular protein linked to BCR/ABL through the CRKL-SH2 domain is p130(CAS). p130(CAS) was found to be tyrosine phosphorylated and associated with CRKL in BCR/ABL expressing cell lines and in samples obtained from CML and ALL patients, but not in samples from controls.

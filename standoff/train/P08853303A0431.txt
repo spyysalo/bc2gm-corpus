@@ -1,0 +1,1 @@
+Pharmacokinetic parameters were similar to values given in the literature for intravenous (IV) or intraarterial (IA) bolus MMC injections (Tmax = 7.0 min following the beginning of MMC infusion, Vss = 0.57 1/kg, C1 = 8.9 ml/min.kg, T1/2 alpha = 8.3 min, T1/2 beta = 58.6 min).

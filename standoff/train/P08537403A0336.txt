@@ -1,0 +1,1 @@
+The protein kinase domains of LIMK1 and LIMK2 are unique in that they contain an unusual sequence motif Asp-Leu-Asn-Ser-His-Asn in subdomain VIB and a highly basic insert between subdomains VII and VIII.

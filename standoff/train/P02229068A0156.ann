@@ -1,0 +1,10 @@
+T1	GENE 31 43	complete tat
+T2	GENE 45 48	rev
+T3	GENE 50 54	tat+
+T4	GENE 55 59	rev+
+T5	GENE 65 74	env genes
+T6	GENE 120 135	precursor SU-TM
+T7	GENE 137 142	gp160
+T8	GENE 145 150	SU.TM
+T9	GENE 152 162	gp120 x 41
+T10	GENE 169 190	nucleolar rev protein

@@ -1,0 +1,1 @@
+Both PPC-1 and ALVA-31 cells display tumorigenesis and invasiveness in nude mice, whereas LNCap cells exhibit a less malignant phenotype, suggesting a correlation between CD44 variant (CD44v) expression and aggressive prostate tumor behavior.

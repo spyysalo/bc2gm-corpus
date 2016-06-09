@@ -1,0 +1,1 @@
+Chemical stability tests and site-specific mutagenesis identified amino acids H219 and D63 of RegS and RegR, respectively, as the phosphorylated residues.

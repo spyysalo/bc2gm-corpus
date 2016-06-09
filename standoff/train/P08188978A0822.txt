@@ -1,0 +1,1 @@
+The baroreflex latency (from the ECG R-wave to the integrated MSNA burst peak) was constant at approximately 1.20 s during sleep, suggesting that pulse-synchronicity was maintained.

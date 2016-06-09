@@ -1,0 +1,1 @@
+The PHO5 gene is activated by the Pho4p transcription factor, which itself is negatively regulated through phosphorylation by the products of PHO80 and PHO85.

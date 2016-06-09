@@ -1,0 +1,1 @@
+Analysis of the rate constants indicated that the isomerization rate k12 was approximately equal to the apparent degradation rate of the delta 3 ester kdeg, and slower than the hydrolysis rate of the delta 2 ester k24.

@@ -1,0 +1,1 @@
+Using the rap1t alleles to generate wild-type cells differing only in telomere tract lengths, we also show that telomere position effects are highly sensitive to changes in the size (or structure) of the telomeric tract.

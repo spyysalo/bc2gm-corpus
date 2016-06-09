@@ -1,0 +1,1 @@
+Among six different library isolates containing 6.5- to 7-kb IAP units, some restriction sites were highly conserved whereas others varied in both occurrence and position.

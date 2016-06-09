@@ -1,0 +1,1 @@
+We have previously shown that LBP-1 represses HIV-1 transcription by inhibiting the binding of TFIID to the TATA box.

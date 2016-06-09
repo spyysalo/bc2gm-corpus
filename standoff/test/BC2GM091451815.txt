@@ -1,0 +1,1 @@
+This new receptor, TOR (thymus orphan receptor), is most closely related in both its DNA-binding domain and ligand-binding domain, 90% and 53%, respectively, to ROR alpha/RZR alpha and clusters with these two receptors and RZR beta in a phylogenetic tree, when both the DNA-binding domain and the ligand-binding domain sequences of nuclear receptors are compared.

@@ -1,0 +1,1 @@
+This region of hsp90 mediates ATP-independent chaperone activity, overlaps the hsp90 dimerization domain, and includes structural elements important for steroid receptor interaction.

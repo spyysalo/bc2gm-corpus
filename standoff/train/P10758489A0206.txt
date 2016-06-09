@@ -1,0 +1,1 @@
+Here we report on the isolation of ICK2, and show that it interacts with Cdc2aAt, but not with a second CDK from Arabidopsis, Cdc2bAt.

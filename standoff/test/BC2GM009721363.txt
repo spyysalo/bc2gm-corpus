@@ -1,0 +1,1 @@
+A structural model for Vpu is proposed in which the membrane anchor precedes a region comprising two amphipathic alpha-helices of opposed polarity, joined by a strongly acidic turn that protrudes into the cytoplasm and contains the CK-2 phosphorylation sites.

@@ -1,0 +1,1 @@
+Omitting part of the experimental NOE-derived distances results in reduced restraint violations and lower R factors but impairs structural convergence in the rMD refinement.

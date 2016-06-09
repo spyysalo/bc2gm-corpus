@@ -1,0 +1,1 @@
+SAPK/JNK activation was completely abolished in the absence of MKK7, even though expression of MKK4 was strongly upregulated in mkk7(-/-) mast cell lines, and phosphorylation of MKK4 occurred normally in response to multiple stress stimuli.

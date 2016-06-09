@@ -1,0 +1,1 @@
+In Saccharomyces cerevisiae, entry into mitosis requires activation of the cyclin-dependent kinase Cdc28 in its cyclin B (Clb)-associated form.

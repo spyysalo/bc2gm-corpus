@@ -1,0 +1,1 @@
+Together, our results show that tinman is controlled by an array of discrete enhancer elements that are activated successively by differential genetic inputs, as well as by closely linked activator and repressor binding sites within an early-acting enhancer, which restrict twist activity to specific areas within the twist expression domain.

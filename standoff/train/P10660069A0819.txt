@@ -1,0 +1,1 @@
+The rrd1,2delta mutant was partially rescued by inactivation of HOG1 or PBS2, suggesting an interaction between the RRD genes and the Hog1p signal transduction pathway.

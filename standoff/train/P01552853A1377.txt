@@ -1,0 +1,1 @@
+Hence temperature and virF are both required for the induction of the yop regulon.

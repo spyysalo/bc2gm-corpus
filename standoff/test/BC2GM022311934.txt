@@ -1,0 +1,1 @@
+For all samples, the sensitivity of the blast flag on the CD3500 was 85% with a specificity of 91% (STKS: sensitivity, 75%; specificity, 85%); the sensitivity of the CD3500 IG flag was 72% with a specificity of 76% (STKS: sensitivity, 75%: specificity, 73%); and the sensitivity of the NRBC flag was 43% with a specificity of 94%(STKS sensitivity, 37%; specificity, 88%).

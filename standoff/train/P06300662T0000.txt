@@ -1,0 +1,1 @@
+A cDNA cloning vector that permits expression of cDNA inserts in mammalian cells.

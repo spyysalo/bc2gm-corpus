@@ -1,0 +1,1 @@
+Translational fusions of the aroF regulatory regions to lacZ were constructed and then introduced in single copy into the E. coli chromosome. beta-Galactosidase assays for tyrR-mediated regulation of aroF-lacZ expression revealed that the E. coli TyrR repressor apparently recognizes the operators of both organisms with about equal efficiency.

@@ -1,0 +1,1 @@
+Three RasV12 mutants (S35, G37, and C40) which differ by their ability to bind to Ras effectors (Raf, Ral-GEFs, and the p110 subunit of PI 3-kinase, respectively) were able to induce sustained NR cell proliferation, although none of these mutants was reported to transform NIH 3T3 cells.

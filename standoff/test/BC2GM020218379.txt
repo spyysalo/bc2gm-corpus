@@ -1,0 +1,1 @@
+From our own investigations on phantoms, the smallest signal-to-noise ratio (delta S min/delta R) was obtained which determines the minimal contrast, given the film properties (film response S, film gradient gamma) and the amount of scatter.

@@ -1,0 +1,1 @@
+In a gntR deletion mutant, the expression of a chromosomal gntT::lacZ fusion is both high and constitutive, confirming that GntR is the negative regulator of gntT.

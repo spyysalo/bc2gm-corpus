@@ -1,0 +1,1 @@
+To facilitate the investigation of parameters that govern selective export in adenovirus-infected cells, we constructed a marked human beta-actin minigene under the control of the glucocorticoid-inducible enhancer-promoter of mouse mammary tumor virus and introduced it into the left end of the adenovirus type 5 (Ad5) genome.

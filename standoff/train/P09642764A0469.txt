@@ -1,0 +1,1 @@
+Moreover, the mass estimated with the QCM response through the Sauerbrey equation and the mass which can be measured thanks to other analytical techniques, in our case an enzymatic assay, are different: the deposited mass is generally overestimated by the QCM.

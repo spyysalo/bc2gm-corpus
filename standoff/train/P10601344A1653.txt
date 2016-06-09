@@ -1,0 +1,1 @@
+In addition, using biochemical activity assays for Rho-like GTPases, we show that the expression of beta1A, beta1D, or IL2R-beta1A in GE11 or GD25 cells triggers activation of both RhoA and Rac1, but not of Cdc42.

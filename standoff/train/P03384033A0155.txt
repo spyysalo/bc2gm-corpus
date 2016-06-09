@@ -1,0 +1,1 @@
+Of the 53 units tested during sinusoidal motion at 0.05 Hz (9.1 cm/s), 1 (1.9%) was responsive to the otolith input only, 13 (24.5%) were influenced by the visual input only and 23 (43.4%) responded to both modalities.

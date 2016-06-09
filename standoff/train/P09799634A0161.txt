@@ -1,0 +1,1 @@
+We have generated a computer model of the C-terminal domain of the 434 repressor based on the crystal structure of the homologous UmuD' protein.

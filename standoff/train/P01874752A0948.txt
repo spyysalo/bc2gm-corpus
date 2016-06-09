@@ -1,0 +1,1 @@
+This indicates that under certain experimental conditions cdc2/p58 and cdc2/p62 may express some differences in their catalytic activity.

@@ -1,0 +1,1 @@
+Cell-free extracts of E. coli (fpg mutY) harboring pYSB10 possess an enzymatic activity that cleaves a 34-mer oligonucleotide containing a single 8-oxoG opposite a cytosine (8-OxoG/C).

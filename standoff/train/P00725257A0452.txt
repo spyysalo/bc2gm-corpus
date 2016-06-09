@@ -1,0 +1,1 @@
+The calculated pD2 values were 8.8 for E, 8.6 for DHE and 6.6 for M.

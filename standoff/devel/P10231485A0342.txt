@@ -1,0 +1,1 @@
+Sequence analysis suggests that TtrA contains a molybdopterin guanine dinucleotide cofactor and a [4Fe-4S] cluster, that TtrB binds four [4Fe-4S] clusters, and that TtrC is an integral membrane protein containing a quinol oxidation site.

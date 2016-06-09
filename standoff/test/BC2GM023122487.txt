@@ -1,0 +1,1 @@
+Transcriptional analysis of this gene cluster was performed by detecting the presence of mRNAs spanning adjacent genes as well as by using a promoterless lacZ reporter gene fused to each of the seven genes contained in the tol-oprL locus.

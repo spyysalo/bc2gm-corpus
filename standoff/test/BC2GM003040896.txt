@@ -1,0 +1,1 @@
+We propose that GCD7 and GCD2 play important roles in the regulatory interaction between eIF-2 and eIF-2B and that the suppressor mutations we isolated in these genes decrease the susceptibility of eIF-2B to the inhibitory effects of phosphorylated eIF-2 without impairing the essential catalytic function of eIF-2B in translation initiation.

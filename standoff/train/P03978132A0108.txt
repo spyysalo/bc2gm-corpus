@@ -1,0 +1,1 @@
+In MCCP functions of the source emission, surface reflection, photoacceptor sensitivity are approximated by the normal distribution curves.

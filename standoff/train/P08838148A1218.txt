@@ -1,0 +1,1 @@
+A stable heterologous cell line containing the mouse TRH receptor was constructed by transfection of nonexcitable 293 cells, which lack L channel activity.

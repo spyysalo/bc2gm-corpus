@@ -1,0 +1,1 @@
+The CHED protein includes the consensus ATP binding and phosphorylation domains characteristic of kinases, displays 34-42% identically aligned amino acid residues with other cdc2-related kinases, and is considerably longer at its amino and carboxyl termini.

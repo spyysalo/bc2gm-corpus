@@ -1,0 +1,1 @@
+A platelet-derived growth factor receptor (PDGF-R) phosphopeptide containing Tyr-857 does not bind appreciably to the Src SH2 domain, suggesting it is not the PDGF-R binding site for Src as previously reported.

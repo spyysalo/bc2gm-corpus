@@ -1,0 +1,1 @@
+In addition to restoring checkpoint control, overexpression of sum1+ inhibits the normal cell cycle response to osmotic stress.

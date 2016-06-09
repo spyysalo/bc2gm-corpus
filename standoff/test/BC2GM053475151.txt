@@ -1,0 +1,1 @@
+The BUR was set at 20/min and the IT at .5 seconds.

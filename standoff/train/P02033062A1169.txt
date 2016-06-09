@@ -1,0 +1,1 @@
+To test promotor function, chimeric genes were constructed linking fragments of chicken IGF-I 5'-flanking DNA to a promoterless reporter plasmid.

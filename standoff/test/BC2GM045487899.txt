@@ -1,0 +1,1 @@
+To determine whether the transcript encodes an active enzyme, we developed a novel transient embryonic excision assay in which zebrafish fertilized eggs were co-injected with RNA transcribed in vitro using the Tol2 cDNA as a template and a plasmid DNA harboring a nonautonomous Tol2 element, which has a deletion in the transposase coding region.

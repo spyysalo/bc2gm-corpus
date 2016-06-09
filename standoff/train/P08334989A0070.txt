@@ -1,0 +1,1 @@
+To begin to examine the mechanism controlling expression of this gene during the cell-cycle, a mouse B-myb 5' flanking sequence was isolated from a cosmid library and shown to promote efficiently the transcription of a luciferase reporter gene when transfected into NIH3T3 fibroblasts.

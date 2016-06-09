@@ -1,0 +1,1 @@
+It contains three putative TATA boxes far upstream of the main start sites region, one AP-1 box, one AP-2 box, one Malt box, one GAGA box, one half serum-responsive element, and putative binding sites for Sp1 (five), GC-rich binding factor (five), CTF-NF1 (one), Myb (one), p53 (two), Ets-1 (one), NF-IL6 (two), MyoD (two), Zeste (one), and hepatocyte nuclear factor-5 (one).

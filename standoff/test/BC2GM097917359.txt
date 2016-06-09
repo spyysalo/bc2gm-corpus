@@ -1,0 +1,1 @@
+The purified RAG1 protein overexpressed in E.coli exhibited the expected cleavage activity when combined with RAG2 purified from transfected 293T cells.

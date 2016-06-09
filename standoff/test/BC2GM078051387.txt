@@ -1,0 +1,1 @@
+In this report, we demonstrate that FRS2 forms a complex with the N-terminal SH2 domain of the protein tyrosine phosphatase Shp2 in response to FGF stimulation.

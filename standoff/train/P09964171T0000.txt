@@ -1,0 +1,1 @@
+NMR of diffusing atoms in a periodic porous medium in the presence of a nonuniform magnetic field.

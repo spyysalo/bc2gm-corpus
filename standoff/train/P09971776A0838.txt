@@ -1,0 +1,1 @@
+Mutations affecting only CD4 regulation mapped to residues previously shown to mediate the binding of Nef to this receptor, such as W57 and L58, as well as to an AP-recruiting dileucine motif and to an acidic dipeptide in the C-terminal region of the protein.

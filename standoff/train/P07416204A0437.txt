@@ -1,0 +1,1 @@
+In the intact animal, postextrasystolic potentiation depended on the basic pacing interval, t0, and the timing of the extrasystole, t1: when t0 was held constant and t1 was increased, potentiation decreased; when t1 was held constant and t0 was increased, potentiation increased.

@@ -1,0 +1,1 @@
+The gene product of cotS was confirmed to be identical to Cot40-2 by SDS-PAGE and immunoblotting from Escherichia coli transformed with a plasmid containing the cotS region.

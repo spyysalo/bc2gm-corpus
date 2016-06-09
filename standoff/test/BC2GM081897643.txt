@@ -1,0 +1,1 @@
+The first operon, orf1-tolQRA, is iron regulated throughout growth, but iron-regulated expression of tolB and oprL fusions occurs only in late log phase.

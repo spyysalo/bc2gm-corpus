@@ -1,0 +1,1 @@
+These genes encode a tryptophanyl tRNA, the protein translocase component SecE, the antiterminator protein NusG, and the ribosomal proteins L11 and L1 in addition to PkwR, a putative regulatory protein of the LacI-GalR family.

@@ -1,0 +1,1 @@
+Based on this analysis, we propose that the interactions of Sos with the switch 1 and switch 2 regions of Ras have distinct functional consequences: the interaction with switch 2 mediates the anchoring of Ras to Sos, whereas the interaction with switch 1 leads to disruption of the nucleotide-binding site and GDP dissociation.

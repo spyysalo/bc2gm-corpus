@@ -1,0 +1,1 @@
+To study the signaling pathways that regulate cytoskeletal rearrangements in T lymphocytes, we set up a conjugate formation assay using Jurkat T cells as effectors and cell-sized latex beads coated with various antibodies as artificial APCs.

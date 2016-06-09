@@ -1,0 +1,1 @@
+The Fyn NH2 terminus was necessary but not sufficient for interaction with zeta and both Fyn kinase and SH2 domains were required, directing phosphorylation of zeta ITAM tyrosines and binding to zeta ITAM phosphotyrosines.

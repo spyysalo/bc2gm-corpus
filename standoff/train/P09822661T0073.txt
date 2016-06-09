@@ -1,0 +1,1 @@
+Quinone-binding domain and amino acid residues involved in quinone binding.

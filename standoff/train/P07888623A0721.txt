@@ -1,0 +1,1 @@
+PMEK1 displays 96 and 80% identity respectively with the tobacco NTF3 and Arabidopsis ATMPK1 kinases, and only 50% to the more distantly related plant MAP kinase MsERK1 from alfalfa.

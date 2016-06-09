@@ -1,0 +1,1 @@
+This study demonstrates that inducible expression in response to either PMA or TPO is mediated through the Ets site in the proximal promoter of GPIX and is dependent upon the upstream activation of MAPK/extracellular signal-regulated kinase.

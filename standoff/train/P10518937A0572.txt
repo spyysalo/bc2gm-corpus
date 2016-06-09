@@ -1,0 +1,1 @@
+The expression analysis of the KlHIS4 gene under phosphate starvation or high adenine supply shows that factors, such as Bas1 or Bas2, involved in the basal control may also operate in a different way in K. lactis.

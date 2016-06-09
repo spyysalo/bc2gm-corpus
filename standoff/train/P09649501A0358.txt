@@ -1,0 +1,1 @@
+We have used the hydrophobic repeats of the HSF1 trimerization domain in the yeast two-hybrid protein interaction assay to identify heat shock factor binding protein 1 (HSBP1), a novel, conserved, 76-amino-acid protein that contains two extended arrays of hydrophobic repeats that interact with the HSF1 heptad repeats.

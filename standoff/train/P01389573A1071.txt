@@ -1,0 +1,1 @@
+TBPf is defined as a quotient of the difference of the first and the second measurement: TBPf = (P1 - P2)/(A1 - A2).

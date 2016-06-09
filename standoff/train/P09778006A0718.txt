@@ -1,0 +1,1 @@
+After measuring baseline Vmca at a partial pressure of carbon dioxide in arterial blood (PaCO2) of 37.7 +/- 4.5 mmHg (mean +/- SD), measurements were repeated at a PaCO of 44.2 +/- 3.8 mmHg, and the carbon dioxide reactivity (absolute value: cm x s(-1) x mmHg(-1); relative value: percentage of baseline Vmca/mmHg) was calculated.

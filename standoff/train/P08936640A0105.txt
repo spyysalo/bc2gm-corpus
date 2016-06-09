@@ -1,0 +1,1 @@
+DATA SOURCES: Epidemiologic studies, research studies, review articles, and government reports pertaining to epidemiology of lung cancer.

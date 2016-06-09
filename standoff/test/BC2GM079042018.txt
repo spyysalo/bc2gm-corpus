@@ -1,0 +1,1 @@
+Historically, Cyps were first identified by their ability to bind the immunosuppressive agent cyclosporin A (CsA) with high affinity; they later were found to have peptidyl-prolyl cis-trans isomerase (PPIase) activity, which catalyzes the folding of oligopeptides at proline-peptide bonds in vitro and may be important for protein folding in vivo.

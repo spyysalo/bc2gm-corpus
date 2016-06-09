@@ -1,0 +1,1 @@
+The efficiency of transfections was normalized relative to the net amount of CAT plasmid actually transfected into recipient cells, determined by a modified Southern hybridization procedure.

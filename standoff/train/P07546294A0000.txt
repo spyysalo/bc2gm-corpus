@@ -1,0 +1,1 @@
+The RAD6/UBC2 gene from Saccharomyces cerevisiae encodes a ubiquitin-conjugating enzyme involved in DNA repair, induced mutagenesis, and sporulation.

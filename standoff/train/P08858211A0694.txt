@@ -1,0 +1,1 @@
+This GAP activity was observed in 3T3-L1 adipocyte lysates, and was able to accelerate the hydrolysis of the [alpha-32P]GTP bound to GST-Rab4 into [alpha-32P]GDP.

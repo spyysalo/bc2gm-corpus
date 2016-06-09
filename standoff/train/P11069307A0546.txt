@@ -1,0 +1,1 @@
+Inhibition of RNA2 translation was selective, with no effect on general cellular translation or translation of BMV RNA1-encoded replication factor 1a, and was independent of p20, a cellular antagonist of DED1 function in translation.

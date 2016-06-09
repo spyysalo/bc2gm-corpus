@@ -1,0 +1,1 @@
+In contrast, injection of a plasmid encoding simian virus 40 small t antigen, which interacts with PP2A to inhibit its activity towards several phosphoprotein substrates, had no effect on the phosphorylation state of CREB in stimulated or unstimulated NIH 3T3 cells.

@@ -1,0 +1,1 @@
+Replacement of a valine (V68) in the ETS domain of SAP1a by aspartic acid (as found in c-Ets-1, Elk-1, and Net) enhanced ternary complex formation by more than 60-fold.

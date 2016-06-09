@@ -1,0 +1,1 @@
+The Nostoc petBD genes are not closely linked to the psbB gene (encoding the 51-kDa photosystem II polypeptide) and do not contain introns as do the closely related chloroplast genes.

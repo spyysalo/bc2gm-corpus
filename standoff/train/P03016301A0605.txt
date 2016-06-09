@@ -1,0 +1,1 @@
+Among the v-myc codons, the first 5 are derived from the noncoding 5' terminus of the second c-myc exon, and 412 codons correspond to the c-myc coding region.

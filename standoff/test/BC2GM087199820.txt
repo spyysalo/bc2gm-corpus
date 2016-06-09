@@ -1,0 +1,1 @@
+Further, cells cotransfected with a UF promoter-luciferase (-1935UF-Luc) reporter gene and the BTEB expression vector had 2-fold higher Luc activity than those cotransfected with reporter gene and pcDNA-3.

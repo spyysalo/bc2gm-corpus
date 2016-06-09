@@ -1,0 +1,1 @@
+The CydDC system appears to be the first prokaryotic example of a heterodimeric ABC transport system in which each polypeptide contains both hydrophobic and ATP-binding domains.

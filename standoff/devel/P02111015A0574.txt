@@ -1,0 +1,1 @@
+The N-terminal 115 amino acids correspond to a putative DNA-binding domain and show significant sequence similarity with other cloned IFN response factors (IRF-1 and IRF-2).

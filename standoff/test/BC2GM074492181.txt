@@ -1,0 +1,1 @@
+The map is based on the CEPH reference pedigrees and includes over 4000 new genotypes, our previously reported data plus 29 allele systems from the published CEPH version 5 database, and was constructed using the program package CRI-MAP.

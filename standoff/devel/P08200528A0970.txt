@@ -1,0 +1,1 @@
+This strategy was used to place both the Tn903 neo gene and the Rhodosporidium toruloides phenylalanine ammonia lyase (PAL)-encoding gene under the transcriptional control of pPGK::REP2.

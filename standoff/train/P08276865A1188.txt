@@ -1,0 +1,1 @@
+The kinase inhibitor staurosporine (1 microM) blocks LPA-induced, but not epidermal growth factor-induced, activation of p21ras and MAP kinase, consistent with an intermediate protein kinase linking the LPA receptor to p21ras activation.

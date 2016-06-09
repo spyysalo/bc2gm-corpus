@@ -1,0 +1,1 @@
+Correlation coefficients between SF thickness and NIR optical density readings at 940 nm (OD1) and 950 nm (OD2) wavelengths ranged from r = -0.30 (subscapula) to r = -0.67 (biceps) for OD1 and r = -0.39 (axilla) to r = -0.68 (biceps) for OD2.

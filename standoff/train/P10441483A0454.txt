@@ -1,0 +1,1 @@
+Oligonucleotide probes corresponding to wild-type and mutant EpRE sequences were used in gel-shift and super-shift analyses to identify proteins binding.

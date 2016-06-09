@@ -1,0 +1,1 @@
+To identify cis-acting elements that target c-myc mRNA for downregulation during myogenesis, we stably transfected C2C12 cells with mutant myc genes or chimeric genes in which various myc sequences were fused to the human beta-globin gene or to the bacterial chloramphenicol acetyltransferase (CAT) gene.

@@ -1,0 +1,1 @@
+FN-stimulated c-Src PTK activity was enhanced by wild type FAK expression, whereas FN-stimulated activation of ERK2 was blocked by expression of the c-Src binding site Phe-397 mutant of FAK.

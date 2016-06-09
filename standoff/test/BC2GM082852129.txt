@@ -1,0 +1,1 @@
+The encoded Arabidopsis U3 snRNAs can be folded into a secondary structure which is more similar to that of U3 RNAs from lower eukaryotes rather than from metazoa.

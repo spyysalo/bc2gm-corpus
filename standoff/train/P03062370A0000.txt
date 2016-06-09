@@ -1,0 +1,1 @@
+GCN4 encodes a transcriptional activator of amino acid biosynthetic genes in Saccharomyces cerevisiae.

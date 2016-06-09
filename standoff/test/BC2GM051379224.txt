@@ -1,0 +1,1 @@
+Additional simulations account for interactions of spatial frequency with stimulus duration, effects of adaptation, and properties of residual traces, as opposed to visual persistence.

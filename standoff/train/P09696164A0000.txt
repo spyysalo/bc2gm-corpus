@@ -1,0 +1,1 @@
+A safe and simple system for the detection of sudden infant death syndrome (SIDS) is proposed.

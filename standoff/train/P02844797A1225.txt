@@ -1,0 +1,1 @@
+Whereas the muscle isoform consists of 997 amino acids and terminates with the sequence Ala-Ile-Leu-Glu, the second isoform is 1043 amino acids in length due to the replacement of these last 4 amino acids with a 50-amino acid sequence that contains a potential transmembrane domain followed by a consensus sequence for an N-linked glycosylation site.

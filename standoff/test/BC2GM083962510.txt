@@ -1,0 +1,1 @@
+To investigate the role of bHLH proteins in MC3T3-E1 osteoblasts, which undergo a developmental sequence in vitro, we analyzed the transcriptional control of osteocalcin gene expression by stable transfection of an osteocalcin promoter-luciferase chimeric gene (p637OC-luc) and assessed the role of E-box cis-acting elements in osteocalcin promoter by DNA binding assays.

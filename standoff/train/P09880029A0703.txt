@@ -1,0 +1,1 @@
+Six putative MDV genome products, including one Rep and five non-Rep proteins, show high (70.4-90.9%) amino acid identity to the corresponding six FBNYV proteins, whereas two other Rep proteins encoded by MDV-C2 and C3 are 82.3% and 73.0% identical to those encoded by SCSV-C2 and C6, respectively.

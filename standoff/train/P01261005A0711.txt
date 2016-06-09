@@ -1,0 +1,1 @@
+However, we did detect lot-to-lot variation and differences in performance between narrow bandpass and wide bandpass spectrophotometers.

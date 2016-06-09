@@ -1,0 +1,1 @@
+5) We've noticed that the mean value of the cost for episode of pnx s. in class A was more than 15% compared to class B and the cost for patient in class A was nearly double than in class B.

@@ -1,0 +1,1 @@
+However, only complete DnaJ can cooperate with DnaK and a third protein, GrpE, in refolding denatured firefly luciferase.

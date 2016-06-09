@@ -1,0 +1,1 @@
+The protein encoded by the fruA transcript is well conserved with the D. melanogaster type A protein, particularly the BTB protein-protein-binding domain, which is encoded by exons I and II and is 100% conserved.

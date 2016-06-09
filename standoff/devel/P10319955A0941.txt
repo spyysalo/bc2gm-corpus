@@ -1,0 +1,1 @@
+We calculated differences in late occlusion rates by the chi2 (chi-square) test, and found these differences were significant (P=.04).

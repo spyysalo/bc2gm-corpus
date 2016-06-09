@@ -1,0 +1,1 @@
+Comparison of the sequences of the alpha-like DNA polymerases including E. coli DNA polymerase II showed that there were nine highly conserved regions, and we constructed an unrooted phylogenetic tree of the DNA polymerases based on the differences in these conserved regions.

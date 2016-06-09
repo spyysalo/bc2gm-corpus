@@ -1,0 +1,1 @@
+Three classes of test objects were considered: (1) a multicompartment test object for 31P MRS measurements performed with slice-selective sequences; (2) a two-compartment test object for volume-selection 1H MRS; and (3) two-compartment test objects for assessing the performance of experimental systems using ISIS as volume localization sequence in 31P MRS.

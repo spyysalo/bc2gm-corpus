@@ -1,0 +1,1 @@
+A model for the SMase-sphingomyelin complex structure was built to investigate how the SMase specifically recognizes its substrate.

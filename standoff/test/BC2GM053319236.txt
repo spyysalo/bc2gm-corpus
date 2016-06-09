@@ -1,0 +1,1 @@
+Detailed comparison of the sequences of cp35 and human calpactin II shows that the only substantial sequence dissimilarity is a domain encoding amino acids between residues 20 and 40 which includes a tyrosine phosphorylation site in the human molecule, along with other residues of possible physiological significance.

@@ -1,0 +1,1 @@
+Assays of APRE-luciferase reporter plasmids transfected into HepG2 cells show that a mutated APRE that binds only BPi functions as an IL-1 alpha inducible enhancer, whereas a mutated APRE that binds only BPc does not.

@@ -1,0 +1,1 @@
+The results demonstrate (i) that the selenocysteine-specific UGA codon is readily suppressed under conditions where the homologous SelB protein is absent and (ii) that apart from the specificity of the SelB-mRNA interaction, a structural compatibility of the quaternary complex with the ribosome is required.

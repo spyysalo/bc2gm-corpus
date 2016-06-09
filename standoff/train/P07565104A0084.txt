@@ -1,0 +1,1 @@
+The expression of the pilin gene, tcpA, is dependent upon ToxR and upon ToxT.

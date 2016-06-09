@@ -1,0 +1,1 @@
+We have improved our system for nuclear contour digitization and determined its theoretical limitations by digitizing standardized objects.

@@ -1,0 +1,1 @@
+In order to quantify these effects, tests were conducted in the NASA MSFC Neutral Buoyancy Simulator, in the NASA KC-135 in parabolic flight, and in space with the EASE program during the Shuttle Atlantis mission 61-B .

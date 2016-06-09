@@ -1,0 +1,1 @@
+CONCLUSIONS: While INR correction may be achieved by all the above methods, that relating log reference INR to log local prothrombin time by linear regression analysis is the simplest to perform.

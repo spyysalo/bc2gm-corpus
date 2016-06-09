@@ -1,0 +1,1 @@
+A 360-bp DNA fragment located over 500 bp upstream from the cfl transcriptional start site was used in DNase I protection assays to define the specific bases bound by CorR.

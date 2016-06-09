@@ -1,0 +1,1 @@
+Because ATF-1 and CREM are known to bind to cAMP response elements (CRE), this functional sequence was named the kappa E3'-CRE.

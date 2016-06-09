@@ -1,0 +1,1 @@
+Using an RNase H protection assay and specific blocking oligonucleotides, we find that recognition of the 5' splice-site (5'ss) and branchpoint sequence (BPS) elements by U11 and U12 snRNPs, respectively, displays strong cooperativity, requiring both sites in the pre-mRNA substrate for efficient complex formation.

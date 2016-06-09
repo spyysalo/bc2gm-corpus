@@ -1,0 +1,1 @@
+Strains carrying a snf1 mutation are unable to grow on sucrose, galactose, maltose, melibiose, or nonfermentable carbon sources; utilization of these carbon sources is regulated by glucose repression.

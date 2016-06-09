@@ -1,0 +1,1 @@
+These include urinalysis, chest X-P, ECG, hematological examinations (RBC, WBC, Ht, Hb, PLT and ESR) and biochemical tests (AST, ALT, ALP, gamma GTP, LDH, CPK, Chol, T-Bil, TP, Alb, TG, BUN, Cr, Glu, Na, K, Ca, P and CRP).

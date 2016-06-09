@@ -1,0 +1,1 @@
+This construct, termed pDeltaCREC/EBP, binds C/EBPalpha and beta but not CREB, yet it confers a nearly complete glucocorticoid response when transiently transfected into H4IIE rat hepatoma cells.

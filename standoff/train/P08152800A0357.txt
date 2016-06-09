@@ -1,0 +1,1 @@
+Since the ETS domain, which is localized in the carboxy terminal region of the encoded protein, is 95% and 96% identical to that of PEA3 and ER81, respectively, we named this new member 'Ets Related Molecule PEA3-like' (ERM).

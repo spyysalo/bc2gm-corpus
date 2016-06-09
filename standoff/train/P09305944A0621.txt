@@ -1,0 +1,1 @@
+By analyzing the RanGAP activity of a series of recombinantly expressed rna1p mutant derivatives, we show that the highly acidic sequence in the C-terminal domain of both yeast proteins is indispensable for activating Ran-mediated GTP hydrolysis.

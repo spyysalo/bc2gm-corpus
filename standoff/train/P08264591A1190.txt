@@ -1,0 +1,1 @@
+These data indicate that the largest subunit of RNA polymerase II and TFIIB are important determinants of transcription start site selection in S. cerevisiae and suggest that this function might be conferred by interaction between these two proteins.

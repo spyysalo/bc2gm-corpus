@@ -1,0 +1,1 @@
+Using the same electrical analog, we present an analysis that allows calculation of these parameters, as well as the corner frequency of the network (f1), without need for similar assumptions.

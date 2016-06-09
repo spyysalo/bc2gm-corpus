@@ -1,0 +1,1 @@
+The spacing of the essential N-terminal domain (END) relative to the HFD can be changed significantly without an apparent effect on Cse4p function.

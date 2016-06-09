@@ -1,0 +1,1 @@
+The 132-bp PHO8p fragment, connected at position -281 of the 5' upstream region of a HIS5'-'lacZ fused gene, could sense Pi signals in vivo, but a 20-bp synthetic oligonucleotide having the same sequence from -544 to -525 of the PHO8p DNA could not.

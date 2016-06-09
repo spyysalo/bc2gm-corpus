@@ -1,0 +1,1 @@
+MAPKK kinase/MEKK phosphorylates and activates its downstream protein kinase, MAPK kinase/MEK, which in turn activates MAPK.

@@ -1,0 +1,1 @@
+A beta2 RARE reporter construct in which the methylation-susceptible cytosines in the sense strand were replaced by thymine displayed marked loss of activity in a replicated chromatin-dependent manner.

@@ -1,0 +1,1 @@
+Different thermoluminescent detectors (TLD) have been used to measure the contribution of the low linear energy transfer component (LET < 10 keV/micrometer) and plastic nuclear track detectors (PNTD) for the high linear energy tranfer (LET) component.

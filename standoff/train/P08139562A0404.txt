@@ -1,0 +1,1 @@
+In this report, we present two lines of evidence that all ribosomes which synthesize GCN4 have previously translated uORF1, resumed scanning, and reinitiated at the GCN4 start site.

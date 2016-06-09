@@ -1,0 +1,1 @@
+To confirm the GapIII protein activity, constructs containing different GapIII-GRD domains were transformed into iral mutant yeast to determine their relative ability to replace IRA1 functionally.

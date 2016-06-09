@@ -1,0 +1,1 @@
+Clipping resulted in a serious mislocalization of the position of the peak of the epicortical potential field.

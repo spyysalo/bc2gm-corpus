@@ -1,0 +1,1 @@
+We observed that dephosphorylation severely inhibits the DNA-binding ability of C/EBP-delta and its transactivating potential increases in the presence of cellular phosphatase inhibitors, such as okadaic acid and sodium orthovanadate.

@@ -1,0 +1,1 @@
+We have compared the ability of GST-Bem3 to serve as a GAP for Cdc42Hs relative to other members of the rho-GAP subfamily and found the following order of potency: human platelet Cdc42Hs GAP > p190 > Bem3 > break point cluster region protein, whereas p85, like Bem2, shows no GAP activity or any ability to bind to the GTP-bound form of Cdc42Hs.

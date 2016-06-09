@@ -1,0 +1,1 @@
+This C-terminal domain contains several YxxI/L motifs reminiscent of LMP2A and a putative TRAF binding site as in LMP1.

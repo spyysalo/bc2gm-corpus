@@ -1,0 +1,1 @@
+Using Scheffe's procedure as an illustration, comparisons are made to usual sample size methods that incorrectly ignore the stochastic nature of S2p.

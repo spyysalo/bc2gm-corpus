@@ -1,0 +1,1 @@
+Although isl-1 binds to both the insulin and amylin gene promoter elements in vitro, these sequences display marked differences in their relative transcriptional properties when ligated adjacent to a heterologous promoter and transfected into InR1 -G9 islet cells.

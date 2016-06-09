@@ -1,0 +1,1 @@
+To clone cDNAs for the beta subunit of rabbit eIF-2B, amino acid sequence data was first obtained and used to design redundant oligonucleotide primers for use in PCR.

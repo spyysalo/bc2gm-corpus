@@ -1,0 +1,1 @@
+We show that IL-6 activates JRE-IL6 through an H7-sensitive pathway that does not involve protein kinase C, cyclic AMP-dependent kinase, Ca(2+)- or calmodulin-dependent kinases, Ras, Raf-1, or NF-IL6 (C/EBP beta).

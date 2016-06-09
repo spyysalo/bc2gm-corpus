@@ -1,0 +1,1 @@
+Inactivation of Ulp2 also suppresses several ulp1(ts) defects, and the double mutant accumulates far fewer Smt3-protein conjugates than either single mutant.

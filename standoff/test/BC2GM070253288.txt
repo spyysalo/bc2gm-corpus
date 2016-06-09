@@ -1,0 +1,1 @@
+Detailed analysis of the predicted amino acid sequence revealed sequence elements which are conserved in many DNA and RNA polymerases.

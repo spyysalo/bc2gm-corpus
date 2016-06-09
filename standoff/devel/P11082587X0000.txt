@@ -1,0 +1,1 @@
+Effects of spatial and temporal smoothing on stimulated brillouin scattering in the independent-hot-spot model limit The influence of laser beam smoothing on stimulated Brillouin backscattering (SBBS) is studied analytically in the limit of the independent hot spot model.

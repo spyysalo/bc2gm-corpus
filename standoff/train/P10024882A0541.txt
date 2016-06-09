@@ -1,0 +1,1 @@
+In addition, we also show that cdk7 may phosphorylate the carboxy-terminal domain (CTD) of RNA pol II in the absence of promoter opening.

@@ -1,0 +1,1 @@
+Since very recent scanning-deletion analysis indicates that there is a critical region for activity near Cys-118 and that Cys-118 is necessary for maximal activity, we conclude that the Cys-118 residue is necessary for proper glycosylation and maximal biologic activity of GM-CSF.

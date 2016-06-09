@@ -1,0 +1,1 @@
+Here we report that components of the Ras/Raf/MAPK pathway are constitutively activated in these lck-transformed immature thymoblasts. p56(lck) utilizes Shc and Grb2 adaptors to mediate activation of p21(ras) in the thymoblast lines by promoting tyrosine phosphorylation of the Shc protein and constitutive interaction between Shc and Grb2.

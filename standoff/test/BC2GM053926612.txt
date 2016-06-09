@@ -1,0 +1,1 @@
+LAC9 is a DNA-binding protein that regulates transcription of the lactose-galactose regulon in Kluyveromyces lactis.

@@ -1,0 +1,1 @@
+The present study demonstrates that the proto-oncogene c-jun represses transcription of the human CG alpha and CG beta promoters. c-Jun repressed the CG alpha promoter through a canonical cAMP response element (CRE) that is known to bind c-Jun and other members of the B-Zip transcription factor family.

@@ -1,0 +1,1 @@
+Constructs designed and expressed were E2L1(1-98), E2L1.H1(1-128), E2L2(120-233), E2H1.L2(98-233), and E2L1.H1.L2(1-233), where numbers in parentheses give the amino acid sequence for the portions of the E2 component incorporated into a construct.

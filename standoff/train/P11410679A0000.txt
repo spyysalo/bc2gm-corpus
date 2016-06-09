@@ -1,0 +1,1 @@
+The selective alteration of the genome using Cre recombinase to target the rearrangement of genes flanked by LOX recognition sequences has required the use of two separate genetic constructs in trans, one containing cre and the other containing the gene of interest flanked by LOX sites.

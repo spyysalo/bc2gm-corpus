@@ -1,0 +1,1 @@
+We find that BCL-6 POZ domain mutations that disrupt the interaction with N-CoR and SMRT no longer repress transcription.

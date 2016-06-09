@@ -1,0 +1,1 @@
+ROCK-I, Kinectin, and mDia2 can bind the wild type forms of both RhoA and Cdc42 in a GTP-dependent manner in vitro.

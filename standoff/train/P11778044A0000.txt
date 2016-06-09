@@ -1,0 +1,1 @@
+We derive joint probability density distributions for three key uncertain properties of the climate system, using an optimal fingerprinting approach to compare simulations of an intermediate complexity climate model with three distinct diagnostics of recent climate observations.

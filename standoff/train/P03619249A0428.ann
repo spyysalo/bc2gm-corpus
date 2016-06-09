@@ -1,0 +1,10 @@
+T1	GENE 112 118	HBs Ag
+T2	GENE 123 129	HBe Ag
+T3	GENE 131 139	anti-HBs
+T4	GENE 141 149	anti-HBe
+T5	GENE 154 162	anti-HBc
+T6	GENE 177 191	HBs and HBc Ag
+T7	GENE 207 218	non-A non-B
+T8	GENE 220 248	non-A, non-B Ag and antibody
+T9	GENE 250 267	anti non-A non-Bc
+T10	GENE 282 298	non-A, non-Bc Ag

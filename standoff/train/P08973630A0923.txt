@@ -1,0 +1,1 @@
+In some cases, factor-induced Rac activation results in Rho activation, and factor-induced Cdc42 activation leads to Rac activation, as determined by specific morphological changes.

@@ -1,0 +1,1 @@
+Tctex-1 binding required the first 19 amino acids of Fyn and integrity of two lysine residues within this sequence that were previously shown to be important for Fyn interactions with the immunoreceptor tyrosine-based activation motifs (ITAMs) of lymphocyte Ag receptors.

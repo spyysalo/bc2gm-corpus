@@ -1,0 +1,1 @@
+As a sequence-specific DNA binding transcription factor, p53 specifically binds to a 20-bp consensus motif 5'-PuPuPuC(A/T) (T/A)GPyPyPyPuPuPuC(A/T)(T/A)GPyPyPy-3'.

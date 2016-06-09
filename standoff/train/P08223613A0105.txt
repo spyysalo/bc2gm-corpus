@@ -1,0 +1,1 @@
+GGS1 is the same gene as TPS1 which was identified as encoding a subunit of the trehalose-6-phosphate synthase/phosphatase complex and it is allelic to the fdp1, byp1, glc6 and cif1 mutations.

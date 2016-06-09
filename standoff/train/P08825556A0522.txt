@@ -1,0 +1,1 @@
+This element, termed CREsp-a (TGACCTCA), differs by one nucleotide from a palindromic CRE (CREpal, TGACGTCA), which is known to bind CREB as a homodimer.

@@ -1,0 +1,1 @@
+We have cloned cDNA and genomic DNA for a mouse gene encoding a protein with significant sequence similarity to conserved domains found in proteins of the Spo11p family.

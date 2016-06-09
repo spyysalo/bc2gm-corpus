@@ -1,0 +1,1 @@
+This scFv was therefore used as control in experiments where another anti-Ras scFv (Y259 scFv, derived from the neutralizing anti-Ras mAb Y13-259) blocked the Ras pathway in vitro and led to tumor regression in a nude mouse model [Cochet, O., Kenigsberg, M., Delumeau, I., Virone-Oddos, A., Multon, M.C., Fridman, W.H., Schweighoffer, F., Teillaud, J.L., Tocque, B., 1998.

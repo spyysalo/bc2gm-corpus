@@ -1,0 +1,1 @@
+The predictive value of the remotely sensed map based on NDVI data appears to be better than that from forecast indices based only on climatic data.

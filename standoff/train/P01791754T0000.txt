@@ -1,0 +1,1 @@
+Mutational analysis supports a role for multiple structural features in the C-terminal secretion signal of Escherichia coli haemolysin.

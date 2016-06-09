@@ -1,0 +1,1 @@
+Gene constructs possessing the complete tat, rev (tat+ rev+) and env genes were transiently expressed in COS-1 cells as precursor SU-TM (gp160), SU.TM (gp120 x 41), and nucleolar rev protein.

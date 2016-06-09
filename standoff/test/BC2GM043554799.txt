@@ -1,0 +1,1 @@
+Two of the proteins UPRF-1 and UPRF-2 (which is apparently a proteolytic degradation product of UPRF-1) bind inefficiently to mutant versions of the UPR that are unable to confer responsiveness to unfolded proteins to the (CYC1) promoter.

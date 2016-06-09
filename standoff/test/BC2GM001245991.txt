@@ -1,0 +1,1 @@
+Although the QT duration was higher (p = 0.0001) at night, the beat-to-beat variability of this interval was lower: in the time domain (decreased standard deviation, p = 0.0005), in the frequency domain (decreased low-frequency power of the spectra, p = 0.004), and the chaotic domain (tighter clustering of the points in the Poincare plots).

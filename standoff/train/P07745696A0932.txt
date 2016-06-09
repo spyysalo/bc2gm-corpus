@@ -1,0 +1,1 @@
+Restriction mapping analysis localized this cDNA to the HHV-6A(U1102) genomic BamHI G fragment, at the right end of the unique long segment of the genome and to the SalI L and SalI O fragments within the left and right terminal direct repeat regions, respectively.

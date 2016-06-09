@@ -1,0 +1,1 @@
+At the C-terminus of the protein is a domain that contains sequences very similar to those found in the breakpoint cluster region gene product, n-chimerin, and rho GAP, all of which have been shown to possess intrinsic GAP activity on small GTPases.

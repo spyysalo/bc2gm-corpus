@@ -1,0 +1,1 @@
+To compare the PAX3 and putative PAX3-FKHR transactivation domains, we fused C-terminal test fragments to the heterologous GAL4 DNA-binding domain and tested activation of a reporter gene co-transfected into four cell types.

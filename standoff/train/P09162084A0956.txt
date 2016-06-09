@@ -1,0 +1,1 @@
+This association appears to be mediated by Src-SH2 domain, because PECAM-1 can be precipitated by a GST-Src-SH2 affinity matrix.

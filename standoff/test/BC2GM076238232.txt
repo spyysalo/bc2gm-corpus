@@ -1,0 +1,1 @@
+MsEPV genes with putative functions in prevention and repair of DNA damage include a complete base excision repair pathway (uracil DNA glycosylase, AP endonuclease, DNA polymerase beta, and an NAD+-dependent DNA ligase), a photoreactivation repair pathway (cyclobutane pyrimidine dimer photolyase), a LINE-type reverse transcriptase, and a mutT homologue.

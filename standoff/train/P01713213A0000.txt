@@ -1,0 +1,1 @@
+The protein predicted by the sequence of the human pim-1 proto-oncogene shares extensive homology with known serine/threonine protein kinases, and yet the human Pim-1 enzyme has previously been reported to exhibit protein tyrosine kinase activity both in vitro and in vivo.

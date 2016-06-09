@@ -1,0 +1,1 @@
+First, ste12Delta cells differ from cells with disruptions of the upstream signaling elements (e.g., ste4Delta, ste20Delta, ste5Delta, ste11Delta, ste7Delta, or fus3Delta kss1Delta cells) in that they clearly retain some capacity for inducing Ste3p phosphorylation.

@@ -1,0 +1,1 @@
+Analysis of chromosomal DNA sequence immediately downstream of the transposon insertion identified two open reading frames, designated csrR and csrS, which exhibited sequence similarity to bacterial two-component regulatory systems.

@@ -1,0 +1,1 @@
+Enhancers containing disrupted Ets-1 binding sites were tested in transient expression assays in the murine T-cell line EL4.E1; alterations in the LVb element affected constitutive enhancer activity, while mutation of either the LVb or LVc element disrupted phorbol ester-induced enhancer activity.

@@ -1,0 +1,1 @@
+Here we show that inhibition occurs with a NS1-Rev chimera in which the 78 amino-terminal amino acids of the NS1A protein comprising its entire RNA-binding domain is deleted, thereby establishing that this carboxyl portion of the NS1A protein can function as an independent effector domain.

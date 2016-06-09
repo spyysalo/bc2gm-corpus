@@ -1,0 +1,1 @@
+Processing of the polycistronic precursor requires nucleases also involved in rRNA processing, i.e., Rnt1p and Rat1p.

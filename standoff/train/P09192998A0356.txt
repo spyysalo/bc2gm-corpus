@@ -1,0 +1,1 @@
+Whereas the mutant enzymes terminate normally at the late terminator in T7 DNA (T(phi)) and rrnB T2, they fail to terminate at one of the termination sites of rrnB T1, and also fail to recognize the PTH and CJ signals.

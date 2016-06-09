@@ -1,0 +1,1 @@
+Especially if the number of dimensions of the samples is large, it can be said that BPN is better than k-NN in classification ability.

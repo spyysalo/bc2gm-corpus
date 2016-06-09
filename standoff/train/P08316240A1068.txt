@@ -1,0 +1,1 @@
+Analysis of the upstream untranslated region of CHL15 revealed the presence of the hexamer element, ACGCGT (an MluI restriction site) controlling both the periodic expression and coordinate regulation of the DNA synthesis genes in budding yeast.

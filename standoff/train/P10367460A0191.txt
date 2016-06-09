@@ -1,0 +1,1 @@
+The FCMS conditions were as follows: 2 kW maximum electrical power consumption, 800 V maximum capacitor voltage, 720 microseconds pulsewidth (180 microseconds rise time), and 5-30 Hz frequency.

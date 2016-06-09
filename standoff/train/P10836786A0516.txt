@@ -1,0 +1,1 @@
+To begin to characterize the role of the RNA subunits in enzyme function and substrate specificity, we swapped two hairpin structures (MRP3 and P3) between RNase MRP RNA and RNase P RNA of S. cerevisiae.

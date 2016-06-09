@@ -1,0 +1,1 @@
+The protein sequence contains seven potential N-linked glycosylation sites and a threonine/serine-rich region which is a potential site for attachment of O-linked carbohydrate.

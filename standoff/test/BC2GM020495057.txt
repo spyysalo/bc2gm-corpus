@@ -1,0 +1,1 @@
+The residual small rRNAs in [poky] appear to be synthesized via the upstream promoter(s), but are missing 37-44 nucleotides from their 5' ends, indicating either that pre-rRNAs are processed abnormally or that abnormal 5' RNA ends are unstable.

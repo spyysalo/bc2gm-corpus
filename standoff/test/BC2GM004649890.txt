@@ -1,0 +1,1 @@
+This constant expression profile, coupled with the observation that over-expression of mSin3A does not augment the anti-Myc activity of Mxi1-SR in the rat embryo fibroblast (REF) transformation assay, suggests that mSin3A is not a limiting factor in the regulation of Myc superfamily function.

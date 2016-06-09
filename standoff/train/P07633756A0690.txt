@@ -1,0 +1,1 @@
+The ARX2 procedure models the recorded signal as the sum of three signals: (a) the background EEG activity, modelled as an autoregressive process driven by a white noise; (b) a filtered version of a reference signal carrying the average information contained in each sweep; (c) a signal due to the ocular artefact propagation.

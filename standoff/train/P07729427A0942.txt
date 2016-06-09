@@ -1,0 +1,1 @@
+Deletion analysis indicates that TBP and hTAFII18 bind to distinct domains of hTAFII28. hTAFII18 also interacts with TBP, but it interacts more strongly with hTAFII28 and hTAFII30.

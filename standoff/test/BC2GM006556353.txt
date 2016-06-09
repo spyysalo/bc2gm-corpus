@@ -1,0 +1,1 @@
+To better understand the relationship between expression of an oncogene and genetic instability, we have studied a cell line expressing an activated human Ha-ras under the control of bacterial lactose operon regulatory elements for changes in methotrexate resistance and dihydrofolate reductase (dhfr) gene amplification following mutant Ha-ras induction.

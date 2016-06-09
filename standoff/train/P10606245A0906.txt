@@ -1,0 +1,1 @@
+Overexpression of CDP/cut in ROS 17/2.8 osteosarcoma cells results in repression of OC promoter activity; this repression is abrogated by mutating OC box I.

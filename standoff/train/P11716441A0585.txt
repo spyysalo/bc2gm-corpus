@@ -1,0 +1,1 @@
+ISS and the acute physiology and chronic health evaluation (APACHE II) calculated on admission.

@@ -1,0 +1,1 @@
+SF-1 does not have an N-terminal AF1 domain.

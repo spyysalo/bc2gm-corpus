@@ -1,0 +1,1 @@
+These data demonstrate the presence of a single binding site for vinculin, and at least two binding sites for FAK that are separated by an intervening stretch of 100 amino acids.

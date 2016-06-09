@@ -1,0 +1,1 @@
+Attenuation from the vit A2 consensus ERE is not necessarily dependent on DNA binding as the TR alpha DNA binding mutant was still able to inhibit E-dependent transactivation.

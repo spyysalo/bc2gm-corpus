@@ -1,0 +1,1 @@
+We have also tested Src SH2 mutants for their binding properties and have interpreted our results in light of the recent crystal structure solution for the Src SH2 domain.

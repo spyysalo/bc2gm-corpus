@@ -1,0 +1,1 @@
+On Cox proportional hazards regression adenocarcinoma (P=0.006), the development of BPF (P=0.003), older age (P=0.03) and higher pathological stage (P=0.02) were independent adverse predictors of survival.

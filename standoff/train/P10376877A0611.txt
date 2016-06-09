@@ -1,0 +1,1 @@
+Removal of each of three contiguous segments from the N-terminal half specifically inhibits the formation of 5.8Ss rRNA, whereas deleting part of the C-terminal region of the protein only blocks the production of 18S rRNA.

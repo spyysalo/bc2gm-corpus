@@ -1,0 +1,1 @@
+N0 disease is more favorable than N1 or N2 disease.

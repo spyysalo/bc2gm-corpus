@@ -1,0 +1,1 @@
+Transcription start site mapping identified the presence of an aphidicolin-sensitive late transcript arising from a TAAG motif located at -352 nucleotides and an aphidicolin-insensitive early transcript originating from a TTGT motif located 35 nucleotides downstream to a TATA box at -312 nucleotides, with respect to the +1 ATG of lef2.

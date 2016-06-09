@@ -1,0 +1,1 @@
+A stochastic version of Kernell's (1968, 1972) model with cumulative afterhyperpolarization (AHP) was simulated.

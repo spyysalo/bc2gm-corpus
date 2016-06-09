@@ -1,0 +1,1 @@
+Since MEK acts as a cytoplasmic anchor for the ERKs, the lack of a MEK interaction resulted in the aberrant nuclear localization of ERK2-Delta19-25 mutants in serum-starved cells.

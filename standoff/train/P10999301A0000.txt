@@ -1,0 +1,1 @@
+Quantitative evaluation of magneto-optical parameters is necessary in order to apply scanning near-field optical microscope (SNOM) technology to the study of magnetism on the mesoscopic scale.

@@ -1,0 +1,1 @@
+Oculus-500 is a group of high resolution imaging boards for use with IBM-AT and compatible computers.

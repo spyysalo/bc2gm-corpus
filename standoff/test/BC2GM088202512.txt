@@ -1,0 +1,1 @@
+However, FosB-L and FosB-S do not differ in all trans-regulatory properties: Trans-activation of a 5x TRE-CAT reporter construct in HeLa and NIH-3T3 cells was found with both FosB forms.

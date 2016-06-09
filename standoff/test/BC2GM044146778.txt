@@ -1,0 +1,1 @@
+In HepG2 cells, SREBP-1c mRNA and precursor protein levels were induced by treatment with 22(R)-hydroxycholesterol and 9-cis-retinoic acid, confirming that endogenous LXR-RXR activation can induce endogenous SREBP-1c expression.

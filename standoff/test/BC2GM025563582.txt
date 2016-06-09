@@ -1,0 +1,1 @@
+The Mer1 protein contains the KH motif found in some RNA-binding proteins, and RNA gel mobility shift assays demonstrate that Mer1 binds specifically to MER2 RNA.

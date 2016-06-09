@@ -1,0 +1,1 @@
+LMP-1 is targeted to the plasma membrane, where it binds TRAF, TRADD, and JAK molecules to activate NF-kappaB-, AP-1-, and STAT-dependent pathways as does CD40.

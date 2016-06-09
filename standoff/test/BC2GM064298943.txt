@@ -1,0 +1,1 @@
+Deletion mutations were constructed, removing residues 2-30, 31-60, 61-90, and 49-78 of the N-terminal cytoplasmic domain, as well as a missense mutation of a dileucine motif.

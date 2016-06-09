@@ -1,0 +1,1 @@
+Finally, we demonstrate that animals carrying a snf mutation that converts SNF from a bifunctional protein to a U1 snRNP-specific protein are viable.

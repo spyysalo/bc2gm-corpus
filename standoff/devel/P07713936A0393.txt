@@ -1,0 +1,1 @@
+Binding of meAda is necessary to activate transcription of the adaptive response genes; accordingly, in vitro transcription of aidB is dependent on the presence of meAda.

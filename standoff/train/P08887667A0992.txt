@@ -1,0 +1,1 @@
+The requirement of Tyr-19 dephosphorylation for spindle assembly is also observed under conditions in which spindle formation is independent of mitosis, suggesting that the involvement of Cdc28/Clb kinase in SPB separation is direct.

@@ -1,0 +1,1 @@
+The AmyI specific 3'-UTR is characterized by the absence of IR sequences and the presence of a putative 'AATAAA' polyadenylation signal.

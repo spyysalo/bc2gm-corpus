@@ -1,0 +1,1 @@
+The git1, git3, git5, git7, git8 and git10 genes act upstream of adenylate cyclase, presumably encoding an adenylate cyclase activation pathway.

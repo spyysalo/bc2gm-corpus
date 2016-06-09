@@ -1,0 +1,1 @@
+Kss1 binds specifically to a GST-Dig1 fusion in the absence of any other yeast protein.

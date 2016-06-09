@@ -1,0 +1,1 @@
+Presently, we made chain pair switch, chimeric, and site mutant gamma delta TCRs and transfected them into TCR- mutant Jurkat T cells to examine the effects of changing the TCR gamma junctional region sequences on reactivity to prenyl pyrophosphate Ags.

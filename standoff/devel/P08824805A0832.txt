@@ -1,0 +1,1 @@
+Several of the exon boundaries correspond to the boundaries of functional domains in the p55 protein.

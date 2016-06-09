@@ -1,0 +1,1 @@
+Manifestation of superfluidity in an evolving bose-einstein condensed Gas We study the generation of excitations due to an "impurity" (static perturbation) placed into an oscillating Bose-Einstein condensed gas in the time-dependent trapping field.
