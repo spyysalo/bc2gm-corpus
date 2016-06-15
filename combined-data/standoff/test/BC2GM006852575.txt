@@ -1,0 +1,1 @@
+For evaluation of the model, simulations of physiological excitation and of pathologies (Wolff-Parkinson-White syndrome, complete AV-block, inferior wall ischaemia) were examined.

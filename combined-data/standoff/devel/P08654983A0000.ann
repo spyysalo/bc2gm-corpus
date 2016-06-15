@@ -1,0 +1,27 @@
+T1	GENE 118 124	Bs srb
+T2	GENE 118 129	Bs srb gene
+T3	GENE 121 124	srb
+T4	GENE 121 129	srb gene
+T5	GENE 164 186	mammalian SRP receptor
+T6	GENE 164 200	mammalian SRP receptor alpha-subunit
+T7	GENE 17 44	signal recognition particle
+T8	GENE 17 50	signal recognition particle (SRP)
+T9	GENE 17 63	signal recognition particle (SRP)-SRP receptor
+T10	GENE 17 69	signal recognition particle (SRP)-SRP receptor (Srb)
+T11	GENE 17 69	signal recognition particle (SRP)-SRP receptor (Srb)
+T12	GENE 17 97	signal recognition particle (SRP)-SRP receptor (Srb) system in Bacillus subtilis
+T13	GENE 174 186	SRP receptor
+T14	GENE 174 192	SRP receptor alpha
+T15	GENE 174 200	SRP receptor alpha-subunit
+T16	GENE 45 63	(SRP)-SRP receptor
+T17	GENE 45 69	(SRP)-SRP receptor (Srb)
+T18	GENE 45 76	(SRP)-SRP receptor (Srb) system
+T19	GENE 45 97	(SRP)-SRP receptor (Srb) system in Bacillus subtilis
+T20	GENE 45 102	(SRP)-SRP receptor (Srb) system in Bacillus subtilis (Bs)
+T21	GENE 46 49	SRP
+T22	GENE 51 63	SRP receptor
+T23	GENE 51 69	SRP receptor (Srb)
+T24	GENE 64 76	(Srb) system
+T25	GENE 64 97	(Srb) system in Bacillus subtilis
+T26	GENE 64 102	(Srb) system in Bacillus subtilis (Bs)
+T27	GENE 65 68	Srb

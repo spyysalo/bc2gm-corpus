@@ -1,0 +1,7 @@
+T1	GENE 135 140	nifU2
+T2	GENE 135 145	nifU2-rpoN
+T3	GENE 135 157	nifU2-rpoN superoperon
+T4	GENE 141 145	rpoN
+T5	GENE 141 157	rpoN superoperon
+T6	GENE 44 56	sigma factor
+T7	GENE 58 62	RpoN

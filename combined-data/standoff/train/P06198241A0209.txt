@@ -1,0 +1,1 @@
+These fusions are contained on plasmids which have both yeast and E. coli replication origins and selectable markers and, therefore, can be used to transform either yeast or E. coli cells.

@@ -1,0 +1,12 @@
+T1	GENE 151 155	p300
+T2	GENE 151 164	p300/CBP-ATF2
+T3	GENE 151 177	p300/CBP-ATF2 multiprotein
+T4	GENE 151 185	p300/CBP-ATF2 multiprotein complex
+T5	GENE 156 159	CBP
+T6	GENE 160 164	ATF2
+T7	GENE 32 63	Stress-Activated-Protein-Kinase
+T8	GENE 32 70	Stress-Activated-Protein-Kinase (SAPK)
+T9	GENE 32 83	Stress-Activated-Protein-Kinase (SAPK) target sites
+T10	GENE 64 83	(SAPK) target sites
+T11	GENE 65 69	SAPK
+T12	GENE 87 91	ATF2

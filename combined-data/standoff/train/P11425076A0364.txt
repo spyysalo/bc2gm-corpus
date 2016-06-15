@@ -1,0 +1,1 @@
+Since the latter is very small for physiological flows, the result is that alpha < 1 even at relatively high values of the Reynolds number (i.e., for non-negligible inertia) and we validate our perturbation theory results by comparison with a numerical integration of the full model.

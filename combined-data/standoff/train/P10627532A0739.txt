@@ -1,0 +1,1 @@
+We demonstrate that both R and Z activate the cellular stress mitogen-activated protein (MAP) kinases, p38 and JNK, resulting in phosphorylation (and activation) of the cellular transcription factor ATF2.

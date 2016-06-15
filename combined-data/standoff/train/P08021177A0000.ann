@@ -1,0 +1,11 @@
+T1	GENE 172 175	Fur
+T2	GENE 172 185	Fur repressor
+T3	GENE 172 193	Fur repressor protein
+T4	GENE 18 21	fes
+T5	GENE 18 26	fes-entF
+T6	GENE 18 34	fes-entF operons
+T7	GENE 22 26	entF
+T8	GENE 22 34	entF operons
+T9	GENE 4 13	fepA-entD
+T10	GENE 4 8	fepA
+T11	GENE 9 13	entD

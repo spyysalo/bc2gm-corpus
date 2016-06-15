@@ -1,0 +1,1 @@
+Because endogenous HSF DNA-binding activity is low and anti-hHSF1 antibody does not recognize Xenopus HSF, we employed this system for mapping regions in hHSF1 that are required for the maintenance of the monomeric state.

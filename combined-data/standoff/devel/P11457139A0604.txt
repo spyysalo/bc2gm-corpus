@@ -1,0 +1,1 @@
+Our results show that CVN specifically recognizes with nanomolar affinity Man(9)GlcNAc(2) and the D1D3 isomer of Man(8)GlcNAc(2).

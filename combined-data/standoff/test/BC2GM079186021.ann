@@ -1,0 +1,26 @@
+T1	GENE 120 124	CREM
+T2	GENE 120 129	CREM/ICER
+T3	GENE 120 138	CREM/ICER isoforms
+T4	GENE 125 129	ICER
+T5	GENE 125 138	ICER isoforms
+T6	GENE 148 152	Skp1
+T7	GENE 148 175	Skp1-Cullin-F-box ubiquitin
+T8	GENE 148 190	Skp1-Cullin-F-box ubiquitin protein ligase
+T9	GENE 148 215	Skp1-Cullin-F-box ubiquitin protein ligase subunits Cul-1 and Cul-2
+T10	GENE 153 159	Cullin
+T11	GENE 166 175	ubiquitin
+T12	GENE 166 183	ubiquitin protein
+T13	GENE 166 190	ubiquitin protein ligase
+T14	GENE 166 215	ubiquitin protein ligase subunits Cul-1 and Cul-2
+T15	GENE 191 215	subunits Cul-1 and Cul-2
+T16	GENE 200 205	Cul-1
+T17	GENE 210 215	Cul-2
+T18	GENE 243 248	Cdc34
+T19	GENE 29 33	CREM
+T20	GENE 29 38	CREM/ICER
+T21	GENE 34 38	ICER
+T22	GENE 43 48	Rad6B
+T23	GENE 43 57	Rad6B proteins
+T24	GENE 106 111	Cdc34
+T25	GENE 113 118	Rad6B
+T26	GENE 113 118	Rad6B

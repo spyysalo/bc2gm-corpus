@@ -1,0 +1,1 @@
+The sequence upstream of the rhlA promoter contains two inverted repeats which define putative binding sites for the RhlR regulator.

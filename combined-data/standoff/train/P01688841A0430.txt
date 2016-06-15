@@ -1,0 +1,1 @@
+Expression of six genes, ipaB, ipaC, invE, invG, invJ, and invK, was apparently regulated by the positive regulator virF.

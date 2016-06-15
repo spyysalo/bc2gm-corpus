@@ -1,0 +1,1 @@
+Overexpression of c-Myc in serum-starved human or mouse embryonic cells leads to apoptosis which is significantly reduced in the presence of growth factor-containing serum. c-Myc-induced apoptosis appears to be deficient in bax-null as compared with bax-wild-type mouse embryonic fibroblasts.

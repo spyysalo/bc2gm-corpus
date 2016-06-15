@@ -1,0 +1,1 @@
+Analysis of the DNA sequence upstream of the narQ gene, which encodes the second nitrate-responsive sensor-transmitter protein in Escherichia coli, revealed an open reading frame (ORF) whose product shows a high degree of similarity to a number of iron-sulfur proteins as well as to the beta subunit of glutamate synthase (gltD) of E. coli.

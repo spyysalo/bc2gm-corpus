@@ -1,0 +1,11 @@
+T1	GENE 147 174	wild-type or mutant ICP34.5
+T2	GENE 147 184	wild-type or mutant ICP34.5 promoters
+T3	GENE 160 174	mutant ICP34.5
+T4	GENE 160 184	mutant ICP34.5 promoters
+T5	GENE 167 174	ICP34.5
+T6	GENE 167 184	ICP34.5 promoters
+T7	GENE 217 250	chloramphenicol acetyltransferase
+T8	GENE 217 259	chloramphenicol acetyltransferase reporter
+T9	GENE 217 264	chloramphenicol acetyltransferase reporter gene
+T10	GENE 288 304	thymidine kinase
+T11	GENE 288 309	thymidine kinase gene

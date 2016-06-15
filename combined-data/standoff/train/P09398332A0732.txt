@@ -1,0 +1,1 @@
+Sequences required for interaction of mu2 and CTLA-4 were localized to residues, 161TTGVY in CTLA-4; this sequence is N-terminal to, but overlaps with, a previously identified SH2 binding motif, 165YVKM, involved in CTLA-4 signaling.

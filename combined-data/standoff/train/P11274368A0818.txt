@@ -1,0 +1,1 @@
+Deletion of the potential initiator element does not affect repression of the p21 promoter by c-Myc.

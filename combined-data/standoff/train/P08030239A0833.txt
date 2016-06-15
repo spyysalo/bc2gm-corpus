@@ -1,0 +1,1 @@
+65, 3829-3838, 1991), a truncated form of the IE polypeptide lacking IE amino acid residues 1-322 (and, therefore lacks the deduced transcriptional activation domain), fails to transactivate the EHV-1 tk promoter, but retains the ability to down-regulate the EHV-1 IE promoter.

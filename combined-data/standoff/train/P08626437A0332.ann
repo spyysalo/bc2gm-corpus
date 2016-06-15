@@ -1,0 +1,18 @@
+T1	GENE 0 3	Lyn
+T2	GENE 0 10	Lyn kinase
+T3	GENE 118 121	Lyn
+T4	GENE 118 136	Lyn fusion protein
+T5	GENE 152 177	recombinant human p34cdc2
+T6	GENE 164 177	human p34cdc2
+T7	GENE 170 177	p34cdc2
+T8	GENE 74 117	full-length glutathione S-transferase (GST)
+T9	GENE 74 121	full-length glutathione S-transferase (GST)-Lyn
+T10	GENE 74 128	full-length glutathione S-transferase (GST)-Lyn fusion
+T11	GENE 74 136	full-length glutathione S-transferase (GST)-Lyn fusion protein
+T12	GENE 74 111	full-length glutathione S-transferase
+T13	GENE 86 117	glutathione S-transferase (GST)
+T14	GENE 86 121	glutathione S-transferase (GST)-Lyn
+T15	GENE 86 128	glutathione S-transferase (GST)-Lyn fusion
+T16	GENE 86 136	glutathione S-transferase (GST)-Lyn fusion protein
+T17	GENE 86 111	glutathione S-transferase
+T18	GENE 113 116	GST

@@ -1,0 +1,5 @@
+T1	GENE 50 54	tscA
+T2	GENE 50 76	tscA-lacking photosystem I
+T3	GENE 50 83	tscA-lacking photosystem I mutant
+T4	GENE 63 76	photosystem I
+T5	GENE 63 83	photosystem I mutant

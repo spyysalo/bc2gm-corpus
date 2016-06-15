@@ -1,0 +1,1 @@
+Point mutations that suppressed the in vitro binding of NF-Y to the internal palindromic arm reduced the activity of the resident P4 promoter, while those preventing complex formation with USF did not, as determined by transient expression assays using the luciferase reporter gene.

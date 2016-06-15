@@ -1,0 +1,7 @@
+T1	GENE 123 127	Snf1
+T2	GENE 123 134	Snf1 kinase
+T3	GENE 31 35	Reg1
+T4	GENE 31 40	Reg1-Glc7
+T5	GENE 31 52	Reg1-Glc7 phosphatase
+T6	GENE 36 40	Glc7
+T7	GENE 36 52	Glc7 phosphatase

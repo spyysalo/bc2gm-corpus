@@ -1,0 +1,10 @@
+T1	GENE 12 29	ribosomal protein
+T2	GENE 12 34	ribosomal protein gene
+T3	GENE 12 42	ribosomal protein gene cluster
+T4	GENE 4 29	Euglena ribosomal protein
+T5	GENE 4 34	Euglena ribosomal protein gene
+T6	GENE 4 42	Euglena ribosomal protein gene cluster
+T7	GENE 57 61	S-10
+T8	GENE 57 79	S-10 ribosomal protein
+T9	GENE 57 86	S-10 ribosomal protein operon
+T10	GENE 57 106	S-10 ribosomal protein operon of Escherichia coli

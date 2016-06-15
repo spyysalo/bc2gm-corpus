@@ -1,0 +1,1 @@
+RPS14 introns 3 and 4 both contain Alu sequences.

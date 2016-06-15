@@ -1,0 +1,15 @@
+T1	GENE 124 135	22 kDa zein
+T2	GENE 124 140	22 kDa zein gene
+T3	GENE 124 150	22 kDa zein gene promoters
+T4	GENE 131 135	zein
+T5	GENE 131 140	zein gene
+T6	GENE 131 150	zein gene promoters
+T7	GENE 19 39	bZIP protein Opaque2
+T8	GENE 19 44	bZIP protein Opaque2 (O2)
+T9	GENE 24 39	protein Opaque2
+T10	GENE 24 44	protein Opaque2 (O2)
+T11	GENE 32 39	Opaque2
+T12	GENE 32 44	Opaque2 (O2)
+T13	GENE 41 43	O2
+T14	GENE 114 120	O2 box
+T15	GENE 114 116	O2

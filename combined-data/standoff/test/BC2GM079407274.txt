@@ -1,0 +1,1 @@
+Electron microscopic visualization of the general population of active genes in flies overexpressing hnRNP proteins also indicated that the great majority of genes seemed normal in terms of cotranscriptional RNA processing events, although there were a few abnormalities consistent with rare exon-skipping events.

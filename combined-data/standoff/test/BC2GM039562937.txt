@@ -1,0 +1,1 @@
+The predicted amino-acid sequence includes an N-terminal signal sequence of 27 amino acids, a 27 amino-acid pro-region, a 251 amino-acid catalytic domain typical of a serine protease with trypsin-like specificity, and a C-terminal hydrophobic extension which is predicted to function as a membrane anchor.

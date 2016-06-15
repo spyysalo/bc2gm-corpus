@@ -1,0 +1,12 @@
+T1	GENE 12 16	LZIP
+T2	GENE 4 16	GST-CBL-LZIP
+T3	GENE 4 23	GST-CBL-LZIP fusion
+T4	GENE 4 27	GST-CBL-LZIP fusion pro
+T5	GENE 4 7	GST
+T6	GENE 64 67	SH2
+T7	GENE 64 74	SH2 domain
+T8	GENE 82 126	p85 subunit of phosphatidylinositol 3-kinase
+T9	GENE 82 85	p85
+T10	GENE 82 93	p85 subunit
+T11	GENE 8 11	CBL
+T12	GENE 97 126	phosphatidylinositol 3-kinase

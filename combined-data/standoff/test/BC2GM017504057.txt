@@ -1,0 +1,1 @@
+Self-consistent calculation of the surface electronic structure of the (1 x 2) reconstructed Au(110) surface.

@@ -1,0 +1,10 @@
+T1	GENE 148 178	3' long terminal repeat (PPT1)
+T2	GENE 173 177	PPT1
+T3	GENE 206 209	pol
+T4	GENE 206 214	pol gene
+T5	GENE 222 231	integrase
+T6	GENE 222 247	integrase coding sequence
+T7	GENE 222 254	integrase coding sequence (PPT2)
+T8	GENE 249 253	PPT2
+T9	GENE 70 79	yeast Ty1
+T10	GENE 70 87	yeast Ty1 element

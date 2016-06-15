@@ -1,0 +1,15 @@
+T1	GENE 122 125	Ets
+T2	GENE 122 129	Ets/AP1
+T3	GENE 122 151	Ets/AP1 (activator protein 1)
+T4	GENE 122 159	Ets/AP1 (activator protein 1) element
+T5	GENE 126 129	AP1
+T6	GENE 126 151	AP1 (activator protein 1)
+T7	GENE 126 159	AP1 (activator protein 1) element
+T8	GENE 131 150	activator protein 1
+T9	GENE 167 170	uPA
+T10	GENE 167 179	uPA promoter
+T11	GENE 20 26	CSF-1R
+T12	GENE 229 242	oncogenic ras
+T13	GENE 239 242	ras
+T14	GENE 247 263	protein kinase C
+T15	GENE 56 61	CSF-1

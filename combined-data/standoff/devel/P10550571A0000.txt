@@ -1,0 +1,1 @@
+PURPOSE: Previous WR-2721 human pharmacokinetic studies were limited to plasma levels in patients receiving platinum-based compounds, and none includes the effects of WR-2721 on endogenous thiols.

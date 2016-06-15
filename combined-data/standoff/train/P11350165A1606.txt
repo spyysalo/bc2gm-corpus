@@ -1,0 +1,1 @@
+Changes of the DB sequence without affecting the postulated stem structure led to drastic losses of translation efficiency.

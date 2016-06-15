@@ -1,0 +1,1 @@
+We found that multiple tumor suppressor genes (e.g., p53, DCC, APC, MCC, BRCA1, and WAF1/CIP1) were inactivated at different frequencies via various mechanisms [e.g., loss of heterozygosity (LOH), loss of expression (LOE), mutation, and inactivation by cellular binding protein].

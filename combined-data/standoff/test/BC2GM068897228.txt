@@ -1,0 +1,1 @@
+4.7 +/- 0.6 micromol. kg-1. min-1) but was not changed by training.

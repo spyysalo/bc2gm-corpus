@@ -1,0 +1,1 @@
+BACKGROUND: Recent iterative methods for sequence alignment have indicated that the 380 kDa motor unit of dynein belongs to the AAA class of chaperone-like ATPases.

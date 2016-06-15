@@ -1,0 +1,1 @@
+These modifications may improve the interlaboratory reproducibility of CD34 determinations due to the reduction in sample handling and calculation of results.

@@ -1,0 +1,10 @@
+T1	GENE 0 13	LysR proteins
+T2	GENE 0 4	LysR
+T3	GENE 42 48	urease
+T4	GENE 42 72	urease in Klebsiella aerogenes
+T5	GENE 42 78	urease in Klebsiella aerogenes (NAC)
+T6	GENE 74 77	NAC
+T7	GENE 84 119	catalase in Escherichia coli (OxyR)
+T8	GENE 84 92	catalase
+T9	GENE 84 112	catalase in Escherichia coli
+T10	GENE 114 118	OxyR

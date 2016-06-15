@@ -1,0 +1,1 @@
+When comparing the barley PSI-K and PSI-G with the reported PSI-K sequence from Synechococcus vulcanus, the degree of similarity is equal, suggesting that an ancestral gene has been duplicated in a chloroplast progenitor but not in a cyanobacterial.

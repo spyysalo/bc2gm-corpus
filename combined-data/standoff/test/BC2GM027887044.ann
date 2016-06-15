@@ -1,0 +1,21 @@
+T1	GENE 174 178	AP-1
+T2	GENE 174 192	AP-1 binding sites
+T3	GENE 209 222	rat prolactin
+T4	GENE 209 228	rat prolactin TATAA
+T5	GENE 209 236	rat prolactin TATAA element
+T6	GENE 213 222	prolactin
+T7	GENE 213 228	prolactin TATAA
+T8	GENE 213 236	prolactin TATAA element
+T9	GENE 243 252	HIV-1 LTR
+T10	GENE 243 262	HIV-1 LTR construct
+T11	GENE 272 276	AP-1
+T12	GENE 272 290	AP-1 binding sites
+T13	GENE 30 34	AP-1
+T14	GENE 30 34	AP-1
+T15	GENE 40 43	Tat
+T16	GENE 8 28	Activating protein-1
+T17	GENE 8 35	Activating protein-1 (AP-1)
+T18	GENE 86 89	Jun
+T19	GENE 101 104	Tat
+T20	GENE 101 108	Tat/Jun
+T21	GENE 105 108	Jun

@@ -1,0 +1,1 @@
+The PEP4 gene was isolated from a genomic DNA library by complementation of the pep4-3 mutation.

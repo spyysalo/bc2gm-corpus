@@ -1,0 +1,1 @@
+For SMX at pH 7.0, a 1:1 complex is formed, but at pH 7.5 HPCD has little effect on the solubility of the highly ionized SMX, presumably since only un-ionized molecules can form inclusion complexes with the HPCD.

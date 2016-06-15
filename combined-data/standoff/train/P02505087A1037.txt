@@ -1,0 +1,1 @@
+Here, we alter the dimerization specificity of Fos by precisely replacing its leucine zipper with that from GCN4.

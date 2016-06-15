@@ -1,0 +1,1 @@
+Control experiments showed that each fusion protein had a high affinity binding site for estradiol-17 beta and could transactivate an ERE-LacZ reporter gene in yeast similar to the wild type ER.

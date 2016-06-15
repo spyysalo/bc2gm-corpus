@@ -1,0 +1,1 @@
+ADR1 in extracts made from glucose-repressed and -derepressed cells bound UAS1 DNA with similar affinities despite having greatly different abilities to activate ADH2 gene expression in vivo.

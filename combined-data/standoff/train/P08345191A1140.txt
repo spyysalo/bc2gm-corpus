@@ -1,0 +1,1 @@
+The peptide sequence contains a region of 80 amino acids that shows similarity to bcl-2 and to the recently described bcl-2-related gene, MCL1.

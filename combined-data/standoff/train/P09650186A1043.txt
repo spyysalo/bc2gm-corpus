@@ -1,0 +1,1 @@
+The low number of false positives indicates that our scheme would not confuse the radiologist by suggesting normal regions as suspicious.

@@ -1,0 +1,1 @@
+We demonstrate here that the -DEDDDL sequence stabilizes GDP binding to Ran, and that the domain is required for high affinity interaction with a Ran-binding protein, HTF9A/RanBP1.

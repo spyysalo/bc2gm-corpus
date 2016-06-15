@@ -1,0 +1,1 @@
+The model of the complex provides a rationale for conserved ITAM residues, substrate specificity, and suggests that substrate binds only the active conformation of the Src family tyrosine kinase, unlike the ATP cofactor, which can bind the inactive form.

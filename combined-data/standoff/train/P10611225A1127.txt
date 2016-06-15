@@ -1,0 +1,1 @@
+These data indicate that the interaction of eIF4A with the middle region of eIF4GI is necessary for translation, whereas the interaction of eIF4A with the C-terminal region plays a modulatory role.

@@ -1,0 +1,18 @@
+T1	GENE 2 20	4.8-kilobase BamHI
+T2	GENE 2 28	4.8-kilobase BamHI-HindIII
+T3	GENE 2 37	4.8-kilobase BamHI-HindIII fragment
+T4	GENE 126 131	sod-1
+T5	GENE 15 20	BamHI
+T6	GENE 15 28	BamHI-HindIII
+T7	GENE 15 37	BamHI-HindIII fragment
+T8	GENE 21 28	HindIII
+T9	GENE 21 37	HindIII fragment
+T10	GENE 51 132	entire Neurospora crassa CuZn superoxide dismutase gene (herein designated sod-1)
+T11	GENE 51 101	entire Neurospora crassa CuZn superoxide dismutase
+T12	GENE 51 106	entire Neurospora crassa CuZn superoxide dismutase gene
+T13	GENE 58 132	Neurospora crassa CuZn superoxide dismutase gene (herein designated sod-1)
+T14	GENE 58 101	Neurospora crassa CuZn superoxide dismutase
+T15	GENE 58 106	Neurospora crassa CuZn superoxide dismutase gene
+T16	GENE 76 132	CuZn superoxide dismutase gene (herein designated sod-1)
+T17	GENE 76 101	CuZn superoxide dismutase
+T18	GENE 76 106	CuZn superoxide dismutase gene

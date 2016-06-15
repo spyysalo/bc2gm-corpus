@@ -1,0 +1,11 @@
+T1	GENE 12 21	pseudo VH
+T2	GENE 12 26	pseudo VH gene
+T3	GENE 12 34	pseudo VH gene segment
+T4	GENE 12 57	pseudo VH gene segment recombination products
+T5	GENE 19 21	VH
+T6	GENE 19 26	VH gene
+T7	GENE 19 34	VH gene segment
+T8	GENE 19 57	VH gene segment recombination products
+T9	GENE 77 78	D
+T10	GENE 77 83	D gene
+T11	GENE 77 91	D gene segment

@@ -1,0 +1,1 @@
+In addition to the signals obtained by ligation of the TCR, T cells need additional, co-stimulatory signals to be activated.

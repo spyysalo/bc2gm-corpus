@@ -1,0 +1,1 @@
+High ADR1 gene dosage increased the transcription of genes encoding peroxisomal proteins as compared to one copy of the ADR1 gene.

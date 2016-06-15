@@ -1,0 +1,16 @@
+T1	GENE 123 137	(CAT) reporter
+T2	GENE 123 142	(CAT) reporter gene
+T3	GENE 124 127	CAT
+T4	GENE 175 207	SV40 virus early region promoter
+T5	GENE 21 50	chimeric long terminal repeat
+T6	GENE 21 58	chimeric long terminal repeat (chLTR)
+T7	GENE 222 252	neomycin phosphotransferase II
+T8	GENE 222 258	neomycin phosphotransferase II (NEO)
+T9	GENE 222 263	neomycin phosphotransferase II (NEO) gene
+T10	GENE 253 263	(NEO) gene
+T11	GENE 254 257	NEO
+T12	GENE 52 57	chLTR
+T13	GENE 88 122	chloramphenicol acetyl transferase
+T14	GENE 88 128	chloramphenicol acetyl transferase (CAT)
+T15	GENE 88 137	chloramphenicol acetyl transferase (CAT) reporter
+T16	GENE 88 142	chloramphenicol acetyl transferase (CAT) reporter gene

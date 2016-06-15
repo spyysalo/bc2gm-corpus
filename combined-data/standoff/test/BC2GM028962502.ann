@@ -1,0 +1,33 @@
+T1	GENE 137 149	CMV promoter
+T2	GENE 137 172	CMV promoter-driven chimeric gadd45
+T3	GENE 137 198	CMV promoter-driven chimeric gadd45 5"-UTR-rabbit beta-globin
+T4	GENE 157 172	chimeric gadd45
+T5	GENE 157 198	chimeric gadd45 5"-UTR-rabbit beta-globin
+T6	GENE 157 203	chimeric gadd45 5"-UTR-rabbit beta-globin gene
+T7	GENE 166 172	gadd45
+T8	GENE 166 198	gadd45 5"-UTR-rabbit beta-globin
+T9	GENE 166 203	gadd45 5"-UTR-rabbit beta-globin gene
+T10	GENE 180 198	rabbit beta-globin
+T11	GENE 180 203	rabbit beta-globin gene
+T12	GENE 187 198	beta-globin
+T13	GENE 187 203	beta-globin gene
+T14	GENE 215 235	entire gadd45 5"-UTR
+T15	GENE 215 253	entire gadd45 5"-UTR (from +1 to +298)
+T16	GENE 222 228	gadd45
+T17	GENE 222 235	gadd45 5"-UTR
+T18	GENE 222 253	gadd45 5"-UTR (from +1 to +298)
+T19	GENE 284 290	gadd45
+T20	GENE 284 297	gadd45 5"-UTR
+T21	GENE 284 315	gadd45 5"-UTR (from +10 to +55)
+T22	GENE 352 370	rabbit beta-globin
+T23	GENE 352 375	rabbit beta-globin gene
+T24	GENE 352 375	rabbit beta-globin gene
+T25	GENE 359 370	beta-globin
+T26	GENE 359 375	beta-globin gene
+T27	GENE 72 84	CMV promoter
+T28	GENE 72 110	CMV promoter-driven rabbit beta-globin
+T29	GENE 72 115	CMV promoter-driven rabbit beta-globin gene
+T30	GENE 92 110	rabbit beta-globin
+T31	GENE 92 115	rabbit beta-globin gene
+T32	GENE 99 110	beta-globin
+T33	GENE 99 115	beta-globin gene

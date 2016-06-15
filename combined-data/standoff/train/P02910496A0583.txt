@@ -1,0 +1,1 @@
+A decamer sequence, 5'-CGA-CCCCUCC-3', complementary to a conserved sequence adjacent to the enzymatic cleavage site on the mitochondrial RNA substrate, is present in the RNAase MRP RNA.

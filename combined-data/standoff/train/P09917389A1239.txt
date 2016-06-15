@@ -1,0 +1,1 @@
+The pattern of RNase E digestion of finP305 RNA differed from FinP, and GST-FinO did not protect finP305 RNA from cleavage in vitro.

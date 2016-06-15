@@ -1,0 +1,1 @@
+However, while IL-1beta and TNF-alpha both induced nuclear binding of the Rel proteins p50 and p65 to an NF-kappaB consensus oligonucleotide in gel shift assays and caused transient degradation of inhibitor of NF-kappaB-alpha (IkappaB-alpha) in the cytoplasm of myofibroblasts, only IL-1beta upregulated PDGF-Ralpha.

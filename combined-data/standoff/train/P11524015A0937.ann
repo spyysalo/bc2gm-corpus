@@ -1,0 +1,10 @@
+T1	GENE 21 27	BZAP45
+T2	GENE 48 50	H4
+T3	GENE 48 59	H4 promoter
+T4	GENE 48 75	H4 promoter (nt -215 to -1)
+T5	GENE 48 79	H4 promoter (nt -215 to -1)/CAT
+T6	GENE 48 88	H4 promoter (nt -215 to -1)/CAT reporter
+T7	GENE 48 93	H4 promoter (nt -215 to -1)/CAT reporter gene
+T8	GENE 76 79	CAT
+T9	GENE 76 88	CAT reporter
+T10	GENE 76 93	CAT reporter gene

@@ -1,0 +1,1 @@
+Although the expression of the 4E-BP1 gene alone has not yet been accomplished, the gene was expressed in Escherichia coli [BL21(DE3)] as a fusion gene with the glutathione-S-transferase (GST) gene using a prokaryotic gene fusion vector (pGEX-4T-2), which contains a gene sequence coding the cleavage site for a specific protease, alpha-thrombin.

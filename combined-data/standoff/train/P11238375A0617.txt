@@ -1,0 +1,1 @@
+We found that RhoA can initiate a linear kinase cascade leading to the activation of ERK6 (p38 gamma), a recently identified member of the p38 family of MAPKs.

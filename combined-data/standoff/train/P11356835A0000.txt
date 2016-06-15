@@ -1,0 +1,1 @@
+Saccharomyces cerevisiae activates a regulatory network called "general control" that provides the cell with sufficient amounts of protein precursors during amino acid starvation.

@@ -1,0 +1,1 @@
+Instead, the large difference in ssDNA-binding affinities reflects the loss of hexamerization ability by uvsY, suggesting that a form of intrahexamer synergism or cooperativity between binding sites within the uvsY hexamer leads to its high observed affinity for ssDNA.

@@ -1,0 +1,1 @@
+As an application of reverse genetics, we introduced one nucleotide change (UCU to ACU) to immediate downstream of the RNA-editing site of the V gene in the full-length hPIV2 cDNA and were able to obtain infectious viruses [rPIV2V(-)] from the cDNA.

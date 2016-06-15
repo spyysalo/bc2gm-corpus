@@ -1,0 +1,1 @@
+Paradoxically, coexpression of the transcriptionally inactive, amino-terminally deleted IDX-1 mutant proteins, either with the wild-type IDX-1 or with themselves, results in a marked enhancement of transactivation of the transcriptional TAAT-1 element reporter.

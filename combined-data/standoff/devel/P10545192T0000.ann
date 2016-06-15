@@ -1,0 +1,9 @@
+T1	GENE 0 29	Phosphatidylinositol 3-kinase
+T2	GENE 63 66	ras
+T3	GENE 63 82	ras/C-raf-1/MEK/ERK
+T4	GENE 67 74	C-raf-1
+T5	GENE 75 78	MEK
+T6	GENE 79 82	ERK
+T7	GENE 87 90	p70
+T8	GENE 87 95	p70(s6k)
+T9	GENE 91 94	s6k

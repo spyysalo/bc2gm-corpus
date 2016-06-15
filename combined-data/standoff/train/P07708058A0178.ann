@@ -1,0 +1,11 @@
+T1	GENE 120 125	c-jun
+T2	GENE 120 135	c-jun homodimer
+T3	GENE 140 145	c-jun
+T4	GENE 140 151	c-jun/c-fos
+T5	GENE 140 163	c-jun/c-fos heterodimer
+T6	GENE 146 151	c-fos
+T7	GENE 79 98	activator protein-1
+T8	GENE 79 105	activator protein-1 (AP-1)
+T9	GENE 79 111	activator protein-1 (AP-1) motif
+T10	GENE 99 111	(AP-1) motif
+T11	GENE 100 104	AP-1

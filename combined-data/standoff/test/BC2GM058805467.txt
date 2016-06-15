@@ -1,0 +1,1 @@
+This model system exploits the polyomavirus late transcription termination and polyadenylation signals, which are sufficiently weak to allow the production of many multigenome-length primary transcripts with repeating introns, exons, and poly(A) sites.

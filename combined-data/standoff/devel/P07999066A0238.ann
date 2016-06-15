@@ -1,0 +1,15 @@
+T1	GENE 16 19	tat
+T2	GENE 171 174	tat
+T3	GENE 171 179	tat gene
+T4	GENE 259 263	IL-2
+T5	GENE 259 272	IL-2 promoter
+T6	GENE 259 306	IL-2 promoter-chloramphenicol acetyltransferase
+T7	GENE 259 315	IL-2 promoter-chloramphenicol acetyltransferase reporter
+T8	GENE 259 326	IL-2 promoter-chloramphenicol acetyltransferase reporter constructs
+T9	GENE 273 306	chloramphenicol acetyltransferase
+T10	GENE 273 315	chloramphenicol acetyltransferase reporter
+T11	GENE 273 326	chloramphenicol acetyltransferase reporter constructs
+T12	GENE 60 69	viral LTR
+T13	GENE 92 96	IL-2
+T14	GENE 92 101	IL-2 gene
+T15	GENE 12 19	HIV tat

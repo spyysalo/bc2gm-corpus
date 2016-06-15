@@ -1,0 +1,1 @@
+Egd1p is homologous to human BTF3b, recently identified as the beta subunit of the heterodimeric nascent-polypeptide-associated complex (NAC) involved in ensuring signal-sequence-specific protein sorting and translocation [Wiedmann et al., Nature 370 (1994) 434-440].

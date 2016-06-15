@@ -1,0 +1,20 @@
+T1	GENE 146 193	stress kinases stress-activated protein kinases
+T2	GENE 146 201	stress kinases stress-activated protein kinases (SAPKs)
+T3	GENE 146 226	stress kinases stress-activated protein kinases (SAPKs)/c-Jun N-terminal kinases
+T4	GENE 146 233	stress kinases stress-activated protein kinases (SAPKs)/c-Jun N-terminal kinases (JNKs)
+T5	GENE 161 193	stress-activated protein kinases
+T6	GENE 161 201	stress-activated protein kinases (SAPKs)
+T7	GENE 161 226	stress-activated protein kinases (SAPKs)/c-Jun N-terminal kinases
+T8	GENE 161 233	stress-activated protein kinases (SAPKs)/c-Jun N-terminal kinases (JNKs)
+T9	GENE 194 226	(SAPKs)/c-Jun N-terminal kinases
+T10	GENE 194 233	(SAPKs)/c-Jun N-terminal kinases (JNKs)
+T11	GENE 195 200	SAPKs
+T12	GENE 202 226	c-Jun N-terminal kinases
+T13	GENE 202 233	c-Jun N-terminal kinases (JNKs)
+T14	GENE 228 232	JNKs
+T15	GENE 29 82	mitogen-activated protein kinase (MAPK) kinase (MKK)7
+T16	GENE 29 91	mitogen-activated protein kinase (MAPK) kinase (MKK)7 and MKK4
+T17	GENE 4 91	dual specificity kinases mitogen-activated protein kinase (MAPK) kinase (MKK)7 and MKK4
+T18	GENE 62 82	(MAPK) kinase (MKK)7
+T19	GENE 76 82	(MKK)7
+T20	GENE 87 91	MKK4

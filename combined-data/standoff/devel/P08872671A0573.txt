@@ -1,0 +1,1 @@
+The model also predicts that blood flow shunt fraction (Qs/QT) is directly related to the oxygen sine-wave amplitude perturbations transmitted to end-expired air and arterial and mixed-venous blood through two simple equations.

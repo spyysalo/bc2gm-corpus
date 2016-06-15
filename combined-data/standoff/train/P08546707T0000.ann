@@ -1,0 +1,9 @@
+T1	GENE 34 50	chicken lysozyme
+T2	GENE 34 55	chicken lysozyme gene
+T3	GENE 42 50	lysozyme
+T4	GENE 42 55	lysozyme gene
+T5	GENE 59 72	NF-kappa Bp65
+T6	GENE 59 79	NF-kappa Bp65 (RelA)
+T7	GENE 74 78	RelA
+T8	GENE 84 89	c-Rel
+T9	GENE 102 115	NF-kappa Bp50

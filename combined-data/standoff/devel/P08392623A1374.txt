@@ -1,0 +1,1 @@
+IE2-IE2 interactions were mapped to a domain containing a putative helix-turn-helix motif located near the C terminus of IE2, between amino acids 456 and 539.

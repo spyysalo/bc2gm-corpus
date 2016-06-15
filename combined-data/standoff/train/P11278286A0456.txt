@@ -1,0 +1,1 @@
+In SN-48 neuronal cells that express MR, GR, and 5-HT1A receptors, deletion or inactivation of the nGRE (negative GRE) eliminated negative regulation of the rat 5-HT1A or heterologous promoters by corticosteroids, whereas its inclusion conferred corticosteroid-induced inhibition to a heterologous promoter.

@@ -1,0 +1,1 @@
+Promoter activity was assayed by transient transfection of luciferase reporter constructs containing nested deletions of the upstream sequence in the human RPE cell lines ARPE19 and D407, as well as in the SK-Mel-28 and HeLa cell lines.

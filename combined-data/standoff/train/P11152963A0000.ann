@@ -1,0 +1,12 @@
+T1	GENE 18 32	src homology 3
+T2	GENE 18 38	src homology 3 (SH3)
+T3	GENE 18 47	src homology 3 (SH3)-encoding
+T4	GENE 18 91	src homology 3 (SH3)-encoding, expressed in tumorigenic astrocytes (SETA)
+T5	GENE 18 96	src homology 3 (SH3)-encoding, expressed in tumorigenic astrocytes (SETA) gene
+T6	GENE 33 47	(SH3)-encoding
+T7	GENE 33 84	(SH3)-encoding, expressed in tumorigenic astrocytes
+T8	GENE 33 91	(SH3)-encoding, expressed in tumorigenic astrocytes (SETA)
+T9	GENE 33 96	(SH3)-encoding, expressed in tumorigenic astrocytes (SETA) gene
+T10	GENE 34 37	SH3
+T11	GENE 85 96	(SETA) gene
+T12	GENE 86 90	SETA

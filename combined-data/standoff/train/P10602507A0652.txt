@@ -1,0 +1,1 @@
+The coordinate increase in cyclin D1 and p21 had the effect of decreasing the specific but not absolute activity of cyclin D1/cdk4. p53 was not involved since CSF-1 induction of p21 was unaffected by dominant-negative p53 expression.

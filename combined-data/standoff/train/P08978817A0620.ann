@@ -1,0 +1,8 @@
+T1	GENE 162 165	DIM
+T2	GENE 162 170	DIM gene
+T3	GENE 162 179	DIM gene products
+T4	GENE 40 50	dim1-delta
+T5	GENE 54 60	dim2-1
+T6	GENE 81 95	mutants end4-1
+T7	GENE 89 95	end4-1
+T8	GENE 99 105	act1-1

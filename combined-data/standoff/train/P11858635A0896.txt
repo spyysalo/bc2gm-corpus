@@ -1,0 +1,1 @@
+We argue that this is the general property of QSAR models developed using LOO cross-validation.

@@ -1,0 +1,10 @@
+T1	GENE 18 24	Trdpm1
+T2	GENE 30 34	dpm1
+T3	GENE 30 37	dpm1(+)
+T4	GENE 30 37	dpm1(+)
+T5	GENE 30 51	dpm1(+)::his7/dpm1(+)
+T6	GENE 30 67	dpm1(+)::his7/dpm1(+) S.pombe diploid
+T7	GENE 39 48	his7/dpm1
+T8	GENE 39 51	his7/dpm1(+)
+T9	GENE 39 51	his7/dpm1(+)
+T10	GENE 110 122	DPM synthase

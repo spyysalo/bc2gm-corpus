@@ -1,0 +1,1 @@
+Cotransfection of pINV-2473, a construct containing 2473 base pairs of hINV upstream sequence linked to luciferase, with POU homeodomain transcription factors Oct1, Oct2, Brn4, SCIP, Skn1a or Skn1i, results in a strong suppression of basal promoter activity.

@@ -1,0 +1,9 @@
+T1	GENE 13 18	nifR1
+T2	GENE 13 25	nifR1 (ntrC)
+T3	GENE 20 24	ntrC
+T4	GENE 30 35	nifR4
+T5	GENE 37 41	rpoN
+T6	GENE 37 59	rpoN, encoding sigma54
+T7	GENE 52 59	sigma54
+T8	GENE 81 84	xdh
+T9	GENE 81 89	xdh gene

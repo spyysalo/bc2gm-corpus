@@ -1,0 +1,1 @@
+Previously, we reported that scanthrough translation, where the initiating AUG of a primary open reading frame is bypassed, is most likely to account for the presentation of cryptic epitopes from alternative reading frames within the influenza A PR/8/34 nucleoprotein gene.

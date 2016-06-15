@@ -1,0 +1,1 @@
+Truncated ICSBP lacking the first 33 amino-terminal amino acids fails to bind to the ICS, indicating that at least part of the DNA binding domain is located within the well conserved amino terminus.

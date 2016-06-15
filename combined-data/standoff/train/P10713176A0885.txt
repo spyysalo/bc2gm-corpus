@@ -1,0 +1,1 @@
+D-cyclin-cdk activity is required for Rb phosphorylation in v-Jun-transformed cells, since ectopic expression of the cdk4- and cdk6-specific inhibitor p16(INK4A) inhibits both DNA synthesis and cell proliferation.

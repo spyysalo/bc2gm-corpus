@@ -1,0 +1,1 @@
+The linear plasmid pCLU1 from the yeast Kluyveromyces lactis normally replicates in the cytoplasm, with the aid of the helper linear plasmid pGKL2, using terminal protein (TP) as a primer.

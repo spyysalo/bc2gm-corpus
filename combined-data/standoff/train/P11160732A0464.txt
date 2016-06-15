@@ -1,0 +1,1 @@
+Vector stocks containing envelope proteins from three different SIVmac clones, namely, SIVmac239 (T-lymphocyte tropic [T-tropic]), SIVmac316 (macrophage tropic [M-tropic]), and SIVmac1A11 (dualtropic), were tested.

@@ -1,0 +1,1 @@
+Recently, it was shown that purified RAG1/2 proteins can cleave DNA hairpins in vitro, but the same activity was also described for a protein complex of the DNA repair proteins Nbs1/Mre11/Rad50.

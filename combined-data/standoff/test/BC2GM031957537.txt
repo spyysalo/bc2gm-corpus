@@ -1,0 +1,1 @@
+Mutational analysis of the IME2 UAS reveals two critical sequence elements: a G+C-rich sequence (called URS1), previously identified at many meiotic genes, and a newly described element, the T4C site, that we found at a subset of meiotic genes.

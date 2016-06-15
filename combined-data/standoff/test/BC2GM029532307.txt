@@ -1,0 +1,1 @@
+We have identified the gene encoding sigma E using a genetic screen designed to isolate trans-acting mutations that abolish expression from either htrA or rpoHP3, two promoters recognized uniquely by sigma E-containing RNA polymerase.

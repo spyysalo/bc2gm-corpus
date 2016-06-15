@@ -1,0 +1,1 @@
+The Thrombolysis in Myocardial Infarction (TIMI) Phase II Trial randomized 3,339 patients to either an invasive (INV, n = 1,681) or a conservative (CON, n = 1,658) strategy after intravenous recombinant tissue-type plasminogen activator (rt-PA) for acute myocardial infarction.

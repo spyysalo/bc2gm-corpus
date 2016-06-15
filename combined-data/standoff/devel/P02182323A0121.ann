@@ -1,0 +1,4 @@
+T1	GENE 34 56	variant tRNA(Val)(UAC)
+T2	GENE 34 61	variant tRNA(Val)(UAC) gene
+T3	GENE 42 56	tRNA(Val)(UAC)
+T4	GENE 42 61	tRNA(Val)(UAC) gene

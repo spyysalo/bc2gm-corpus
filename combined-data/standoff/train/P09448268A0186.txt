@@ -1,0 +1,1 @@
+We have cloned a kinase, Nlk, that is a murine homolog of the Drosophila nemo (nmo) gene.

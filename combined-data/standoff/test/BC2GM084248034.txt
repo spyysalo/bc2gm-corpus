@@ -1,0 +1,1 @@
+Plasmid pSP64E6E7 which contains the reading frames of both E6 and E7 was constructed in order to study the expression of both proteins in a coupled transcription/rabbit reticulocyte translation system.

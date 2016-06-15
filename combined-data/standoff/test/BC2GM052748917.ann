@@ -1,0 +1,13 @@
+T1	GENE 132 137	GRP78
+T2	GENE 132 141	GRP78-BiP
+T3	GENE 132 146	GRP78-BiP gene
+T4	GENE 138 141	BiP
+T5	GENE 138 146	BiP gene
+T6	GENE 26 39	hemagglutinin
+T7	GENE 26 53	hemagglutinin-neuraminidase
+T8	GENE 26 66	hemagglutinin-neuraminidase glycoprotein
+T9	GENE 40 53	neuraminidase
+T10	GENE 40 66	neuraminidase glycoprotein
+T11	GENE 12 39	paramyxovirus hemagglutinin
+T12	GENE 12 53	paramyxovirus hemagglutinin-neuraminidase
+T13	GENE 12 66	paramyxovirus hemagglutinin-neuraminidase glycoprotein

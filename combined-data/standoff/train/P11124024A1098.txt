@@ -1,0 +1,1 @@
+We have identified three binding sites for protein complexes: a palindrome, a direct repeat, and a C+T sequence that corresponds to seven GAGA motifs on the transcribed strand.

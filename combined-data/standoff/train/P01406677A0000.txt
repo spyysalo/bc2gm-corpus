@@ -1,0 +1,1 @@
+To define transcriptional control elements responsible for muscle-specific expression of the human myoglobin gene, we performed mutational analysis of upstream sequences (nucleotide positions -373 to +7 relative to the transcriptional start site) linked to a firefly luciferase gene.

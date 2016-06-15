@@ -1,0 +1,1 @@
+Computerized detection of abnormal asymmetry in digital chest radiographs.

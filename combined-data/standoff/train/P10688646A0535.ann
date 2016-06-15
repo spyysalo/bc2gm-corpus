@@ -1,0 +1,13 @@
+T1	GENE 123 137	growth hormone
+T2	GENE 65 70	HS-40
+T3	GENE 65 78	HS-40 mutants
+T4	GENE 95 122	human alpha-globin promoter
+T5	GENE 95 137	human alpha-globin promoter-growth hormone
+T6	GENE 95 144	human alpha-globin promoter-growth hormone hybrid
+T7	GENE 95 149	human alpha-globin promoter-growth hormone hybrid gene
+T8	GENE 95 113	human alpha-globin
+T9	GENE 101 122	alpha-globin promoter
+T10	GENE 101 137	alpha-globin promoter-growth hormone
+T11	GENE 101 144	alpha-globin promoter-growth hormone hybrid
+T12	GENE 101 149	alpha-globin promoter-growth hormone hybrid gene
+T13	GENE 101 113	alpha-globin

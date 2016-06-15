@@ -1,0 +1,1 @@
+The residue functions, R(t), for C-11 CPZ and In-113m transferrin were plotted against time for selected areas of interest, and the CPZ area-weighted extraction, E(t), was computed for the same areas every 250 msec using the formula: E(t) = [RT(t) - RR(t)]/[1 - RR(t)], where RT and RR are the normalized residue functions for CPZ and transferrin, respectively.

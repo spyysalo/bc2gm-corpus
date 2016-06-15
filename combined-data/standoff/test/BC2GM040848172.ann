@@ -1,0 +1,13 @@
+T1	GENE 0 7	Gastrin
+T2	GENE 122 139	cholecystokinin-B
+T3	GENE 122 156	cholecystokinin-B/gastrin receptor
+T4	GENE 140 156	gastrin receptor
+T5	GENE 40 69	human histidine decarboxylase
+T6	GENE 46 69	histidine decarboxylase
+T7	GENE 46 75	histidine decarboxylase (HDC)
+T8	GENE 46 80	histidine decarboxylase (HDC) gene
+T9	GENE 70 80	(HDC) gene
+T10	GENE 71 74	HDC
+T11	GENE 104 139	G-protein-coupled cholecystokinin-B
+T12	GENE 104 156	G-protein-coupled cholecystokinin-B/gastrin receptor
+T13	GENE 104 113	G-protein

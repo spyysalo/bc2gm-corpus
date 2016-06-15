@@ -1,0 +1,1 @@
+These data define a conserved pathway wherein sequential histone modifications establish a "histone code" essential for the epigenetic inheritance of heterochromatin assembly.

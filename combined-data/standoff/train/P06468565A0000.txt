@@ -1,0 +1,1 @@
+The response properties of cat horizontal canal afferents (N = 81) were characterized by three parameters: their long time constants (tau), low frequency gain constants (G1), and middle frequency gain constants (Gm).

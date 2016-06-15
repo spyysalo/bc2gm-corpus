@@ -1,0 +1,1 @@
+The SCMV SNE sites contain potential overlapping core recognition binding motifs for SRF, Rel/NFkappaB, ETS, and YY1 class transcription factors but fail to respond to either serum or tumor necrosis factor alpha.

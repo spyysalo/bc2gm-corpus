@@ -1,0 +1,12 @@
+T1	GENE 142 165	cyclin-dependent kinase
+T2	GENE 142 179	cyclin-dependent kinase inhibitor p21
+T3	GENE 142 190	cyclin-dependent kinase inhibitor p21(WAF1/Cip1)
+T4	GENE 142 195	cyclin-dependent kinase inhibitor p21(WAF1/Cip1) gene
+T5	GENE 176 179	p21
+T6	GENE 176 190	p21(WAF1/Cip1)
+T7	GENE 176 195	p21(WAF1/Cip1) gene
+T8	GENE 179 195	(WAF1/Cip1) gene
+T9	GENE 180 184	WAF1
+T10	GENE 180 189	WAF1/Cip1
+T11	GENE 185 189	Cip1
+T12	GENE 53 56	p53

@@ -1,0 +1,1 @@
+For the 2.5 to 4 ng/mL model, the AUC of the ANN ROC curve was significantly higher than the AUCs for percentage of free PSA (P =.0239), PSA-TZ (P =.0204), and PSA density and total prostate volume (P <.01 for both).

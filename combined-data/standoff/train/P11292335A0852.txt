@@ -1,0 +1,1 @@
+It is surprising that dnaE173, a potent mutator mutation specific for sequence substitution as well as single-base frameshift, did not enhance the frequency of the hot-spot frameshift mutation.

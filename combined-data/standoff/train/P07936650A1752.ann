@@ -1,0 +1,5 @@
+T1	GENE 39 44	ets-1
+T2	GENE 39 50	ets-1/ets-2
+T3	GENE 39 55	ets-1/ets-2 gene
+T4	GENE 45 50	ets-2
+T5	GENE 45 55	ets-2 gene

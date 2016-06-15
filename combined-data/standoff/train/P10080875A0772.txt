@@ -1,0 +1,1 @@
+The results of supershift analysis using specific antibodies against transcription factors suggested that both binding complexes contained the NF-kappaB components p50 and p65, and did not contain other NF-kappaB proteins (p52, c-Rel, Rel B), AP-1 proteins (c-Fos, C-Jun), CREB or C/EBPbeta (NF-IL6).

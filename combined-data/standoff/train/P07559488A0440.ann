@@ -1,0 +1,8 @@
+T1	GENE 134 142	ERE-LacZ
+T2	GENE 134 151	ERE-LacZ reporter
+T3	GENE 134 156	ERE-LacZ reporter gene
+T4	GENE 138 142	LacZ
+T5	GENE 138 151	LacZ reporter
+T6	GENE 138 156	LacZ reporter gene
+T7	GENE 181 193	wild type ER
+T8	GENE 191 193	ER

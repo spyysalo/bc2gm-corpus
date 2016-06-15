@@ -1,0 +1,20 @@
+T1	GENE 134 138	Stat
+T2	GENE 134 151	Stat-binding site
+T3	GENE 194 198	IL-6
+T4	GENE 236 247	JRE-IL6-BCs
+T5	GENE 240 243	IL6
+T6	GENE 32 36	IL-6
+T7	GENE 32 53	IL-6/interferon gamma
+T8	GENE 32 65	IL-6/interferon gamma (IFN gamma)
+T9	GENE 32 82	IL-6/interferon gamma (IFN gamma) response element
+T10	GENE 37 53	interferon gamma
+T11	GENE 37 65	interferon gamma (IFN gamma)
+T12	GENE 37 82	interferon gamma (IFN gamma) response element
+T13	GENE 54 82	(IFN gamma) response element
+T14	GENE 55 64	IFN gamma
+T15	GENE 90 95	IRF-1
+T16	GENE 90 104	IRF-1 promoter
+T17	GENE 90 115	IRF-1 promoter (IR/IRF-1)
+T18	GENE 106 108	IR
+T19	GENE 106 114	IR/IRF-1
+T20	GENE 109 114	IRF-1

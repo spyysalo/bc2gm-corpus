@@ -1,0 +1,1 @@
+The main advantages of Multi-MUP analysis are: (1) quick acquisition of many MUPs; (2) simultaneous collection of several MUPs at one recording site; (3) possibility to analyze not only low threshold MUPs; (4) less bias in the selection of MUPs and (5) the reproducibility of the results that allow the same reference values to be used in different laboratories.

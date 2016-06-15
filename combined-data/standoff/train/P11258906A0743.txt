@@ -1,0 +1,1 @@
+In DNA strand exchange reactions using oligonucleotides, we found that Rec2 exhibited a pairing bias that is opposite that of RecA.

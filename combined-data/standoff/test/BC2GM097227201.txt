@@ -1,0 +1,1 @@
+The MALDI-TOF experiment, however, proved to be superior to the GC experiment, particularly with regard to baseline resolution of unsaturated acids.

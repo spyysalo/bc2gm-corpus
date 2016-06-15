@@ -1,0 +1,1 @@
+We detected no effect of deleting YCL024W, either alone or in combination with deletion of GIN4.

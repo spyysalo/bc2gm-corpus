@@ -1,0 +1,13 @@
+T1	GENE 218 221	SH3
+T2	GENE 218 228	SH3-domain
+T3	GENE 218 246	SH3-domain binding consensus
+T4	GENE 218 255	SH3-domain binding consensus sequence
+T5	GENE 263 279	protein kinase C
+T6	GENE 263 307	protein kinase C phosphorylation site motifs
+T7	GENE 314 329	casein kinase-2
+T8	GENE 314 350	casein kinase-2 phosphorylation site
+T9	GENE 314 357	casein kinase-2 phosphorylation site motifs
+T10	GENE 47 56	human CD6
+T11	GENE 47 65	human CD6 sequence
+T12	GENE 53 56	CD6
+T13	GENE 53 65	CD6 sequence

@@ -1,0 +1,13 @@
+T1	GENE 123 156	chloramphenicol acetyltransferase
+T2	GENE 123 162	chloramphenicol acetyltransferase (CAT)
+T3	GENE 123 167	chloramphenicol acetyltransferase (CAT) gene
+T4	GENE 157 167	(CAT) gene
+T5	GENE 158 161	CAT
+T6	GENE 30 37	HindIII
+T7	GENE 30 50	HindIII DNA fragment
+T8	GENE 83 104	human AP endonuclease
+T9	GENE 83 109	human AP endonuclease gene
+T10	GENE 89 104	AP endonuclease
+T11	GENE 89 109	AP endonuclease gene
+T12	GENE 89 115	AP endonuclease gene (APE)
+T13	GENE 111 114	APE

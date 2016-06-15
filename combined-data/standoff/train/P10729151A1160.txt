@@ -1,0 +1,1 @@
+This mutation no longer repressed the HPV-11 upstream regulatory region-controlled reporter expression.

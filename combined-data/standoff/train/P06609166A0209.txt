@@ -1,0 +1,1 @@
+The method involved deproteinizing samples with two volumes of acetonitrile followed by injection of 5 microliters of deproteinized supernatant onto a C18 reversed-phase column.

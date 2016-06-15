@@ -1,0 +1,17 @@
+T1	GENE 122 127	Elf-1
+T2	GENE 132 136	PU.1
+T3	GENE 192 202	luciferase
+T4	GENE 192 211	luciferase reporter
+T5	GENE 192 216	luciferase reporter gene
+T6	GENE 231 239	GL alpha
+T7	GENE 231 248	GL alpha promoter
+T8	GENE 231 248	GL alpha promoter
+T9	GENE 43 59	tandem Ets sites
+T10	GENE 50 53	Ets
+T11	GENE 50 59	Ets sites
+T12	GENE 67 81	mouse GL alpha
+T13	GENE 67 90	mouse GL alpha promoter
+T14	GENE 73 81	GL alpha
+T15	GENE 73 90	GL alpha promoter
+T16	GENE 100 127	transcription factors Elf-1
+T17	GENE 100 136	transcription factors Elf-1 and PU.1

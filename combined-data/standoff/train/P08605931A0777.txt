@@ -1,0 +1,1 @@
+Epitope mapping revealed that these three clones appear to recognize an identical epitope domain present on the C-terminal RNP motif of the U1A protein.

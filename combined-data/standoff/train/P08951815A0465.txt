@@ -1,0 +1,1 @@
+Regulation of ASN1 and ASN2 expression was studied using lacZ fusions and both genes were found to be several times less expressed in the absence of the transcription activator Gcn4p.

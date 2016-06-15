@@ -1,0 +1,10 @@
+T1	GENE 12 16	Enh4
+T2	GENE 124 143	multimerized GT-IIC
+T3	GENE 124 153	multimerized GT-IIC enhansons
+T4	GENE 137 143	GT-IIC
+T5	GENE 137 153	GT-IIC enhansons
+T6	GENE 171 175	CSEn
+T7	GENE 171 193	CSEn enhancer/silencer
+T8	GENE 31 37	GT-IIC
+T9	GENE 31 42	GT-IIC-like
+T10	GENE 31 51	GT-IIC-like enhanson

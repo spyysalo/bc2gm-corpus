@@ -1,0 +1,1 @@
+For Thermus strain ZO5 dihydroorotase (DHOase; encoded by pyrC), the highest similarity scores (about 40% identity) were obtained with DHOases from B. caldolyticus and Bacillus subtilis.

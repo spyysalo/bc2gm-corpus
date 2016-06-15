@@ -1,0 +1,1 @@
+Like other IAPs, ch-IAP1 contains the N-terminal baculovirus IAP repeats and C-terminal RING finger motifs.

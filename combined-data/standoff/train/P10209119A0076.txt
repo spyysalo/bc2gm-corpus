@@ -1,0 +1,1 @@
+In budding yeast, the protein Skp1p, the cullin-family member Cdc53p, and the F-box/WD-repeat protein Cdc4p form the SCFCdc4p ubiquitin ligase complex, which targets the cyclin-dependent kinase (Cdk) inhibitor Sic1p for proteolysis [3] [4] [5] [6] [7] [8].

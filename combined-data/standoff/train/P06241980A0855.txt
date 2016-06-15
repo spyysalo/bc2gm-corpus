@@ -1,0 +1,1 @@
+Oxygen profiles calculated for the Krogh model with excentric diffusion were similar to those derived for the two models of concentric diffusion.

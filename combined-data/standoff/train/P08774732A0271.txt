@@ -1,0 +1,1 @@
+To test whether Sp1 and zif268/egr-1 interact with this motif, gel retardation assays were performed.

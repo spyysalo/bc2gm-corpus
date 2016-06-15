@@ -1,0 +1,1 @@
+Since UmuD protein is proteolytically processed to an active form (UmuD*) in a RecA*-dependent fashion, and MucA shares extensive amino acid homology with UmuD, we examined whether MucA is similarly processed in the cell, using antiserum against a LacZ'-'MucA fusion protein.

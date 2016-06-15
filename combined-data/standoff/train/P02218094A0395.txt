@@ -1,0 +1,1 @@
+This last includes tissue O2 transfer (Ft') and mitochondrial O2 utilization (Fm').

@@ -1,0 +1,1 @@
+The fast real-time digital processing of the N2 and flow signals incorporated filtering, delay compensation, and corrections for the effects of changes in gas composition and temperature.

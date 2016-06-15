@@ -1,0 +1,1 @@
+Although the elevated signalling is eliminated by deletion of Ste20p (or components downstream of Ste20p), the growth and morphological abnormalities of cells lacking Akr1p are not rescued by deletion of any of the known pheromone response pathway components.

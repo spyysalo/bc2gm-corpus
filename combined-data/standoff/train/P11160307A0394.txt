@@ -1,0 +1,1 @@
+This molecule, wH22xeGFP, consists of the entire humanized anti-FcgammaRI mAb H22 with eGFP genetically fused to the C-terminal end of each CH3 domain. wH22xeGFP binds within the ligand-binding region by its Fc end, as well as outside the ligand-binding region by its Fab ends, thereby cross-linking FcgammaRI.

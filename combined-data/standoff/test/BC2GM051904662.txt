@@ -1,0 +1,1 @@
+We screened an A. thaliana cDNA library, whose inserts are under the control of the galactose-inducible GAL10 promoter, for cDNAs which enabled YDH8 cells to grow at the restrictive temperature.

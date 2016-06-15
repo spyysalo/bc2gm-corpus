@@ -1,0 +1,10 @@
+T1	GENE 0 4	HER2
+T2	GENE 0 4	HER2
+T3	GENE 123 126	ets
+T4	GENE 123 143	ets response element
+T5	GENE 123 152	ets response element (GAGGAA)
+T6	GENE 240 250	human HER2
+T7	GENE 240 259	human HER2 promoter
+T8	GENE 246 250	HER2
+T9	GENE 246 259	HER2 promoter
+T10	GENE 52 59	DNase I

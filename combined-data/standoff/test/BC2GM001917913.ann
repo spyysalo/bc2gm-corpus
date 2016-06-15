@@ -1,0 +1,10 @@
+T1	GENE 0 4	CRKL
+T2	GENE 13 16	SH3
+T3	GENE 17 20	SH3
+T4	GENE 17 28	SH3 adapter
+T5	GENE 17 36	SH3 adapter protein
+T6	GENE 58 82	tyrosine phosphoproteins
+T7	GENE 9 20	SH2-SH3-SH3
+T8	GENE 9 28	SH2-SH3-SH3 adapter
+T9	GENE 9 36	SH2-SH3-SH3 adapter protein
+T10	GENE 9 12	SH2

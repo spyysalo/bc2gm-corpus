@@ -1,0 +1,1 @@
+PtdIns(4,5)P2 synthesis, on the other hand, is only moderately affected even in fab1Delta mutants.

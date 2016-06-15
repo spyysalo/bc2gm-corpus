@@ -1,0 +1,1 @@
+Inhibition of JNK1 and ERK kinase activities either by expression of the dominant negative mutant JNK1 or by treatment with a selective chemical inhibitor of ERK (PD098059) substantially abrogates the UV induction of the GADD45 promoter.

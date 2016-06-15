@@ -1,0 +1,1 @@
+Analysis of a set of deletion constructs in transient transfection assays measuring heterologous reporter gene (luciferase) activity demonstrated that the 182-bp 5'-flanking region provides full promoter activity in IL-2-stimulated L2 cells.

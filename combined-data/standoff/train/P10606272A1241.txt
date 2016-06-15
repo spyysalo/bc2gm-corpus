@@ -1,0 +1,1 @@
+Injection of double-stranded RNA into C. elegans results in embryonic lethality; thus, the SF1 gene is essential not only in yeast but also in at least one metazoan.

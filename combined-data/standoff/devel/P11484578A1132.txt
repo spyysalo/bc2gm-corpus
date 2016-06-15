@@ -1,0 +1,1 @@
+CONCLUSION: There are no differences in the measurement data derived from this method and actual measurement data from an object created by the computer-aided dental design program.

@@ -1,0 +1,1 @@
+The two methods identify the same patients only if micturitional pressures are normal (40 to 60 cmH2O) to high (over 60 cmH2O) and the Sussett formula is used with a higher (95th centile) cutoff.

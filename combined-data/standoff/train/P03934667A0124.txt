@@ -1,0 +1,1 @@
+Three chromosomal crsA mutations, crsA1, crsA4, and crsA47, were transferred by the "gene conversion" process to B. subtilis plasmid pRPD11, which consists of the entire wild-type rpoD coding sequence, encoding the major sigma 43 factor of B. subtilis RNA polymerase, and pUB110.

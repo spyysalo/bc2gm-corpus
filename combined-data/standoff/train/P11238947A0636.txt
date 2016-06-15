@@ -1,0 +1,1 @@
+A single base change (A8G) in either sequence reduces hnRNP A2 binding and, in the case of A2RE-2, inhibits RNA transport.

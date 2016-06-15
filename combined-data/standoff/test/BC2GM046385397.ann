@@ -1,0 +1,6 @@
+T1	GENE 29 33	infC
+T2	GENE 29 43	infC-rpmI-rplT
+T3	GENE 29 50	infC-rpmI-rplT operon
+T4	GENE 34 38	rpmI
+T5	GENE 39 43	rplT
+T6	GENE 39 50	rplT operon

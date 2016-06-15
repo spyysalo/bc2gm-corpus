@@ -1,0 +1,1 @@
+However, if the spatial resolution is not critical and interest is to compare a pathologic area with a contralateral VOI, then the acquisition of two single-voxel spectra may be preferred.

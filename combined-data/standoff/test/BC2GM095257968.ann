@@ -1,0 +1,8 @@
+T1	GENE 16 26	luciferase
+T2	GENE 16 35	luciferase reporter
+T3	GENE 6 15	beta 1-AR
+T4	GENE 6 26	beta 1-AR-luciferase
+T5	GENE 6 35	beta 1-AR-luciferase reporter
+T6	GENE 6 48	beta 1-AR-luciferase reporter recombinants
+T7	GENE 95 121	beta 1-AR genetic elements
+T8	GENE 95 104	beta 1-AR

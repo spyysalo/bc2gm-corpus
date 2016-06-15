@@ -1,0 +1,15 @@
+T1	GENE 124 129	BF-IV
+T2	GENE 124 134	BF-IV gene
+T3	GENE 198 207	herpes TK
+T4	GENE 198 216	herpes TK promoter
+T5	GENE 205 207	TK
+T6	GENE 205 216	TK promoter
+T7	GENE 233 267	chloramphenicol acetyl transferase
+T8	GENE 233 273	chloramphenicol acetyl transferase (CAT)
+T9	GENE 233 278	chloramphenicol acetyl transferase (CAT) gene
+T10	GENE 233 288	chloramphenicol acetyl transferase (CAT) gene (pBLCAT2)
+T11	GENE 268 278	(CAT) gene
+T12	GENE 268 288	(CAT) gene (pBLCAT2)
+T13	GENE 269 272	CAT
+T14	GENE 280 287	pBLCAT2
+T15	GENE 61 64	ICS

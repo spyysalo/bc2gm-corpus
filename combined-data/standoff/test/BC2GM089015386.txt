@@ -1,0 +1,1 @@
+In contrast, an N-terminal RNAP mutant that has a decreased capacity to bind single-stranded RNA forms halted complexes with much lower levels of stability than the WT enzyme, and these complexes are not stabilized by the presence of the NT strand.

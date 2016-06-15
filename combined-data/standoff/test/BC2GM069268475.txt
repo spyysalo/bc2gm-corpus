@@ -1,0 +1,1 @@
+The GST-CBL-LZIP fusion protein contains a binding site for the SH2 domain of the p85 subunit of phosphatidylinositol 3-kinase, which mapped to Tyr731, which is present in the sequence YEAM.

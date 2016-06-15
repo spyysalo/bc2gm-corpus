@@ -1,0 +1,1 @@
+No dominant clinical factor of risk was found, but multiple regression analysis identified age, body surface area, valve size, shop order fracture rate, and manufacturing period as risk factors for OSF.

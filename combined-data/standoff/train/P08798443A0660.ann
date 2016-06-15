@@ -1,0 +1,10 @@
+T1	GENE 146 149	Myb
+T2	GENE 218 224	mim-1A
+T3	GENE 218 228	mim-1A Myb
+T4	GENE 218 247	mim-1A Myb-responsive element
+T5	GENE 225 228	Myb
+T6	GENE 225 247	Myb-responsive element
+T7	GENE 262 271	herpes tk
+T8	GENE 262 280	herpes tk promoter
+T9	GENE 269 271	tk
+T10	GENE 269 280	tk promoter

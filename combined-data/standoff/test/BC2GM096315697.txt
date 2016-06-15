@@ -1,0 +1,1 @@
+These data demonstrate that CCTalpha can be regulated by lipids by two independent domains: (i) the three amphipathic alpha-helical repeats that interact with both neutral and anionic lipid mixtures and (ii) the last 57 residues that interact with anionic lipids.

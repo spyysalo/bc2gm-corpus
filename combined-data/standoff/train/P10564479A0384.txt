@@ -1,0 +1,1 @@
+Deletion of fdsR revealed a dual regulatory effect of FdsR on the fds operon by acting as transcriptional activator in the presence of formate or as repressor in the absence of formate.

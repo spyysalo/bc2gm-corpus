@@ -1,0 +1,15 @@
+T1	GENE 0 44	Varicella-zoster virus (VZV) glycoprotein gI
+T2	GENE 128 130	gE
+T3	GENE 128 133	gE:gI
+T4	GENE 128 145	gE:gI Fc receptor
+T5	GENE 128 153	gE:gI Fc receptor complex
+T6	GENE 131 133	gI
+T7	GENE 131 145	gI Fc receptor
+T8	GENE 131 153	gI Fc receptor complex
+T9	GENE 23 44	(VZV) glycoprotein gI
+T10	GENE 29 44	glycoprotein gI
+T11	GENE 50 83	type 1 transmembrane glycoprotein
+T12	GENE 114 130	heterodimeric gE
+T13	GENE 114 133	heterodimeric gE:gI
+T14	GENE 114 145	heterodimeric gE:gI Fc receptor
+T15	GENE 114 153	heterodimeric gE:gI Fc receptor complex

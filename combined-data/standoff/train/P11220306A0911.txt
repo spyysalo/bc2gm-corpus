@@ -1,0 +1,1 @@
+HexA71 negatively affects RpoS, as the levels of this alternative sigma factor are higher in the HexA- mutant than in the HexA+ strain.

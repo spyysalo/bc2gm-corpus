@@ -1,0 +1,1 @@
+This dimer interface is likely important for increasing the DNA-binding specificity and affinity of the trimeric form of HSF, as well as for increasing cooperativity between adjacent trimers.

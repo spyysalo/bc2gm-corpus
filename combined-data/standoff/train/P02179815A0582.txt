@@ -1,0 +1,1 @@
+Unlike p59v-rel, which is a nuclear protein in CEF, indirect immunofluorescence showed that p68c-rel in JD214c-rel infected CEF is located exclusively in the cytoplasm of these cells, even though the sequence of p68c-rel showed that it contains a nuclear localizing sequence identical to the one previously identified in p59v-rel.

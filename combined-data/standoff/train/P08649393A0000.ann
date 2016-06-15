@@ -1,0 +1,4 @@
+T1	GENE 2 34	chromosome transmission fidelity
+T2	GENE 2 40	chromosome transmission fidelity (ctf)
+T3	GENE 2 47	chromosome transmission fidelity (ctf) mutant
+T4	GENE 36 39	ctf

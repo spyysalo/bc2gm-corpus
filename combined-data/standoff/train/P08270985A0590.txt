@@ -1,0 +1,1 @@
+Response durations were short.

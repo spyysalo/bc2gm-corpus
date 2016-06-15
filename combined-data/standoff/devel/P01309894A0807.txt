@@ -1,0 +1,1 @@
+Both Rep78 and Rep68 cut the terminal AAV sequence at the same site (nucleotide 124).

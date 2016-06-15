@@ -1,0 +1,1 @@
+TRAF2 has previously been demonstrated to activate both transcription factor nuclear factor kappaB (NFkappaB) and the c-Jun N-terminal kinase/stress-activated protein kinase (JNK/SAPK) pathway, which in turn stimulates transcription factor activating protein 1 (AP1) mainly via phosphorylation of the c-Jun component.

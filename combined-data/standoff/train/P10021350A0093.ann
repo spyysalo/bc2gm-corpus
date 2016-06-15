@@ -1,0 +1,16 @@
+T1	GENE 120 123	TCF
+T2	GENE 120 127	TCF/LEF
+T3	GENE 120 134	TCF/LEF family
+T4	GENE 120 143	TCF/LEF family proteins
+T5	GENE 124 127	LEF
+T6	GENE 124 134	LEF family
+T7	GENE 124 143	LEF family proteins
+T8	GENE 22 30	Wingless
+T9	GENE 22 34	Wingless/Wnt
+T10	GENE 217 225	Wingless
+T11	GENE 217 229	Wingless/Wnt
+T12	GENE 226 229	Wnt
+T13	GENE 31 34	Wnt
+T14	GENE 53 62	Armadillo
+T15	GENE 53 75	Armadillo/beta-catenin
+T16	GENE 63 75	beta-catenin

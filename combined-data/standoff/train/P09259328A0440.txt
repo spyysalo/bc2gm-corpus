@@ -1,0 +1,1 @@
+Deletion mapping experiments determined that the sequences required for full activity in MSC-1 cells were included within 619 bp of the start site and identified several regions that demonstrated increased luciferase activity: the -583 bp to -564 bp, -503 bp to -484 bp, and -114 bp to -65 regions.

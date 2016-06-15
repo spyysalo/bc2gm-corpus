@@ -1,0 +1,1 @@
+As it had been previously reported that the 18-bp palindrome contains sufficient nucleotide sequence information for E1 binding, we speculate that a minimal E1 recognition motif is presented in each half site.

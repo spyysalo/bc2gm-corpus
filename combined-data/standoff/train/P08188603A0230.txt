@@ -1,0 +1,1 @@
+This analysis revealed an intact gene (arg4) showing a high degree of homology with the Saccharomyces cerevisiae CPA2 gene encoding the large subunit of carbamoyl-phosphate synthetase (CPS-A).

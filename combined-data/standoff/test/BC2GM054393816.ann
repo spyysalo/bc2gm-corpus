@@ -1,0 +1,11 @@
+T1	GENE 34 47	(AAV-2) Rep78
+T2	GENE 34 53	(AAV-2) Rep78/Rep68
+T3	GENE 34 73	(AAV-2) Rep78/Rep68 regulatory proteins
+T4	GENE 4 47	adeno-associated virus type 2 (AAV-2) Rep78
+T5	GENE 4 53	adeno-associated virus type 2 (AAV-2) Rep78/Rep68
+T6	GENE 4 73	adeno-associated virus type 2 (AAV-2) Rep78/Rep68 regulatory proteins
+T7	GENE 42 47	Rep78
+T8	GENE 42 53	Rep78/Rep68
+T9	GENE 42 73	Rep78/Rep68 regulatory proteins
+T10	GENE 48 53	Rep68
+T11	GENE 48 73	Rep68 regulatory proteins

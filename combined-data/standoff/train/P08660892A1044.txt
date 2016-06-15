@@ -1,0 +1,1 @@
+Transcriptional blockade was reversed by co-transfections of a wild-type SRF expression vector, but was not rescued by the expression of other myogenic factors, such as MyoD and Mef-2C.

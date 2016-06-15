@@ -1,0 +1,1 @@
+No TATA box was found in the putative promoter region, but multiple GC boxes were found around the cap sites, supporting the previously inferred housekeeping nature of CYP51 gene and the existence of the multiple transcription initiation sites.

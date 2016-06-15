@@ -1,0 +1,1 @@
+Increasing the RH beyond 32% resulted in solvation of the peroxy radical, sterically hindering the radical from entering the propagation transition state.

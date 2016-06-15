@@ -1,0 +1,1 @@
+Elimination of the inducible response requires simultaneous mutation of both sequences, however, in the presence of an intact EpRE the upstream AP-1 site is irrelevant to induction.

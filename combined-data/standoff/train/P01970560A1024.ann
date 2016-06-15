@@ -1,0 +1,9 @@
+T1	GENE 142 160	beta-Galactosidase
+T2	GENE 200 204	aroF
+T3	GENE 200 209	aroF-lacZ
+T4	GENE 205 209	lacZ
+T5	GENE 239 261	E. coli TyrR repressor
+T6	GENE 247 261	TyrR repressor
+T7	GENE 29 33	aroF
+T8	GENE 29 52	aroF regulatory regions
+T9	GENE 56 60	lacZ

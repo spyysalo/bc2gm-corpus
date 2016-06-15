@@ -1,0 +1,16 @@
+T1	GENE 136 139	Luc
+T2	GENE 36 38	UF
+T3	GENE 36 47	UF promoter
+T4	GENE 36 58	UF promoter-luciferase
+T5	GENE 36 72	UF promoter-luciferase (-1935UF-Luc)
+T6	GENE 36 81	UF promoter-luciferase (-1935UF-Luc) reporter
+T7	GENE 36 86	UF promoter-luciferase (-1935UF-Luc) reporter gene
+T8	GENE 48 58	luciferase
+T9	GENE 59 81	(-1935UF-Luc) reporter
+T10	GENE 59 86	(-1935UF-Luc) reporter gene
+T11	GENE 60 67	-1935UF
+T12	GENE 60 71	-1935UF-Luc
+T13	GENE 61 67	1935UF
+T14	GENE 61 71	1935UF-Luc
+T15	GENE 68 71	Luc
+T16	GENE 95 99	BTEB

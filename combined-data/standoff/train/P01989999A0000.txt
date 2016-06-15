@@ -1,0 +1,1 @@
+Adenylosuccinate synthetase (IMP:L-aspartate ligase (GDP), EC 6.3.4.4) plays an important role in purine biosynthesis catalyzing the GTP-dependent conversion of IMP to AMP.

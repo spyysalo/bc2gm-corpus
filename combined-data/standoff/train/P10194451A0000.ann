@@ -1,0 +1,8 @@
+T1	GENE 238 242	p210
+T2	GENE 65 69	p210
+T3	GENE 65 78	p210(bcr/abl)
+T4	GENE 65 102	p210(bcr/abl) protein tyrosine kinase
+T5	GENE 70 73	bcr
+T6	GENE 70 77	bcr/abl
+T7	GENE 74 77	abl
+T8	GENE 79 102	protein tyrosine kinase

@@ -1,0 +1,1 @@
+The genomic fragments were fused upstream of the luciferase reporter gene.

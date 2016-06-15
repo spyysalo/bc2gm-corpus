@@ -1,0 +1,1 @@
+Oligomers corresponding to the region of the mlc-1/3 enhancer, which encompasses this conserved sequence, bound MEF-2 and competed for its binding to the mck enhancer.

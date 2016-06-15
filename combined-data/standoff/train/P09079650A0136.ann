@@ -1,0 +1,15 @@
+T1	GENE 128 132	JNKs
+T2	GENE 15 19	MAPK
+T3	GENE 15 26	MAPK family
+T4	GENE 143 146	p38
+T5	GENE 143 152	p38/Hog 1
+T6	GENE 143 168	p38/Hog 1 protein kinases
+T7	GENE 147 152	Hog 1
+T8	GENE 147 168	Hog 1 protein kinases
+T9	GENE 39 69	extracellular response kinases
+T10	GENE 71 75	ERKs
+T11	GENE 79 85	p42/44
+T12	GENE 79 91	p42/44(MAPK)
+T13	GENE 86 90	MAPK
+T14	GENE 98 126	c-Jun amino-terminal kinases
+T15	GENE 98 133	c-Jun amino-terminal kinases (JNKs)

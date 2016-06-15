@@ -1,0 +1,1 @@
+These mutations prevent FKBP12-rapamycin binding to TOR2, as assayed with the two-hybrid system.

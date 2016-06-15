@@ -1,0 +1,1 @@
+The SSB-poly(dT) affinity is too high to measure in buffers containing even 5 M NaCl; however, in 1.8-2.5 M NaBr, we measure alpha log Kobsd/alpha log [NaBr] = -5.7 +/- 0.7, with a lower value of omega T/O = 130 +/- 70.

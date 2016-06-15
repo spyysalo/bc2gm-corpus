@@ -1,0 +1,1 @@
+While TGF-beta1 does not alter the mitogen-induced expression and abundance of G1 phase cyclin D1 and cdks 4 and 2 in MCs, it inhibits cyclin E-cdk 2 activity, thus preventing mitogen-elicited phosphorylation and inactivation of pRb in G1 phase and transition to S phase.

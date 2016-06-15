@@ -1,0 +1,1 @@
+The desirability function is based on the search for a global optimum [D = f (Y1, Y2, ..., Yn)] by the transformation of the measured property to a dimensionless scale for each criterion.

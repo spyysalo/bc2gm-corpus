@@ -1,0 +1,9 @@
+T1	GENE 15 19	spt2
+T2	GENE 15 29	spt2 mutations
+T3	GENE 161 175	wild-type HIS4
+T4	GENE 161 180	wild-type HIS4 mRNA
+T5	GENE 171 175	HIS4
+T6	GENE 171 180	HIS4 mRNA
+T7	GENE 89 129	delta promoter insertion his-4-912 delta
+T8	GENE 104 129	insertion his-4-912 delta
+T9	GENE 114 129	his-4-912 delta

@@ -1,0 +1,1 @@
+The deduced amino acid sequence of LvUSF2 is nearly identical to LvUSF1 except at the amino end, where they are sharply divergent.

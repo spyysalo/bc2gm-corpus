@@ -1,0 +1,1 @@
+Deletion analysis revealed that only the TM domain of E2 was required for Golgi targeting.

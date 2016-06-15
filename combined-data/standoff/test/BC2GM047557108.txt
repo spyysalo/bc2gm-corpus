@@ -1,0 +1,1 @@
+Mutant beta2-adrenergic receptors with a Tyr-to-Phe substitution at Tyr-350 do not display agonist-induced desensitization, Src recruitment, or Src activation.

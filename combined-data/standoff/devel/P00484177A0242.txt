@@ -1,0 +1,1 @@
+This expression assumes: (1) a laminar flow regimen during expiration, and (2) a constant CT value over the range of VT.

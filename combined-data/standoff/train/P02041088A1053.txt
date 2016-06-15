@@ -1,0 +1,1 @@
+To measure the enhancer activity of DR60, a reporter plasmid was constructed that contained DR60 cloned upstream of the reporter chloramphenicol acetyltransferase gene under the control of the delayed-early 39K promoter.

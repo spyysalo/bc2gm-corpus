@@ -1,0 +1,1 @@
+A subset of mutations in the Psi synthase domain impairs association of the altered Cbf5p proteins with selected box H/ACA snoRNAs, suggesting that the functional catalytic domain is essential for that interaction.

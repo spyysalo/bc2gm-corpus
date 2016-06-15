@@ -1,0 +1,1 @@
+Function was retained when one copy of the sequence was present, suggesting that this sequence represents an essential element.

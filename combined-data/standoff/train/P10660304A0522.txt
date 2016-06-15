@@ -1,0 +1,1 @@
+Members of the JAK/Tyk family of tyrosine kinases mediate phosphorylation of STAT3 at Tyr705 during CNTF signaling; however, the kinase responsible for phosphorylation at STAT3 Tyr727 appears to depend on both the extracellular stimulus and the cellular context.

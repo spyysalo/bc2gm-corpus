@@ -1,0 +1,14 @@
+T1	GENE 206 209	Ras
+T2	GENE 206 217	Ras and Rho
+T3	GENE 206 224	Ras and Rho family
+T4	GENE 206 235	Ras and Rho family of GTPases
+T5	GENE 214 217	Rho
+T6	GENE 214 224	Rho family
+T7	GENE 214 235	Rho family of GTPases
+T8	GENE 228 235	GTPases
+T9	GENE 268 272	MAPK
+T10	GENE 276 279	JNK
+T11	GENE 313 316	Vav
+T12	GENE 34 37	Vav
+T13	GENE 48 83	guanine nucleotide exchange factors
+T14	GENE 88 114	small GTP-binding proteins

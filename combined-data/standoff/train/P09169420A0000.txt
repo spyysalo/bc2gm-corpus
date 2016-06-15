@@ -1,0 +1,1 @@
+The mammalian phosphoinositide 3-kinases (PI3Ks) p110alpha, beta, and delta form heterodimers with Src homology 2 (SH2) domain-containing adaptors such as p85alpha or p55(PIK).

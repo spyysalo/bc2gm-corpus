@@ -1,0 +1,1 @@
+Although IL-2 and IFN-alpha activated STAT1 alpha and STAT5, IL-2 predominantly activated STAT5, while IFN-alpha predominantly activated STAT1 alpha.

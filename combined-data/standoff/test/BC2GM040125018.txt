@@ -1,0 +1,1 @@
+We found multiple transcription start sites located within a 15-base pair region, 205 base pairs upstream of the translation start codon.

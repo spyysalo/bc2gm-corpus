@@ -1,0 +1,1 @@
+The detector has the advantage of finding both ST segment deviations and entire ST-T complex changes thereby providing a wider characterization of the potential ischemic events.

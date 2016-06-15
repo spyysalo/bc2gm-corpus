@@ -1,0 +1,1 @@
+This protein-protein interaction does not require the simultaneous binding of Oct proteins to DNA, and high resolution footprinting of the Oct-DNA interaction reveals that binding of BOB.1/OBF.1 to Oct1 or Oct2 does not alter the interaction with DNA.

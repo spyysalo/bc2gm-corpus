@@ -1,0 +1,1 @@
+This loss was independent of drug concentration and a correction factor was employed to calculate the true free diazepam concentration.

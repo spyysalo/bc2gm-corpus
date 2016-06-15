@@ -1,0 +1,1 @@
+Protein sequence analysis reveals that MAN1 shares a conserved globular domain of approximately 40 amino acids, which we term the LEM module, with inner nuclear membrane proteins lamina-associated polypeptide 2 and emerin.

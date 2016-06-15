@@ -1,0 +1,1 @@
+Qualitatively, the results are similar for the two species: Both rhesus monkey and man have photopic and scotopic branches, which cross at approximately the same time in the dark and at approximately the same background luminance.

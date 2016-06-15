@@ -1,0 +1,1 @@
+We have isolated and characterized the GCD6 and GCD7 genes and shown that their products are required to repress GCN4 translation under nonstarvation conditions.

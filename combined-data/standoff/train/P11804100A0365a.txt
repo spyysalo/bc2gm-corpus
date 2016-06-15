@@ -1,0 +1,1 @@
+It was found that the disappearance of BOD5 and NH3-N could be approximated using first-order kinetics, but the kinetics of TP removal were unclear.

@@ -1,0 +1,1 @@
+As hGM-CSF receptor (hGMR) does not contain a consensus sequence for binding of PI 3-kinase, hGMR must use a distinct mechanism for its association with and activation of PI 3-kinase.

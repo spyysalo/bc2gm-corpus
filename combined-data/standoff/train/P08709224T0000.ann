@@ -1,0 +1,14 @@
+T1	GENE 0 36	Epstein-Barr virus nuclear protein 2
+T2	GENE 0 44	Epstein-Barr virus nuclear protein 2 (EBNA2)
+T3	GENE 38 43	EBNA2
+T4	GENE 73 82	human SNF
+T5	GENE 73 86	human SNF-SWI
+T6	GENE 73 94	human SNF-SWI complex
+T7	GENE 73 106	human SNF-SWI complex, hSNF5/Ini1
+T8	GENE 79 82	SNF
+T9	GENE 79 86	SNF-SWI
+T10	GENE 79 94	SNF-SWI complex
+T11	GENE 83 86	SWI
+T12	GENE 96 101	hSNF5
+T13	GENE 96 106	hSNF5/Ini1
+T14	GENE 102 106	Ini1

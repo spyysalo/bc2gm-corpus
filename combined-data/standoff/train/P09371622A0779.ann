@@ -1,0 +1,5 @@
+T1	GENE 20 23	IE1
+T2	GENE 20 32	IE1 peptides
+T3	GENE 102 124	lac operator sequences
+T4	GENE 102 105	lac
+T5	GENE 102 114	lac operator

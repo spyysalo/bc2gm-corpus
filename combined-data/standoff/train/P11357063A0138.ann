@@ -1,0 +1,22 @@
+T1	GENE 164 172	equid LH
+T2	GENE 164 179	equid LH/CGbeta
+T3	GENE 164 184	equid LH/CGbeta gene
+T4	GENE 170 172	LH
+T5	GENE 170 179	LH/CGbeta
+T6	GENE 170 184	LH/CGbeta gene
+T7	GENE 173 179	CGbeta
+T8	GENE 173 184	CGbeta gene
+T9	GENE 193 207	primate LHbeta
+T10	GENE 193 214	primate LHbeta-CGbeta
+T11	GENE 193 219	primate LHbeta-CGbeta gene
+T12	GENE 193 227	primate LHbeta-CGbeta gene cluster
+T13	GENE 193 233	primate LHbeta-CGbeta gene cluster locus
+T14	GENE 201 207	LHbeta
+T15	GENE 201 214	LHbeta-CGbeta
+T16	GENE 201 219	LHbeta-CGbeta gene
+T17	GENE 201 227	LHbeta-CGbeta gene cluster
+T18	GENE 201 233	LHbeta-CGbeta gene cluster locus
+T19	GENE 208 214	CGbeta
+T20	GENE 208 219	CGbeta gene
+T21	GENE 208 227	CGbeta gene cluster
+T22	GENE 208 233	CGbeta gene cluster locus

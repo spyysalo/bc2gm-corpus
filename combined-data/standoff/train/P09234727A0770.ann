@@ -1,0 +1,9 @@
+T1	GENE 0 15	Gal4-Eed fusion
+T2	GENE 0 23	Gal4-Eed fusion protein
+T3	GENE 0 4	Gal4
+T4	GENE 0 8	Gal4-Eed
+T5	GENE 5 15	Eed fusion
+T6	GENE 5 23	Eed fusion protein
+T7	GENE 5 8	Eed
+T8	GENE 102 127	Gal4-binding DNA elements
+T9	GENE 102 106	Gal4

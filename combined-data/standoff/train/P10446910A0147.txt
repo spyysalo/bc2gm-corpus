@@ -1,0 +1,1 @@
+Analysis of the E2F1 gene promoter showed that the -146 to -54 region was required for E2-responsiveness in transient transfection assays, and subsequent deletion/mutation analysis showed that a single upstream GC-rich and two downstream CCAAT-binding sites were required for transactivation by E2.

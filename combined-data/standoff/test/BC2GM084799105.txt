@@ -1,0 +1,1 @@
+We have introduced the same change in a yeast tRNA(Trp) gene and demonstrated that the tRNA acts as an efficient amber suppressor in vivo.

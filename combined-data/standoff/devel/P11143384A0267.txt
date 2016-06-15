@@ -1,0 +1,1 @@
+Tele-Talk has the extra capability of operating in live conference situations using microphone input.

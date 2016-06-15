@@ -1,0 +1,1 @@
+However, during our work with a replication-deficient virus expressing the ASF/SF2 splicing factor from a progesterone antagonist-inducible gene cassette, we discovered that ASF/SF2 was expressed at a significant level in the 293 producer cell line, even in the absence of inducer.

@@ -1,0 +1,1 @@
+DNA sequence analysis has confirmed that this mutation affects the C-terminal region of the alpha subunit, changing a leucine residue at position 290 to a histidine (rpoAL290H).

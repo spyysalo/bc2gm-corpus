@@ -1,0 +1,1 @@
+The bZP2 cDNA (115-1914 nt, 1.8 kb), excluding sequences coding for N-terminal signal sequence and C-terminal transmembranelike domain, was PCR amplified and Sac1-Sal1 restricted fragment cloned in frame downstream of the T5 promoter under the lac operator control in a pQE-30 vector.

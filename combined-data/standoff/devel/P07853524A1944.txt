@@ -1,0 +1,1 @@
+Removal of the GST domain from GST-Tax by thrombin restores Tax's ability to assemble a ternary Tax-CREB-21-bp-repeat complex.(ABSTRACT TRUNCATED AT 400 WORDS)

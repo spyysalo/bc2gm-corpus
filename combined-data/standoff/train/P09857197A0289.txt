@@ -1,0 +1,1 @@
+Yap1p is constitutively nuclear in a crm1 mutant, and Crm1p binds to a nuclear export sequence (NES)-like sequence in Yap1p in the presence of RanGTP.

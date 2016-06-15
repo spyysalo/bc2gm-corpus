@@ -1,0 +1,11 @@
+T1	GENE 12 26	wild-type HIT1
+T2	GENE 12 30	wild-type HIT1 DNA
+T3	GENE 155 161	hit1-1
+T4	GENE 155 168	hit1-1 mutant
+T5	GENE 155 179	hit1-1 mutant phenotypes
+T6	GENE 22 26	HIT1
+T7	GENE 22 30	HIT1 DNA
+T8	GENE 4 26	1031-bp wild-type HIT1
+T9	GENE 4 30	1031-bp wild-type HIT1 DNA
+T10	GENE 115 132	AGG arginine tRNA
+T11	GENE 115 137	AGG arginine tRNA gene

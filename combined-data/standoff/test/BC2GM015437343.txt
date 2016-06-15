@@ -1,0 +1,1 @@
+Smooth pursuit gain and the percentage of total eye movement due to various saccadic subtypes were computed using infrared oculography and computerized pattern recognition software.

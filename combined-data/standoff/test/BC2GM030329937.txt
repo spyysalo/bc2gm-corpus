@@ -1,0 +1,1 @@
+GH signals by interacting with GH receptor (GHR).

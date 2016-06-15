@@ -1,0 +1,1 @@
+To search for genes that interact with the SLK1-SLT2 pathway, a synthetic lethal suppression screen was carried out.

@@ -1,0 +1,1 @@
+In order to investigate how these expression patterns are established, we fused promoter regions of an acidic and a basic glucanase gene to the beta-glucuronidase (GUS) reporter gene and examined expression of these constructs in transgenic tobacco plants.

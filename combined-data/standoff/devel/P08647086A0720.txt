@@ -1,0 +1,1 @@
+The Cdk2-cyclin-D1 complex did not phosphorylate any tested substrates, such as H1 histone, pRB, SV40 large T antigen, p53, E2F-1 or a preparation of nuclear proteins from HeLa cells; in contrast, Cdk2-cyclin-E and Cdk2-cyclin-A phosphorylated these proteins.

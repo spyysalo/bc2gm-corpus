@@ -1,0 +1,1 @@
+We describe a novel method using Saccharomyces cerevisiae for detecting protein-truncating mutations in any gene of interest.

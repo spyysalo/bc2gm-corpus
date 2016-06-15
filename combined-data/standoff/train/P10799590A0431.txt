@@ -1,0 +1,1 @@
+Jkappa DNA-binding sites were not required for this activation, and a mutant EBNA-3C protein unable to bind Jkappa activated transcription as efficiently as wild-type EBNA-3C, indicating that EBNA-3C can regulate transcription through a mechanism that is independent of Jkappa.

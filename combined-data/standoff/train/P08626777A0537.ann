@@ -1,0 +1,7 @@
+T1	GENE 144 148	link
+T2	GENE 144 156	link protein
+T3	GENE 144 161	link protein gene
+T4	GENE 26 39	100-bp Col2a1
+T5	GENE 26 48	100-bp Col2a1 enhancer
+T6	GENE 33 39	Col2a1
+T7	GENE 33 48	Col2a1 enhancer

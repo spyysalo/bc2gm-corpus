@@ -1,0 +1,1 @@
+Its interaction with RFX5 and RFXAP is essential for binding of the RFX complex to MHC-II promoters.

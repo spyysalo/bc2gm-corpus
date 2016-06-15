@@ -1,0 +1,1 @@
+Thus, oxyR mutants are locked on for Ag43 expression, whereas dam mutants are locked off for Ag43 expression.

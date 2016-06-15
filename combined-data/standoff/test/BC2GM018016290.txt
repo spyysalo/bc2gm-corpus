@@ -1,0 +1,1 @@
+Consistently, we show that phosphorylation by protein kinase A inhibits Sfl1 DNA binding in vitro, and that a tpk2Delta mutation increases the levels of Sfl1 protein associated with specific promoter elements in vivo.

@@ -1,0 +1,1 @@
+The RPC31 gene encoding the C31 subunit of Saccharomyces cerevisiae RNA polymerase C (III) has been isolated, starting from a C-terminal fragment cloned on a lambda gt11 library.

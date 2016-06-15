@@ -1,0 +1,1 @@
+The odds ratio for CHD was 1.21 (95% confidence interval, 0.84-1.75) given a positive serostatus of specific IgG antibodies after adjustment for covariates.

@@ -1,0 +1,1 @@
+Unlike JNK activation, ERK activation could not be mapped to specific reovirus gene segments, suggesting that ERK activation and JNK activation are triggered by different events during virus-host cell interaction.

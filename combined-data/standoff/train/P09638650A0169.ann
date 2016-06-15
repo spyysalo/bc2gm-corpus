@@ -1,0 +1,22 @@
+T1	GENE 130 166	160 kDa RNA-dependent RNA polymerase
+T2	GENE 130 173	160 kDa RNA-dependent RNA polymerase (ORF1)
+T3	GENE 138 166	RNA-dependent RNA polymerase
+T4	GENE 138 173	RNA-dependent RNA polymerase (ORF1)
+T5	GENE 175 200	26 kDa movement protein 1
+T6	GENE 175 207	26 kDa movement protein 1 (ORF2)
+T7	GENE 182 200	movement protein 1
+T8	GENE 182 207	movement protein 1 (ORF2)
+T9	GENE 209 234	13 kDa movement protein 2
+T10	GENE 209 241	13 kDa movement protein 2 (ORF3)
+T11	GENE 216 234	movement protein 2
+T12	GENE 216 241	movement protein 2 (ORF3)
+T13	GENE 243 268	10 kDa movement protein 3
+T14	GENE 243 275	10 kDa movement protein 3 (ORF4)
+T15	GENE 250 268	movement protein 3
+T16	GENE 250 275	movement protein 3 (ORF4)
+T17	GENE 277 288	24 kDa coat
+T18	GENE 277 296	24 kDa coat protein
+T19	GENE 277 303	24 kDa coat protein (OFR5)
+T20	GENE 284 288	coat
+T21	GENE 284 296	coat protein
+T22	GENE 284 303	coat protein (OFR5)

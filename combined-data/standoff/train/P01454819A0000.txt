@@ -1,0 +1,1 @@
+Mono-ADP-ribosylation is a reversible modification of proteins, with NAD:arginine ADP-ribosyltransferases (EC 2.4.2.31) and ADP-ribosylarginine hydrolases (EC 3.2.2.19) catalyzing the opposing reactions in an ADP-ribosylation cycle.

@@ -1,0 +1,1 @@
+Our results support a model where both E2F- and CDE-mediated repression, acting at different stages in the cell cycle, are dependent on promoter-specific CHR elements.

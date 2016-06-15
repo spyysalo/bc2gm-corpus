@@ -1,0 +1,7 @@
+T1	GENE 131 135	FurA
+T2	GENE 169 173	katG
+T3	GENE 40 56	Delta(furA-katG)
+T4	GENE 40 63	Delta(furA-katG) mutant
+T5	GENE 46 50	furA
+T6	GENE 5 9	furA
+T7	GENE 51 55	katG

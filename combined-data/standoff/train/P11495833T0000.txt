@@ -1,0 +1,1 @@
+Simulating the impact during human jumping by means of a 4-degrees-of-freedom model with time-dependent properties.

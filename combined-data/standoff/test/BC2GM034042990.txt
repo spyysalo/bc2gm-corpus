@@ -1,0 +1,1 @@
+This activity creates a 4-bp staggered cut with 3' OH overhangs within a specific sequence of the 21S rRNA gene of omega- strains.

@@ -1,0 +1,1 @@
+The deduced bovine EFIA#1 amino acid (aa) sequence is 98% identical to rat EFIA and 100% identical to human EFIA/DbpB/YB-1 family member DNA-binding protein B (DbpB).

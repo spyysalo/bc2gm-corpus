@@ -1,0 +1,1 @@
+Phylogenetic analysis using a neighbor-joining algorithm showed closest similarity of the horse mu chain-encoding constant region gene to human and dog sequences.

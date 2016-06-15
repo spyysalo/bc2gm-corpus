@@ -1,0 +1,1 @@
+Hydrophobicity analysis indicated that the KlaA and KlaB polypeptides are likely to be soluble, whereas the KlaC polypeptide was predicted to have four potential membrane-spanning domains.

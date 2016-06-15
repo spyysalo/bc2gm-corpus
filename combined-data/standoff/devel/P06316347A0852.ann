@@ -1,0 +1,8 @@
+T1	GENE 22 25	rnh
+T2	GENE 22 30	rnh-lacZ
+T3	GENE 22 42	rnh-lacZ fused genes
+T4	GENE 26 30	lacZ
+T5	GENE 4 13	dnaQ-lacZ
+T6	GENE 4 8	dnaQ
+T7	GENE 85 103	beta-galactosidase
+T8	GENE 9 13	lacZ

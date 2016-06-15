@@ -1,0 +1,1 @@
+BCL6 encodes a POZ/Zn finger protein, a structure similar to that of many Drosophila developmental regulators and to another protein involved in a human hematopoietic malignancy, PLZF.

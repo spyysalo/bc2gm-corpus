@@ -1,0 +1,1 @@
+The leader peptide was hypothesized to inhibit ribosome release at the tnaC stop codon, thereby blocking Rho's access to the transcript.

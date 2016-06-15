@@ -1,0 +1,16 @@
+T1	GENE 0 32	Stress-inducible protein kinases
+T2	GENE 112 143	c-Jun N-terminal protein kinase
+T3	GENE 145 149	SAPK
+T4	GENE 145 153	SAPK/JNK
+T5	GENE 150 153	JNK
+T6	GENE 159 162	p38
+T7	GENE 178 210	mitogen-activated protein kinase
+T8	GENE 178 229	mitogen-activated protein kinase (MAPK) superfamily
+T9	GENE 178 252	mitogen-activated protein kinase (MAPK) superfamily of signaling molecules
+T10	GENE 211 229	(MAPK) superfamily
+T11	GENE 211 252	(MAPK) superfamily of signaling molecules
+T12	GENE 212 216	MAPK
+T13	GENE 55 60	c-jun
+T14	GENE 80 143	stress-activated protein kinase/c-Jun N-terminal protein kinase
+T15	GENE 80 154	stress-activated protein kinase/c-Jun N-terminal protein kinase (SAPK/JNK)
+T16	GENE 80 111	stress-activated protein kinase

@@ -1,0 +1,7 @@
+T1	GENE 28 32	DmpR
+T2	GENE 28 42	DmpR activator
+T3	GENE 74 77	dmp
+T4	GENE 74 84	dmp operon
+T5	GENE 10 17	sigma54
+T6	GENE 10 32	sigma54-dependent DmpR
+T7	GENE 10 42	sigma54-dependent DmpR activator

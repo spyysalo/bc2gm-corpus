@@ -1,0 +1,4 @@
+T1	GENE 31 38	spi 2.3
+T2	GENE 31 45	spi 2.3 3' UTR
+T3	GENE 31 61	spi 2.3 3' UTR repressor sites
+T4	GENE 11 17	C/EBPs

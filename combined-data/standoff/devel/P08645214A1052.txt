@@ -1,0 +1,1 @@
+Escherichia coli BL21 (DE3)plysS, harbouring a recombinant plasmid containing the catalase-peroxidase gene, produced a large amount of proteins that co-migrated on SDS/PAGE with the native enzyme.

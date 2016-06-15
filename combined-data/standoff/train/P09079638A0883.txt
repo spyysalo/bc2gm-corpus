@@ -1,0 +1,1 @@
+The 3ASubE cells expressing CXCR2 with mutation of Ser-346, -347, and -348 to alanine, or with mutation of only one serine in this domain, continue to be phosphorylated in response to ligand and are 60-70% desensitized following the initial ligand challenge.

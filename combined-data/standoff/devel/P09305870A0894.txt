@@ -1,0 +1,1 @@
+The recognition specificity of the p55 PDZ domain appears to be unique, since the three PDZ domains of hDlg (human lymphocyte homologue of the Drosophila discs large tumor suppressor) do not bind the cytoplasmic domain of glycophorin C.

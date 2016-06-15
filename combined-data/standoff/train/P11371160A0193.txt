@@ -1,0 +1,1 @@
+They correspond to nucleotides equivalent to base-pair C1-G72 and discriminator base A73 in the amino acid-acceptor branch of the molecule.

@@ -1,0 +1,46 @@
+T1	GENE 123 125	E6
+T2	GENE 123 133	E6 protein
+T3	GENE 135 138	FAK
+T4	GENE 140 161	focal adhesion kinase
+T5	GENE 15 18	CAS
+T6	GENE 163 166	GIT
+T7	GENE 168 182	GRK interacter
+T8	GENE 184 188	GPCR
+T9	GENE 190 231	heterotrimeric-G-protein-coupled receptor
+T10	GENE 20 23	CRK
+T11	GENE 20 44	CRK-associated substrate
+T12	GENE 233 236	GRK
+T13	GENE 238 271	G-protein-coupled-receptor kinase
+T14	GENE 273 277	MAPK
+T15	GENE 279 311	mitogen-activated protein kinase
+T16	GENE 279 327	mitogen-activated protein kinase (ERK, p38, JNK)
+T17	GENE 313 316	ERK
+T18	GENE 318 321	p38
+T19	GENE 323 326	JNK
+T20	GENE 329 332	PAK
+T21	GENE 334 354	p21-activated kinase
+T22	GENE 356 359	PBS
+T23	GENE 361 369	paxillin
+T24	GENE 361 387	paxillin-binding subdomain
+T25	GENE 389 392	PIX
+T26	GENE 394 425	PAK-interacting exchange factor
+T27	GENE 427 430	PKL
+T28	GENE 432 454	paxillin kinase linker
+T29	GENE 456 460	POR1
+T30	GENE 462 476	partner of Rac
+T31	GENE 46 48	CH
+T32	GENE 50 58	calponin
+T33	GENE 50 74	calponin-homology domain
+T34	GENE 540 543	RTK
+T35	GENE 545 583	growth factor receptor tyrosine kinase
+T36	GENE 585 587	SH
+T37	GENE 589 592	SRC
+T38	GENE 589 601	SRC-homology
+T39	GENE 589 608	SRC-homology domain
+T40	GENE 76 79	CSK
+T41	GENE 81 102	C-terminal SRC kinase
+T42	GENE 92 102	SRC kinase
+T43	GENE 104 106	E6
+T44	GENE 104 106	E6
+T45	GENE 108 125	Papillomavirus E6
+T46	GENE 108 133	Papillomavirus E6 protein

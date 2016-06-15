@@ -1,0 +1,18 @@
+T1	GENE 122 127	(MEF)
+T2	GENE 122 129	(MEF)-2
+T3	GENE 122 134	(MEF)-2 like
+T4	GENE 122 143	(MEF)-2 like sequence
+T5	GENE 123 126	MEF
+T6	GENE 213 217	OP-1
+T7	GENE 39 43	AP-1
+T8	GENE 39 48	AP-1 like
+T9	GENE 39 57	AP-1 like sequence
+T10	GENE 39 81	AP-1 like sequence (-294/-285, TGAATCATCA)
+T11	GENE 89 134	A/T-rich myocyte enhancer factor (MEF)-2 like
+T12	GENE 89 143	A/T-rich myocyte enhancer factor (MEF)-2 like sequence
+T13	GENE 89 143	A/T-rich myocyte enhancer factor (MEF)-2 like sequence
+T14	GENE 89 170	A/T-rich myocyte enhancer factor (MEF)-2 like sequence (-310/-298, TTAAAAATAAAAA)
+T15	GENE 98 121	myocyte enhancer factor
+T16	GENE 98 127	myocyte enhancer factor (MEF)
+T17	GENE 98 134	myocyte enhancer factor (MEF)-2 like
+T18	GENE 98 143	myocyte enhancer factor (MEF)-2 like sequence

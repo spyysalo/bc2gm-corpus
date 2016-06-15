@@ -1,0 +1,1 @@
+Using a high-copy suppression strategy, we have identified a yeast gene (UBS1) whose elevated expression suppresses the conditional cell cycle defects associated with cdc34 mutations.

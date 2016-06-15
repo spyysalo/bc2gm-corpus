@@ -1,0 +1,1 @@
+METHODS: A discriminant function predicting surgery outcome (seizure-free vs. non-seizure-free) was computed separately for samples of patients with left (n = 79) and right (n = 62) temporal lobectomy (LATL, RATL).

@@ -1,0 +1,1 @@
+Temperature-shift experiments using synchronously grown cells of a delta top1 top2 temperature-sensitive (ts) double mutant and its isogenic top2 ts strain show that, whereas mitotic blocks can prevent killing of the top2 ts mutant at a nonpermissive temperature, the same treatments are ineffective in preventing cell death of the delta top1 top2 ts double mutant.

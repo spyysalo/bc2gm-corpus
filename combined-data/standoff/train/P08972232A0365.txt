@@ -1,0 +1,1 @@
+In this report, we demonstrate that hGCN5 is also an HAT and has the same substrate specificity as yGCN5.

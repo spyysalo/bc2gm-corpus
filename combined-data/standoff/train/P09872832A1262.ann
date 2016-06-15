@@ -1,0 +1,11 @@
+T1	GENE 122 126	IL-6
+T2	GENE 129 133	IL-8
+T3	GENE 135 140	IL-12
+T4	GENE 142 169	tumor necrosis factor-alpha
+T5	GENE 142 181	tumor necrosis factor-alpha (TNF-alpha)
+T6	GENE 171 180	TNF-alpha
+T7	GENE 187 203	interferon gamma
+T8	GENE 187 215	interferon gamma (IFN-gamma)
+T9	GENE 205 214	IFN-gamma
+T10	GENE 107 120	interleukin-6
+T11	GENE 107 127	interleukin-6 (IL-6)

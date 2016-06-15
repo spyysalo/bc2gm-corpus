@@ -1,0 +1,1 @@
+2 were nonviable, and the mutant Vp1s unexpectedly failed to localize to the nucleus though Vp2 and Vp3 did, suggesting that the mutated NLS1 acted as a dominant signal for the cytoplasmic localization of Vp1.

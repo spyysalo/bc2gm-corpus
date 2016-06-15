@@ -1,0 +1,1 @@
+As the length of the fatty acid decreased, the binding affinity was reduced; myristic acid (14:0) bound with a K(d) of 1409 +/- 423 nM, but medium-chain (decanoic acid, 10:0) and short-chain (octanoic acid, 8:0) lipids were not bound at all.

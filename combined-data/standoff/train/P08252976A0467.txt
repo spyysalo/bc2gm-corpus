@@ -1,0 +1,1 @@
+Rinit reflects the Newtonian resistances and Rdiff represents the viscoelastic/inhomogeneous pressure dissipations in the system.

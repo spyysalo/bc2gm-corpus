@@ -1,0 +1,17 @@
+T1	GENE 337 342	IGF-I
+T2	GENE 337 351	IGF-I promoter
+T3	GENE 337 353	IGF-I promoter 1
+T4	GENE 376 381	IGF-I
+T5	GENE 376 390	IGF-I promoter
+T6	GENE 376 401	IGF-I promoter-luciferase
+T7	GENE 376 421	IGF-I promoter-luciferase-reporter constructs
+T8	GENE 391 401	luciferase
+T9	GENE 391 410	luciferase-reporter
+T10	GENE 391 421	luciferase-reporter constructs
+T11	GENE 450 528	alpha-isoform of the catalytic subunit of murine cAMP-dependent protein kinase
+T12	GENE 450 534	alpha-isoform of the catalytic subunit of murine cAMP-dependent protein kinase (PKA)
+T13	GENE 492 528	murine cAMP-dependent protein kinase
+T14	GENE 499 528	cAMP-dependent protein kinase
+T15	GENE 499 534	cAMP-dependent protein kinase (PKA)
+T16	GENE 530 533	PKA
+T17	GENE 676 679	PKA

@@ -1,0 +1,1 @@
+All exon/intron splice junctions follow the GT/AG rule.

@@ -1,0 +1,1 @@
+The arrangement of these cutoff-levels leads to a sensitivity of 85% at a specificity of 55% for Protein S100 when measured by RIA, and to a sensitivity of 77% at a specificity of 61% when measured by LIA.

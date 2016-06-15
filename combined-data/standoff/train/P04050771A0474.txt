@@ -1,0 +1,1 @@
+The Cox proportional hazards model was applied to the data in order to determine the prognostic factors for long-term survival.

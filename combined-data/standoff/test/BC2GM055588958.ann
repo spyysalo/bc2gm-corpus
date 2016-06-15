@@ -1,0 +1,10 @@
+T1	GENE 167 169	NP
+T2	GENE 211 215	VP16
+T3	GENE 262 295	chloramphenicol acetyltransferase
+T4	GENE 262 301	chloramphenicol acetyltransferase (CAT)
+T5	GENE 262 310	chloramphenicol acetyltransferase (CAT) reporter
+T6	GENE 296 310	(CAT) reporter
+T7	GENE 297 300	CAT
+T8	GENE 330 334	GAL4
+T9	GENE 330 352	GAL4 DNA-binding sites
+T10	GENE 114 118	GAL4

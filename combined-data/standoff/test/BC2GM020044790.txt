@@ -1,0 +1,1 @@
+An ICU length of stay shorter than 24 h was not related to the frequency of group C errors.

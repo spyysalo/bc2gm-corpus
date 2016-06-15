@@ -1,0 +1,1 @@
+To explore the functional relationship between c-fos and Rb, a eukaryotic expression plasmid was constructed containing the c-fos gene under control of the SV40 promoter complex.

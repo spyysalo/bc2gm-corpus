@@ -1,0 +1,1 @@
+It was found that increase in the RH level boosts the current values by 2-3 orders of magnitude; contrariwise, the voltage values rise by about three times with drop in the RH.

@@ -1,0 +1,1 @@
+Simulations of velocities, vorticity, pressure and certain stress values were developed by a computer and displayed for man-machine interaction.

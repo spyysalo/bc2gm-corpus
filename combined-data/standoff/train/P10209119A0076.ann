@@ -1,0 +1,16 @@
+T1	GENE 117 125	SCFCdc4p
+T2	GENE 117 142	SCFCdc4p ubiquitin ligase
+T3	GENE 117 150	SCFCdc4p ubiquitin ligase complex
+T4	GENE 126 142	ubiquitin ligase
+T5	GENE 170 193	cyclin-dependent kinase
+T6	GENE 170 199	cyclin-dependent kinase (Cdk)
+T7	GENE 195 198	Cdk
+T8	GENE 22 35	protein Skp1p
+T9	GENE 210 215	Sic1p
+T10	GENE 30 35	Skp1p
+T11	GENE 41 47	cullin
+T12	GENE 41 61	cullin-family member
+T13	GENE 41 68	cullin-family member Cdc53p
+T14	GENE 62 68	Cdc53p
+T15	GENE 78 107	F-box/WD-repeat protein Cdc4p
+T16	GENE 102 107	Cdc4p

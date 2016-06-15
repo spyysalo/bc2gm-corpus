@@ -1,0 +1,11 @@
+T1	GENE 0 3	JNK
+T2	GENE 37 40	Ras
+T3	GENE 37 48	Ras-related
+T4	GENE 37 59	Ras-related G proteins
+T5	GENE 37 59	Ras-related G proteins
+T6	GENE 37 73	Ras-related G proteins Rac and Cdc42
+T7	GENE 49 59	G proteins
+T8	GENE 49 63	G proteins Rac
+T9	GENE 49 73	G proteins Rac and Cdc42
+T10	GENE 60 63	Rac
+T11	GENE 68 73	Cdc42

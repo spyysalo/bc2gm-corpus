@@ -1,0 +1,20 @@
+T1	GENE 16 34	CRE-dependent junB
+T2	GENE 16 43	CRE-dependent junB promoter
+T3	GENE 16 83	CRE-dependent junB promoter/chloramphenicol acetyltransferase (CAT)
+T4	GENE 16 92	CRE-dependent junB promoter/chloramphenicol acetyltransferase (CAT) reporter
+T5	GENE 16 97	CRE-dependent junB promoter/chloramphenicol acetyltransferase (CAT) reporter gene
+T6	GENE 30 34	junB
+T7	GENE 30 34	junB
+T8	GENE 30 43	junB promoter
+T9	GENE 30 77	junB promoter/chloramphenicol acetyltransferase
+T10	GENE 30 83	junB promoter/chloramphenicol acetyltransferase (CAT)
+T11	GENE 30 92	junB promoter/chloramphenicol acetyltransferase (CAT) reporter
+T12	GENE 30 97	junB promoter/chloramphenicol acetyltransferase (CAT) reporter gene
+T13	GENE 44 77	chloramphenicol acetyltransferase
+T14	GENE 44 83	chloramphenicol acetyltransferase (CAT)
+T15	GENE 44 92	chloramphenicol acetyltransferase (CAT) reporter
+T16	GENE 44 97	chloramphenicol acetyltransferase (CAT) reporter gene
+T17	GENE 78 92	(CAT) reporter
+T18	GENE 78 97	(CAT) reporter gene
+T19	GENE 79 82	CAT
+T20	GENE 105 108	BCR

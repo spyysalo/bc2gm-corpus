@@ -1,0 +1,1 @@
+A correlation coefficient was used for assessing the similarity of each map pattern with the normal mean IQRST map.

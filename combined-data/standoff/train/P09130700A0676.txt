@@ -1,0 +1,1 @@
+Further support for a direct interaction of Tub4p, Spc98p and Spc97p comes from the toxicity of strong SPC97 overexpression which is suppressed by co-overexpression of TUB4 or SPC98.

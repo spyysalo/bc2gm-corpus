@@ -1,0 +1,1 @@
+The kinase domains encoded in the COOH-terminal moiety are 94% conserved; the NH2-terminal moieties are approximately 65% homologous, suggesting this region may encode sequences conferring differential regulation of the two kinases.

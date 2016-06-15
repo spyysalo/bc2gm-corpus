@@ -1,0 +1,7 @@
+T1	GENE 125 129	CYC1
+T2	GENE 125 134	CYC1-lacZ
+T3	GENE 125 143	CYC1-lacZ reporter
+T4	GENE 125 148	CYC1-lacZ reporter gene
+T5	GENE 130 134	lacZ
+T6	GENE 130 143	lacZ reporter
+T7	GENE 130 148	lacZ reporter gene

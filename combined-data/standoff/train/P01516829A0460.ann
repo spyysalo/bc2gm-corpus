@@ -1,0 +1,16 @@
+T1	GENE 13 17	LexA
+T2	GENE 13 22	LexA-GAL4
+T3	GENE 13 38	LexA-GAL4 and LexA-Bicoid
+T4	GENE 13 45	LexA-GAL4 and LexA-Bicoid fusion
+T5	GENE 13 54	LexA-GAL4 and LexA-Bicoid fusion proteins
+T6	GENE 156 160	lexA
+T7	GENE 156 170	lexA operators
+T8	GENE 18 22	GAL4
+T9	GENE 27 31	LexA
+T10	GENE 27 38	LexA-Bicoid
+T11	GENE 27 45	LexA-Bicoid fusion
+T12	GENE 27 54	LexA-Bicoid fusion proteins
+T13	GENE 32 38	Bicoid
+T14	GENE 77 81	SNF2
+T15	GENE 83 87	SNF5
+T16	GENE 93 97	SNF6

@@ -1,0 +1,1 @@
+Multivariate Cox survival analysis identified baseline EF < or = 30%, presence of significant mitral regurgitation (>2+) before ablation, and failure to exhibit improved cardiac performance by 1 month after ablation as the only independent predictors of death.

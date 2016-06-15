@@ -1,0 +1,15 @@
+T1	GENE 0 18	Mature tobacco L12
+T2	GENE 0 26	Mature tobacco L12 protein
+T3	GENE 15 18	L12
+T4	GENE 15 26	L12 protein
+T5	GENE 60 80	ribosomal protein L7
+T6	GENE 60 84	ribosomal protein L7/L12
+T7	GENE 60 104	ribosomal protein L7/L12 of Escherichia coli
+T8	GENE 70 84	protein L7/L12
+T9	GENE 70 104	protein L7/L12 of Escherichia coli
+T10	GENE 7 18	tobacco L12
+T11	GENE 7 26	tobacco L12 protein
+T12	GENE 78 80	L7
+T13	GENE 78 84	L7/L12
+T14	GENE 78 104	L7/L12 of Escherichia coli
+T15	GENE 81 84	L12

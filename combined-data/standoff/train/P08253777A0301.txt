@@ -1,0 +1,1 @@
+A cAMP response element (CRE) consensus signal was identified in the 5'-noncoding region. cAMP regulates the expression of Kv1.5 gene in a cell-specific manner.

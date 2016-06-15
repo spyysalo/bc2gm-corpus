@@ -1,0 +1,1 @@
+The GIS software program, ArcView, was used for spatial analysis and distance calculations. chi2 Tests were used to compare the distribution of the characteristics between intersection and midblock collisions.

@@ -1,0 +1,1 @@
+These observations demonstrate that KSR is capable of uncoupling the MAP kinase activation from its target phosphorylation, and thus provide a novel mechanism for modulating the Ras-MAP kinase signaling pathway.

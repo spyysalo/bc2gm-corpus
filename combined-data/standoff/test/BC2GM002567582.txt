@@ -1,0 +1,1 @@
+In contrast to the p16-mediated G1 block, G1 arrest mediated by the cdk inhibitors p21Cip1 or p27Kip1 cannot be bypassed either by inactivation of pRb or overexpression of E2F family members.

@@ -1,0 +1,9 @@
+T1	GENE 23 28	hnRNP
+T2	GENE 23 31	hnRNP A1
+T3	GENE 23 44	hnRNP A1 binding site
+T4	GENE 29 31	A1
+T5	GENE 29 44	A1 binding site
+T6	GENE 67 78	beta-globin
+T7	GENE 67 87	beta-globin reporter
+T8	GENE 9 44	high affinity hnRNP A1 binding site
+T9	GENE 89 92	Rev

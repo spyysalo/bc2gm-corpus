@@ -1,0 +1,1 @@
+In addition, a 21-mer subrepeat structure is also present in each unit.

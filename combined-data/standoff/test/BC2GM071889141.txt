@@ -1,0 +1,1 @@
+A third-order polynominal fit showed a good correlation for the parameter Q* and MTT, whereas T and SImax were found to have a poor correlation.

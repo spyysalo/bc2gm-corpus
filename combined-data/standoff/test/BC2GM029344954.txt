@@ -1,0 +1,1 @@
+In the unit housing of a compact cyclotron and positron emission CT (PET), positron emitting gas such as 15O, 11C, C15O2, C15O etc. is supplied from a cyclotron to a PET room through a transportation pipe with an appropriate shield to reduce positron annihilation radiation.

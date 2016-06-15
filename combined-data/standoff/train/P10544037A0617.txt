@@ -1,0 +1,1 @@
+FZD4 is homologous to FZD9 and FZD10, and overall amino acid identity is as follows: FZD4 vs FZD9, 51.6%; FZD4 vs FZD10, 51.2%; FZD9 vs FZD10, 65.7%.

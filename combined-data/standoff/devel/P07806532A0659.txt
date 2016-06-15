@@ -1,0 +1,1 @@
+Protein cHMGI binds preferentially to AT-rich DNA with a half-saturation value of 1.1 nM.

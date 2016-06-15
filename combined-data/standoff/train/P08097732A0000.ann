@@ -1,0 +1,9 @@
+T1	GENE 203 208	Spec1
+T2	GENE 203 214	Spec1/Spec2
+T3	GENE 203 220	Spec1/Spec2 genes
+T4	GENE 209 214	Spec2
+T5	GENE 209 220	Spec2 genes
+T6	GENE 25 49	ectoderm-specific Spec2a
+T7	GENE 25 54	ectoderm-specific Spec2a gene
+T8	GENE 43 49	Spec2a
+T9	GENE 43 54	Spec2a gene

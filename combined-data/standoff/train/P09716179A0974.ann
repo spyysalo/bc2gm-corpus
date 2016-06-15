@@ -1,0 +1,13 @@
+T1	GENE 0 9	RXR-gamma
+T2	GENE 134 141	p21Cip1
+T3	GENE 134 146	p21Cip1/WAF1
+T4	GENE 142 146	WAF1
+T5	GENE 151 158	p27Kip1
+T6	GENE 183 187	cdc2
+T7	GENE 192 196	cdk2
+T8	GENE 192 203	cdk2 kinase
+T9	GENE 217 219	RB
+T10	GENE 99 122	cyclin-dependent kinase
+T11	GENE 99 122	cyclin-dependent kinase
+T12	GENE 99 133	cyclin-dependent kinase inhibitors
+T13	GENE 99 146	cyclin-dependent kinase inhibitors p21Cip1/WAF1

@@ -1,0 +1,9 @@
+T1	GENE 18 36	B cell Ag receptor
+T2	GENE 18 42	B cell Ag receptor (BCR)
+T3	GENE 38 41	BCR
+T4	GENE 46 66	surface Fc receptors
+T5	GENE 46 87	surface Fc receptors for IgG (Fc gamma R)
+T6	GENE 54 66	Fc receptors
+T7	GENE 54 87	Fc receptors for IgG (Fc gamma R)
+T8	GENE 71 74	IgG
+T9	GENE 76 86	Fc gamma R

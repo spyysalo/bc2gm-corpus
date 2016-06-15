@@ -1,0 +1,11 @@
+T1	GENE 0 12	Cytochrome b
+T2	GENE 16 32	human complex II
+T3	GENE 16 70	human complex II (succinate-ubiquinone oxidoreductase)
+T4	GENE 172 210	large (SDHC) and small (SDHD) subunits
+T5	GENE 179 183	SDHC
+T6	GENE 189 210	small (SDHD) subunits
+T7	GENE 195 210	(SDHD) subunits
+T8	GENE 196 200	SDHD
+T9	GENE 22 32	complex II
+T10	GENE 22 70	complex II (succinate-ubiquinone oxidoreductase)
+T11	GENE 34 69	succinate-ubiquinone oxidoreductase

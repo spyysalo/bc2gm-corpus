@@ -1,0 +1,1 @@
+Tryptic cleavage and peptide sequence analysis demonstrated that the 98-kD protein is identical to a recently cloned protein, special A-T-rich binding protein 1 (SATB1), that binds selectively to nuclear matrix/scaffold-associated regions of DNA (MARs/SARs).

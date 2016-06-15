@@ -1,0 +1,23 @@
+T1	GENE 0 3	Fas
+T2	GENE 137 165	cowpox ICE inhibitor protein
+T3	GENE 137 170	cowpox ICE inhibitor protein CrmA
+T4	GENE 144 147	ICE
+T5	GENE 144 165	ICE inhibitor protein
+T6	GENE 144 170	ICE inhibitor protein CrmA
+T7	GENE 166 170	CrmA
+T8	GENE 176 221	synthetic tetrapeptide ICE inhibitor YVAD-CMK
+T9	GENE 186 221	tetrapeptide ICE inhibitor YVAD-CMK
+T10	GENE 199 202	ICE
+T11	GENE 199 221	ICE inhibitor YVAD-CMK
+T12	GENE 213 221	YVAD-CMK
+T13	GENE 231 269	tripeptide pan-ICE inhibitor Z-VAD-FMK
+T14	GENE 242 269	pan-ICE inhibitor Z-VAD-FMK
+T15	GENE 246 249	ICE
+T16	GENE 260 269	Z-VAD-FMK
+T17	GENE 30 33	ICE
+T18	GENE 30 72	ICE (interleukin-1 beta-converting enzyme)
+T19	GENE 30 79	ICE (interleukin-1 beta-converting enzyme) family
+T20	GENE 30 89	ICE (interleukin-1 beta-converting enzyme) family proteases
+T21	GENE 34 79	(interleukin-1 beta-converting enzyme) family
+T22	GENE 34 89	(interleukin-1 beta-converting enzyme) family proteases
+T23	GENE 35 71	interleukin-1 beta-converting enzyme

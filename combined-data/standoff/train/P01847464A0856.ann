@@ -1,0 +1,11 @@
+T1	GENE 126 131	ori-P
+T2	GENE 157 180	carboxy-terminal EBNA-1
+T3	GENE 157 193	carboxy-terminal EBNA-1 construction
+T4	GENE 174 180	EBNA-1
+T5	GENE 174 193	EBNA-1 construction
+T6	GENE 239 244	c-myc
+T7	GENE 239 272	c-myc nuclear localization signal
+T8	GENE 33 38	pFRTK
+T9	GENE 33 42	pFRTK-CAT
+T10	GENE 39 42	CAT
+T11	GENE 61 81	EBNA-1-binding sites

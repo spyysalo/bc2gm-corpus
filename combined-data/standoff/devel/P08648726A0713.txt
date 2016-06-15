@@ -1,0 +1,1 @@
+Cloning of individual ZI domains upstream of a minimal promoter demonstrated that the ZIA, ZIC, and ZID domains, but not the ZIB domain, are TPA responsive.

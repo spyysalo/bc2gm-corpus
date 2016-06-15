@@ -1,0 +1,1 @@
+Accepting arbitrarily chosen limits of maximized errors of +/- 10%, it could be shown that the system did not work acceptably when the mean carbon dioxide concentration was below 1.5 vol.% within the fresh gas flow rates (2.2--7.7 1 min-1) and the range of minute ventilation (4--10 1 min-1) employed.

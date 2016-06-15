@@ -1,0 +1,1 @@
+Recently, an electrical-mechanical analog model of heat flow within the brain has been developed from which an expression for CBF has been derived: CBF = Cb/(tau rho c) where tau is the thermal decay constant, rho is the density of blood, and c is its specific heat.

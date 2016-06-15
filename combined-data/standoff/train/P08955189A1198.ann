@@ -1,0 +1,11 @@
+T1	GENE 12 16	NheI
+T2	GENE 12 22	NheI/BglII
+T3	GENE 12 31	NheI/BglII promoter
+T4	GENE 129 132	Sp1
+T5	GENE 137 142	EGR-1
+T6	GENE 137 164	EGR-1 transcription factors
+T7	GENE 17 22	BglII
+T8	GENE 17 31	BglII promoter
+T9	GENE 4 16	0.22-kb NheI
+T10	GENE 4 22	0.22-kb NheI/BglII
+T11	GENE 4 31	0.22-kb NheI/BglII promoter

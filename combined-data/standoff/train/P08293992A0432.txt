@@ -1,0 +1,1 @@
+Each repeat consists of 12 nt, coding for the reiterated sequence, K/NPAG.

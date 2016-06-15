@@ -1,0 +1,10 @@
+T1	GENE 123 126	pol
+T2	GENE 123 131	pol gene
+T3	GENE 123 140	pol gene of SFV-1
+T4	GENE 28 31	Tas
+T5	GENE 28 50	Tas-responsive element
+T6	GENE 63 66	TRE
+T7	GENE 63 71	TRE (GP)
+T8	GENE 68 70	GP
+T9	GENE 96 99	gag
+T10	GENE 96 104	gag gene

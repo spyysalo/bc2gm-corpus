@@ -1,0 +1,1 @@
+The small size and placement of the mutagenesis marker (the supF suppressor tRNA gene from Escherichia coli) within the vector substantially reduced the frequency of spontaneous mutations normally observed after transfection of mammalian cells with plasmid DNA; hence, UV-induced mutations were easily identified above the spontaneous background.

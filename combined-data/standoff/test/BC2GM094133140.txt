@@ -1,0 +1,1 @@
+SF1/mBBP utilizes a "maxi-K homology" (maxi-KH) domain for recognition of the single-stranded BPS and requires a cooperative interaction with splicing factor U2AF65 bound to an adjacent polypyrimidine tract (PPT) for high-affinity binding.

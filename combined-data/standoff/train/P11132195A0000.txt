@@ -1,0 +1,1 @@
+Because the number of parameters required by a Volterra series grows rapidly with both the length of its memory and the order of its nonlinearity, methods for identifying these models from measurements of input/output data are limited to low-order systems with relatively short memories.

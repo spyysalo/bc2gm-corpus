@@ -1,0 +1,1 @@
+Here we demonstrate genetically that plus-strand DNA synthesis of the yeast Ty1 element is initiated at two sites located at the 5' boundary of the 3' long terminal repeat (PPT1) and near the middle of the pol gene in the integrase coding sequence (PPT2).

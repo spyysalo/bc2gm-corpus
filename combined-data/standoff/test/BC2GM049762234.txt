@@ -1,0 +1,1 @@
+The cluster was mapped to nucleotides -464 to -434 (relative to nucleotide A in the initiation codon) in genomic DNA.

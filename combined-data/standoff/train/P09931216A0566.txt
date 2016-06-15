@@ -1,0 +1,1 @@
+Airflow was measured with a custom-designed turbine and a 45-ft.-long cable to reach the volume-measuring module.

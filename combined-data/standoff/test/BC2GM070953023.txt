@@ -1,0 +1,1 @@
+Mammalian chromosome ends contain long arrays of TTAGGG repeats that are complexed to a telomere specific protein, the TTAGGG repeat binding factor, TRF1.

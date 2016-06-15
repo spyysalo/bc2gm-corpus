@@ -1,0 +1,1 @@
+The described results show that DTD is fast, simple, and easy to automate; requires only a small amount of sample (approximately 50 mg); and affords quantitative information about the main groups of compounds present in cheeses.

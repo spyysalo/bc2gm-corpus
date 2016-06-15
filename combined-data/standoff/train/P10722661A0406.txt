@@ -1,0 +1,1 @@
+To determine if CYC2 is found in a complex with previously identified trypanosome cdc2-related kinases (CRKs), the CYC2 gene was fused to the TY epitope tag, integrated into the trypanosome genome, and expressed under inducible control.

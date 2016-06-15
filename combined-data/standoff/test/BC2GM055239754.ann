@@ -1,0 +1,20 @@
+T1	GENE 137 141	CREB
+T2	GENE 137 148	CREB mutant
+T3	GENE 192 196	CREB
+T4	GENE 192 201	CREB beta
+T5	GENE 249 253	CREB
+T6	GENE 249 257	CREB/ATF
+T7	GENE 249 264	CREB/ATF family
+T8	GENE 249 289	CREB/ATF family of transcription factors
+T9	GENE 254 257	ATF
+T10	GENE 254 264	ATF family
+T11	GENE 254 289	ATF family of transcription factors
+T12	GENE 296 300	CREB
+T13	GENE 296 306	CREB delta
+T14	GENE 311 315	CREB
+T15	GENE 311 321	CREB alpha
+T16	GENE 39 78	cAMP response element modulator protein
+T17	GENE 39 85	cAMP response element modulator protein (CREM)
+T18	GENE 39 90	cAMP response element modulator protein (CREM) mRNA
+T19	GENE 79 90	(CREM) mRNA
+T20	GENE 80 84	CREM

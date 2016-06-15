@@ -1,0 +1,1 @@
+Strain CFN037 is an R. etli mutant induced by a single Tn5mob insertion in the promoter region of the thiCOGE gene cluster.

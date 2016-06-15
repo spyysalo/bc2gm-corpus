@@ -1,0 +1,1 @@
+Site-directed mutagenesis shows that sites throughout the IRE alter negative control and IRE-BP binding reflecting the fact that the footprint of the IRE-BP is over the entire IRE.

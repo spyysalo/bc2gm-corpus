@@ -1,0 +1,10 @@
+T1	GENE 121 128	p210bcr
+T2	GENE 121 132	p210bcr/abl
+T3	GENE 129 132	abl
+T4	GENE 70 83	fused bcr/abl
+T5	GENE 70 88	fused bcr/abl gene
+T6	GENE 76 79	bcr
+T7	GENE 76 83	bcr/abl
+T8	GENE 76 88	bcr/abl gene
+T9	GENE 80 83	abl
+T10	GENE 80 88	abl gene

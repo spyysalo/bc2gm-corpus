@@ -1,0 +1,1 @@
+By contrast, deletion of this Ras-binding site did not diminish activation of Raf-1 kinase by Src, implying that Src and Ras can activate Raf-1 through independent mechanisms.

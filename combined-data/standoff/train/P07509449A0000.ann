@@ -1,0 +1,16 @@
+T1	GENE 118 121	Gag
+T2	GENE 118 131	Gag sequences
+T3	GENE 184 212	Src homology regions 2 and 3
+T4	GENE 214 217	SH2
+T5	GENE 222 225	SH3
+T6	GENE 222 235	SH3 sequences
+T7	GENE 29 53	avian sarcoma virus CT10
+T8	GENE 35 53	sarcoma virus CT10
+T9	GENE 43 53	virus CT10
+T10	GENE 49 53	CT10
+T11	GENE 80 86	p47gag
+T12	GENE 80 90	p47gag-crk
+T13	GENE 87 90	crk
+T14	GENE 94 99	v-Crk
+T15	GENE 112 121	viral Gag
+T16	GENE 112 131	viral Gag sequences

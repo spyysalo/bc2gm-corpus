@@ -1,0 +1,1 @@
+In the present study we use a tnaC-UGA-'lacZ construct lacking the tnaC-tnaA spacer region to analyze the effect of TnaC synthesis on the behavior of the ribosome that translates tnaC.

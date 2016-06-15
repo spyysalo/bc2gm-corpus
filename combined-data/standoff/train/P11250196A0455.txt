@@ -1,0 +1,1 @@
+The (two-motif) domain fold contains a pair of calcium binding sites very similar to those found in a two-domain prokaryotic betagamma-crystallin fold family member, Protein S.

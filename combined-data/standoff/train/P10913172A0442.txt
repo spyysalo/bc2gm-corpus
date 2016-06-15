@@ -1,0 +1,1 @@
+To determine whether the NTP-binding motif is important for Rad24 function, we mutated the conserved lysine(115) residue in this motif.

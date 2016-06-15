@@ -1,0 +1,4 @@
+T1	GENE 20 23	MBP
+T2	GENE 20 31	MBP fusions
+T3	GENE 12 23	peptide:MBP
+T4	GENE 12 31	peptide:MBP fusions

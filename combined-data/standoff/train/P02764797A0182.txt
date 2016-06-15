@@ -1,0 +1,1 @@
+PULSE is used to set such NMR spectroscopic parameters as the delay and duration of rf transmit and receive gates, rf phase, sampling times, and such imaging parameters as rf pulse shape and gradient waveforms.

@@ -1,0 +1,1 @@
+Kinase renaturation tests designed to detect reactivated protein kinases after electrophoresis in sodium dodecyl sulfate-polyacrylamide gels revealed the presence of a 60-kDa kinase in the washed immunoprecipitate obtained from liver cytosol using anti-AHR antibody (IgG) and protein A/G/agarose beads but not when a nonspecific IgG was used instead of anti-AHR antibody.

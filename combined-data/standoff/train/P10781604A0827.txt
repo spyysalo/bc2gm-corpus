@@ -1,0 +1,1 @@
+An analysis of synthetic peptides revealed a minimal CTD sequence that is sufficient to bind to the second Rsp5 WW domain (Rsp5 WW2) in vitro and in yeast two-hybrid assays.

@@ -1,0 +1,11 @@
+T1	GENE 0 3	ENV
+T2	GENE 122 131	invertase
+T3	GENE 122 138	invertase signal
+T4	GENE 122 147	invertase signal sequence
+T5	GENE 49 75	S. cerevisiae alpha-factor
+T6	GENE 49 99	S. cerevisiae alpha-factor prepro secretion leader
+T7	GENE 63 75	alpha-factor
+T8	GENE 63 99	alpha-factor prepro secretion leader
+T9	GENE 108 131	S. cerevisiae invertase
+T10	GENE 108 138	S. cerevisiae invertase signal
+T11	GENE 108 147	S. cerevisiae invertase signal sequence

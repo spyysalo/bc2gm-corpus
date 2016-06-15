@@ -1,0 +1,1 @@
+Thus, the consensus sequences for phosphatase regulation are 5'-GCACGTGGG-3' and 5'-GCACGTTTT-3' which differ from the binding sequences for the Cpflp protein required for transcription of the genes in methionine biosynthesis and for centromere function.

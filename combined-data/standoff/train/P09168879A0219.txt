@@ -1,0 +1,1 @@
+In AcMNPV-infected Sf9 cells, late transcription initiation is detected from only two upstream TAAG sites and not from three downstream TAAG sites.

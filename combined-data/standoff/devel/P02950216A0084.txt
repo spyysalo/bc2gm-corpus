@@ -1,0 +1,1 @@
+Functional flow was evaluated using laser Doppler flowmetry (LDF), for which the output signal, blood cell flux (BCF), is expressed in terms of volts.

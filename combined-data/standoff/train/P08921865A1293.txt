@@ -1,0 +1,1 @@
+They lack a predicted single stranded (ss) DNA binding motif that is unique the large terminase proteins in T4 gp17, and that has been implicated in recognizing ssDNA regions in replicating and recombining T4DNA destined to be packaged.

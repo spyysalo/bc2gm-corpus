@@ -1,0 +1,1 @@
+In transient transfections using luciferase reporter genes driven by 1 kb of the 5' flanking DNA of the three CALM genes, the promoter activity correlated with the endogenous CALM transcriptional activity, but only when the 5' untranslated regions were included in the constructs.

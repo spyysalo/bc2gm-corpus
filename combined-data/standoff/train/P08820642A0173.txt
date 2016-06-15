@@ -1,0 +1,1 @@
+The harpin-encoding hrpZ gene is located in an operon that also encodes Hrp secretion pathway components and is part of the functional cluster of hrp genes carried on cosmid pHIR11 that enables saprophytic bacteria like Escherichia coli and Pseudomonas fluorescens to elicit the HR in tobacco leaves.

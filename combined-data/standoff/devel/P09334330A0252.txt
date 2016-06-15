@@ -1,0 +1,1 @@
+Null mutations in daf-3 suppress mutations in genes encoding this TGF-beta signal, its receptors, and associated Smad signal transduction proteins. daf-3 encodes a Smad protein that is most closely related to mammalian DPC4, and is expressed throughout development in many of the tissues that are remodeled during dauer development.

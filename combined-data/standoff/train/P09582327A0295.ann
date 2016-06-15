@@ -1,0 +1,16 @@
+T1	GENE 184 194	rat LHbeta
+T2	GENE 184 199	rat LHbeta gene
+T3	GENE 184 220	rat LHbeta gene 5'-flanking sequence
+T4	GENE 188 194	LHbeta
+T5	GENE 188 199	LHbeta gene
+T6	GENE 188 220	LHbeta gene 5'-flanking sequence
+T7	GENE 289 299	luciferase
+T8	GENE 289 308	luciferase reporter
+T9	GENE 289 327	luciferase reporter (-797/+5LHbetaLUC)
+T10	GENE 300 327	reporter (-797/+5LHbetaLUC)
+T11	GENE 310 326	-797/+5LHbetaLUC
+T12	GENE 345 349	GnRH
+T13	GENE 61 78	rat GnRH receptor
+T14	GENE 61 83	rat GnRH receptor cDNA
+T15	GENE 65 78	GnRH receptor
+T16	GENE 65 83	GnRH receptor cDNA

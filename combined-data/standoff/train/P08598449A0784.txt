@@ -1,0 +1,1 @@
+In contrast to the signaling triggered by surface Ig engagement in B lymphocytes, CD38 ligation did not appear to induce tyrosine phosphorylation of the src-like protein tyrosine kinases lyn, fyn, and btk, or of vav- and ras-GTPase-activating protein, nor did it induce detectable changes in cytosolic CA2+ concentrations.

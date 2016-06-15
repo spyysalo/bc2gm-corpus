@@ -1,0 +1,1 @@
+An ASIC-chip for stereoscopic depth analysis in video-real-time based on visual cortical cell behavior.

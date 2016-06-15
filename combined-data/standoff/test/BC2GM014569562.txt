@@ -1,0 +1,1 @@
+Between the RNA initiation site and the coding region is a GC-rich hairpin structure followed by 8 T residues that looks like a rho-independent transcription terminator.

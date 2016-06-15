@@ -1,0 +1,12 @@
+T1	GENE 115 118	ERK
+T2	GENE 120 123	JNK
+T3	GENE 120 128	JNK/SAPK
+T4	GENE 124 128	SAPK
+T5	GENE 134 137	p38
+T6	GENE 164 174	murine uPA
+T7	GENE 164 183	murine uPA promoter
+T8	GENE 171 174	uPA
+T9	GENE 171 183	uPA promoter
+T10	GENE 74 138	mitogen-activated protein (MAP) kinases (ERK, JNK/SAPK, and p38)
+T11	GENE 74 113	mitogen-activated protein (MAP) kinases
+T12	GENE 100 113	(MAP) kinases

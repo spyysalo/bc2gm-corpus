@@ -1,0 +1,5 @@
+T1	GENE 12 16	lacZ
+T2	GENE 12 40	lacZ transcriptional fusions
+T3	GENE 56 60	KdgR
+T4	GENE 56 74	KdgR-binding sites
+T5	GENE 111 115	rsmB

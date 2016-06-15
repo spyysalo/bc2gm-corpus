@@ -1,0 +1,1 @@
+The studied protein fragments consist of residues Arg183-His267 of the human ER and residues Lys438-Gln520 of the rat GR.

@@ -1,0 +1,10 @@
+T1	GENE 0 23	B cell antigen receptor
+T2	GENE 0 29	B cell antigen receptor (BCR)
+T3	GENE 25 28	BCR
+T4	GENE 54 59	SHP-2
+T5	GENE 54 65	SHP-2-pp120
+T6	GENE 54 73	SHP-2-pp120 complex
+T7	GENE 60 65	pp120
+T8	GENE 96 110	Fc gamma RIIB1
+T9	GENE 96 114	Fc gamma RIIB1-BCR
+T10	GENE 111 114	BCR

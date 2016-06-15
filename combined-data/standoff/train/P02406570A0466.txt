@@ -1,0 +1,1 @@
+All ABFI-binding sites, regardless of origin, provided weak UAS function in vivo when examined in test plasmids.

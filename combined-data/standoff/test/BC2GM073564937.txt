@@ -1,0 +1,1 @@
+The local median scores (ranges) of the above tests were as follows-AMT: 9 (6-10); CMMS: 25 (16-28); SBT: 2 (0-10); WL-i: 17 (8-27); WL-d: 5 (0-10); WL-r: 9 (1-10); ST: 13 (6-25); BNT: 14 (10-15); CPT: 1 (0-3); BDT: 19 (0-42); OAT: 20 (3-33).

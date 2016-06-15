@@ -1,0 +1,14 @@
+T1	GENE 118 126	CD3 zeta
+T2	GENE 155 168	interleukin-2
+T3	GENE 186 189	TCR
+T4	GENE 207 247	antigen/major histocompatibility complex
+T5	GENE 215 247	major histocompatibility complex
+T6	GENE 45 58	Ti alpha-beta
+T7	GENE 45 82	Ti alpha-beta CD3 gamma delta epsilon
+T8	GENE 45 86	Ti alpha-beta CD3 gamma delta epsilon TCR
+T9	GENE 45 96	Ti alpha-beta CD3 gamma delta epsilon TCR complexes
+T10	GENE 59 82	CD3 gamma delta epsilon
+T11	GENE 59 86	CD3 gamma delta epsilon TCR
+T12	GENE 59 96	CD3 gamma delta epsilon TCR complexes
+T13	GENE 83 86	TCR
+T14	GENE 83 96	TCR complexes

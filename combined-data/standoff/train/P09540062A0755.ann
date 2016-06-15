@@ -1,0 +1,17 @@
+T1	GENE 133 135	H4
+T2	GENE 133 135	H4
+T3	GENE 167 178	chimeric H4
+T4	GENE 167 187	chimeric H4 promoter
+T5	GENE 167 191	chimeric H4 promoter/CAT
+T6	GENE 167 198	chimeric H4 promoter/CAT fusion
+T7	GENE 167 209	chimeric H4 promoter/CAT fusion constructs
+T8	GENE 176 178	H4
+T9	GENE 176 187	H4 promoter
+T10	GENE 176 191	H4 promoter/CAT
+T11	GENE 176 198	H4 promoter/CAT fusion
+T12	GENE 176 209	H4 promoter/CAT fusion constructs
+T13	GENE 188 191	CAT
+T14	GENE 188 198	CAT fusion
+T15	GENE 58 65	Site II
+T16	GENE 58 73	Site II cognate
+T17	GENE 58 82	Site II cognate proteins

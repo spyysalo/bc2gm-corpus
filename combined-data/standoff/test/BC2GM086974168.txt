@@ -1,0 +1,1 @@
+This incompatibility phenotype requires the global transcriptional repressor, KorB, and the target for incC-mediated incompatibility is a KorB-binding site (O(B)).

@@ -1,0 +1,1 @@
+The C-terminal region of the 150-kDa protein contains an NTP-binding helicase motif and the readthrough region, an RNA polymerase motif, indicating that these two overlapping proteins may form an RNA replication complex similar to those of tobamo- and tobraviruses.

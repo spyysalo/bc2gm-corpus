@@ -1,0 +1,1 @@
+Escherichia coli strains carrying recA730 (or other recA* alleles) exhibit dramatic increases in SOS-dependent spontaneous mutator activity.

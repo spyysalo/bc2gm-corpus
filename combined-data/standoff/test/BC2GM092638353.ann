@@ -1,0 +1,10 @@
+T1	GENE 52 63	mouse Fli-1
+T2	GENE 52 72	mouse Fli-1 promoter
+T3	GENE 52 76	mouse Fli-1 promoter-CAT
+T4	GENE 52 87	mouse Fli-1 promoter-CAT constructs
+T5	GENE 58 63	Fli-1
+T6	GENE 58 72	Fli-1 promoter
+T7	GENE 58 76	Fli-1 promoter-CAT
+T8	GENE 58 87	Fli-1 promoter-CAT constructs
+T9	GENE 73 76	CAT
+T10	GENE 73 87	CAT constructs

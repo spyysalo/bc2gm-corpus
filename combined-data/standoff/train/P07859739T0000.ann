@@ -1,0 +1,11 @@
+T1	GENE 17 20	Cdk
+T2	GENE 34 36	Rb
+T3	GENE 8 16	cyclin D
+T4	GENE 8 20	cyclin D-Cdk
+T5	GENE 8 30	cyclin D-Cdk complexes
+T6	GENE 83 118	p16INK4/MTS1 tumour suppressor gene
+T7	GENE 83 126	p16INK4/MTS1 tumour suppressor gene product
+T8	GENE 83 90	p16INK4
+T9	GENE 83 95	p16INK4/MTS1
+T10	GENE 83 113	p16INK4/MTS1 tumour suppressor
+T11	GENE 91 95	MTS1

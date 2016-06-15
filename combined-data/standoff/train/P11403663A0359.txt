@@ -1,0 +1,1 @@
+Net lift and combined drag from all 8 bearings of the 4-bladed impeller are compared with predictions based on 2-D theory.

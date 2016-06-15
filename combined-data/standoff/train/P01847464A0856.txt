@@ -1,0 +1,1 @@
+In short-term cotransfections, a pFRTK-CAT target containing EBNA-1-binding sites from the EBV origin of plasmid replication, ori-P, was transactivated by a carboxy-terminal EBNA-1 construction (amino acids 450 to 641) that also carried a c-myc nuclear localization signal.

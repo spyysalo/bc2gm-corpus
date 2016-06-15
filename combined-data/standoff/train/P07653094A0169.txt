@@ -1,0 +1,1 @@
+A series of amino terminal deletion mutants (d10, d20, d27, d31, d40, d44, and d73) were compared for processing, cell surface expression, and maintenance of their biological attributes by recombinant expression of mutant genes using a plasmid vector (pcDL-SR alpha-296) in CV-1 and HeLa cells.

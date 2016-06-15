@@ -1,0 +1,1 @@
+In contrast, the deduced amino acid sequence of a second family (ART5) of transferases, cloned from murine lymphoma cells and expressed in high abundance in testis, displays a hydrophobic amino terminus, consistent with a signal sequence, but lacks a hydrophobic signal sequence at its carboxyl terminus, suggesting that the protein is destined for export.

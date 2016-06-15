@@ -1,0 +1,1 @@
+False positive PET FDG corresponded to lung infection, degenerative bone disease, and reconstruction artifact.

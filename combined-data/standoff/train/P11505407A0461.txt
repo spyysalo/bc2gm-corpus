@@ -1,0 +1,1 @@
+RESULTS: The analyzed fragment has significant activity in EpCAM positive cells, and it is regulated negatively by tumor necrosis factor alpha (TNFalpha).

@@ -1,0 +1,14 @@
+T1	GENE 128 135	VV-lacI
+T2	GENE 158 191	early-late vaccinia promoter P7.5
+T3	GENE 169 191	vaccinia promoter P7.5
+T4	GENE 178 191	promoter P7.5
+T5	GENE 187 191	P7.5
+T6	GENE 46 77	bacteriophage T3 RNA polymerase
+T7	GENE 46 88	bacteriophage T3 RNA polymerase (VV-T3pol)
+T8	GENE 60 77	T3 RNA polymerase
+T9	GENE 63 77	RNA polymerase
+T10	GENE 79 87	VV-T3pol
+T11	GENE 96 126	Escherichia coli lac repressor
+T12	GENE 96 136	Escherichia coli lac repressor (VV-lacI)
+T13	GENE 113 126	lac repressor
+T14	GENE 113 136	lac repressor (VV-lacI)

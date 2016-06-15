@@ -1,0 +1,1 @@
+A coiled-coil domain, conserved within each encoded protein, serves as a potential interaction motif for FLI LRR.

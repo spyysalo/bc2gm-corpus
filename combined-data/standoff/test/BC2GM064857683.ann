@@ -1,0 +1,10 @@
+T1	GENE 146 150	mutA
+T2	GENE 154 158	mutC
+T3	GENE 154 166	mutC mutator
+T4	GENE 36 47	mutant glyV
+T5	GENE 36 62	mutant glyV (glycine tRNA)
+T6	GENE 36 67	mutant glyV (glycine tRNA) gene
+T7	GENE 43 47	glyV
+T8	GENE 43 62	glyV (glycine tRNA)
+T9	GENE 43 67	glyV (glycine tRNA) gene
+T10	GENE 49 61	glycine tRNA

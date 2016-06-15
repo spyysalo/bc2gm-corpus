@@ -1,0 +1,1 @@
+To directly address this issue, we used a tetracycline-regulated system in human U2OS osteosarcoma cells and thus found that BCL6 mediates growth suppression associated with impaired S phase progression and apoptosis.

@@ -1,0 +1,1 @@
+BRCA1, a familial breast and ovarian cancer susceptibility gene encodes nuclear phosphoproteins that function as tumor suppressors in human breast cancer cells.

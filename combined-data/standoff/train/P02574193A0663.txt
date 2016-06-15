@@ -1,0 +1,1 @@
+Selection of the 22 items of the Clinical Institute Withdrawal Assessment-Benzodiazepines (CIWA-B) was based on statistically significant differences between baseline and critical withdrawal periods in high-dose subjects and between symptoms associated with placebo and diazepam in low-dose subjects, using contingency tables and logistic regression analysis.

@@ -1,0 +1,1 @@
+By comparing the abundances of many yeast transcripts in isogenic wild-type and paf1 mutant strains, we have identified genes whose expression is affected by PAF1.

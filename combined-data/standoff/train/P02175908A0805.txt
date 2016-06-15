@@ -1,0 +1,1 @@
+Some of the mutations obtained do not contain a copy of the Ulysses element at the mutant locus, suggesting that a different transposable element may be responsible for the mutation.

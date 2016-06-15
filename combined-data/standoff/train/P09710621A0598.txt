@@ -1,0 +1,1 @@
+We have tested this possibility by constructing a consecutive series of cysteine substitutions in the Neu juxtamembrane domain in order to force dimerization along a series of interreceptor faces.

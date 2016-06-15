@@ -1,0 +1,1 @@
+The R260A mutant, as expected, was unable to support mRNA synthesis in vitro in a transcription reconstitution reaction as well as transcription in vivo of a minigenome using a reverse genetic approach.

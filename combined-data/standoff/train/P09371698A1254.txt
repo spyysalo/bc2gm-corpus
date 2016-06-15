@@ -1,0 +1,1 @@
+Transfection of HepG2 and SK-N-MC cells with constructs deleted of additional 5'-flanking fragments permitted the definition of a minimal 200 bp promoter fragment containing the pseudo-TATA box and two putative SP1-binding sites.

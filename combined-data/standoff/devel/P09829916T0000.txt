@@ -1,0 +1,1 @@
+Expression of lacZ from the promoter of the Escherichia coli spc operon cloned into vectors carrying the W205 trp-lac fusion.

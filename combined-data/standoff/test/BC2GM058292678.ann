@@ -1,0 +1,12 @@
+T1	GENE 19 24	c-kit
+T2	GENE 19 27	c-kit 5'
+T3	GENE 19 43	c-kit 5' flanking region
+T4	GENE 180 185	c-kit
+T5	GENE 180 190	c-kit mRNA
+T6	GENE 284 289	c-kit
+T7	GENE 284 294	c-kit gene
+T8	GENE 54 97	bacterial chloramphenicol acetyltransferase
+T9	GENE 54 102	bacterial chloramphenicol acetyltransferase gene
+T10	GENE 64 97	chloramphenicol acetyltransferase
+T11	GENE 64 102	chloramphenicol acetyltransferase gene
+T12	GENE 104 107	CAT

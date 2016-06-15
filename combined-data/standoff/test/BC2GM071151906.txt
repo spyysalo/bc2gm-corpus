@@ -1,0 +1,1 @@
+Reconstruction time for a 64 x 64 matrix is approximately 45 s/transaxial slice.

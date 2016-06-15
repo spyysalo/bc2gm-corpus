@@ -1,0 +1,1 @@
+Static magnetic fields affect the diffusion of biological particles in solutions through the Lorentz force and Maxwell stress.

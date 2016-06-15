@@ -1,0 +1,13 @@
+T1	GENE 14 17	LL2
+T2	GENE 14 24	LL2 (hLL2)
+T3	GENE 138 150	chimeric LL2
+T4	GENE 138 157	chimeric LL2 (cLL2)
+T5	GENE 147 150	LL2
+T6	GENE 147 157	LL2 (cLL2)
+T7	GENE 152 156	cLL2
+T8	GENE 19 23	hLL2
+T9	GENE 314 318	mLL2
+T10	GENE 34 54	light chain variable
+T11	GENE 34 61	light chain variable region
+T12	GENE 4 17	humanized LL2
+T13	GENE 4 24	humanized LL2 (hLL2)

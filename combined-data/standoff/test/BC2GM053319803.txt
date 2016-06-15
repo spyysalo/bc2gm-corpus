@@ -1,0 +1,1 @@
+Power deposition by inverse-bremsstrahlung is modeled with a scheme based on Gaussian quadrature to accommodate a deposition rate whose spatial variation is highly nonuniform.

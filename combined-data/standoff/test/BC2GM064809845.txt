@@ -1,0 +1,1 @@
+In NIH 3T3 fibroblasts the high affinity IL-2R bearing a deletion of a region rich in acidic amino acids (the "acidic" region) in the IL-2R beta-chain failed to induce the tyrosine phosphorylation of MAP kinase as well as the expression of the all three nuclear proto-oncogenes.

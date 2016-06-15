@@ -1,0 +1,1 @@
+A 17-mer oligodeoxynucleotide, corresponding to a region of the VtHb amino acid sequence was used as a hybridization probe to screen a Vitreoscilla genomic library constructed in broad-host-range cosmid vector pVK102.

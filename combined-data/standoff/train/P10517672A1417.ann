@@ -1,0 +1,16 @@
+T1	GENE 129 139	(CTF1)/NF1
+T2	GENE 130 134	CTF1
+T3	GENE 136 139	NF1
+T4	GENE 195 198	NF1
+T5	GENE 195 203	NF1-like
+T6	GENE 195 212	NF1-like proteins
+T7	GENE 234 237	CAT
+T8	GENE 40 53	alpha1-globin
+T9	GENE 40 62	alpha1-globin promoter
+T10	GENE 40 66	alpha1-globin promoter-CAT
+T11	GENE 40 76	alpha1-globin promoter-CAT construct
+T12	GENE 63 66	CAT
+T13	GENE 63 76	CAT construct
+T14	GENE 100 128	CCAAT transcription factor 1
+T15	GENE 100 135	CCAAT transcription factor 1 (CTF1)
+T16	GENE 100 139	CCAAT transcription factor 1 (CTF1)/NF1

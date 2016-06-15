@@ -1,0 +1,1 @@
+Nonlethal sec71-1 and sec72-1 mutations eliminate proteins associated with the Sec63p-BiP complex from S. cerevisiae.

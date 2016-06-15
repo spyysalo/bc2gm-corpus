@@ -59,8 +59,15 @@ class Sentence(object):
 
 # rewrites to apply to read input lines
 _rewrites = {
+    # errors in source data
     'P02196565T0000|162 187|translation upstream factor':
-    'P02196565T0000|163 187|translation upstream factor'    # apparent error
+    'P02196565T0000|163 187|translation upstream factor',
+    'P01655713A0294|58 58|S-deficient':
+    'P01655713A0294|58 68|S-deficient',
+    'P02839716A1907|32 34|E2':
+    'P02839716A1907|32 33|E2',
+    'P09139910A0350|197 210|2.6 kbp (pOST2)':
+    'P09139910A0350|197 209|2.6 kbp (pOST2)',
 }
 
 def read_annotations(flo):

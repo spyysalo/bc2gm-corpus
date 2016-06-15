@@ -1,0 +1,1 @@
+In a reconstituted human DNA repair system containing DNA polymerase beta and DNA ligase III-XRCC1, accurate rejoining of a 3' mismatched base residue at a single-strand break is dependent on addition of the exonuclease.

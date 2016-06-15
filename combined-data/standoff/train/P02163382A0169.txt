@@ -1,0 +1,1 @@
+To characterize the O7-LPS region, the recombinant cosmids pJHCV31 and pJHCV32 were mutagenized by transposon mutagenesis with Tn3HoHo1, which carries a promoterless lac operon and can therefore generate lacZ transcriptional fusions with target DNA sequences.

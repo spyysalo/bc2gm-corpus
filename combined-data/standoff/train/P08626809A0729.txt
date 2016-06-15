@@ -1,0 +1,1 @@
+Significantly, pPKR is capable of specifically phosphorylating Ser51 in a synthetic eIF-2alpha peptide, a key characteristic of the eIF-2alpha kinase family.

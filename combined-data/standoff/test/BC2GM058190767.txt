@@ -1,0 +1,1 @@
+The deduced amino acid sequence of this open reading frame is significantly homologous to the HSV 1 UL49.5 gene product, and as with UL49.5, it contains a potential signal sequence and transmembrane domain characteristic of membrane-associated proteins.

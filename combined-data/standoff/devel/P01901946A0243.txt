@@ -1,0 +1,1 @@
+A synthetic oligonucleotide containing the SRE sequence from the mouse c-fos gene promoter (-299 to -322) was radioactively labeled, used as a probe for the mobility shift assay and Southwestern (DNA-protein) blotting, and also used for sequence-specific affinity chromatography.

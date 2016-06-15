@@ -1,0 +1,1 @@
+DtxR is an iron-dependent sequence-specific DNA-binding protein that binds to the tox operator, an inverted-repeat nucleotide sequence located upstream from the diphtheria toxin gene.

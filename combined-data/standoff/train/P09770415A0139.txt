@@ -1,0 +1,1 @@
+Here we demonstrate that THOV NP contains a motif (KRxxxxxxxxxKTKK) at amino acid positions 179-193 that represents a classical bipartite nuclear localization signal (NLS).

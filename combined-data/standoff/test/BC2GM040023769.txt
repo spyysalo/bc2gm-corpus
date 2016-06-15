@@ -1,0 +1,1 @@
+Mutations of SIN4, ROX3, SRB8, SRB9, SRB10, SRB11, and two novel genes, NUT1 and NUT2, relieve the requirement of Swi4p for expression of this reporter.

@@ -1,0 +1,1 @@
+Using lacZ-inducible T cells as a probe, we screened a splenic cDNA library in transiently transfected antigen-presenting cells (APCs) and isolated a cDNA clone that allowed expression of the appropriate peptide/Kb MHC complex in APC.

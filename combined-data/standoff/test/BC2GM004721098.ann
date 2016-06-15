@@ -1,0 +1,13 @@
+T1	GENE 121 158	POU homeodomain transcription factors
+T2	GENE 121 181	POU homeodomain transcription factors Oct1, Oct2, Brn4, SCIP
+T3	GENE 121 188	POU homeodomain transcription factors Oct1, Oct2, Brn4, SCIP, Skn1a
+T4	GENE 121 197	POU homeodomain transcription factors Oct1, Oct2, Brn4, SCIP, Skn1a or Skn1i
+T5	GENE 159 163	Oct1
+T6	GENE 165 169	Oct2
+T7	GENE 171 175	Brn4
+T8	GENE 177 181	SCIP
+T9	GENE 183 188	Skn1a
+T10	GENE 192 197	Skn1i
+T11	GENE 71 75	hINV
+T12	GENE 71 93	hINV upstream sequence
+T13	GENE 104 114	luciferase

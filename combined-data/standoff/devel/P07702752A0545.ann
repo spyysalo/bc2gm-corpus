@@ -1,0 +1,11 @@
+T1	GENE 219 230	rat P450c17
+T2	GENE 219 235	rat P450c17 gene
+T3	GENE 223 230	P450c17
+T4	GENE 223 235	P450c17 gene
+T5	GENE 276 300	reporter gene luciferase
+T6	GENE 285 300	gene luciferase
+T7	GENE 290 300	luciferase
+T8	GENE 36 47	rat P450c17
+T9	GENE 36 56	rat P450c17 promoter
+T10	GENE 40 47	P450c17
+T11	GENE 40 56	P450c17 promoter

@@ -1,0 +1,12 @@
+T1	GENE 119 127	variable
+T2	GENE 119 134	variable region
+T3	GENE 119 140	variable region genes
+T4	GENE 230 233	MHC
+T5	GENE 230 249	MHC contact regions
+T6	GENE 230 265	MHC contact regions (CDR1 and CDR2)
+T7	GENE 251 255	CDR1
+T8	GENE 251 264	CDR1 and CDR2
+T9	GENE 260 264	CDR2
+T10	GENE 111 127	tamarin variable
+T11	GENE 111 134	tamarin variable region
+T12	GENE 111 140	tamarin variable region genes

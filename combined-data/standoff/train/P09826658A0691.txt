@@ -1,0 +1,1 @@
+This core sequence, along with additional nonspecific downstream nucleotides, is sufficient for partial suppression of spliceosome assembly and splicing of BPV-1 pre-mRNAs.

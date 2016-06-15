@@ -1,0 +1,40 @@
+T1	GENE 142 173	RNA-binding-deficient human PKR
+T2	GENE 142 190	RNA-binding-deficient human PKR(1-551)K64E/K296R
+T3	GENE 142 204	RNA-binding-deficient human PKR(1-551)K64E/K296R double mutant
+T4	GENE 16 34	mouse PKR(1-515)WT
+T5	GENE 164 173	human PKR
+T6	GENE 164 180	human PKR(1-551)
+T7	GENE 164 190	human PKR(1-551)K64E/K296R
+T8	GENE 164 204	human PKR(1-551)K64E/K296R double mutant
+T9	GENE 170 173	PKR
+T10	GENE 170 190	PKR(1-551)K64E/K296R
+T11	GENE 170 204	PKR(1-551)K64E/K296R double mutant
+T12	GENE 209 228	wild-type mouse PKR
+T13	GENE 209 237	wild-type mouse PKR(1-515)WT
+T14	GENE 22 34	PKR(1-515)WT
+T15	GENE 219 228	mouse PKR
+T16	GENE 219 237	mouse PKR(1-515)WT
+T17	GENE 225 228	PKR
+T18	GENE 225 237	PKR(1-515)WT
+T19	GENE 241 279	full-length PKR-Gal4 activation domain
+T20	GENE 241 287	full-length PKR-Gal4 activation domain fusions
+T21	GENE 253 256	PKR
+T22	GENE 253 261	PKR-Gal4
+T23	GENE 253 279	PKR-Gal4 activation domain
+T24	GENE 253 287	PKR-Gal4 activation domain fusions
+T25	GENE 257 261	Gal4
+T26	GENE 318 322	HIS3
+T27	GENE 327 331	lacZ
+T28	GENE 327 341	lacZ reporters
+T29	GENE 40 44	Gal4
+T30	GENE 40 63	Gal4 DNA-binding domain
+T31	GENE 40 70	Gal4 DNA-binding domain fusion
+T32	GENE 87 116	catalytic-deficient human PKR
+T33	GENE 87 123	catalytic-deficient human PKR(1-551)
+T34	GENE 87 136	catalytic-deficient human PKR(1-551) K296R mutant
+T35	GENE 107 116	human PKR
+T36	GENE 107 123	human PKR(1-551)
+T37	GENE 107 136	human PKR(1-551) K296R mutant
+T38	GENE 113 116	PKR
+T39	GENE 113 123	PKR(1-551)
+T40	GENE 113 136	PKR(1-551) K296R mutant

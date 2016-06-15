@@ -1,0 +1,11 @@
+T1	GENE 0 30	Eukaryotic initiation factor 3
+T2	GENE 0 37	Eukaryotic initiation factor 3 (eIF3)
+T3	GENE 120 130	tRNA(Met)i
+T4	GENE 164 168	40 S
+T5	GENE 164 186	40 S ribosomal subunit
+T6	GENE 188 192	eIF3
+T7	GENE 32 36	eIF3
+T8	GENE 107 130	eIF2 x GTP x tRNA(Met)i
+T9	GENE 107 111	eIF2
+T10	GENE 107 117	eIF2 x GTP
+T11	GENE 114 130	GTP x tRNA(Met)i

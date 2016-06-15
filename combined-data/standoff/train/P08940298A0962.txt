@@ -1,0 +1,1 @@
+Replacing residues 405-419 on delta419 with the conserved AF-2 domain from the vitamin D3 receptor or the estrogen receptor results in a receptor with wild-type or low transcriptional activity, respectively.

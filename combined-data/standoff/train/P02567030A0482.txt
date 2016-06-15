@@ -1,0 +1,1 @@
+After overtraining on the original discrimination, the controls showed the normal difficulty in learning the first reversal.

@@ -1,0 +1,1 @@
+Marker rescue analysis has localized ts8 to a 910-bp internal segment of rpoB that encodes the Rif domain.

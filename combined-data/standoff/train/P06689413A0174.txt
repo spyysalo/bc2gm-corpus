@@ -1,0 +1,1 @@
+The apparatus consists of an Am-241 exciting source(300 mCi) and pure Ge detector(50 mm2 X 5 mm) for measuring K alpha fluorescent x-rays(28.3 and 28.6 KeV) emitted from exited iodine.

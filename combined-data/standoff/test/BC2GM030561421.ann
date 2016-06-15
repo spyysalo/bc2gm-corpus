@@ -1,0 +1,12 @@
+T1	GENE 16 25	pex5delta
+T2	GENE 45 64	yeast/tobacco Pex5p
+T3	GENE 45 73	yeast/tobacco Pex5p chimaera
+T4	GENE 59 64	Pex5p
+T5	GENE 59 73	Pex5p chimaera
+T6	GENE 9 25	mutant pex5delta
+T7	GENE 93 96	GFP
+T8	GENE 93 102	GFP-Eci1p
+T9	GENE 93 111	GFP-Eci1p reporter
+T10	GENE 97 119	Eci1p reporter protein
+T11	GENE 97 102	Eci1p
+T12	GENE 97 111	Eci1p reporter

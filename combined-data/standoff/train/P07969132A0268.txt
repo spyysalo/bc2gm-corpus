@@ -1,0 +1,1 @@
+One class of plasmids contained tRNA(His) genes and conferred efficient suppression only when cells were starved for histidine; these plasmids suppressed a gcn2 deletion much less efficiently than they suppressed gcn2-507.

@@ -1,0 +1,1 @@
+In contrast, mutations affecting the other two Nim1p-related kinases in S. cerevisiae, Hsl1p and Kcc4p, produce no detectable effect on septin organization.

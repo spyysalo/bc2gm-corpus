@@ -1,0 +1,1 @@
+A 4.8-kilobase BamHI-HindIII fragment encoding the entire Neurospora crassa CuZn superoxide dismutase gene (herein designated sod-1) was isolated from a genomic library using two 60-base deoxyoligonucleotide probes corresponding to the published N. crassa amino acid sequence.

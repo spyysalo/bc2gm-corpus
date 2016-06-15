@@ -1,0 +1,1 @@
+An analytic method for comparative parameter weighting in magnetic resonance (MR) imaging has been developed using the concept of "fractional sensitivity." This new approach results in easily calculated indexes for T1, T2, and hydrogen weighting.

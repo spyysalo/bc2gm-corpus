@@ -1,0 +1,1 @@
+This hypothesis was tested by introducing mutations at each of the three histidine pairs, the H382-X2-H385 pair, the H411-X2-H414 pair and the H430-X5-H436 pair, which constitute the histidine-rich region near the C terminus of gp17.

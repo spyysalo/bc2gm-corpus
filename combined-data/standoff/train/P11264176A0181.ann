@@ -1,0 +1,5 @@
+T1	GENE 0 5	B-myb
+T2	GENE 86 95	cyclin A2
+T3	GENE 86 100	cyclin A2/cdk2
+T4	GENE 86 108	cyclin A2/cdk2 complex
+T5	GENE 96 100	cdk2

@@ -1,0 +1,1 @@
+Contributions from pairs of source and target volume elements are summed for the S values between the tumor and itself, between the remaining healthy host organ and itself, and between the tumor and the remaining healthy host organ, with the reciprocity theorem assumed for the last.

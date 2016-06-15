@@ -1,0 +1,1 @@
+Lysates of COS cells transfected with modified hGrzB cDNA were able to hydrolyze tert-butyloxycarbonyl-Ala-Ala-Asp-thiobenzyl ester (Boc-Ala-Ala-Asp-SBzl), whereas lysates transfected with unmodified hGrzB cDNA were inactive.

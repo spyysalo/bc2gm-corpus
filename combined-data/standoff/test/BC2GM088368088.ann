@@ -1,0 +1,10 @@
+T1	GENE 18 27	gene rps1
+T2	GENE 18 39	gene rps1 encoding S1
+T3	GENE 23 27	rps1
+T4	GENE 23 39	rps1 encoding S1
+T5	GENE 4 27	Synechococcus gene rps1
+T6	GENE 4 39	Synechococcus gene rps1 encoding S1
+T7	GENE 37 39	S1
+T8	GENE 74 78	psbB
+T9	GENE 98 131	photosystem II P680 chlorophyll a
+T10	GENE 98 142	photosystem II P680 chlorophyll a apoprotein

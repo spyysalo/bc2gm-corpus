@@ -1,0 +1,1 @@
+Uncoupling gene activity from chromatin structure: promoter mutations can inactivate transcription of the yeast HSP82 gene without eliminating nucleosome-free regions.

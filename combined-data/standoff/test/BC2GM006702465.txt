@@ -1,0 +1,1 @@
+In src-transformed cells GAP forms heteromeric complexes, notably with a highly tyrosine phosphorylated 62-kDa protein (p62).

@@ -1,0 +1,1 @@
+The NIT2 protein is localised in nuclei and could not be detected in the cytoplasmic fraction of cells subjected to nitrogen derepression or nitrogen repression, indicating that the nuclear import of NIT2 is not regulated.

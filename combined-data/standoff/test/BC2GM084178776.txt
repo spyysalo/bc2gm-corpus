@@ -1,0 +1,1 @@
+Using a combined pharmacokinetic-pharmacodynamic model, the impact of various factors on the effective bioavailability and on its estimation, using the intravenous-to-oral dose ratio required to produce the same area under the response time curve after acute administration, are explored.

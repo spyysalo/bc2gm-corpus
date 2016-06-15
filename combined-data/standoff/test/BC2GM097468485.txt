@@ -1,0 +1,1 @@
+In contrast to p62(dok), DOKL lacks YxxP motifs in the C terminus and does not bind to Ras GTPase-activating protein (RasGAP) upon phosphorylation.

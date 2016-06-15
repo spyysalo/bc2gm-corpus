@@ -1,0 +1,11 @@
+T1	GENE 119 128	rat ucp-1
+T2	GENE 119 133	rat ucp-1 gene
+T3	GENE 123 128	ucp-1
+T4	GENE 123 133	ucp-1 gene
+T5	GENE 152 161	PPARalpha
+T6	GENE 258 283	retinoid X receptor alpha
+T7	GENE 56 60	UCP1
+T8	GENE 56 64	UCP1-CAT
+T9	GENE 56 74	UCP1-CAT construct
+T10	GENE 61 64	CAT
+T11	GENE 61 74	CAT construct

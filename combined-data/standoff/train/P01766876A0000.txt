@@ -1,0 +1,1 @@
+A method is described for detecting targeted events at the mu heavy chain gene which relies on co-conversion (or co-exchange) of a point mutation with a selectable marker contained on a replacement vector.

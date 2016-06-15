@@ -1,0 +1,9 @@
+T1	GENE 124 127	uPA
+T2	GENE 124 132	uPA PEA3
+T3	GENE 124 188	uPA PEA3/12-0-tetradecanoylphorbol 13-acetate responsive element
+T4	GENE 124 194	uPA PEA3/12-0-tetradecanoylphorbol 13-acetate responsive element (TRE)
+T5	GENE 128 132	PEA3
+T6	GENE 128 188	PEA3/12-0-tetradecanoylphorbol 13-acetate responsive element
+T7	GENE 128 194	PEA3/12-0-tetradecanoylphorbol 13-acetate responsive element (TRE)
+T8	GENE 28 31	uPA
+T9	GENE 28 40	uPA promoter

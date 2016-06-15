@@ -1,0 +1,10 @@
+T1	GENE 13 17	glnB
+T2	GENE 19 24	nifR1
+T3	GENE 19 31	nifR1 (ntrC)
+T4	GENE 26 30	ntrC
+T5	GENE 37 42	NifR4
+T6	GENE 37 67	NifR4 (ntrA encoding sigma 54)
+T7	GENE 44 48	ntrA
+T8	GENE 58 66	sigma 54
+T9	GENE 88 91	put
+T10	GENE 88 96	put gene

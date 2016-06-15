@@ -1,0 +1,1 @@
+The RsmA- mutant, like its parent, produces N-(3-oxohexanoyl)-L-homoserine lactone (HSL), a starvation/cell density-sensing signal required for extracellular enzyme production.

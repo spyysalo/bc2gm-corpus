@@ -1,0 +1,1 @@
+Since RIP140 generally down-regulates receptor activity in mammalian cells and specifically down-regulates coactivation mediated by SRC-1, we propose a model in which RIP140 indirectly regulates nuclear receptor AF-2 activity by competition for coactivators such as SRC-1.

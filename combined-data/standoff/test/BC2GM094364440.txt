@@ -1,0 +1,1 @@
+Removal of cyclin-dependant kinases (cdks) or cdk2 from these extracts using affinity matrices severely inhibits initiation of S phase.

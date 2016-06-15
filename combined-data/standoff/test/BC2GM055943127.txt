@@ -1,0 +1,1 @@
+ORF3 encodes a putative periplasmic c-type cytochrome with a molecular mass of 94, 000 Da and contains seven c-heme-binding motifs but shows no sequence homology to occ or ORF1.

@@ -1,0 +1,1 @@
+During transcript elongation, the sizes of the DNA footprint and the single-stranded transcription bubble vary markedly among transcription complexes halted at different template positions.

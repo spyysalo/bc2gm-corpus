@@ -1,0 +1,1 @@
+Using the interaction-trap assay to identify candidate proteins that bind the cytoplasmic region of the LAR transmembrane protein tyrosine phosphatase (PT-Pase), we isolated a cDNA encoding a 2861-amino acid protein termed Trio that contains three enzyme domains: two functional GEF domains and a protein serine/threonine kinase (PSK) domain.

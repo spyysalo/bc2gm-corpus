@@ -1,0 +1,1 @@
+Our results indicate that GCN4 contains two activation domains of similar potency that can function independently to promote high-level transcription of the target genes HIS3 and HIS4.

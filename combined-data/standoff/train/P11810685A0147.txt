@@ -1,0 +1,1 @@
+It is shown that the displacement distribution measured by q-space MRI in both the large displacement (i.e., large r) and the long-wavelength (i.e., small q) limits is the same 3D Gaussian displacement distribution assumed in DT-MRI.

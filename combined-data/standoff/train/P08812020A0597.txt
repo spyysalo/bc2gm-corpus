@@ -1,0 +1,1 @@
+In a third experiment, a Chessmaster gradually increases the number of boards he can reproduce with higher than 70% average accuracy to nine, replacing as many as 160 pieces correctly.

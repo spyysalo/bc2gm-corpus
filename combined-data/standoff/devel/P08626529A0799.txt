@@ -1,0 +1,1 @@
+Apart from two proline-rich regions (amino acids 1-117 and 239-270), p230 contains a very high frequency of heptad repeats, characteristic of alpha-helices that form dimeric coiled-coil structures. p230 also includes the sequence ESLALEELEL (amino acids 538-546), a motif found in the granin family of acidic proteins present in secretory granules of neuroendocrine cells.

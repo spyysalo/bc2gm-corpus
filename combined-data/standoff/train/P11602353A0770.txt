@@ -1,0 +1,1 @@
+These included HNF-3 beta, HFH-1, HFH-2, HFH-3, C/EBP, and C/EBP beta, all of which are consistent with the tissue-specific expression profiles of the gene.

@@ -1,0 +1,1 @@
+Abp1 preferentially binds to multiple sites in ARS 3002 and to the DNA polymer poly[d(A.T)].

@@ -1,0 +1,1 @@
+The intron is capable of splicing despite the fact that both the EBS1/IBS1 and the EBS2/IBS2 sequence motifs, thought to be necessary for correct splicing, extend over 5 instead of 6 bp.

@@ -1,0 +1,18 @@
+T1	GENE 137 140	ndh
+T2	GENE 183 187	ycf9
+T3	GENE 33 47	photosystems I
+T4	GENE 33 53	photosystems I (psa)
+T5	GENE 33 60	photosystems I (psa) and II
+T6	GENE 33 66	photosystems I (psa) and II (psb)
+T7	GENE 46 53	I (psa)
+T8	GENE 46 66	I (psa) and II (psb)
+T9	GENE 48 66	(psa) and II (psb)
+T10	GENE 49 52	psa
+T11	GENE 58 66	II (psb)
+T12	GENE 62 65	psb
+T13	GENE 72 86	cytochrome bGf
+T14	GENE 72 94	cytochrome bGf complex
+T15	GENE 72 100	cytochrome bGf complex (pet)
+T16	GENE 96 99	pet
+T17	GENE 114 135	NAD(P)H dehydrogenase
+T18	GENE 114 141	NAD(P)H dehydrogenase (ndh)

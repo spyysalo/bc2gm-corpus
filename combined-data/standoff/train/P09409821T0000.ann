@@ -1,0 +1,10 @@
+T1	GENE 29 34	RAD30
+T2	GENE 29 39	RAD30 gene
+T3	GENE 4 34	Saccharomyces cerevisiae RAD30
+T4	GENE 4 39	Saccharomyces cerevisiae RAD30 gene
+T5	GENE 43 77	homologue of Escherichia coli dinB
+T6	GENE 43 86	homologue of Escherichia coli dinB and umuC
+T7	GENE 56 77	Escherichia coli dinB
+T8	GENE 56 86	Escherichia coli dinB and umuC
+T9	GENE 73 77	dinB
+T10	GENE 82 86	umuC

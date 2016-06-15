@@ -1,0 +1,1 @@
+Morphologic variables included cancer volume, histologic grade, capsular penetration, seminal vesicle invasion, and lymph node metastasis.

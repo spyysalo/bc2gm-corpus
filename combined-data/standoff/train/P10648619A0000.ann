@@ -1,0 +1,11 @@
+T1	GENE 150 171	silkworm tRNA(C)(Ala)
+T2	GENE 150 176	silkworm tRNA(C)(Ala) gene
+T3	GENE 159 171	tRNA(C)(Ala)
+T4	GENE 159 176	tRNA(C)(Ala) gene
+T5	GENE 282 315	silk gland-specific tRNA(SG)(Ala)
+T6	GENE 282 320	silk gland-specific tRNA(SG)(Ala) gene
+T7	GENE 302 315	tRNA(SG)(Ala)
+T8	GENE 302 320	tRNA(SG)(Ala) gene
+T9	GENE 50 70	TATA-binding protein
+T10	GENE 50 76	TATA-binding protein (TBP)
+T11	GENE 72 75	TBP

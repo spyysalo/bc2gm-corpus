@@ -1,0 +1,1 @@
+OBJECTIVE: To evaluate the overall performance of a new oscillometric wrist blood pressure monitor (Braun PrecisionSensor, Braun GmbH, Kronberg, Germany) as defined by the ANSI/AAMI SP10-1992 guidelines, and to analyze the data for the optimized selection of the algorithm that derives the blood pressure values from the oscillometric blood pressure curves.

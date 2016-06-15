@@ -1,0 +1,1 @@
+The data are compatible with the idea that YLL031c transfers the ethanolaminephosphate to the inner alpha1-2-linked mannose, i.e. the group that links the GPI lipid anchor to proteins, whereas Mcd4p and Gpi7p transfer ethanolaminephosphate onto the alpha1-4- and alpha1-6-linked mannoses of the GPI anchor, respectively.

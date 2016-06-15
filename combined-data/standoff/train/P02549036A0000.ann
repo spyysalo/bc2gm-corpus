@@ -1,0 +1,6 @@
+T1	GENE 28 35	phi 105
+T2	GENE 28 45	phi 105 repressor
+T3	GENE 4 45	Bacillus subtilis phage phi 105 repressor
+T4	GENE 49 65	lambda repressor
+T5	GENE 49 70	lambda repressor-like
+T6	GENE 49 105	lambda repressor-like transcriptional regulatory protein

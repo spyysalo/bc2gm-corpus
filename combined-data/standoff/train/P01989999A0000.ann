@@ -1,0 +1,11 @@
+T1	GENE 0 27	Adenylosuccinate synthetase
+T2	GENE 0 70	Adenylosuccinate synthetase (IMP:L-aspartate ligase (GDP), EC 6.3.4.4)
+T3	GENE 29 51	IMP:L-aspartate ligase
+T4	GENE 29 51	IMP:L-aspartate ligase
+T5	GENE 29 57	IMP:L-aspartate ligase (GDP)
+T6	GENE 29 69	IMP:L-aspartate ligase (GDP), EC 6.3.4.4
+T7	GENE 33 51	L-aspartate ligase
+T8	GENE 33 57	L-aspartate ligase (GDP)
+T9	GENE 33 69	L-aspartate ligase (GDP), EC 6.3.4.4
+T10	GENE 52 69	(GDP), EC 6.3.4.4
+T11	GENE 59 69	EC 6.3.4.4

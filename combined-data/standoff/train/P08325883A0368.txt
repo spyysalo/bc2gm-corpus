@@ -1,0 +1,1 @@
+The sequence of the putative RBP1 protein contains two copies of an RNA recognition motif, two glutamine stretches, an asparagine-rich region, a methionine-rich region, and two long potential alpha-helixes.

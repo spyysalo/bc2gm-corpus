@@ -1,0 +1,1 @@
+The MABP and MCBFV signals were bandpass filtered in the very low-frequency range (VLF, 0.015-0.07 Hz), low-frequency range (LF, 0.07-0.15 Hz) and high-frequency range (HF, 0.15-0.40 Hz) before applying CCF for the purpose of studying the effect of different bandwidths on the resulting mean CCFs.

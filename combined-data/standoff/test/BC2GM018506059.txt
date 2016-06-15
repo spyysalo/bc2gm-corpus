@@ -1,0 +1,1 @@
+Nramp2 contains a classical iron responsive element in the 3' untranslated region that confers iron dependent mRNA stabilization.

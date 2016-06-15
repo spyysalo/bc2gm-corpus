@@ -1,0 +1,1 @@
+The second transcriptional unit, designated UL26.5, predicted to specify a protein of 329 amino acids, encodes the family 35 proteins; it is transcribed by an mRNA which initiates at approximately nucleotide +1000 of the UL26 transcription initiation site and is translated from the methionine initiation codon located at position +1099 of the UL26 transcriptional unit.

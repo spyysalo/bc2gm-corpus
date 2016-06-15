@@ -1,0 +1,1 @@
+Both RNA14 and RNA15 wild-type genes, when cloned on a multicopy plasmid, are able to suppress the temperature-sensitive phenotype of strains bearing either the rna14 or the rna15 mutation, suggesting that the encoded proteins could interact with each other.

@@ -1,0 +1,1 @@
+Consistent with this, rh5 expression in R8 disappears when R7 cells are absent (in sevenless mutant).

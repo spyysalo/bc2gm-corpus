@@ -1,0 +1,1 @@
+Linear extrapolation is used below the experimental data range to establish an upper bound on carcinogenic risk at low doses.

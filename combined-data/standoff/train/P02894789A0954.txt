@@ -1,0 +1,1 @@
+Finally, the recovery indexes represented by the times required for T1/T0 and T4/T1 to rise from 25% to 75% respectively were studied.

@@ -1,0 +1,11 @@
+T1	GENE 13 26	small inteins
+T2	GENE 19 26	inteins
+T3	GENE 255 261	intein
+T4	GENE 255 263	intein N
+T5	GENE 255 266	intein N, C
+T6	GENE 255 274	intein N, C, and EN
+T7	GENE 255 281	intein N, C, and EN motifs
+T8	GENE 50 66	"pseudo intein."
+T9	GENE 51 64	pseudo intein
+T10	GENE 58 64	intein
+T11	GENE 114 121	inteins

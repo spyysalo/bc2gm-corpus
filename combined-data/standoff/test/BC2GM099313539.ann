@@ -1,0 +1,20 @@
+T1	GENE 117 121	FUT2
+T2	GENE 122 127	FUT2P
+T3	GENE 137 159	D-site binding protein
+T4	GENE 137 164	D-site binding protein gene
+T5	GENE 137 170	D-site binding protein gene (DBP)
+T6	GENE 166 169	DBP
+T7	GENE 4 14	human CA11
+T8	GENE 4 19	human CA11 gene
+T9	GENE 54 128	secretor type alpha(1,2)-fucosyltransferase gene cluster (FUT1-FUT2-FUT2P)
+T10	GENE 54 97	secretor type alpha(1,2)-fucosyltransferase
+T11	GENE 54 102	secretor type alpha(1,2)-fucosyltransferase gene
+T12	GENE 54 110	secretor type alpha(1,2)-fucosyltransferase gene cluster
+T13	GENE 68 128	alpha(1,2)-fucosyltransferase gene cluster (FUT1-FUT2-FUT2P)
+T14	GENE 68 97	alpha(1,2)-fucosyltransferase
+T15	GENE 68 102	alpha(1,2)-fucosyltransferase gene
+T16	GENE 68 110	alpha(1,2)-fucosyltransferase gene cluster
+T17	GENE 10 14	CA11
+T18	GENE 10 19	CA11 gene
+T19	GENE 112 116	FUT1
+T20	GENE 112 127	FUT1-FUT2-FUT2P

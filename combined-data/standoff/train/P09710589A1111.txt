@@ -1,0 +1,1 @@
+Site-directed mutagenesis of residues in this domain (R82A, K85A, K88A, and V89A) resulted in proteins which failed to transactivate from the HTLV-1 LTR in vivo.

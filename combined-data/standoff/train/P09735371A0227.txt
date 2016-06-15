@@ -1,0 +1,1 @@
+In particular, unc-86 encodes a POU-type homeodomain protein needed for the production of the touch cells, while mec-3 encodes a LIM-type homeodomain protein needed for the differentiation of the touch cells.

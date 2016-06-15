@@ -1,0 +1,1 @@
+Immunoprecipitation experiments using DokR-specific antibodies revealed an interaction between endogenous DokR and a 150-kDa protein that is tyrosine-phosphorylated in EGF-stimulated BaF/3 cells.

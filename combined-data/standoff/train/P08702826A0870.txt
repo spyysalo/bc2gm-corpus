@@ -1,0 +1,1 @@
+Furthermore, upstream insertion of the GSTP1 silencer element failed to inhibit activity of a heterologous promoter in MCF7 cells.

@@ -1,0 +1,1 @@
+Insertion of short oligonucleotides encoding the basic amino acid motifs 726-GRKRKSP-732 from IE175 and 500-VRPRKRR-506 from IE110 into deleted cytoplasmic forms of the two proteins restored the karyophilic phenotype and confirmed that these motifs are both necessary and sufficient for proper nuclear localization.

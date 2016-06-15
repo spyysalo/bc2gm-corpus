@@ -1,0 +1,1 @@
+Here we show that expression of KRAB domain suppresses in vivo the activating function of various defined activating transcription factors, and we demonstrate that the KRAB domain specifically silences the activity of promoters whose initiation is dependent on the presence of a TATA box.

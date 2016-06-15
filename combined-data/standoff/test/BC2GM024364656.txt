@@ -1,0 +1,1 @@
+Although IL-6 can activate ERK-1 in HepG2 cells, STAT3 transactivation and Ser(727) phosphorylation were not reduced by using the MAP kinase/ERK kinase (MEK) inhibitor PD98059 or by overexpression of dominant-negative Raf.

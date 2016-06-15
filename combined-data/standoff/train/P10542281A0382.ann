@@ -1,0 +1,10 @@
+T1	GENE 14 16	G1
+T2	GENE 14 19	G1-G2
+T3	GENE 152 154	G1
+T4	GENE 152 161	G1 domain
+T5	GENE 17 19	G2
+T6	GENE 49 53	link
+T7	GENE 49 61	link protein
+T8	GENE 82 96	immunoglobulin
+T9	GENE 82 101	immunoglobulin-fold
+T10	GENE 82 107	immunoglobulin-fold motif

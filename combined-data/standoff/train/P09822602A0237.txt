@@ -1,0 +1,1 @@
+Here we demonstrate that the mechanism of activation of HIF-1alpha is a multi-step process which includes hypoxia-dependent nuclear import and activation (derepression) of the transactivation domain, resulting in recruitment of the CREB-binding protein (CBP)/p300 coactivator.

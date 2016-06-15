@@ -1,0 +1,1 @@
+Heating cells to 43 degrees C decreased the amount of newly synthesized rRNA to less than 5% of the control level and led to greater than 95% inhibition of transcription termination at a region 355 to 362 nucleotides downstream of the 3' end of 28S rRNA, with readthrough continuing into the next transcription unit.

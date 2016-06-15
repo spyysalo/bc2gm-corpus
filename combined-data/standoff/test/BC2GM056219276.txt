@@ -1,0 +1,1 @@
+A continuous-flow BIPAP system consists of a high-flow CPAP system, a reservoir bag, and a pneumatically controlled membrane valve in the expiratory limb.

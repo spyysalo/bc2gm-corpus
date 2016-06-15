@@ -1,0 +1,1 @@
+The deduced amino acid sequence of CBP90 had no significant similarity to any other protein, but it had a proline-rich domain at the C-terminal region.

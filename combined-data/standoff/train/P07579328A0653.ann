@@ -1,0 +1,6 @@
+T1	GENE 0 5	MZF-1
+T2	GENE 16 19	CAT
+T3	GENE 16 28	CAT reporter
+T4	GENE 16 33	CAT reporter gene
+T5	GENE 49 53	GAL4
+T6	GENE 49 67	GAL4 binding sites

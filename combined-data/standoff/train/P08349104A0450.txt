@@ -1,0 +1,1 @@
+Surprisingly, the results of several experiments suggest that the TSF genes encode global regulatory factors. tsf1 to tsf6 mutations derepressed expression from yeast CYC-GAL hybrid promoters (fused to lacZ) that harbor a variety of operator sequences, and caused pleiotropic defects in cell growth, mating, and sporulation.

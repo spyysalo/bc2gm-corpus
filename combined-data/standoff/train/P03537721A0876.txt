@@ -1,0 +1,1 @@
+Based on our observations, we propose a model whereby inactive precursor molecules produced from the PEP4 gene self-activate within the yeast vacuole and subsequently activate other vacuolar hydrolases.

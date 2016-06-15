@@ -1,0 +1,9 @@
+T1	GENE 21 25	GAL1
+T2	GENE 21 34	GAL1 promoter
+T3	GENE 54 59	Gal4p
+T4	GENE 54 78	Gal4p DNA-binding domain
+T5	GENE 80 85	Sko1p
+T6	GENE 97 127	Ssn6/Tup1p-dependent repressor
+T7	GENE 97 101	Ssn6
+T8	GENE 97 107	Ssn6/Tup1p
+T9	GENE 102 107	Tup1p

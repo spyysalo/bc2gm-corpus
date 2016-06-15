@@ -1,0 +1,1 @@
+Mutation analysis demonstrates that the motif TCCCCT is critical for PyRo1 interaction.

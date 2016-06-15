@@ -1,0 +1,1 @@
+Complexes of qTBP42 with each complementary strand of telomeric DNA and with quadruplex forms of the guanine-rich strand had 3.7-14.6 nM dissociation constants, Kd, whereas complexes with double-stranded telomeric DNA had up to 100-fold higher Kd values.

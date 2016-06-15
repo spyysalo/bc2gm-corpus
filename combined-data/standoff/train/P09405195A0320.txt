@@ -1,0 +1,1 @@
+Large genomic constructs integrate at the endogenous locus by homologous recombination, but cDNA-derived sequences lacking long stretches of contiguous genomic DNA (due to intron excision) typically integrate into chromosomal DNA by nonhomologous recombination.

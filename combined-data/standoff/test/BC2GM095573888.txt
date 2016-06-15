@@ -1,0 +1,1 @@
+Two mutants, mapping at the HindIII site (between the consensus sequences) of the pSC101 tetA promoter, were studied: MA2 corresponds to a 4 bp deletion between positions -12 and -15; B30 bears a 44 bp insertion C(TA)21 G at the HindIII site.

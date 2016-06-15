@@ -1,0 +1,1 @@
+The best sequences for pelvic study are, in our experience, IR or short TR spin-echo for T1-weighted images, and spin-echo with 1200 TR for T2 images.

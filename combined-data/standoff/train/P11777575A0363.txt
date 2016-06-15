@@ -1,0 +1,1 @@
+The quantity of each population (L. bulgaricus, S. thermophilus) was then estimated in the pellet by PyMS, and the data were analysed by artificial neural networks (ANNs).

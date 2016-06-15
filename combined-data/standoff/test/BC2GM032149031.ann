@@ -1,0 +1,11 @@
+T1	GENE 163 166	HGF
+T2	GENE 163 171	HGF gene
+T3	GENE 163 180	HGF gene promoter
+T4	GENE 26 29	Sp1
+T5	GENE 26 59	Sp1 and Sp3 transcription factors
+T6	GENE 34 37	Sp3
+T7	GENE 34 59	Sp3 transcription factors
+T8	GENE 71 74	HGF
+T9	GENE 71 83	HGF promoter
+T10	GENE 111 127	Sp1 binding site
+T11	GENE 111 114	Sp1

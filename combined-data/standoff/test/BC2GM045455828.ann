@@ -1,0 +1,11 @@
+T1	GENE 218 222	atp6
+T2	GENE 218 222	atp6
+T3	GENE 4 13	gene atp6
+T4	GENE 41 57	mitochondrial F0
+T5	GENE 41 64	mitochondrial F0-ATPase
+T6	GENE 41 72	mitochondrial F0-ATPase complex
+T7	GENE 55 57	F0
+T8	GENE 55 64	F0-ATPase
+T9	GENE 55 72	F0-ATPase complex
+T10	GENE 58 64	ATPase
+T11	GENE 9 13	atp6

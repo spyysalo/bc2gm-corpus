@@ -1,0 +1,1 @@
+RAS2val19, a dominant activated form of Saccharomyces cerevisiae Ras2, stimulates both filamentous growth and expression of a transcriptional reporter FG(TyA)::lacZ but does not induce the mating pathway reporter FUS1::lacZ.

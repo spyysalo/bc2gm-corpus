@@ -1,0 +1,1 @@
+CDC31 is required for SPB duplication and encodes a calmodulin-like protein that is most closely related to caltractin/centrin, a protein associated with the Chlamydomonas basal body.

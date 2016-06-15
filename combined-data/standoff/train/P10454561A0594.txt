@@ -1,0 +1,1 @@
+In the present study, we demonstrate that expression of TD-IkappaBalpha blocked phorbol myristate acetate-phytohemagglutinin or tumor necrosis factor alpha-induced IkappaBalpha gene transcription and abolished NF-kappaB DNA binding activity, due to the continued cytoplasmic sequestration of RelA(p65) by TD-IkappaBalpha.

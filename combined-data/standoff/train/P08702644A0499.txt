@@ -1,0 +1,1 @@
+A cDNA encoding the amino-terminal 17% of apoB (apoB17) was fused to a cDNA coding for the last 37 amino acids of decay-accelerating factor (DAF), which contains the signal for glycosylphosphatidylinositol anchor attachment.

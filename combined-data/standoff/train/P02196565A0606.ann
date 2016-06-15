@@ -1,0 +1,18 @@
+T1	GENE 120 123	TUF
+T2	GENE 159 168	MAT alpha
+T3	GENE 201 205	PYK1
+T4	GENE 241 245	GRFI
+T5	GENE 241 254	GRFI/RAP1/TUF
+T6	GENE 246 250	RAP1
+T7	GENE 251 254	TUF
+T8	GENE 280 285	gal11
+T9	GENE 280 294	gal11 mutation
+T10	GENE 35 39	GRFI
+T11	GENE 41 83	repressor/activator site binding protein 1
+T12	GENE 41 90	repressor/activator site binding protein 1 (RAP1)
+T13	GENE 6 124	general regulatory factor I (GRFI)/repressor/activator site binding protein 1 (RAP1)/translation upstream factor (TUF)
+T14	GENE 6 33	general regulatory factor I
+T15	GENE 6 40	general regulatory factor I (GRFI)
+T16	GENE 85 89	RAP1
+T17	GENE 91 118	translation upstream factor
+T18	GENE 91 124	translation upstream factor (TUF)

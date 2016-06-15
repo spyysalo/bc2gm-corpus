@@ -1,0 +1,1 @@
+The root-mean-square deviation of bond lengths from the ideal values is 0.02 A.

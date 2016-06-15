@@ -1,0 +1,1 @@
+These results demonstrate that GGTase-I inhibitors arrest cells in G0/G1 and induce accumulation of p21WAF in a p53-independent manner and that FTase inhibitors can interfere with cell cycle events by a mechanism that involves neither p21WAF nor p27KIP.

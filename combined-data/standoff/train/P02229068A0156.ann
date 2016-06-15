@@ -1,0 +1,25 @@
+T1	GENE 120 135	precursor SU-TM
+T2	GENE 120 143	precursor SU-TM (gp160)
+T3	GENE 130 143	SU-TM (gp160)
+T4	GENE 137 142	gp160
+T5	GENE 145 150	SU.TM
+T6	GENE 145 163	SU.TM (gp120 x 41)
+T7	GENE 152 157	gp120
+T8	GENE 152 162	gp120 x 41
+T9	GENE 169 182	nucleolar rev
+T10	GENE 169 190	nucleolar rev protein
+T11	GENE 179 182	rev
+T12	GENE 179 190	rev protein
+T13	GENE 31 43	complete tat
+T14	GENE 31 60	complete tat, rev (tat+ rev+)
+T15	GENE 40 43	tat
+T16	GENE 40 60	tat, rev (tat+ rev+)
+T17	GENE 45 48	rev
+T18	GENE 45 48	rev
+T19	GENE 50 53	tat
+T20	GENE 50 54	tat+
+T21	GENE 50 59	tat+ rev+
+T22	GENE 55 58	rev
+T23	GENE 55 59	rev+
+T24	GENE 65 68	env
+T25	GENE 65 74	env genes

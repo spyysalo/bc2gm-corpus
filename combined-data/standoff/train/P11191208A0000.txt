@@ -1,0 +1,1 @@
+Multidrug resistance in Saccharomyces cerevisiae mainly results from the overexpression of genes coding for the membrane efflux pumps, the major facilitators and the ABC binding cassette transporters, under the control of key transcription regulators encoded by the PDR1 and PDR3 genes.

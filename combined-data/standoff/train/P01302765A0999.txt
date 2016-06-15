@@ -1,0 +1,1 @@
+These components both had a median R2 of 0.84, compared to median R2s ranging from 0.37 to 0.83 for five commonly used ad hoc EEG components.

@@ -1,0 +1,1 @@
+Although a carboxyl-terminal HSF transcriptional activation domain is critical for the activation of CUP1 transcription in response to both heat shock stress and glucose starvation, this region is dispensable for transient heat shock activation of at least two genes encoding members of the S. cerevisiae hsp70 family.

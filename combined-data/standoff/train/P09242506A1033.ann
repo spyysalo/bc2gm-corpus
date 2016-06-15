@@ -1,0 +1,9 @@
+T1	GENE 0 3	E2F
+T2	GENE 0 3	E2F
+T3	GENE 45 48	E2F
+T4	GENE 45 55	E2F family
+T5	GENE 45 63	E2F family members
+T6	GENE 45 69	E2F family members (1-5)
+T7	GENE 74 76	DP
+T8	GENE 74 85	DP proteins
+T9	GENE 74 91	DP proteins (1-3)

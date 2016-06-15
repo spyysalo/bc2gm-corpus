@@ -1,0 +1,1 @@
+The transmembrane topology of Na(+)/H(+) exchanger NHE3 has been studied using in vitro transcription/translation of two types of fusion vectors designed to test membrane insertion properties of cDNA sequences encoding putative NHE3 membrane spanning domains (msds).

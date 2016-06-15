@@ -1,0 +1,1 @@
+We have identified SWI5's nuclear localization signal (NLS) and show that it can confer cell cycle-dependent nuclear entry to a heterologous protein.

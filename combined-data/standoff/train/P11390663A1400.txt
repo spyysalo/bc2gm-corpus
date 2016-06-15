@@ -1,0 +1,1 @@
+Finally, profiling of a gcn4Delta mutant uncovered an alternative induction pathway operating at many Gcn4p target genes in histidine-starved cells.

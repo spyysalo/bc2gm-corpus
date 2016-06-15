@@ -1,0 +1,11 @@
+T1	GENE 121 125	p190
+T2	GENE 52 60	p120 Ras
+T3	GENE 52 95	p120 Ras-specific GTPase-activating protein
+T4	GENE 52 101	p120 Ras-specific GTPase-activating protein (GAP)
+T5	GENE 57 95	Ras-specific GTPase-activating protein
+T6	GENE 57 101	Ras-specific GTPase-activating protein (GAP)
+T7	GENE 70 95	GTPase-activating protein
+T8	GENE 70 101	GTPase-activating protein (GAP)
+T9	GENE 97 100	GAP
+T10	GENE 106 125	GAP-associated p190
+T11	GENE 106 109	GAP

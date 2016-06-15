@@ -1,0 +1,6 @@
+T1	GENE 17 35	(int6Delta) mutant
+T2	GENE 18 27	int6Delta
+T3	GENE 3 16	int6 deletion
+T4	GENE 3 28	int6 deletion (int6Delta)
+T5	GENE 3 35	int6 deletion (int6Delta) mutant
+T6	GENE 3 7	int6

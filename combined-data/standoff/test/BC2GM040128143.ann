@@ -1,0 +1,18 @@
+T1	GENE 176 180	mCgA
+T2	GENE 176 189	mCgA promoter
+T3	GENE 200 204	mCgA
+T4	GENE 200 204	mCgA
+T5	GENE 235 238	Sp1
+T6	GENE 235 244	Sp1/Egr-1
+T7	GENE 235 249	Sp1/Egr-1 site
+T8	GENE 239 244	Egr-1
+T9	GENE 239 249	Egr-1 site
+T10	GENE 25 28	Sp1
+T11	GENE 279 286	gastrin
+T12	GENE 307 345	heterologous thymidine kinase promoter
+T13	GENE 32 51	phosphorylated CREB
+T14	GENE 320 336	thymidine kinase
+T15	GENE 320 345	thymidine kinase promoter
+T16	GENE 47 51	CREB
+T17	GENE 71 75	mCgA
+T18	GENE 71 84	mCgA promoter

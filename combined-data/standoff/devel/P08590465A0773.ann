@@ -1,0 +1,12 @@
+T1	GENE 119 123	URA2
+T2	GENE 119 128	URA2 gene
+T3	GENE 119 136	URA2 gene product
+T4	GENE 50 63	S. pombe URA1
+T5	GENE 50 68	S. pombe URA1 gene
+T6	GENE 50 76	S. pombe URA1 gene product
+T7	GENE 59 63	URA1
+T8	GENE 59 68	URA1 gene
+T9	GENE 59 76	URA1 gene product
+T10	GENE 105 123	S. cerevisiae URA2
+T11	GENE 105 128	S. cerevisiae URA2 gene
+T12	GENE 105 136	S. cerevisiae URA2 gene product

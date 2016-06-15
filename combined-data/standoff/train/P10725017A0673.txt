@@ -1,0 +1,1 @@
+This paper reviews the middleware-based approach adopted by CEN ENV 12967-1 and the specialisation necessary for the healthcare record based on CEN ENV 12265 'Electronic Healthcare Record Architecture'.

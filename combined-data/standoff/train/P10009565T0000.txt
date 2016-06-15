@@ -1,0 +1,1 @@
+GW Gamma approximation for electron self-energies in semiconductors and insulators.

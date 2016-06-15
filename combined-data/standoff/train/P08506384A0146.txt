@@ -1,0 +1,1 @@
+In mammalian cells, phosphorylation of eIF-2 alpha inhibits the activity of eIF-2B, the GDP-GTP exchange factor for eIF-2.

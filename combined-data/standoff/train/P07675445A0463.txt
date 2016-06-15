@@ -1,0 +1,1 @@
+These clones were found to share a common domain encoded by p(CA)n repeats; a simple sequence length polymorphism (SSLP).

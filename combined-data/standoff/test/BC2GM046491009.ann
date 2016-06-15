@@ -1,0 +1,12 @@
+T1	GENE 13 18	rec10
+T2	GENE 13 21	rec10(+)
+T3	GENE 13 88	rec10(+), and rec11(+) genes of the fission yeast Schizosaccharomyces pombe
+T4	GENE 149 153	rec8
+T5	GENE 149 156	rec8(+)
+T6	GENE 27 32	rec11
+T7	GENE 27 35	rec11(+)
+T8	GENE 27 41	rec11(+) genes
+T9	GENE 27 88	rec11(+) genes of the fission yeast Schizosaccharomyces pombe
+T10	GENE 4 8	rec8
+T11	GENE 4 88	rec8(+), rec10(+), and rec11(+) genes of the fission yeast Schizosaccharomyces pombe
+T12	GENE 4 11	rec8(+)

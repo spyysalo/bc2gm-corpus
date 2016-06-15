@@ -1,0 +1,1 @@
+The predicted protein products of ORFs N2417 and N2403 present similarities with domains from proteins of other organisms: the Candida maltosa cycloheximide-resistance protein, the human interleukin enhancer-binding factor (ILF-2).

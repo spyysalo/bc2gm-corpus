@@ -1,0 +1,12 @@
+T1	GENE 124 128	GntR
+T2	GENE 158 162	gntT
+T3	GENE 5 25	gntR deletion mutant
+T4	GENE 5 9	gntR
+T5	GENE 47 63	chromosomal gntT
+T6	GENE 47 69	chromosomal gntT::lacZ
+T7	GENE 47 76	chromosomal gntT::lacZ fusion
+T8	GENE 59 63	gntT
+T9	GENE 59 69	gntT::lacZ
+T10	GENE 59 76	gntT::lacZ fusion
+T11	GENE 65 69	lacZ
+T12	GENE 65 76	lacZ fusion

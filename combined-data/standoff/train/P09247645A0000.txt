@@ -1,0 +1,1 @@
+Two new temperature-sensitive alleles of SEC3, 1 of 10 late-acting SEC genes required for targeting or fusion of post-Golgi secretory vesicles to the plasma membrane in Saccharomyces cerevisiae, were isolated in a screen for temperature-sensitive secretory mutants that are synthetically lethal with sec4-8.

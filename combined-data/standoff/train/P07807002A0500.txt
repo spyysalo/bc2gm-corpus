@@ -1,0 +1,1 @@
+To do this, segments of DNA from the 5' flank of the initiation sites for germline epsilon RNA were ligated to a luciferase reporter gene and transfected into two mouse B cell lines, one of which can be induced to switch to IgE.

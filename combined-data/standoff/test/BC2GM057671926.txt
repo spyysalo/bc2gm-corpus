@@ -1,0 +1,1 @@
+Dmyd clone encodes a polypeptide of 332 amino acids with 82% identity to MyoD in the 41 amino acids of the putative helix-loop-helix region and 100% identity in the 13 amino acids of the basic domain proposed to contain the essential recognition code for muscle-specific gene activation.

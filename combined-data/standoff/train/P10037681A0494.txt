@@ -1,0 +1,1 @@
+Successful interaction of ARF and PKC-alpha with PLD1 was not achieved, but a C-terminal fragment of human PLD1 (denoted "D4") interacted with the active mutant of RhoA, RhoAVal-14.

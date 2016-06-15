@@ -1,0 +1,12 @@
+T1	GENE 28 31	Shb
+T2	GENE 28 35	Shb-SH3
+T3	GENE 28 42	Shb-SH3 domain
+T4	GENE 28 51	Shb-SH3 domain proteins
+T5	GENE 28 57	Shb-SH3 domain proteins v-Src
+T6	GENE 28 66	Shb-SH3 domain proteins v-Src and Eps8
+T7	GENE 32 35	SH3
+T8	GENE 32 42	SH3 domain
+T9	GENE 43 57	proteins v-Src
+T10	GENE 43 66	proteins v-Src and Eps8
+T11	GENE 52 57	v-Src
+T12	GENE 62 66	Eps8

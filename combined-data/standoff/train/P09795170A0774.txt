@@ -1,0 +1,1 @@
+We also mapped a 3'-polyadenylation site 504bp downstream of the TGA stop codon, consistent with the 2.5kb transcript size.

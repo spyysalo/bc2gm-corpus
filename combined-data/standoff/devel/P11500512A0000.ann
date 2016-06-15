@@ -1,0 +1,12 @@
+T1	GENE 4 15	human ABCG1
+T2	GENE 4 20	human ABCG1 gene
+T3	GENE 45 65	ATP-binding cassette
+T4	GENE 45 71	ATP-binding cassette (ABC)
+T5	GENE 45 83	ATP-binding cassette (ABC) superfamily
+T6	GENE 45 107	ATP-binding cassette (ABC) superfamily of transporter proteins
+T7	GENE 66 83	(ABC) superfamily
+T8	GENE 66 107	(ABC) superfamily of transporter proteins
+T9	GENE 67 70	ABC
+T10	GENE 87 107	transporter proteins
+T11	GENE 10 15	ABCG1
+T12	GENE 10 20	ABCG1 gene

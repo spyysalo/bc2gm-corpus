@@ -1,0 +1,12 @@
+T1	GENE 55 61	WT AP1
+T2	GENE 55 67	WT AP1 c-jun
+T3	GENE 55 76	WT AP1 c-jun promoter
+T4	GENE 55 80	WT AP1 c-jun promoter-CAT
+T5	GENE 58 61	AP1
+T6	GENE 58 67	AP1 c-jun
+T7	GENE 58 76	AP1 c-jun promoter
+T8	GENE 58 80	AP1 c-jun promoter-CAT
+T9	GENE 62 67	c-jun
+T10	GENE 62 76	c-jun promoter
+T11	GENE 62 80	c-jun promoter-CAT
+T12	GENE 77 80	CAT

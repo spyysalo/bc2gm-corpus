@@ -1,0 +1,16 @@
+T1	GENE 125 128	GAP
+T2	GENE 125 132	GAP-fes
+T3	GENE 125 142	GAP-fes complexes
+T4	GENE 129 132	fes
+T5	GENE 150 153	SH2
+T6	GENE 150 160	SH2 domain
+T7	GENE 23 26	ras
+T8	GENE 23 52	ras GTPase-activating protein
+T9	GENE 23 58	ras GTPase-activating protein (GAP)
+T10	GENE 27 52	GTPase-activating protein
+T11	GENE 27 58	GTPase-activating protein (GAP)
+T12	GENE 54 57	GAP
+T13	GENE 66 74	p93c-fes
+T14	GENE 66 98	p93c-fes protein-tyrosine kinase
+T15	GENE 75 98	protein-tyrosine kinase
+T16	GENE 83 98	tyrosine kinase

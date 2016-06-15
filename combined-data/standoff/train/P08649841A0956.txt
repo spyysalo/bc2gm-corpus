@@ -1,0 +1,1 @@
+Positioning this uORF, together with its accompanying Kozak sequences, between a heterologous promoter from SV40 and a CAT reporter gene resulted in marked inhibition of CAT protein production without a decrease in CAT mRNA.

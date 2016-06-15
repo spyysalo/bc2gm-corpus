@@ -1,0 +1,10 @@
+T1	GENE 178 181	CAT
+T2	GENE 178 188	CAT enzyme
+T3	GENE 237 247	pCAT-Basic
+T4	GENE 50 83	chloramphenicol acetyltransferase
+T5	GENE 50 89	chloramphenicol acetyltransferase (CAT)
+T6	GENE 50 98	chloramphenicol acetyltransferase (CAT) reporter
+T7	GENE 50 103	chloramphenicol acetyltransferase (CAT) reporter gene
+T8	GENE 84 98	(CAT) reporter
+T9	GENE 84 103	(CAT) reporter gene
+T10	GENE 85 88	CAT

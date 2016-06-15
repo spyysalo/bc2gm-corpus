@@ -1,0 +1,8 @@
+T1	GENE 23 27	reg1
+T2	GENE 23 32	reg1 reg2
+T3	GENE 23 46	reg1 reg2 double mutant
+T4	GENE 28 32	reg2
+T5	GENE 28 46	reg2 double mutant
+T6	GENE 28 46	reg2 double mutant
+T7	GENE 99 126	SNF1-encoded protein kinase
+T8	GENE 99 103	SNF1

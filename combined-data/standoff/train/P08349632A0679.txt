@@ -1,0 +1,1 @@
+Sequence comparison indicates that exons 5'/L and L/N in PSG12 and PSG12 psi are 99% identical, except that the L/N exon in the PSG12 psi gene contains a stop codon.

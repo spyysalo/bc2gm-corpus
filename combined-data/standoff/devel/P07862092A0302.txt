@@ -1,0 +1,1 @@
+We have attempted to clone two recessive extragenic suppressors of such ts mutants (sdp1 for mutation pol3-14 and sdp5-1 for mutation pol3-11) by transforming thermoresistant haploid strains pol3-14 sdp1 and pol3-11 sdp5-1 with wild-type genomic libraries in singlecopy or multicopy vectors.

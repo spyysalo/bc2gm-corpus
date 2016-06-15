@@ -1,0 +1,1 @@
+To investigate the requirements for CBF2 binding, we synthesized a series of oligonucleotides carrying double transversion mutations spanning both the conserved core sequence and outside flanking sequences.

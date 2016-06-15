@@ -1,0 +1,1 @@
+We determined that Hop(T42) contains a glutamic acid-to-lysine substitution at amino acid residue 695 (E695K).

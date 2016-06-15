@@ -1,0 +1,1 @@
+The RAG-2 gene encodes a component of the V(D)J recombinase which is essential for the assembly of antigen receptor genes in B and T lymphocytes.

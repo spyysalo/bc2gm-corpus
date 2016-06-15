@@ -1,0 +1,1 @@
+Having demonstrated proper localization of GFP-calmodulin in budding yeast, we examined the localization of a fusion between GFP and calmodulin (GFP-Camlp) in fission yeast, where calmodulin had not been localized by any method.

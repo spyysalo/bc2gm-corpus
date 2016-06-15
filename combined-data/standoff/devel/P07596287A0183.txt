@@ -1,0 +1,1 @@
+The nucleotide sequence directly upstream of fimA contains two open reading frames, ORF5 and ORF1, whose deduced protein products are homologous to members of a superfamily of ATP-binding cassette membrane transport proteins, including both prokaryotic and eukaryotic uptake and export systems.

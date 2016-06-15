@@ -1,0 +1,1 @@
+HSF binds DNA as a trimer, and additional trimers can bind DNA co-operatively.

@@ -1,0 +1,1 @@
+The interaction does not depend on the presence of the correct amino-terminal DNA binding domain or the amino acid sequences between the DNA binding domain and the last ten amino acids.

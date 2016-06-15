@@ -1,0 +1,1 @@
+The gcd2-503 mutation also results in polysome runoff, accumulation of inactive 80S ribosomal couples, and accumulation of at least one of the subunits of the general translation initiation factor 2 (eIF-2 alpha) in 43S-48S particles following a shift to the restrictive temperature.

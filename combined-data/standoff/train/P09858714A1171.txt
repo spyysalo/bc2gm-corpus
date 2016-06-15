@@ -1,0 +1,1 @@
+Another ORF, dda.2 located between modA and dda, shares sequence similarity with sigma70, and we call it srd.

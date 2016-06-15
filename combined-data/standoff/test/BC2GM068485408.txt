@@ -1,0 +1,1 @@
+Using probes containing C/EBP-binding sites from the iNOS gene revealed further binding of different complexes, all of which were strongly inducible by cAMP and to a lower extent also by IL-1beta.

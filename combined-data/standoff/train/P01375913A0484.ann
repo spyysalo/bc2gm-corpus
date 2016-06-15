@@ -1,0 +1,9 @@
+T1	GENE 61 64	U14
+T2	GENE 61 70	U14 snRNA
+T3	GENE 61 75	U14 snRNA gene
+T4	GENE 111 128	T7 RNA polymerase
+T5	GENE 111 137	T7 RNA polymerase promoter
+T6	GENE 111 142	T7 RNA polymerase promoter site
+T7	GENE 114 128	RNA polymerase
+T8	GENE 114 137	RNA polymerase promoter
+T9	GENE 114 142	RNA polymerase promoter site

@@ -1,0 +1,1 @@
+Using a series of mutant T antigens expressed by recombinant baculoviruses in Sf9 cells, we find that the origin unwinding activities of both TS677-->A and TS677,679-->A are inhibited by the T-antigen kinase, as is wild-type T antigen.

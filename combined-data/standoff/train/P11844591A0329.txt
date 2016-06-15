@@ -1,0 +1,1 @@
+We also studied a new parameter : the angle to maximal peak torque (APT).

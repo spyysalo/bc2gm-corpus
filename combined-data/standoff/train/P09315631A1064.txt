@@ -1,0 +1,1 @@
+Deletion of the POR2 gene alone had no detectable phenotype, while yeasts with deletions of both the POR1 and POR2 genes were viable and able to grow on glycerol at 30 degrees C, albeit more slowly than delta por1 single mutants.

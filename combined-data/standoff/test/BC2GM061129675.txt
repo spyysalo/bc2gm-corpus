@@ -1,0 +1,1 @@
+DNMT2 binds AdoHcy in the same conformation as confirmed m(5)C MTases and, while DNMT2 shares all sequence and structural features with m(5)C MTases, it has failed to demonstrate detectable transmethylase activity.

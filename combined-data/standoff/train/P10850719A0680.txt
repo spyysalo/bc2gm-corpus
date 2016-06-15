@@ -1,0 +1,1 @@
+Vbeta segments are appended to DJbeta rearrangements, with little or no direct Vbeta to Jbeta joining, despite 12/23 compatibility of Vbeta 23-RSSs and Jbeta12-RSSs.

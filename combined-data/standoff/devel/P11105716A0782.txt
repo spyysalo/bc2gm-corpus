@@ -1,0 +1,1 @@
+CONCLUSION: Our results suggest that AIF peak saturation leads to a significant systematic error in the determination of CBV and CBF values and has necessarily to be taken into account for dynamic contrast-enhanced MR perfusion studies.

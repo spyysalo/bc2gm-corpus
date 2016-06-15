@@ -1,0 +1,11 @@
+T1	GENE 0 26	CCAAT displacement protein
+T2	GENE 61 91	human papillomavirus type 6 E6
+T3	GENE 61 95	human papillomavirus type 6 E6, E7
+T4	GENE 61 103	human papillomavirus type 6 E6, E7, and E1
+T5	GENE 61 113	human papillomavirus type 6 E6, E7, and E1 promoters
+T6	GENE 89 91	E6
+T7	GENE 89 95	E6, E7
+T8	GENE 89 103	E6, E7, and E1
+T9	GENE 89 113	E6, E7, and E1 promoters
+T10	GENE 93 95	E7
+T11	GENE 101 103	E1

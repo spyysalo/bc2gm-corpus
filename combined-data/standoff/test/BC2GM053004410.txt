@@ -1,0 +1,1 @@
+They are found to have several advantages over the conventional indices of skewness and kurtosis (square root of b1 and b2) and no serious drawbacks.

@@ -1,0 +1,11 @@
+T1	GENE 0 3	SF1
+T2	GENE 0 8	SF1/mBBP
+T3	GENE 142 164	splicing factor U2AF65
+T4	GENE 158 164	U2AF65
+T5	GENE 20 37	"maxi-K homology"
+T6	GENE 20 47	"maxi-K homology" (maxi-KH)
+T7	GENE 20 54	"maxi-K homology" (maxi-KH) domain
+T8	GENE 21 36	maxi-K homology
+T9	GENE 38 54	(maxi-KH) domain
+T10	GENE 39 46	maxi-KH
+T11	GENE 4 8	mBBP

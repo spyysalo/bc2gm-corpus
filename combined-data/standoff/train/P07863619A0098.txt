@@ -1,0 +1,1 @@
+In order to infer shape from contour, the human visual system must selectively integrate fragments projecting from a common object while keeping fragments from different objects separate.

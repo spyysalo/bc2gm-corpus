@@ -1,0 +1,1 @@
+Deadenylation and decay of beta-globin mRNA in K562 cells is extraordinarily slow compared with NIH 3T3 cells, suggesting that the increased stability gained by beta-globin mRNA in K562 cells is mainly controlled at the deadenylation step.

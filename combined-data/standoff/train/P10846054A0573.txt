@@ -1,0 +1,1 @@
+Mutational analyses showed that in-frame stop codons introduced into five of seven RNA 2 ORFs did not affect accumulation of progeny LIYV RNA 1 or RNA 2, confirming that RNA 2 does not encode proteins necessary for LIYV RNA replication.

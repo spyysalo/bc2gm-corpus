@@ -1,0 +1,13 @@
+T1	GENE 121 125	ho-1
+T2	GENE 121 134	ho-1 promoter
+T3	GENE 121 145	ho-1 promoter (pHO15luc)
+T4	GENE 136 144	pHO15luc
+T5	GENE 50 60	luciferase
+T6	GENE 50 69	luciferase reporter
+T7	GENE 50 74	luciferase reporter gene
+T8	GENE 98 125	15-kilobase pair mouse ho-1
+T9	GENE 98 134	15-kilobase pair mouse ho-1 promoter
+T10	GENE 98 145	15-kilobase pair mouse ho-1 promoter (pHO15luc)
+T11	GENE 115 125	mouse ho-1
+T12	GENE 115 134	mouse ho-1 promoter
+T13	GENE 115 145	mouse ho-1 promoter (pHO15luc)

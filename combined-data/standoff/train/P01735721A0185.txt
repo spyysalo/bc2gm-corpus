@@ -1,0 +1,1 @@
+The predicted amino acid sequence exhibited 70% identity to that of Bacillus stearothermophilus TyrTS and 55% identity to that of E. coli TyrTS, while identity to a second cryptic B. subtilis TyrTS gene, designated tyrZ, was only 27%.

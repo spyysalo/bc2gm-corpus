@@ -1,0 +1,1 @@
+The Spo0F residues making up the hydrophobic patch are very similar in all response regulators suggesting that the binding is initiated through the same residues in all interacting response regulator-kinase pairs.

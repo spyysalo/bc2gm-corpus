@@ -1,0 +1,1 @@
+Here we demonstrate the ability of oligonucleotides containing the C4T sequence to confer heat shock inducibility on the reporter gene and show that the presence of two such elements produces more than additive effects on induction.

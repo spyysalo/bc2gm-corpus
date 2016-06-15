@@ -1,0 +1,1 @@
+Within the 3' terminal 50 nucleotides, the mouse mt 12S rRNA contains a potential 10 bp hairpin structure and a sequence of 15 consecutive nucleotides common to the RNA of the small ribosomal subunit in all systems, but does not contain the mRNA binding site (ACCUCC) found in E. coli and corn chloroplast rRNAs.

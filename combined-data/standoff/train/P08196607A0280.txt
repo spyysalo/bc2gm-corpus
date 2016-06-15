@@ -1,0 +1,1 @@
+Deletion analysis of the ICL1 promoter led to the identification of an upstream activating sequence element, UASICL1 (5' CATTCATCCG 3'), necessary and sufficient for conferring carbon source-dependent regulation on a heterologous reporter gene.

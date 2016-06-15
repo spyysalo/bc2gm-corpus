@@ -1,0 +1,1 @@
+A soluble 62-kDa protein was produced without the proteolytic processing by inserting the coding sequence of amino acids 112 to 660 of ORF-2 in a baculovirus expression vector and using the corresponding virus to infect Sf9 cells.

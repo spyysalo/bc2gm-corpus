@@ -1,0 +1,1 @@
+The YccA protein was found to be degraded in an FtsH-dependent manner in vivo and in vitro, whereas the YccA11 mutant protein, lacking eight amino acid residues within the amino-terminal cytoplasmic domain, was refractory to the degradation.

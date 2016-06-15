@@ -1,0 +1,1 @@
+It contains three putative binding sites for transcription factor Sp1 as well as several short sequences that are similar to known cis-acting enhancers or binding sites for transcription factors.

@@ -1,0 +1,1 @@
+One R-EST and one Pto-like sequence each mapped to two locations.

@@ -1,0 +1,1 @@
+Based on the hypothesis that evolutionarily conserved regions are functionally important and likely to interact with coactivators, we compared the amino acid sequence of C/EBPalpha from different species (frog to human) and identified four highly conserved regions (CR1-CR4) within the transactivation domain.

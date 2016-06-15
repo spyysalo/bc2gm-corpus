@@ -1,0 +1,1 @@
+A conventional N-terminal signal sequence was not detected in the NodO protein.

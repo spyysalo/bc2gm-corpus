@@ -1,0 +1,8 @@
+T1	GENE 122 125	CAT
+T2	GENE 122 135	CAT reporters
+T3	GENE 23 28	eIF4E
+T4	GENE 43 48	c-myc
+T5	GENE 43 48	c-myc
+T6	GENE 65 70	c-myc
+T7	GENE 65 93	c-myc 5' untranslated region
+T8	GENE 65 99	c-myc 5' untranslated region (UTR)

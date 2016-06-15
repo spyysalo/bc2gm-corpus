@@ -1,0 +1,1 @@
+This B-box is not present in ETS1, ETS2, PEA3 or PU.1 and these proteins were unable to form ternary complexes with SRF and Egrl-SREs or c-fos SRE.

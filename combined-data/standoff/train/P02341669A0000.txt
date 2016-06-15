@@ -1,0 +1,1 @@
+Experiments were performed in which brain-stem auditory-evoked responses (BAERs) were elicited by two types of pseudorandom pulse trains: maximum length sequences (MLS) and Legendre sequences (LGS).

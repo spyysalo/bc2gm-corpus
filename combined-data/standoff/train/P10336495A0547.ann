@@ -1,0 +1,5 @@
+T1	GENE 123 131	RXRalpha
+T2	GENE 104 108	NCoR
+T3	GENE 113 122	PPARalpha
+T4	GENE 113 131	PPARalpha.RXRalpha
+T5	GENE 113 155	PPARalpha.RXRalpha heterodimeric complexes

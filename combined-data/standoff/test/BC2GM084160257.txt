@@ -1,0 +1,1 @@
+Interestingly, unlike PAK65, HPK1 does not contain the small GTPase Rac1/Cdc42-binding domain and does not bind to either Rac1 or Cdc42, suggesting that HPK1. activation is Rac1/Cdc42-independent.

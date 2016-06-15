@@ -1,0 +1,10 @@
+T1	GENE 0 16	Pig uPA promoter
+T2	GENE 0 20	Pig uPA promoter-CAT
+T3	GENE 0 31	Pig uPA promoter-CAT constructs
+T4	GENE 0 7	Pig uPA
+T5	GENE 17 20	CAT
+T6	GENE 17 31	CAT constructs
+T7	GENE 4 16	uPA promoter
+T8	GENE 4 20	uPA promoter-CAT
+T9	GENE 4 31	uPA promoter-CAT constructs
+T10	GENE 4 7	uPA

@@ -1,0 +1,22 @@
+T1	GENE 0 14	Yeast U1 snRNP
+T2	GENE 0 8	Yeast U1
+T3	GENE 118 129	metazoan U1
+T4	GENE 118 144	metazoan U1 snRNP-specific
+T5	GENE 118 153	metazoan U1 snRNP-specific proteins
+T6	GENE 127 129	U1
+T7	GENE 127 135	U1 snRNP
+T8	GENE 127 144	U1 snRNP-specific
+T9	GENE 127 153	U1 snRNP-specific proteins
+T10	GENE 163 180	yeast-specific U1
+T11	GENE 163 186	yeast-specific U1 snRNP
+T12	GENE 163 195	yeast-specific U1 snRNP proteins
+T13	GENE 178 180	U1
+T14	GENE 178 186	U1 snRNP
+T15	GENE 178 195	U1 snRNP proteins
+T16	GENE 6 14	U1 snRNP
+T17	GENE 6 14	U1 snRNP
+T18	GENE 6 8	U1
+T19	GENE 73 83	snRNP core
+T20	GENE 73 92	snRNP core proteins
+T21	GENE 79 83	core
+T22	GENE 79 92	core proteins

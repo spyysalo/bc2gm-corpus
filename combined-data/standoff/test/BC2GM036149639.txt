@@ -1,0 +1,1 @@
+The main new features of this version are that end-tidal PO2 instead of inspiratory PO2 can be kept constant, and that the correcting activity of both controllers (capnostat and oxystat) is proportional to the magnitude of the difference between the actual and the adjusted end-tidal PCO2 or PO2.

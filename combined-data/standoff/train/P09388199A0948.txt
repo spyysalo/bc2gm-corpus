@@ -1,0 +1,1 @@
+In an effort to separate domains of FadR required for DNA binding, dimerization, and ligand binding, chimeric protein fusions between the DNA binding domain of LexA and different regions of FadR were constructed.

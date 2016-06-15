@@ -1,0 +1,9 @@
+T1	GENE 0 3	CD7
+T2	GENE 0 4	CD7+
+T3	GENE 0 8	CD7+/CD3
+T4	GENE 0 9	CD7+/CD3-
+T5	GENE 36 46	V delta 2D
+T6	GENE 36 54	V delta 2D delta 3
+T7	GENE 36 69	V delta 2D delta 3 rearrangements
+T8	GENE 5 8	CD3
+T9	GENE 5 9	CD3-

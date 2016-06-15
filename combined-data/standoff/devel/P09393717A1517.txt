@@ -1,0 +1,1 @@
+These observations provide strong support for the idea that expression of mutant tRNA can confer a mutator phenotype, including the UVM-constitutive phenotype observed in mutA and mutC cells.

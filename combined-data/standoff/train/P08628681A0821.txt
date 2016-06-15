@@ -1,0 +1,1 @@
+Sequence conservation is greatest for residues located near the active centers of the exo and pol domains of the E.coli DNA polymerase I structure.

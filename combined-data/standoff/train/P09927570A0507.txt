@@ -1,0 +1,1 @@
+We now show that RNU2 fragility can be induced by transfection with an expression vector encoding Ad12 E1B 55 kDa alone but not by an E1 vector encoding all E1 products (3 E1A proteins, as well as the E1B 19 kDa and 55 kDa proteins).

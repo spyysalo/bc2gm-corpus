@@ -1,0 +1,12 @@
+T1	GENE 0 8	Siglec-9
+T2	GENE 130 132	C2
+T3	GENE 130 136	C2-set
+T4	GENE 130 144	C2-set domains
+T5	GENE 53 67	immunoglobulin
+T6	GENE 53 72	immunoglobulin-like
+T7	GENE 53 80	immunoglobulin-like domains
+T8	GENE 98 114	N-terminal V-set
+T9	GENE 98 121	N-terminal V-set domain
+T10	GENE 109 114	V-set
+T11	GENE 109 121	V-set domain
+T12	GENE 109 110	V

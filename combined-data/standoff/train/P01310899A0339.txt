@@ -1,0 +1,1 @@
+The predicted receptor structure includes a cysteine-rich extracellular domain, a single hydrophobic transmembrane domain, and a predicted cytoplasmic serine/threonine kinase domain.

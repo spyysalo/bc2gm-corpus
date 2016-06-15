@@ -1,0 +1,1 @@
+The domain structure of bovine LTBP-2 is very similar to that of the human LTBP-2, containing 20 examples of 6-cysteine epidermal growth factor-like repeats, 16 of which have the consensus sequence for calcium binding, together with 4 examples of 8-cysteine motifs characteristic of fibrillins and LTBP-1.

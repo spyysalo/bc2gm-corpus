@@ -1,0 +1,1 @@
+This mutant was identified by screening with a TGF-beta-inducible vector a series of mink lung epithelial cell clones that have normal TGF-beta binding activity but have lost antiproliferative and transcriptional responses to TGF-beta.

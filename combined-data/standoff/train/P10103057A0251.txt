@@ -1,0 +1,1 @@
+Here we describe the optimization and characterization of a 140-residue fragment, containing the Runt domain of AML1, which is suitable for structural studies.

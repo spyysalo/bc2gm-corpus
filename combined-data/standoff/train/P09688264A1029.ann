@@ -1,0 +1,4 @@
+T1	GENE 46 49	spi
+T2	GENE 46 53	spi 2.3
+T3	GENE 46 60	spi 2.3 3' UTR
+T4	GENE 46 69	spi 2.3 3' UTR silencer

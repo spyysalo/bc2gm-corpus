@@ -1,0 +1,1 @@
+We have screened the mouse cDNA library of an MIN6 cell line, derived from pancreatic beta cells, for its novel isoform and have identified a cDNA encoding a 593-amino acid protein having 63, 53, and 30% identity with munc-18/n-Sec1/rbSec1, Caenorhabditis elegans unc18, and Saccharomyces cerevisiae Sec1p, respectively.

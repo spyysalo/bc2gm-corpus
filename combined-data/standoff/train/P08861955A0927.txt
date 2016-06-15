@@ -1,0 +1,1 @@
+Moreover, the second RCC1-like motif located at the amino-terminus of p619 stimulates guanine nucleotide exchange on ARF1 and on members of the related Rab proteins, but not on other small GTP binding proteins such as Ran or R-Ras2/TC21.

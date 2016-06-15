@@ -1,0 +1,1 @@
+The reduced expression caused by multimerization of UAS2 in the native promoter was observed only in the presence of ADR1.

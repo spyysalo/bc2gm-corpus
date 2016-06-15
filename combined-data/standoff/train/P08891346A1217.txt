@@ -1,0 +1,1 @@
+To address the biological effect of specific isoform expression, NIH3T3 cells were transfected with a eukaryotic expression vector containing cDNA for FGF8a, FGF8b, or FGF8e.

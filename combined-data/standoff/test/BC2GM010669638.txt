@@ -1,0 +1,1 @@
+Heterodimerization mutant RXR failed to alter GFP-VDR and nlsGFP-VDR distribution or activity.

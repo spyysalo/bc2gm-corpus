@@ -1,0 +1,1 @@
+Here we report that in cultured cells from Drosophila melanogaster human Sp1 efficiently activates transcription from synthetic promoters containing TATA boxes, but not from promoters that contain an initiator instead of a TATA box.

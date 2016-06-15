@@ -1,0 +1,1 @@
+The active state is terminated by hydrolysis of bound GTP, producing inactive ARF-GDP.

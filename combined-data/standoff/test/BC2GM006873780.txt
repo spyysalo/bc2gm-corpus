@@ -1,0 +1,1 @@
+For rotating stimuli presented to the dominant eye, this class of neurons responded best to rotation of the visual world about an axis oriented near the horizontal plane and approximately 45 degrees azimuth.

@@ -1,0 +1,21 @@
+T1	GENE 137 140	Vpr
+T2	GENE 182 223	murine leukemia virus (MLV) SL3-3 LTR-CAT
+T3	GENE 182 232	murine leukemia virus (MLV) SL3-3 LTR-CAT reporter
+T4	GENE 182 242	murine leukemia virus (MLV) SL3-3 LTR-CAT reporter construct
+T5	GENE 189 219	leukemia virus (MLV) SL3-3 LTR
+T6	GENE 204 219	(MLV) SL3-3 LTR
+T7	GENE 204 223	(MLV) SL3-3 LTR-CAT
+T8	GENE 204 232	(MLV) SL3-3 LTR-CAT reporter
+T9	GENE 204 242	(MLV) SL3-3 LTR-CAT reporter construct
+T10	GENE 210 215	SL3-3
+T11	GENE 210 223	SL3-3 LTR-CAT
+T12	GENE 210 232	SL3-3 LTR-CAT reporter
+T13	GENE 210 242	SL3-3 LTR-CAT reporter construct
+T14	GENE 220 223	CAT
+T15	GENE 220 232	CAT reporter
+T16	GENE 220 242	CAT reporter construct
+T17	GENE 76 120	chloramphenicol acetyltransferase (CAT) mRNA
+T18	GENE 76 109	chloramphenicol acetyltransferase
+T19	GENE 76 115	chloramphenicol acetyltransferase (CAT)
+T20	GENE 110 120	(CAT) mRNA
+T21	GENE 111 114	CAT

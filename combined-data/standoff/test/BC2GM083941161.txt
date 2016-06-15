@@ -1,0 +1,1 @@
+The data obtained with cellular RNA from HepG2 cells demonstrated that transcription is initiated 891 bases upstream of the translation-start site and that the polyadenylation site is located 550 bases downstream of the stop codon.

@@ -1,0 +1,1 @@
+To determine the genomic complexity of the deleted region shared among tumors, we assembled a physical map of the I Mbp SRO consisting predominantly of bacteriophage P1-derived artificial chromosome (PAC) clones.

@@ -1,0 +1,1 @@
+Processing MES data requires large bit manipulations and heavy memory storage requirements.

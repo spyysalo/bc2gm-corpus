@@ -1,0 +1,1 @@
+Our analysis of nonsense mutations indicates that the C terminus of eIF2Bepsilon (residues 518 to 712) is required for both catalytic activity and interaction with eIF2.

@@ -1,0 +1,1 @@
+As was observed previously for MATa cna1 cna2 double mutants, MATa cnb1 mutants were defective in their ability to recover from alpha-factor-induced growth arrest.

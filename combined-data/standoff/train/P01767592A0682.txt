@@ -1,0 +1,1 @@
+Two potential regulatory sequences for DNA binding proteins were found in the non-coding 5' region: a HAP2/HAP3 consensus recognition sequence at nucleotide-154 and a BAF1 consensus recognition sequence at nucleotide-136.

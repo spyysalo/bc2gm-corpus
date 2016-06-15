@@ -1,0 +1,1 @@
+These mutations alter two regions of GAL4 protein: the DNA binding domain, and the transcription activation domain.

@@ -1,0 +1,1 @@
+Interestingly, the IR5 ORF of EHV-1 possesses a sequence of 13 amino acids (CAYWCCLGHAFAC) that is a perfect match to the consensus zinc finger motif (C-X2-4-C-X2-15-C/H-X2-4-C/H).

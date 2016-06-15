@@ -1,0 +1,1 @@
+A minimal region which stimulates origin function mapped to 50 amino acids within the C-terminus of Abf1p.

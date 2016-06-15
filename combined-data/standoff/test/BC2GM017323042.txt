@@ -1,0 +1,1 @@
+To determine the transactivation potential of each of the four Ahr Sp1 sites, we fused the Ahr promoter to a luciferase (LUC) reporter gene and transfected the construct into the Drosophila cell line Schneider-2, which contains no Sp1 or Sp1-like factors.

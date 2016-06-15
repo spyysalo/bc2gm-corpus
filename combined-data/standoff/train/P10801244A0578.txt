@@ -1,0 +1,1 @@
+Vancomycin data were analyzed according to a one-compartment open model with use of NONMEM population pharmacokinetic software.

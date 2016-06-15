@@ -1,0 +1,1 @@
+The differences in binding (Kdapp), incorporation, and extension kinetics of 8-oxo-dGTP compared to normal dNTP incorporation at template 8-oxo-G adducts indicate that polymerase fidelity does not depend solely upon the overall geometry of Watson-Crick base pairs and reflects the asymmetry of the enzyme active site.

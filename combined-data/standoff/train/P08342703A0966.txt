@@ -1,0 +1,1 @@
+The mean power (in mu W) required to produce the observed flow rate was estimated at each outflow pressure as the product of the flow rate and the pressure across the lymphatic vessel.

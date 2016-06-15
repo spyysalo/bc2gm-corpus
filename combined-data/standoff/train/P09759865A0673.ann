@@ -1,0 +1,14 @@
+T1	GENE 15 23	IL-1beta
+T2	GENE 197 225	inhibitor of NF-kappaB-alpha
+T3	GENE 197 241	inhibitor of NF-kappaB-alpha (IkappaB-alpha)
+T4	GENE 227 240	IkappaB-alpha
+T5	GENE 28 37	TNF-alpha
+T6	GENE 283 291	IL-1beta
+T7	GENE 304 315	PDGF-Ralpha
+T8	GENE 74 77	Rel
+T9	GENE 74 86	Rel proteins
+T10	GENE 87 90	p50
+T11	GENE 95 98	p65
+T12	GENE 105 124	NF-kappaB consensus
+T13	GENE 105 140	NF-kappaB consensus oligonucleotide
+T14	GENE 105 114	NF-kappaB

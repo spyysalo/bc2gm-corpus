@@ -1,0 +1,1 @@
+Surprisingly, a C to G transversion at the first residue of the CAT pentanucleotide, which severely impairs the activity of both promoters, appears to increase affinity of the CAT binding protein.

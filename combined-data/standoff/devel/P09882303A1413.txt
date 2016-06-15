@@ -1,0 +1,1 @@
+TRAF2 is known to associate with TRADD, and expression of a dominant-negative N-terminal deletion TRAF2 mutant was found to partially inhibit LMP1-induced JNK activation in 293 cells.

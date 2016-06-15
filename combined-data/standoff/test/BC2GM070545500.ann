@@ -1,0 +1,11 @@
+T1	GENE 124 136	(PEPCK) gene
+T2	GENE 125 130	PEPCK
+T3	GENE 215 220	PEPCK
+T4	GENE 215 229	PEPCK promoter
+T5	GENE 264 297	chloramphenicol acetyltransferase
+T6	GENE 264 303	chloramphenicol acetyltransferase (CAT)
+T7	GENE 299 302	CAT
+T8	GENE 70 131	phosphoenolpyruvate carboxykinase (GTP) (EC 4.1.1.32) (PEPCK)
+T9	GENE 70 136	phosphoenolpyruvate carboxykinase (GTP) (EC 4.1.1.32) (PEPCK) gene
+T10	GENE 70 103	phosphoenolpyruvate carboxykinase
+T11	GENE 111 122	EC 4.1.1.32

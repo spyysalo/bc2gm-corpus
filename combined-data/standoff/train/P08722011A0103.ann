@@ -1,0 +1,16 @@
+T1	GENE 148 184	Saccharomyces cerevisiae protein L15
+T2	GENE 173 184	protein L15
+T3	GENE 181 184	L15
+T4	GENE 189 210	mammalian protein L12
+T5	GENE 199 210	protein L12
+T6	GENE 207 210	L12
+T7	GENE 30 36	GTPase
+T8	GENE 30 43	GTPase domain
+T9	GENE 107 123	protein L11-like
+T10	GENE 107 146	protein L11-like eukaryotic counterpart
+T11	GENE 107 211	protein L11-like eukaryotic counterpart (Saccharomyces cerevisiae protein L15 and mammalian protein L12)
+T12	GENE 107 118	protein L11
+T13	GENE 115 123	L11-like
+T14	GENE 115 146	L11-like eukaryotic counterpart
+T15	GENE 115 211	L11-like eukaryotic counterpart (Saccharomyces cerevisiae protein L15 and mammalian protein L12)
+T16	GENE 115 118	L11

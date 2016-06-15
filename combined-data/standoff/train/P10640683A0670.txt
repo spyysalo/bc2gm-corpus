@@ -1,0 +1,1 @@
+Transient transfection assays using P19 cells revealed that expression of NDRF/NeuroD2 increased the transactivation of the rat insulin promoter element 3 (RIPE3) enhancer up to approximately 12-fold and that co-expression of catalytically active form of PKN, but not kinase-deficient derivative, resulted in a further threefold increase of NDRF/NeuroD2-mediated transcription.

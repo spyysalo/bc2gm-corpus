@@ -1,0 +1,9 @@
+T1	GENE 224 232	human T1
+T2	GENE 224 237	human T1 gene
+T3	GENE 230 232	T1
+T4	GENE 230 237	T1 gene
+T5	GENE 70 104	mammalian transcription factor SP1
+T6	GENE 80 104	transcription factor SP1
+T7	GENE 101 104	SP1
+T8	GENE 12 14	T2
+T9	GENE 12 19	T2 gene

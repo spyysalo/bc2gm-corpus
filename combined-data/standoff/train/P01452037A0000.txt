@@ -1,0 +1,1 @@
+The structural genes encoding glyceraldehyde-3-phosphate dehydrogenase (GAPDH), 3-phosphoglycerate kinase (PGK) and the N-terminal part of triosephosphate isomerase (TIM) from mesophilic Bacillus megaterium DSM319 have been cloned as a gene cluster (gap operon) by complementation of an Escherichia coli gap amber mutant.

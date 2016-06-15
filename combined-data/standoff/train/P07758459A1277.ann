@@ -1,0 +1,9 @@
+T1	GENE 15 19	AAC2
+T2	GENE 15 24	AAC2 gene
+T3	GENE 149 162	core HAP2/3/4
+T4	GENE 149 176	core HAP2/3/4 binding motif
+T5	GENE 154 162	HAP2/3/4
+T6	GENE 154 176	HAP2/3/4 binding motif
+T7	GENE 204 208	ABF1
+T8	GENE 204 218	ABF1 consensus
+T9	GENE 204 235	ABF1 consensus binding sequence

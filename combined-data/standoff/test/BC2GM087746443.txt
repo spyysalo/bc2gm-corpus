@@ -1,0 +1,1 @@
+When targeted to the GAL1 promoter by fusing with the Gal4p DNA-binding domain, Sko1p acts as an Ssn6/Tup1p-dependent repressor regulated by osmotic stress.

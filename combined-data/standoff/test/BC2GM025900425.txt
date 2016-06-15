@@ -1,0 +1,1 @@
+The delta mean VAF and delta mean SABP indicated varied mean values of VAF and SABP, respectively.

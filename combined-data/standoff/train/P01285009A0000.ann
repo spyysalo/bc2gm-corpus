@@ -1,0 +1,29 @@
+T1	GENE 127 130	mMT
+T2	GENE 133 155	viral thymidine kinase
+T3	GENE 133 161	viral thymidine kinase (vTK)
+T4	GENE 139 155	thymidine kinase
+T5	GENE 139 161	thymidine kinase (vTK)
+T6	GENE 157 160	vTK
+T7	GENE 163 182	rat cholecystokinin
+T8	GENE 163 189	rat cholecystokinin (rCCK)
+T9	GENE 167 182	cholecystokinin
+T10	GENE 167 189	cholecystokinin (rCCK)
+T11	GENE 184 188	rCCK
+T12	GENE 194 212	chicken beta-actin
+T13	GENE 194 218	chicken beta-actin (cBA)
+T14	GENE 194 223	chicken beta-actin (cBA) gene
+T15	GENE 202 212	beta-actin
+T16	GENE 202 218	beta-actin (cBA)
+T17	GENE 202 223	beta-actin (cBA) gene
+T18	GENE 213 223	(cBA) gene
+T19	GENE 214 217	cBA
+T20	GENE 30 50	human growth hormone
+T21	GENE 30 56	human growth hormone (hGH)
+T22	GENE 30 61	human growth hormone (hGH) gene
+T23	GENE 36 50	growth hormone
+T24	GENE 36 56	growth hormone (hGH)
+T25	GENE 36 61	growth hormone (hGH) gene
+T26	GENE 51 61	(hGH) gene
+T27	GENE 52 55	hGH
+T28	GENE 104 125	mouse metallothionein
+T29	GENE 104 131	mouse metallothionein (mMT)

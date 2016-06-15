@@ -1,0 +1,12 @@
+T1	GENE 25 28	mil
+T2	GENE 25 33	mil /raf
+T3	GENE 25 42	mil /raf oncogene
+T4	GENE 25 50	mil /raf oncogene product
+T5	GENE 30 33	raf
+T6	GENE 30 42	raf oncogene
+T7	GENE 30 50	raf oncogene product
+T8	GENE 56 59	gag
+T9	GENE 56 66	gag-fusion
+T10	GENE 56 78	gag-fusion polyprotein
+T11	GENE 90 93	myc
+T12	GENE 90 102	myc oncogene

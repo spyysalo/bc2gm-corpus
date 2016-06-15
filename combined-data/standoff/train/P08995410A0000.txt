@@ -1,0 +1,1 @@
+Eukaryotic initiation factor 3 (eIF3) is a large multisubunit complex that stabilizes the ternary complex, eIF2 x GTP x tRNA(Met)i and promotes mRNA binding to the 40 S ribosomal subunit. eIF3 also functions as a ribosome subunit anti-association factor.

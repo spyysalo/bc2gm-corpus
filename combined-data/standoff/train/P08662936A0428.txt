@@ -1,0 +1,1 @@
+Specifically, the deduced FR-19 amino acid sequence has approximately89, 77, and 68% overall identity to chicken TEF-1A, mouse TEF-1, and mouse embryonic TEA domain-containing factor, respectively.

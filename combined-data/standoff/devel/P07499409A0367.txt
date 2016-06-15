@@ -1,0 +1,1 @@
+TPBF has two potential coiled-coil regions, a basic region, a proline-rich region, a histidine-rich N terminus, and a nuclear targeting sequence.

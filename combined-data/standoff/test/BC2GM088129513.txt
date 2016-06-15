@@ -1,0 +1,1 @@
+They represent a physiologically more meaningful pattern than the arithmetic mean with standard deviation.

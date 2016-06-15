@@ -1,0 +1,1 @@
+To explore the mechanism of insulin receptor phosphorylation we have used NIH3T3 cells transfected with two receptor constructs: one encoding a chimeric receptor composed of the extracellular domain of the human EGF receptor and the cytosolic domain of the human insulin receptor beta-subunit, and a second construct encoding a kinase-defiecient human insulin receptor.

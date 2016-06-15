@@ -1,0 +1,1 @@
+Based on the occurrence of several transcription signals in the Thermus pyr promoter region and strong amino acid sequence identities (about 60%) between Thermus PyrR and the PyrR attenuation proteins of two Bacillus sp., we propose a regulatory mechanism involving transcriptional attenuation to control pyr gene expression in Thermus.

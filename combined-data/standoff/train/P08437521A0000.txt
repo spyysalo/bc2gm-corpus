@@ -1,0 +1,1 @@
+Mutations truncating as many as 143 C-terminal residues from the transcriptional activator encoded by the areA gene, mediating nitrogen metabolite repression in Aspergillus nidulans, do not significantly reduce the ability of the areA product to activate expression of most genes under areA control.

@@ -1,0 +1,1 @@
+SV1 has a 33-amino acid insert in the S1 transmembrane domain that does not alter S1 overall hydrophobicity, but makes the S0-S1 linker longer.

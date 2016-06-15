@@ -1,0 +1,1 @@
+Its predicted amino acid sequence shows extensive homology to those of Drosophila hsp70, trout hsp70, Xenopus hsp70, yeast hsp70, and some homology to the heat-inducible dnaK gene product of Escherichia coli.

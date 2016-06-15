@@ -1,0 +1,11 @@
+T1	GENE 16 20	nifH
+T2	GENE 16 29	nifH promoter
+T3	GENE 209 217	sigma 54
+T4	GENE 209 237	sigma 54-dependent promoters
+T5	GENE 4 20	R. meliloti nifH
+T6	GENE 4 29	R. meliloti nifH promoter
+T7	GENE 42 60	K. pneumoniae nifH
+T8	GENE 42 69	K. pneumoniae nifH promoter
+T9	GENE 56 60	nifH
+T10	GENE 56 69	nifH promoter
+T11	GENE 77 85	sigma 54

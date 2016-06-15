@@ -1,0 +1,1 @@
+Plasmid pAL618 contains the genetic determinants for H2 uptake (hup) from Rhizobium leguminosarum bv. viciae, including a cluster of 17 genes named hupSLCDEFGHIJK-hypABFCDE.

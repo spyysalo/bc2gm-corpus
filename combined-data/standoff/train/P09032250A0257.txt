@@ -1,0 +1,1 @@
+Using the yeast two-hybrid system to screen for proteins which interact with Tax1, we isolated the B subunit of the CCAAT binding protein NF-Y from a HeLa cDNA library.

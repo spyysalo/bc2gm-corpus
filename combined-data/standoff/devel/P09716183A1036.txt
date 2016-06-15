@@ -1,0 +1,1 @@
+TBP can be phosphorylated in vitro by extracts of U937 cells or by bacterially expressed activated ERK2; the phosphorylation sites were mapped to ERK kinase consensus sites in the TBP amino-terminal domain.

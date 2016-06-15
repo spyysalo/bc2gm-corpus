@@ -1,0 +1,9 @@
+T1	GENE 186 192	cyclin
+T2	GENE 186 208	cyclin partners (Pcls)
+T3	GENE 203 207	Pcls
+T4	GENE 29 34	PHO85
+T5	GENE 45 76	cyclin-dependent protein kinase
+T6	GENE 45 82	cyclin-dependent protein kinase (Cdk)
+T7	GENE 45 100	cyclin-dependent protein kinase (Cdk) catalytic subunit
+T8	GENE 77 100	(Cdk) catalytic subunit
+T9	GENE 78 81	Cdk

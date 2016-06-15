@@ -1,0 +1,14 @@
+T1	GENE 145 150	PGS-2
+T2	GENE 145 154	PGS-2.CAT
+T3	GENE 145 163	PGS-2.CAT reporter
+T4	GENE 145 168	PGS-2.CAT reporter gene
+T5	GENE 151 154	CAT
+T6	GENE 151 163	CAT reporter
+T7	GENE 151 168	CAT reporter gene
+T8	GENE 20 29	rat PGS-2
+T9	GENE 20 34	rat PGS-2 gene
+T10	GENE 24 29	PGS-2
+T11	GENE 24 34	PGS-2 gene
+T12	GENE 46 75	CAAT enhancer-binding protein
+T13	GENE 46 90	CAAT enhancer-binding protein consensus site
+T14	GENE 46 101	CAAT enhancer-binding protein consensus site (CAAT box)

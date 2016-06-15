@@ -1,0 +1,1 @@
+Both residues are conserved in the three phosphorylated paralogs but are absent in the ones that were not substrates of RsbT: YetI and YezB, each of which bears only one of the conserved residues; and YtvA, which lacks both residues and instead possesses an N-terminal PAS domain.

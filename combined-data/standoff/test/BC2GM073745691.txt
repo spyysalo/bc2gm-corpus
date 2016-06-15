@@ -1,0 +1,1 @@
+To explore further the role of the carboxyl-terminal domain in determining the cell cycle function of CDC34, we constructed and characterized genes encoding chimeric E2s incorporating sequences from CDC34 and the related but functionally distinct E2 RAD6 (UBC2).

@@ -1,0 +1,13 @@
+T1	GENE 128 140	alpha-factor
+T2	GENE 31 35	MATa
+T3	GENE 31 40	MATa cna1
+T4	GENE 31 45	MATa cna1 cna2
+T5	GENE 31 60	MATa cna1 cna2 double mutants
+T6	GENE 36 40	cna1
+T7	GENE 36 45	cna1 cna2
+T8	GENE 41 45	cna2
+T9	GENE 62 66	MATa
+T10	GENE 62 71	MATa cnb1
+T11	GENE 62 79	MATa cnb1 mutants
+T12	GENE 67 71	cnb1
+T13	GENE 67 79	cnb1 mutants

@@ -1,0 +1,1 @@
+A patient matches a PIC patient if both have the same mechanism of injury, the same coding of Revised Trauma Score variables (Glascow Coma Scale score, systolic blood pressure, respiratory rate), the same coded age per A Severity Characterization of Trauma) (ASCOT), and if they differ by no more than 0.5 for A, B, and C (the ASCOT components for serious injuries).

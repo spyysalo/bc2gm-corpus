@@ -1,0 +1,1 @@
+Since proteins containing TPR elements are typically involved in multiple protein-protein interactions, we suggest that the 102kD protein interacts within the tri-snRNP with both the U5 and U4/U6 snRNPs, thus bridging the two particles.

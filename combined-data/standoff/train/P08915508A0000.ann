@@ -1,0 +1,17 @@
+T1	GENE 121 124	Tat
+T2	GENE 121 159	Tat (trans-activator of transcription)
+T3	GENE 126 158	trans-activator of transcription
+T4	GENE 265 278	group antigen
+T5	GENE 265 284	group antigen (Gag)
+T6	GENE 280 283	Gag
+T7	GENE 286 294	protease
+T8	GENE 286 300	protease (Pro)
+T9	GENE 296 299	Pro
+T10	GENE 302 323	reverse transcriptase
+T11	GENE 302 328	reverse transcriptase (RT)
+T12	GENE 325 327	RT
+T13	GENE 330 333	tat
+T14	GENE 339 347	envelope
+T15	GENE 339 353	envelope (Env)
+T16	GENE 339 368	envelope (Env) coding regions
+T17	GENE 349 352	Env

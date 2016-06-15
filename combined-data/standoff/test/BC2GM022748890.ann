@@ -1,0 +1,16 @@
+T1	GENE 134 139	v-myc
+T2	GENE 182 191	delta gag
+T3	GENE 197 228	partial retroviral core protein
+T4	GENE 197 233	partial retroviral core protein gene
+T5	GENE 205 220	retroviral core
+T6	GENE 205 228	retroviral core protein
+T7	GENE 205 233	retroviral core protein gene
+T8	GENE 216 220	core
+T9	GENE 216 228	core protein
+T10	GENE 240 245	v-mht
+T11	GENE 250 255	v-myc
+T12	GENE 41 66	hybrid gene delta gag-mht
+T13	GENE 48 66	gene delta gag-mht
+T14	GENE 53 62	delta gag
+T15	GENE 53 66	delta gag-mht
+T16	GENE 63 66	mht

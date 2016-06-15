@@ -1,0 +1,1 @@
+Specifically, by oligonucleotide-directed site-specific mutagenesis, we demonstrate that of 10 cysteine residues in the ORF4 polypeptide, only C-421 and C-426 are essential for transactivator function and suggest that these cysteine residues may participate in critical protein-protein interactions rather than protein-nucleic acid interactions to mediate ORF4 inducibility.

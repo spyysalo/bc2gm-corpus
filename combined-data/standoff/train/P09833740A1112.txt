@@ -1,0 +1,1 @@
+Pyrrolidine dithiocarbamate, a potent transcriptional inhibitor of the viral LTR, abrogated the cytokine responses in both U1 and ACH-2 cells, suggesting a common TNF-alpha-mediated transcriptional mechanism in these cell types despite their different modes of provirus latency.

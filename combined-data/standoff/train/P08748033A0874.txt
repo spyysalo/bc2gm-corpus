@@ -1,0 +1,1 @@
+Furthermore, cpxA* mutations suppress the toxicity conferred by the LamB-LacZ hybrid protein, which exerts its effects in the cytoplasm, sequestered from DegP.

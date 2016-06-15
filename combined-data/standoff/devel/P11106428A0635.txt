@@ -1,0 +1,1 @@
+Toward this end, we prepared synthetic proteins with either the catalytic domain of FAP-1 (C-terminal 399 amino acids) or its inactive form (Cys2408-->Ser) fused to glutathione-S-transferase (GST).

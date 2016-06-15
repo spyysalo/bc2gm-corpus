@@ -1,0 +1,1 @@
+In infected mammalian cells, the ARV G and GNS genes are transcribed primarily as a polycistronic mRNA which appears to extend from the consensus sequence (AACAG) at the start of the G gene to the next recognized polyadenylation signal (CATG[A]7) located 697 nucleotides downstream of the GNS protein termination codon.

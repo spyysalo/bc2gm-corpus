@@ -1,0 +1,1 @@
+An in vitro Raf-1 kinase assay, however, failed to detect LPS-induced Raf-1 kinase activity in RAW 264.7 cells, suggesting that in RAW 264.7 cells, Raf-1 kinase is not an activating component of the LPS signaling pathway regulating MAPK activity or sIL-1Ra promoter activity.

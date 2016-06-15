@@ -1,0 +1,1 @@
+To determine which region of SulA is essential for the inhibition of cell division, we constructed a series of N-terminal and C-terminal deletions of SulA and a series of alanine substitution mutants.

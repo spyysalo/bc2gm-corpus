@@ -1,0 +1,19 @@
+T1	GENE 140 143	CH3
+T2	GENE 140 150	CH3 domain
+T3	GENE 152 161	wH22xeGFP
+T4	GENE 15 24	wH22xeGFP
+T5	GENE 208 210	Fc
+T6	GENE 268 271	Fab
+T7	GENE 300 309	FcgammaRI
+T8	GENE 42 73	entire humanized anti-FcgammaRI
+T9	GENE 42 77	entire humanized anti-FcgammaRI mAb
+T10	GENE 42 81	entire humanized anti-FcgammaRI mAb H22
+T11	GENE 49 73	humanized anti-FcgammaRI
+T12	GENE 49 77	humanized anti-FcgammaRI mAb
+T13	GENE 49 81	humanized anti-FcgammaRI mAb H22
+T14	GENE 59 73	anti-FcgammaRI
+T15	GENE 59 77	anti-FcgammaRI mAb
+T16	GENE 59 81	anti-FcgammaRI mAb H22
+T17	GENE 74 81	mAb H22
+T18	GENE 78 81	H22
+T19	GENE 87 91	eGFP

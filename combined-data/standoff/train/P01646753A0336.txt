@@ -1,0 +1,1 @@
+The reason that nitrous oxide does not produce hydroxyl radicals readily might be that the one-electron reduction proceeds through an N2O- intermediate which is energetically very unfavourable: EO (N2O/N2O-) = -1.1 V.

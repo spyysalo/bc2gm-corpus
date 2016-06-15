@@ -1,0 +1,15 @@
+T1	GENE 24 29	Ume3p
+T2	GENE 24 36	Ume3p/Srb11p
+T3	GENE 30 36	Srb11p
+T4	GENE 4 23	yeast C-type cyclin
+T5	GENE 4 29	yeast C-type cyclin Ume3p
+T6	GENE 4 35	yeast C-type cyclin Ume3p/Srb11
+T7	GENE 45 68	cyclin-dependent kinase
+T8	GENE 45 74	cyclin-dependent kinase (Cdk)
+T9	GENE 45 80	cyclin-dependent kinase (Cdk) Ume5p
+T10	GENE 69 80	(Cdk) Ume5p
+T11	GENE 70 73	Cdk
+T12	GENE 75 80	Ume5p
+T13	GENE 10 23	C-type cyclin
+T14	GENE 10 29	C-type cyclin Ume3p
+T15	GENE 10 36	C-type cyclin Ume3p/Srb11p

@@ -1,0 +1,1 @@
+The JS78 mutation changes Gln243 in gp0.7 to an amber codon, which explains the production of the truncated, 30-kDa gp0.7-related polypeptide, and implicates the 11-kDa C-terminal domain in host transcription shut-off.

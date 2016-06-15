@@ -1,0 +1,1 @@
+The deduced amino acid sequence of destrin is 165 residues long and is very similar (71% identical) to that of cofilin, a widely distributed, pH-sensitive actin-modulating protein.

@@ -1,0 +1,11 @@
+T1	GENE 30 37	rat TnI
+T2	GENE 30 41	rat TnI-CAT
+T3	GENE 30 48	rat TnI-CAT fusion
+T4	GENE 30 53	rat TnI-CAT fusion gene
+T5	GENE 34 37	TnI
+T6	GENE 34 41	TnI-CAT
+T7	GENE 34 48	TnI-CAT fusion
+T8	GENE 34 53	TnI-CAT fusion gene
+T9	GENE 38 41	CAT
+T10	GENE 38 48	CAT fusion
+T11	GENE 38 53	CAT fusion gene

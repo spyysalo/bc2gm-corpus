@@ -1,0 +1,1 @@
+Control oligomers of scrambled sequence but identical base composition were ineffective, and no TFO-induced recombination was seen in a control LTK(-) cell line carrying an otherwise identical dual TK gene construct lacking the 30-bp polypurine target site.

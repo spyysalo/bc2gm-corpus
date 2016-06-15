@@ -1,0 +1,1 @@
+By using space-discrete/continuous metapopulation dynamic models and computer simulations, we show that there can be two principally different regimes of metapopulation dynamics.

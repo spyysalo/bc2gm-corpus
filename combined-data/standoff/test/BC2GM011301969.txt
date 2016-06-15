@@ -1,0 +1,1 @@
+Here we report the cloning, by either peptide sequencing or by sequence similarity to the human cDNAs, of the S. cerevisiae genes RFC1, RFC2, RFC3, RFC4, and RFC5.

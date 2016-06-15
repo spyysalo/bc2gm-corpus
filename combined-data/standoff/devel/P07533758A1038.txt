@@ -1,0 +1,1 @@
+The amino acid sequences of the predicted RfbA and RfbB homologs showed identities of 75.7% (87.9% total similarity) and 78.0% (86.5% total similarity), respectively.

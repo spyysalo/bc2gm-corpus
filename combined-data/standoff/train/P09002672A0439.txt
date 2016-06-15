@@ -1,0 +1,1 @@
+In vitro translation of the mTRF1 cDNA resulted in a 56 kDa protein that binds to TTAGGG repeat arrays. mTRF1 displayed the same sequence specificity as hTRF1, preferring arrays of TTAGGG repeats as a binding substrate over TTAGGC and TTGGGG repeats.

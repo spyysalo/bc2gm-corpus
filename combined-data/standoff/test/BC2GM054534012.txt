@@ -1,0 +1,1 @@
+Because c-myb encodes a transcriptional activator that functions via DNA binding, it is likely that c-myb exerts its biological activity by regulating the transcription of genes required for DNA synthesis and cell cycle progression.

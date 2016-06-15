@@ -1,0 +1,1 @@
+Furthermore, deletion of two potential Ste11 recognition sites in the fus1 promoter region abolished transcription, and expression could be restored when we inserted a different Ste11 site from the mat1-P promoter.

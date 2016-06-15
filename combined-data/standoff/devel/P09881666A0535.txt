@@ -1,0 +1,1 @@
+A motif (TGATGTCA) which matches a CREB site and is similar to an AP-1 site is embedded within ER2.

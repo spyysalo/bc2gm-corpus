@@ -1,0 +1,1 @@
+With constructs containing the binding site of one gene fused to the promoter of the other, we demonstrated that the positional requirements are a function of the specific binding site, not the promoter.

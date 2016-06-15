@@ -1,0 +1,15 @@
+T1	GENE 131 160	ecotropic retrovirus receptor
+T2	GENE 131 204	ecotropic retrovirus receptor/cationic amino acid transporter (ecoR/CAT1)
+T3	GENE 141 192	retrovirus receptor/cationic amino acid transporter
+T4	GENE 141 204	retrovirus receptor/cationic amino acid transporter (ecoR/CAT1)
+T5	GENE 161 192	cationic amino acid transporter
+T6	GENE 194 198	ecoR
+T7	GENE 194 203	ecoR/CAT1
+T8	GENE 199 203	CAT1
+T9	GENE 238 241	Tea
+T10	GENE 43 77	T lymphocyte early-activation gene
+T11	GENE 43 83	T lymphocyte early-activation gene (Tea)
+T12	GENE 79 82	Tea
+T13	GENE 117 160	dual-function ecotropic retrovirus receptor
+T14	GENE 117 192	dual-function ecotropic retrovirus receptor/cationic amino acid transporter
+T15	GENE 117 204	dual-function ecotropic retrovirus receptor/cationic amino acid transporter (ecoR/CAT1)

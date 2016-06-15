@@ -1,0 +1,1 @@
+JPEG 53, resulting in a compression ratio of 1:21, does not compromise the diagnostic performance in general.

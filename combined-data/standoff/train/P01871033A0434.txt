@@ -1,0 +1,1 @@
+Tests showed that an overall impression of the force applied could be obtained from a laboratory simulation, but that clearing cement and testing cement were not modelled by this method.

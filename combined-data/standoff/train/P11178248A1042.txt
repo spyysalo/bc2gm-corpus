@@ -1,0 +1,1 @@
+Finally, we compared the differential screening techniques in terms of sensitivity, efficiency and occurrence of false positives.

@@ -1,0 +1,1 @@
+Furthermore, CL100 suppresses the [val12] ras-induced activation of MAP kinase in a cell-free system from Xenopus oocytes.

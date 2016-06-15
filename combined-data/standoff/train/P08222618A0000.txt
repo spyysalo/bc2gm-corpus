@@ -1,0 +1,1 @@
+Two BASIC computer programs using logit transformation for the analysis of S-shaped curves are presented.

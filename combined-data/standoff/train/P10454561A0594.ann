@@ -1,0 +1,12 @@
+T1	GENE 128 155	tumor necrosis factor alpha
+T2	GENE 164 176	IkappaBalpha
+T3	GENE 164 181	IkappaBalpha gene
+T4	GENE 210 219	NF-kappaB
+T5	GENE 292 296	RelA
+T6	GENE 292 301	RelA(p65)
+T7	GENE 297 300	p65
+T8	GENE 305 320	TD-IkappaBalpha
+T9	GENE 56 71	TD-IkappaBalpha
+T10	GENE 80 124	phorbol myristate acetate-phytohemagglutinin
+T11	GENE 98 124	acetate-phytohemagglutinin
+T12	GENE 106 124	phytohemagglutinin

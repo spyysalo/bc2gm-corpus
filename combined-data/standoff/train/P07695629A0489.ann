@@ -1,0 +1,7 @@
+T1	GENE 16 20	mck1
+T2	GENE 16 25	mck1 mds1
+T3	GENE 16 30	mck1 mds1 mrk1
+T4	GENE 16 48	mck1 mds1 mrk1 triple disruptant
+T5	GENE 21 25	mds1
+T6	GENE 21 30	mds1 mrk1
+T7	GENE 26 30	mrk1

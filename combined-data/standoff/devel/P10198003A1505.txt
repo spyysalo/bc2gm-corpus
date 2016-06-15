@@ -1,0 +1,1 @@
+Analysis of lacZ transcriptional fusions shows that the KdgR-binding sites negatively affect the expression of rsmB.

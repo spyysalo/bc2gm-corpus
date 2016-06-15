@@ -1,0 +1,9 @@
+T1	GENE 0 17	RET/PTC oncogenes
+T2	GENE 0 3	RET
+T3	GENE 0 7	RET/PTC
+T4	GENE 133 142	proto-RET
+T5	GENE 164 193	receptor-type tyrosine kinase
+T6	GENE 164 198	receptor-type tyrosine kinase (TK)
+T7	GENE 195 197	TK
+T8	GENE 4 17	PTC oncogenes
+T9	GENE 4 7	PTC

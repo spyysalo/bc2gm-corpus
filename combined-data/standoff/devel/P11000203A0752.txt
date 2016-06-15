@@ -1,0 +1,1 @@
+While mutations in K-Rev that inactivate any one of these properties also blocked K-Rev-dependent nuclear RNA export, several K-Rev mutants were comparable to wild type when assayed for any of these individual activities yet nevertheless defective for RNA export.

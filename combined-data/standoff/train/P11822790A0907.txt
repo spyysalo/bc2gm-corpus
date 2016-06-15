@@ -1,0 +1,1 @@
+For instance, a total SIP score of an individual patient of 28.3% (which is taken as an example, being the mean score in the study population) should decrease by at least 9.26% or approximately 13 items, before any improvement beyond reproducibility noise can be detected.

@@ -1,0 +1,1 @@
+SCAN boxes are found in eight other genes in the GenBank database, five of which are also in the Kruppel family of zinc finger proteins lacking KRAB A and B domains and thereby define a new subclass of zinc finger proteins.

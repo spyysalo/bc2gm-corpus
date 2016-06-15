@@ -1,0 +1,1 @@
+A total of 194 STSs map to this interval of 3 Mb, giving an average marker resolution of approximately one per 15 kb.

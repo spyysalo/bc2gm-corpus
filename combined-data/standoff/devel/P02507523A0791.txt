@@ -1,0 +1,1 @@
+The ORF1 product was required for competence, while ORF2, which was cotranscribed with ORF1 and encoded a predicted protein of 126 amino acids, was not.

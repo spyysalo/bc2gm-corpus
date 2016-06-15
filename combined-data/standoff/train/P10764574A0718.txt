@@ -1,0 +1,1 @@
+Application of the method to a representative set of 50 known genes from Arabidopsis thaliana showed significant improvement in prediction accuracy compared to previous spliced alignment methods.

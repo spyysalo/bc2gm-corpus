@@ -1,0 +1,1 @@
+In order to delineate structural motifs regulating substrate affinity and recognition for the human dopamine transporter (DAT), we assessed [3H]dopamine uptake kinetics and [3H]CFT binding characteristics of COS-7 cells transiently expressing mutant DATs in which the COOH terminus was truncated or substituted.

@@ -1,0 +1,1 @@
+Using a conditional-lethal mutant allele of SUP45 (sup45-2) and a combination of in vivo and in vitro approaches, we demonstrate that the product of the SUP45 gene (Sup45p or eRF1) is a factor required for translation termination in yeast.

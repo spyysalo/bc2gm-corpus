@@ -1,0 +1,4 @@
+T1	GENE 123 126	E10
+T2	GENE 123 135	E10 fragment
+T3	GENE 113 126	wild-type E10
+T4	GENE 113 135	wild-type E10 fragment

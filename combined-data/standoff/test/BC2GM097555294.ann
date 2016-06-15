@@ -1,0 +1,12 @@
+T1	GENE 193 197	AP-1
+T2	GENE 193 214	AP-1-thymidine kinase
+T3	GENE 193 218	AP-1-thymidine kinase CAT
+T4	GENE 193 227	AP-1-thymidine kinase CAT reporter
+T5	GENE 198 214	thymidine kinase
+T6	GENE 215 218	CAT
+T7	GENE 215 227	CAT reporter
+T8	GENE 215 237	CAT reporter construct
+T9	GENE 28 32	MEKK
+T10	GENE 57 61	JNK1
+T11	GENE 115 120	MMP-9
+T12	GENE 115 129	MMP-9 promoter

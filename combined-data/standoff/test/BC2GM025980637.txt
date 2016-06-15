@@ -1,0 +1,1 @@
+Such saturation often occurs for several recording sweeps after large amplitude signals such as eye blinks are rejected.

@@ -1,0 +1,1 @@
+Analysis of the gag and rev proteins in the transfected cells demonstrated that these proteins were not detectable in cells transfected with the tat mutants but could be readily detected when the mutations were complemented in trans with a tat expression vector.

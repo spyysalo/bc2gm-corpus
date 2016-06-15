@@ -1,0 +1,1 @@
+From sequence alignments with phylogenetically related viruses, including tymoviruses, we predicted that p223 contained a papain-like proteinase domain with a putative catalytic cysteine994 and histidine1075.

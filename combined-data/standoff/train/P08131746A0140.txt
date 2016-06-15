@@ -1,0 +1,1 @@
+MEK itself is activated via serine phosphorylation by upstream activator kinases, including c-raf, mos and MEK kinase.

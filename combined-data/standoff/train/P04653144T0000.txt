@@ -1,0 +1,1 @@
+General formulae for estimating heritability in a population with related parents.

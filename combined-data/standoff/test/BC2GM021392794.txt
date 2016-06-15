@@ -1,0 +1,1 @@
+Our data define Ile(16), Val(18), Val(31), and Ile(33) as crucial for protein S binding, with secondary effects from Leu(38) and Val(39).

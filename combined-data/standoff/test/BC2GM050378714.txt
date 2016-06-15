@@ -1,0 +1,1 @@
+This article expands the analysis of a numeric example included in the SAS GLM procedure to cover several crucial statistical aspects relevant to ANCOVA, and to highlight the meaning of the statistical results obtained.

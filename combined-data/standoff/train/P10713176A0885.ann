@@ -1,0 +1,14 @@
+T1	GENE 0 12	D-cyclin-cdk
+T2	GENE 0 8	D-cyclin
+T3	GENE 117 121	cdk4
+T4	GENE 117 154	cdk4- and cdk6-specific inhibitor p16
+T5	GENE 117 161	cdk4- and cdk6-specific inhibitor p16(INK4A)
+T6	GENE 127 131	cdk6
+T7	GENE 127 154	cdk6-specific inhibitor p16
+T8	GENE 127 161	cdk6-specific inhibitor p16(INK4A)
+T9	GENE 151 154	p16
+T10	GENE 151 161	p16(INK4A)
+T11	GENE 155 160	INK4A
+T12	GENE 38 40	Rb
+T13	GENE 60 65	v-Jun
+T14	GENE 9 12	cdk

@@ -1,0 +1,1 @@
+DNase I footprinting and electrophoretic mobility shift assays indicate that PBP binds to the half-site of each palindrome with the core recognition sequence TGGGAG.

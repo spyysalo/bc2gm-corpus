@@ -1,0 +1,1 @@
+For EPV 3, 10, or 40, the bias exceeded 25% for 7, 3, and 1 in the 8-predictor model respectively, when a conventional selection criterion was used (alpha = 0.05).

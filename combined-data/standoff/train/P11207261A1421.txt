@@ -1,0 +1,1 @@
+Functional analysis of various PTP-deficient DT40 B cell lines stably expressing wild-type chimeric Fc gamma RIIB1-PECAM-1 receptor indicated that cytoplasmic Src homology 2-domain-containing phosphatases, SHP-1 and SHP-2, were both necessary and sufficient to deliver inhibitory negative regulation upon coligation of BCR complex with inhibitory receptor.

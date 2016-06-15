@@ -1,0 +1,1 @@
+CYC2 encodes a 24-kDa protein that has sequence identity to the Neurospora crassa PREG1 and the S. cerevisiae PHO80 cyclin.

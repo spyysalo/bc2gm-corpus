@@ -1,0 +1,1 @@
+Because of the operon structure of this organism, traditional methods such as insertional mutagenesis run the risk of introducing polar effects on downstream genes or creating secondary mutations elsewhere in the genome.

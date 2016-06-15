@@ -1,0 +1,1 @@
+The enzyme displays optimal activity at about 0.5 mM pantoate (k(cat) 0.63 s(-1)) and at pH 7.8.

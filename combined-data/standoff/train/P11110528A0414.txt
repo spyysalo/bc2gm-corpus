@@ -1,0 +1,1 @@
+A prospectively gated 2D axial sequence with velocity encoding in the craniocaudal direction in the cervical region was set at a velocity of +/- 10 cm/s.

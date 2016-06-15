@@ -1,0 +1,1 @@
+Although p48 gene induction is dependent on STAT1 and JAK1, activated STAT1 does not bind to GATE.

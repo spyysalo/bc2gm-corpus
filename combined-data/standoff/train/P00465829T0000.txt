@@ -1,0 +1,1 @@
+Nernst--Planck analog equations and stationary state membrane electric potentials.

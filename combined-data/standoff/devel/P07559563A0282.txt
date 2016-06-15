@@ -1,0 +1,1 @@
+A mutant (residues 1-332) showed complete Ca2+/CaM-dependent activity.

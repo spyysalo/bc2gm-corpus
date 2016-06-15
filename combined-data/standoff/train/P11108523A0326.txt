@@ -1,0 +1,1 @@
+Video images of the nostrils were captured and then analyzed for area, perimeter, centroid, principal axis, moments about the major and minor axes (I11, I22), anisometry, bulkiness, lateral offset, internostril angle, and rotational angle.

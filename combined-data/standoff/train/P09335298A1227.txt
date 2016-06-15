@@ -1,0 +1,1 @@
+Furthermore, the insertion of the ColE1 cer site into the RK2 plasmid deleted for the par region failed to stabilize the plasmid in the MC1061K strain, indicating that the multimer resolution activity encoded by parCBA is not by itself responsible for the stabilization activity observed for this operon.

@@ -1,0 +1,14 @@
+T1	GENE 141 145	top2
+T2	GENE 141 145	top2
+T3	GENE 217 221	top2
+T4	GENE 217 231	top2 ts mutant
+T5	GENE 332 342	delta top1
+T6	GENE 332 347	delta top1 top2
+T7	GENE 332 364	delta top1 top2 ts double mutant
+T8	GENE 343 347	top2
+T9	GENE 343 364	top2 ts double mutant
+T10	GENE 67 123	delta top1 top2 temperature-sensitive (ts) double mutant
+T11	GENE 67 77	delta top1
+T12	GENE 67 82	delta top1 top2
+T13	GENE 78 123	top2 temperature-sensitive (ts) double mutant
+T14	GENE 78 82	top2

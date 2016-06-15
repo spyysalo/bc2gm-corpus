@@ -1,0 +1,18 @@
+T1	GENE 170 184	wild-type rpoD
+T2	GENE 170 200	wild-type rpoD coding sequence
+T3	GENE 180 184	rpoD
+T4	GENE 180 200	rpoD coding sequence
+T5	GENE 18 22	crsA
+T6	GENE 18 32	crsA mutations
+T7	GENE 215 236	major sigma 43 factor
+T8	GENE 215 266	major sigma 43 factor of B. subtilis RNA polymerase
+T9	GENE 221 229	sigma 43
+T10	GENE 221 236	sigma 43 factor
+T11	GENE 221 266	sigma 43 factor of B. subtilis RNA polymerase
+T12	GENE 240 266	B. subtilis RNA polymerase
+T13	GENE 252 266	RNA polymerase
+T14	GENE 34 39	crsA1
+T15	GENE 41 46	crsA4
+T16	GENE 52 58	crsA47
+T17	GENE 6 22	chromosomal crsA
+T18	GENE 6 32	chromosomal crsA mutations

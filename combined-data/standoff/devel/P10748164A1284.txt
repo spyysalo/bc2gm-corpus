@@ -1,0 +1,1 @@
+Scanning mutations throughout the AC element interfered with induction but allowed us to define five overlapping sites for regulatory factors in AC and to design probes binding just one or two factors.

@@ -1,0 +1,1 @@
+The deduced amino acid sequence of the mouse HO-1 gene is identical to that of p32, initially identified as a stress-induced protein in mouse BALBc/3T3 cells.

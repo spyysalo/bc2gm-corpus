@@ -1,0 +1,1 @@
+A cDNA clone corresponding to the putative GA 20-oxidase genomic sequence was constructed with the reverse transcription-PCR method, and the identity of the cDNA clone was confirmed by analyzing the capability of the fusion protein expressed in Escherichia coli to convert GA53 to GA44 and GA19 to GA20.

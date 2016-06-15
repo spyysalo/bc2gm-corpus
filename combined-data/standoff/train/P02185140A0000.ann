@@ -1,0 +1,10 @@
+T1	GENE 234 239	pADC1
+T2	GENE 241 245	pGPD
+T3	GENE 247 252	pPHO5
+T4	GENE 29 33	14DM
+T5	GENE 29 38	14DM gene
+T6	GENE 4 33	Saccharomyces cerevisiae 14DM
+T7	GENE 4 38	Saccharomyces cerevisiae 14DM gene
+T8	GENE 49 96	cytochrome P450 lanosterol 14 alpha-demethylase
+T9	GENE 49 103	cytochrome P450 lanosterol 14 alpha-demethylase (14DM)
+T10	GENE 98 102	14DM

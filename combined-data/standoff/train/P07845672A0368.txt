@@ -1,0 +1,1 @@
+Comparison of human and murine blk sequences indicated that they share 86% amino acid identity, the most conserved region being the catalytic domain (93% identity).

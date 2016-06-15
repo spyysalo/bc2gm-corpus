@@ -1,0 +1,1 @@
+The models were tested by studying their response to disturbances of the afferent signal from the bladder.

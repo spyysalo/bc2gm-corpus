@@ -1,0 +1,1 @@
+80 v-ets-encoded amino-acids located immediately after the v-myb/v-ets junction are not found in P54/56c-ets, the translation product of the c-ets proto-oncogene, nor in a set of cellular proteins of 64, 62, and 60 kDa related to but distinct from P54/56c-ets.

@@ -1,0 +1,1 @@
+However, LXRalpha inhibited binding of PPARalpha/RXRalpha heterodimers to PPREs, and coexpression of LXRalpha in mammalian cells antagonized peroxisome proliferator signaling mediated by PPARalpha/RXRalpha in vivo.

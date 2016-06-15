@@ -1,0 +1,1 @@
+To study the mechanisms as well as magnitude of the transmembrane transfer of bacterial products from the dialysate, we developed a computerized in vitro dialysis model which provides continuous pressure recording from the arterial, venous, dialysate inflow and outflow ports.

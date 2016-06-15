@@ -1,0 +1,8 @@
+T1	GENE 31 48	1.8-kilobase AccI
+T2	GENE 31 54	1.8-kilobase AccI-EcoRI
+T3	GENE 31 75	1.8-kilobase AccI-EcoRI restriction fragment
+T4	GENE 44 48	AccI
+T5	GENE 44 54	AccI-EcoRI
+T6	GENE 44 75	AccI-EcoRI restriction fragment
+T7	GENE 49 54	EcoRI
+T8	GENE 49 75	EcoRI restriction fragment

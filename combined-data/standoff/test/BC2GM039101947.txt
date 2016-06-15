@@ -1,0 +1,1 @@
+Here we show that the sck1 gene, cloned as a high copy number suppressor of a mutation in git3, is able to suppress the defects conferred by a mutation in any of these git genes.

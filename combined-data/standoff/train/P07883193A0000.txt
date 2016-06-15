@@ -1,0 +1,1 @@
+A DNA fragment encoding the DNA-binding domain (amino acids 1-60) of the Escherichia coli fru transcriptional regulator was cloned into the pGEX-KT vector and expressed in frame with the fused gene encoding glutathione S-transferase.

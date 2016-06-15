@@ -1,0 +1,13 @@
+T1	GENE 23 26	EcR
+T2	GENE 23 30	EcR/USP
+T3	GENE 23 42	EcR/USP heterodimer
+T4	GENE 23 49	EcR/USP heterodimer target
+T5	GENE 23 54	EcR/USP heterodimer target site
+T6	GENE 27 30	USP
+T7	GENE 27 42	USP heterodimer
+T8	GENE 27 49	USP heterodimer target
+T9	GENE 27 54	USP heterodimer target site
+T10	GENE 100 116	Drosophila Lsp-2
+T11	GENE 100 121	Drosophila Lsp-2 gene
+T12	GENE 111 116	Lsp-2
+T13	GENE 111 121	Lsp-2 gene

@@ -1,0 +1,1 @@
+An alternative approach to random integration of large DNA fragments into plants is to utilize one of several site-specific recombination (SSR) systems, such as Cre/ lox.

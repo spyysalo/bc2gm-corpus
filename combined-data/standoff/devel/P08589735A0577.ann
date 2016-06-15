@@ -1,0 +1,20 @@
+T1	GENE 119 123	Adh1
+T2	GENE 126 141	maize ubiquitin
+T3	GENE 126 148	maize ubiquitin (Ubi1)
+T4	GENE 132 141	ubiquitin
+T5	GENE 132 148	ubiquitin (Ubi1)
+T6	GENE 143 147	Ubi1
+T7	GENE 150 160	rice actin
+T8	GENE 150 167	rice actin (Act1)
+T9	GENE 155 160	actin
+T10	GENE 155 167	actin (Act1)
+T11	GENE 162 166	Act1
+T12	GENE 172 180	CaMV 35S
+T13	GENE 172 186	CaMV 35S genes
+T14	GENE 177 180	35S
+T15	GENE 177 186	35S genes
+T16	GENE 21 24	GUS
+T17	GENE 84 117	Arabidopsis alcohol dehydrogenase
+T18	GENE 84 124	Arabidopsis alcohol dehydrogenase (Adh1)
+T19	GENE 96 117	alcohol dehydrogenase
+T20	GENE 96 124	alcohol dehydrogenase (Adh1)

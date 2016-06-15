@@ -1,0 +1,1 @@
+The Genescan program predicted an open reading frame of a novel, intron-less gene adjacent to the B236 spot that encodes a putative 493-amino acid protein containing the SNAG repressor motif in the NH2-terminal region and five C2H2-type zinc finger motifs in the COOH-terminal half.

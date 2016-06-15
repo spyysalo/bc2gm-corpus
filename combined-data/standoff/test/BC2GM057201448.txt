@@ -1,0 +1,1 @@
+Recombinant caspases are typically produced in Escherichia coli expression systems with the attendant problems of solubilization, re-folding and activation of the protease.

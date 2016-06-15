@@ -1,0 +1,11 @@
+T1	GENE 160 183	coagulation factors VII
+T2	GENE 160 215	coagulation factors VII (F.VII), IX (F.IX), and X (F.X)
+T3	GENE 185 190	F.VII
+T4	GENE 197 201	F.IX
+T5	GENE 211 214	F.X
+T6	GENE 23 56	coagulation factor VIII:coagulant
+T7	GENE 23 67	coagulation factor VIII:coagulant (F.VIII:C)
+T8	GENE 58 66	F.VIII:C
+T9	GENE 72 93	C1-esterase inhibitor
+T10	GENE 72 102	C1-esterase inhibitor (C1-INH)
+T11	GENE 95 101	C1-INH

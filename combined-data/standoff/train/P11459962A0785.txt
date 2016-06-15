@@ -1,0 +1,1 @@
+Altogether, we confirm that all genes of the Rad52 recombinational repair pathway are required for the survival of rad27 Delta strains at both permissive (23 degrees C) and semipermissive (30 degrees C) temperatures for growth.

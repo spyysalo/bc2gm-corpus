@@ -1,0 +1,1 @@
+The system consists of a microcomputer and six laboratory analyzers: a blood gas analyzer, a flame photometer, a plasma osmotic pressure meter, a chloride ion titrator, a blood sugar analyzer, and a hemoglobin concentration and saturation meter.

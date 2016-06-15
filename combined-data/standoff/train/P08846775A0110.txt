@@ -1,0 +1,1 @@
+In the absence of Swi4 and Swi6 cell viability is lost, but can be regained by ectopic expression of the G1 cyclin encoding genes, CLN1 or CLN2.

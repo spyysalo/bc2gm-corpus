@@ -1,0 +1,1 @@
+These mutations create stop codons in exon 7 and 8, respectively, and probably result in truncated proteins lacking HLH-Zip or Zip structure.

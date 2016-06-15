@@ -1,0 +1,1 @@
+A subset of these DMP1 recognition sequences containing a GGA trinucleotide core can also function as Ets-responsive elements.

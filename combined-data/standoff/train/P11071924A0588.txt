@@ -1,0 +1,1 @@
+A protein lacking the SH2 and RING finger domains has no activity, but a chimeric protein with the SH2 and RING finger domains of SLI-1 replaced by the equivalent domains of c-Cbl has activity.

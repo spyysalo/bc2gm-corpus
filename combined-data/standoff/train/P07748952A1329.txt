@@ -1,0 +1,1 @@
+These results indicate that mutL, miaA, and hfq expression could be regulated by multiple mechanisms, including degree of cotranscription from upstream genes, modulation of internal promoter strength, and by RNase E activity.

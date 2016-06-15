@@ -1,0 +1,1 @@
+Plasmids were constructed with the mouse promoter region linked to the reporter gene chloramphenicol acetyltransferase (CAT), and transiently and stably transfected in the INS-1 cells.

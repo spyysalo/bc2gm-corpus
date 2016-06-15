@@ -1,0 +1,1 @@
+Although RAD17, RAD24 and MEC3 are not required for cell cycle arrest when S phase is inhibited by hydroxyurea (HU), they do contribute to the viability of yeast cells grown in the presence of HU, possibly because they are required for the repair of HU-induced DNA damage.

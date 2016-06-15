@@ -1,0 +1,1 @@
+Mutations at the suf12 locus were isolated in Saccharomyces cerevisiae as extragenic suppressors of +1 frameshift mutations in glycine (GGX) and proline (CCX) codons, as well as UGA and UAG nonsense mutations.

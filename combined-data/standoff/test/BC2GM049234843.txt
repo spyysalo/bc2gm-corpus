@@ -1,0 +1,1 @@
+We constructed a stable, doubly transfected cell line (TIS-10) carrying a chromosomally integrated ptetO7-CMV-L reporter construct and expressing the TetR-KRAB protein.

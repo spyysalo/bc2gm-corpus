@@ -1,0 +1,1 @@
+Nevertheless, they are functionally distinct in that FcalphaRI binds human IgA (hIgA) but not bovine IgG2 (bIgG2), whereas bFcgamma2R binds bIgG2 but not hIgA.

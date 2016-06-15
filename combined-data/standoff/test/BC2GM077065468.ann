@@ -1,0 +1,10 @@
+T1	GENE 29 46	yeast Phe-tRNAPhe
+T2	GENE 29 62	yeast Phe-tRNAPhe ternary complex
+T3	GENE 35 46	Phe-tRNAPhe
+T4	GENE 35 62	Phe-tRNAPhe ternary complex
+T5	GENE 68 97	Thermus aquaticus EF-Tu-GDPNP
+T6	GENE 68 106	Thermus aquaticus EF-Tu-GDPNP (Phe-TC)
+T7	GENE 86 91	EF-Tu
+T8	GENE 86 97	EF-Tu-GDPNP
+T9	GENE 86 106	EF-Tu-GDPNP (Phe-TC)
+T10	GENE 99 105	Phe-TC

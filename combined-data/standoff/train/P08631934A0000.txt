@@ -1,0 +1,1 @@
+The members of the Myb family of transcription factors are defined by homology in the DNA-binding domain; all bind the Myb-binding site (MBS) sequence (YG(A/G)C(A/C/G)GTT(G/A)).

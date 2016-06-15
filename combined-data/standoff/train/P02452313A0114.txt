@@ -1,0 +1,1 @@
+ASL-8123 demonstrated weak competitive beta-adrenoreceptor blocking activity in isolated guinea pig right atria with a pA2 of 3.73 +/- 0.07; no agonist-like activity was observed in this tissue at concentrations of ASL-8123 from 3 X 10(-5) to 1 X 10(-2) M.

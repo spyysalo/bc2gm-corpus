@@ -1,0 +1,1 @@
+In the past decade, there have been enormous advances in the use of Bayesian methodology for analysis of epidemiologic data, and there are now many practical advantages to the Bayesian approach.

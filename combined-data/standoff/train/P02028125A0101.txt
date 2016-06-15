@@ -1,0 +1,1 @@
+The prevalence of opportunistic infection among surviving AIDS patients and the probability of being in tumour response following cancer therapy conditional on being alive are two examples of such functions.

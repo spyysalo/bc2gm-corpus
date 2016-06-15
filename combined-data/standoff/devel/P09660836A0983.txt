@@ -1,0 +1,1 @@
+Quantitative evaluation of the steady state kinetics of MEK inhibition by these compounds reveals that U0126 has approximately 100-fold higher affinity for deltaN3-S218E/S222D MEK than does PD098059.

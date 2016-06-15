@@ -1,0 +1,21 @@
+T1	GENE 185 188	p53
+T2	GENE 219 224	tal-1
+T3	GENE 219 224	tal-1
+T4	GENE 335 340	c-myc
+T5	GENE 362 367	tal-1
+T6	GENE 362 374	tal-1 mutant
+T7	GENE 409 414	tal-1
+T8	GENE 409 414	tal-1
+T9	GENE 506 534	N-terminally truncated tal-1
+T10	GENE 506 542	N-terminally truncated tal-1 variant
+T11	GENE 506 547	N-terminally truncated tal-1 variant (M3)
+T12	GENE 519 534	truncated tal-1
+T13	GENE 519 542	truncated tal-1 variant
+T14	GENE 519 547	truncated tal-1 variant (M3)
+T15	GENE 529 534	tal-1
+T16	GENE 529 542	tal-1 variant
+T17	GENE 529 547	tal-1 variant (M3)
+T18	GENE 544 546	M3
+T19	GENE 56 59	p53
+T20	GENE 89 94	tal-1
+T21	GENE 89 94	tal-1

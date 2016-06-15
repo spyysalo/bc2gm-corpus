@@ -1,0 +1,1 @@
+In view of the presence of SECIS elements in the open reading frames (ORFs) of bacterial selenoproteins, we examine the effects in the type 1 deiodinase of extending the ORF into the SECIS element, and find that this dramatically inhibits SECIS function.

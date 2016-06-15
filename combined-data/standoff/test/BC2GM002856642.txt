@@ -1,0 +1,1 @@
+This mutant also functions in vivo as a trans-acting dominant negative regulator: the transcriptional inducibility of the HIV long terminal repeat (which contains two potential NF-kappa B binding sites) by phorbol ester (PMA) is inhibited when it is co-transfected into CD4+ T cells with the delta SP mutant.

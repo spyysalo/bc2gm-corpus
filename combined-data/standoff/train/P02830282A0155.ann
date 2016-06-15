@@ -1,0 +1,9 @@
+T1	GENE 16 18	A1
+T2	GENE 16 26	A1 protein
+T3	GENE 61 64	UP1
+T4	GENE 61 72	UP1 protein
+T5	GENE 9 18	intact A1
+T6	GENE 9 26	intact A1 protein
+T7	GENE 92 126	Staphylococcus aureus V-8 protease
+T8	GENE 114 126	V-8 protease
+T9	GENE 114 117	V-8

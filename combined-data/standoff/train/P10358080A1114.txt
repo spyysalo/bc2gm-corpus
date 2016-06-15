@@ -1,0 +1,1 @@
+Although linker regions in transcription factors are known to modulate DNA binding specificity, our studies suggest that the human HSF1 linker plays no role in determining HSF1 binding preferences in vivo but is a critical determinant in regulating the HSF1 monomer-trimer equilibrium.

@@ -1,0 +1,1 @@
+The PDE4A-subfamily-specific linker region LR1, which joins UCR1 and UCR2, is encoded by two exons, whereas LR2, which joins UCR2 to the catalytic unit, is encoded by a single exon.

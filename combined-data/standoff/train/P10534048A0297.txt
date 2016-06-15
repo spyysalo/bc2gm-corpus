@@ -1,0 +1,1 @@
+The first algorithm, FOREPROJ, is a fast-forward projection algorithm that allows calculation of the 3-D attenuation correction factors (ACF's) directly from a two-dimensional (2-D) transmission scan, without first reconstructing the attenuation map and then performing a 3-D forward projection.

@@ -1,0 +1,5 @@
+T1	GENE 0 3	IgM
+T2	GENE 23 38	anti B antibody
+T3	GENE 8 18	IgG anti A
+T4	GENE 8 29	IgG anti A and anti B
+T5	GENE 8 38	IgG anti A and anti B antibody

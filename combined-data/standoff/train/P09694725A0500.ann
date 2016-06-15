@@ -1,0 +1,13 @@
+T1	GENE 168 182	human IL-1beta
+T2	GENE 168 191	human IL-1beta promoter
+T3	GENE 174 182	IL-1beta
+T4	GENE 174 191	IL-1beta promoter
+T5	GENE 43 74	LPS-and IL-1-responsive element
+T6	GENE 43 82	LPS-and IL-1-responsive element (LILRE)
+T7	GENE 43 98	LPS-and IL-1-responsive element (LILRE) oligonucleotide
+T8	GENE 75 98	(LILRE) oligonucleotide
+T9	GENE 76 81	LILRE
+T10	GENE 102 118	gamma interferon
+T11	GENE 102 134	gamma interferon activation site
+T12	GENE 102 139	gamma interferon activation site-like
+T13	GENE 102 144	gamma interferon activation site-like site

@@ -1,0 +1,1 @@
+Single substitutions of three highly conserved phenylalanine residues (Phe-15, Phe-17, Phe-27) by alanine and substitution of one histidine (His-29) by glutamine, all located within the putative RNA-binding sites RNP-1 and RNP-2, abolished the nucleic acid-binding activity of CspB.

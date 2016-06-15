@@ -1,0 +1,1 @@
+This fragment contained the C-terminal 47 nucleotides of leuB, encoding 3-isopropylmalate dehydrogenase; asd, encoding aspartate-beta-semialdehyde dehydrogenase (Asd); and orfA, whose product showed similarity to the Asd proteins from Vibrio spp.

@@ -1,0 +1,13 @@
+T1	GENE 0 26	Immunoglobulin light chain
+T2	GENE 0 32	Immunoglobulin light chain (IgL)
+T3	GENE 118 131	variable (VL)
+T4	GENE 128 130	VL
+T5	GENE 136 148	joining (JL)
+T6	GENE 136 153	joining (JL) gene
+T7	GENE 136 162	joining (JL) gene segments
+T8	GENE 144 153	(JL) gene
+T9	GENE 144 162	(JL) gene segments
+T10	GENE 145 147	JL
+T11	GENE 220 222	VL
+T12	GENE 220 229	VL region
+T13	GENE 28 31	IgL

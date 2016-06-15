@@ -1,0 +1,1 @@
+MZF-1 represses CAT reporter gene expression via GAL4 binding sites in the nonhematopoietic cell lines NIH 3T3 and 293.

@@ -1,0 +1,1 @@
+A transparent overlay for assessing amplitude of ECG wave forms.

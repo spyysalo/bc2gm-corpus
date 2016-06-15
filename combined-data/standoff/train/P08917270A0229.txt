@@ -1,0 +1,1 @@
+BACKGROUND: The Bazett-corrected QT (QTc) interval during exercise has been used as a marker for ischemic disease, arrhythmogenic substrate and the long QT syndrome.

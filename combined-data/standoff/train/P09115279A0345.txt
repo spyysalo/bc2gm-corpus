@@ -1,0 +1,1 @@
+Cdc2 co-precipitates with Pch1 in S. pombe cell lysates, although Cdc2 may not be the major catalytic partner of a Pch1 kinase in vivo.

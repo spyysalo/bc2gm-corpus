@@ -1,0 +1,1 @@
+To explore the functional properties of the protein encoded by neu, we created a fusion gene that joins the cytoplasmic domain of neu to the extracellular portion of an immunoglobulin heavy chain.

@@ -1,0 +1,1 @@
+Next, to examine the regulation mechanism of CD44/ERM interaction in vivo, we reexamined the immunoprecipitated CD44/ERM complex from BHK cells and found that it contains Rho-GDP dissociation inhibitor (GDI), a regulator of Rho GTPase.

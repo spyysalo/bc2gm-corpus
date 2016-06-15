@@ -1,0 +1,1 @@
+To define the mechanism responsible for the loss of transcription elongation blockage and resulting c-myc deregulation in Burkitt's lymphoma, we analyzed transcription patterns after transfer of normal and Burkitt's lymphoma c-myc alleles into murine cells and Xenopus oocyte germinal vesicles.

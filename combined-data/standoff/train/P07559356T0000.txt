@@ -1,0 +1,1 @@
+The hypBFCDE operon from Rhizobium leguminosarum biovar viciae is expressed from an Fnr-type promoter that escapes mutagenesis of the fnrN gene.

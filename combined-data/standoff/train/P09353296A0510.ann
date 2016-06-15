@@ -1,0 +1,10 @@
+T1	GENE 123 135	E. coli moaC
+T2	GENE 123 143	E. coli moaC product
+T3	GENE 131 135	moaC
+T4	GENE 131 143	moaC product
+T5	GENE 58 79	Escherichia coli moaA
+T6	GENE 58 84	Escherichia coli moaA gene
+T7	GENE 58 92	Escherichia coli moaA gene product
+T8	GENE 75 79	moaA
+T9	GENE 75 84	moaA gene
+T10	GENE 75 92	moaA gene product

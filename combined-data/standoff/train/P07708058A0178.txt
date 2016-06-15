@@ -1,0 +1,1 @@
+The GRE at nucleotide 7640 is a composite GRE (cGRE) containing an overlapping activator protein-1 (AP-1) motif for the c-jun homodimer and c-jun/c-fos heterodimer.

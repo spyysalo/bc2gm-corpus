@@ -1,0 +1,1 @@
+There are regions with long runs of up to 45% C or 35% G residues.

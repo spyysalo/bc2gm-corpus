@@ -1,0 +1,1 @@
+The amino-terminal DNA-binding domain of Pip exhibits a high degree of homology to the DNA-binding domains of members of the interferon regulatory factor (IRF) family, which includes IRF-1, IRF-2, ICSBP, and ISGF3 gamma.

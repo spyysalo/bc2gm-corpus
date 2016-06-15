@@ -1,0 +1,1 @@
+To examine the biochemical mechanism of Tax1 transactivation, we have developed an in vitro transactivation assay in which wild-type Tax1 is able to specifically transactivate a polymerase II promoter through upstream Tax1-responsive elements.

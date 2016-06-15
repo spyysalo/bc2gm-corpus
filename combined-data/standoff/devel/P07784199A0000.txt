@@ -1,0 +1,1 @@
+All ribosomal protein (rp) gene promoters from Saccharomyces cerevisiae studied so far contain either (usually two) binding sites for the global gene regulator Rap1p or one binding site for another global factor, Abf1p.

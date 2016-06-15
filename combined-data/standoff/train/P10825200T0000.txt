@@ -1,0 +1,1 @@
+Hierarchy of protein tyrosine kinases in interleukin-2 (IL-2) signaling: activation of syk depends on Jak3; however, neither Syk nor Lck is required for IL-2-mediated STAT activation.

@@ -1,0 +1,1 @@
+The results of replicase assays performed with mutant VP2 containing a deletion in its RNA-binding domain suggests that the essential role for VP2 in replication is linked to the protein's ability to bind the mRNA template for minus-strand synthesis.

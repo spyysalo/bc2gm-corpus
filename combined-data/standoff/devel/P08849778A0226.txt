@@ -1,0 +1,1 @@
+We have performed toeprinting analyses on repA mRNA of plasmid R1, both free and in duplex with the antisense RNA, CopA.

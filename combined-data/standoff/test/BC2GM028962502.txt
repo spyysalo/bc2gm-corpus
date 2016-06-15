@@ -1,0 +1,1 @@
+MDA-MB-468 cells were stably transfected with either a plasmid having a CMV promoter-driven rabbit beta-globin gene or plasmids having a CMV promoter-driven chimeric gadd45 5"-UTR-rabbit beta-globin gene, where the entire gadd45 5"-UTR (from +1 to +298) or a 45 bp subfragment of the gadd45 5"-UTR (from +10 to +55) was positioned at the 5"-end of the rabbit beta-globin gene.

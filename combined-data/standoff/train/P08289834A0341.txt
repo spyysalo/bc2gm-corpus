@@ -1,0 +1,1 @@
+When expressed alone in test cells, Atr-I is unable to bind TGF-beta, activin, or bone morphogenetic protein 2.

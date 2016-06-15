@@ -1,0 +1,1 @@
+A computerized method of determining the focal point of electrical activity in the pallidum of parkinsonian patients was developed using on-line quantitative physiological data analysis.

@@ -1,0 +1,1 @@
+The results of the neural network were compared with those of a density mask (thresholds, -750/-300 H), with a radiologist serving as the gold standard.

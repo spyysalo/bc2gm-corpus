@@ -1,0 +1,1 @@
+Sucrose-specific regulation of scrB was also lost upon deletion of 4 bp of a palindromic sequence (OB) covering positions +6 to +21 downstream of the scrB transcriptional start site.

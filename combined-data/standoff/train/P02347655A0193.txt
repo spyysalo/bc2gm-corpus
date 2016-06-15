@@ -1,0 +1,1 @@
+In the artificial lung, like in the natural lung and peripheral tissues, gas exchanges depend on several parameters: blood inlet conditions, blood flow rate, temperature, composition of the gas mixture used for ventilation, blood tissue perfusion, O2 consumption, etc.

@@ -1,0 +1,1 @@
+To probe the inter-relationship between the virion-anchoring function and the oligomerization function, we constructed two serotype 3 (T3) sigma 1 deletion mutants in SV40 expression vectors, one lacking the hydrophobic tail and the hinge, and the other lacking an adjacent region which constituted part of the coiled-coil.

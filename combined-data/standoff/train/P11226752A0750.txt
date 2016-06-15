@@ -1,0 +1,1 @@
+In mammalian tissue culture cells, overexpression of any of the four mouse deltex homologs suppressed the transcriptional activity of E47, a basic helix-loop-helix (bHLH) protein, in a manner similar to suppression by an activated form of human Notch1 or human DTX1.

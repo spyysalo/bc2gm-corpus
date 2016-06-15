@@ -1,0 +1,1 @@
+UPR elements present in other ER chaperone genes, such as yeast KAR2 (BiP), mammalian GRP78 (BiP), and GRP94, function in an analogous manner to that in FKB2.

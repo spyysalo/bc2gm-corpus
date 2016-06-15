@@ -1,0 +1,1 @@
+We had previously analyzed repair rates of cyclobutane pyrimidine dimers at nucleotide resolution along the human JUN gene in normal fibroblasts and found very efficient repair of sequences near the transcription initiation site but slow repair along the promoter.

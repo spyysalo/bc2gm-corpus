@@ -1,0 +1,1 @@
+Methods included 24-hour dietary recall, menu weights, and recipe analysis.

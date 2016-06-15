@@ -1,0 +1,1 @@
+For replication reporter constructs where E1 and E2 are supplied in trans by the respective expression vectors, distance between the half sites seems to play a major role, yet the phasing relationships are measurable.

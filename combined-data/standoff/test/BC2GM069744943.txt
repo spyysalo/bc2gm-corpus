@@ -1,0 +1,1 @@
+By computed homology search, we noticed significant similarities between US3 PK and p21-activated kinase (PAK), which is activated by the Cdc42 or Rac.

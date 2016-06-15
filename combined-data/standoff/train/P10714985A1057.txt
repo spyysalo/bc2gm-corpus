@@ -1,0 +1,1 @@
+3' RNA boundary experiments indicate that the 5' structure reduces the number of (G/U)AG repeats required for stable TRAP-trp leader RNA association.

@@ -1,0 +1,1 @@
+The newly identified NF kappa B enhancer (TGGAAATTCC) is bound by a TNF alpha-induced nuclear protein and appears to be the key element in rapid transcription induction by TNF alpha (and TPA), while transactivation of this element is repressed by the ligand-bound glucocorticoid receptor.

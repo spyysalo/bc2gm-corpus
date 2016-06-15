@@ -1,0 +1,10 @@
+T1	GENE 47 53	B22EL8
+T2	GENE 47 62	B22EL8 promoter
+T3	GENE 47 66	B22EL8 promoter-GUS
+T4	GENE 47 87	B22EL8 promoter-GUS (beta-glucuronidase)
+T5	GENE 47 97	B22EL8 promoter-GUS (beta-glucuronidase) construct
+T6	GENE 63 66	GUS
+T7	GENE 63 87	GUS (beta-glucuronidase)
+T8	GENE 63 97	GUS (beta-glucuronidase) construct
+T9	GENE 67 97	(beta-glucuronidase) construct
+T10	GENE 68 86	beta-glucuronidase

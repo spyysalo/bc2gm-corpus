@@ -1,0 +1,1 @@
+The synthetic DNA sequence was constructed to achieve efficient base pairing with Escherichia coli 16S ribosomal RNA, avoidance of internal secondary structure, and optimal codon usage for high-level protein expression in accord with the known preferences in E. coli.

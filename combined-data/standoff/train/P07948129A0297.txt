@@ -1,0 +1,1 @@
+In these vectors the chimeric long terminal repeat (chLTR) drives the expression of the chloramphenicol acetyl transferase (CAT) reporter gene that is followed by an internal SV40 virus early region promoter linked to the neomycin phosphotransferase II (NEO) gene.

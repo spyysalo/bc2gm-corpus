@@ -1,0 +1,1 @@
+The promoter region showed no consensus TATA box but it contains CCAAT and CreA boxes known to be involved in both stress and carbon-catabolite regulation of fungal promoters.

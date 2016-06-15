@@ -1,0 +1,1 @@
+The HPLC method involves an octadecylsilane column at 55 degrees C, a mixture of water-acetonitrile-orthophosphoric acid (779:220:1, v/v) as mobile phase and detection at 226 nm.

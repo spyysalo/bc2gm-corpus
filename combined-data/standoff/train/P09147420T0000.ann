@@ -1,0 +1,12 @@
+T1	GENE 0 3	TAR
+T2	GENE 128 131	IE1
+T3	GENE 128 135	IE1/IE2
+T4	GENE 132 135	IE2
+T5	GENE 43 67	HIV long terminal repeat
+T6	GENE 8 11	Sp1
+T7	GENE 75 78	Tat
+T8	GENE 75 86	Tat protein
+T9	GENE 106 131	human cytomegalovirus IE1
+T10	GENE 106 135	human cytomegalovirus IE1/IE2
+T11	GENE 112 131	cytomegalovirus IE1
+T12	GENE 112 135	cytomegalovirus IE1/IE2

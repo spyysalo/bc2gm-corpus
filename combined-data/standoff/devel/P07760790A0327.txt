@@ -1,0 +1,1 @@
+Serum induction of a MEF2 reporter gene was not observed in a line of NIH 3T3 cells which contain low MEF2 site binding activity.

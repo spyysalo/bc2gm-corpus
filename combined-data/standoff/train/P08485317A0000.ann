@@ -1,0 +1,9 @@
+T1	GENE 12 22	yeast dsk1
+T2	GENE 18 22	dsk1
+T3	GENE 18 23	dsk1+
+T4	GENE 18 28	dsk1+ gene
+T5	GENE 4 22	fission yeast dsk1
+T6	GENE 4 23	fission yeast dsk1+
+T7	GENE 4 28	fission yeast dsk1+ gene
+T8	GENE 72 76	dis1
+T9	GENE 72 84	dis1 mutants

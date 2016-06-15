@@ -1,0 +1,1 @@
+When this DNA fragment was placed upstream of the chloramphenicol acetyltransferase (CAT) reporter gene and transfected into a carp CF cell line, it could drive the synthesis of CAT enzyme 16 times more efficiently than the promoterless pCAT-Basic.

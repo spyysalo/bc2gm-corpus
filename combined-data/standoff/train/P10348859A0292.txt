@@ -1,0 +1,1 @@
+Although it has two potential binding sites, the purified MerR homodimer binds only one Hg(II) ion, employing Cys82 from one monomer and Cys117 and Cys126 from the other.

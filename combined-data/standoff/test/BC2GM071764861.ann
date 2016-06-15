@@ -1,0 +1,11 @@
+T1	GENE 124 138	TCR alpha/beta
+T2	GENE 124 140	TCR alpha/beta +
+T3	GENE 145 160	TCR gamma/delta
+T4	GENE 145 162	TCR gamma/delta +
+T5	GENE 4 21	TCR beta enhancer
+T6	GENE 4 12	TCR beta
+T7	GENE 45 77	minimal simian virus 40 promoter
+T8	GENE 53 77	simian virus 40 promoter
+T9	GENE 84 92	TCR beta
+T10	GENE 84 106	TCR beta variable gene
+T11	GENE 84 115	TCR beta variable gene promoter

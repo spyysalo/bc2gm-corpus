@@ -1,0 +1,1 @@
+When transfected into HepG2 cells, which lack C/EBP alpha, the mouse ob promoter was only weakly active.

@@ -1,0 +1,10 @@
+T1	GENE 12 16	wa-2
+T2	GENE 12 25	wa-2 mutation
+T3	GENE 155 159	wa-2
+T4	GENE 155 169	wa-2 phenotype
+T5	GENE 237 241	EGFR
+T6	GENE 71 93	EGF/TGF-alpha receptor
+T7	GENE 71 100	EGF/TGF-alpha receptor (EGFR)
+T8	GENE 71 105	EGF/TGF-alpha receptor (EGFR) gene
+T9	GENE 94 105	(EGFR) gene
+T10	GENE 95 99	EGFR

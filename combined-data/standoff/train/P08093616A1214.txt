@@ -1,0 +1,1 @@
+DNase I footprinting analysis indicated that DREF binds to the 24-bp DRE region of the DNA polymerase alpha gene in which 8-bp palindromic sequences are centered.

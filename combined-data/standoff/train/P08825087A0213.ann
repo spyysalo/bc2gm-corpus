@@ -1,0 +1,8 @@
+T1	GENE 27 40	3213 bp BamHI
+T2	GENE 27 45	3213 bp BamHI-ClaI
+T3	GENE 27 54	3213 bp BamHI-ClaI fragment
+T4	GENE 35 40	BamHI
+T5	GENE 35 45	BamHI-ClaI
+T6	GENE 35 54	BamHI-ClaI fragment
+T7	GENE 41 45	ClaI
+T8	GENE 41 54	ClaI fragment

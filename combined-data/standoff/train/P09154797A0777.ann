@@ -1,0 +1,5 @@
+T1	GENE 34 38	stk2
+T2	GENE 34 44	stk2::lacZ
+T3	GENE 34 52	stk2::lacZ mutants
+T4	GENE 40 44	lacZ
+T5	GENE 40 52	lacZ mutants

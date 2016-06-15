@@ -1,0 +1,1 @@
+Positive linear correlations were found when the AUC(0-12) (r = 0.68; P less than 0.01), the maximum plasma concentration (r = 0.34; P less than 0.01), the minimum plasma concentration (r = 0.55; P less than 0.01), and the elimination t1/2 (r = 0.46; P less than 0.01) were regressed with age.

@@ -1,0 +1,1 @@
+The concept of "structural identifiability" is employed in this analysis to determine which model parameters can be and which cannot be determined "uniquely" from given input-output data; a step-by-step procedure based on an extension of this concept is presented for adapting the overall approach to the experimental design problem.

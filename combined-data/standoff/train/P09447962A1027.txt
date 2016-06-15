@@ -1,0 +1,1 @@
+Consistent with this interpretation, a mutant form of XRN1, which encodes a 5'-3' exonuclease, was identified as an extragenic suppressor that increases the half-life of rhis4 mRNA, leading to a 10-fold increase in steady-state mRNA levels compared to the wild-type HIS4 mRNA level.

@@ -1,0 +1,1 @@
+One such mutant also affects the overlapping -10 hexamer of PR and results in reduced occupancy by both MerR and RNA polymerase, likely as a result of inefficient transcriptional initiation of merR mRNA.

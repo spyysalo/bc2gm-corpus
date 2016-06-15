@@ -1,0 +1,13 @@
+T1	GENE 167 175	integrin
+T2	GENE 167 184	integrin subunits
+T3	GENE 29 32	Ras
+T4	GENE 43 46	Raf
+T5	GENE 43 50	Raf-MEK
+T6	GENE 43 88	Raf-MEK-extracellular signal-regulated kinase
+T7	GENE 43 94	Raf-MEK-extracellular signal-regulated kinase (ERK)
+T8	GENE 47 50	MEK
+T9	GENE 47 88	MEK-extracellular signal-regulated kinase
+T10	GENE 47 94	MEK-extracellular signal-regulated kinase (ERK)
+T11	GENE 51 88	extracellular signal-regulated kinase
+T12	GENE 51 94	extracellular signal-regulated kinase (ERK)
+T13	GENE 90 93	ERK

@@ -1,0 +1,1 @@
+A contiguous and sequentially occupied secondary Fur-binding site in entC was protected at higher Fur concentrations, extending the protected region to +49, and sequestering the putative Shine-Dalgarno sequence.

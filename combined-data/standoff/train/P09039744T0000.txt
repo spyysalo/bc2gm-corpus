@@ -1,0 +1,1 @@
+Enhanced period-peak analysis of electro-encephalograms using a fast sinc function.

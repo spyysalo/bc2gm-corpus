@@ -1,0 +1,1 @@
+In the absence of E1A243, YY1 represses CRE-dependent transcription of c-fos by physically interacting with ATF/CREB proteins bound to the -67 CRE.

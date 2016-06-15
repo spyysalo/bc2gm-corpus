@@ -1,0 +1,1 @@
+SBF binds to the promoter prior to the activation of transcription in late G1, suggesting that Cln/Cdc28 kinase regulates the ability of previously bound SBF to activate transcription.

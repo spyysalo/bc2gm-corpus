@@ -1,0 +1,1 @@
+To identify critical regions mediating growth signal transduction by hG-CSFR, deletions or site-directed amino acid substitutions were introduced into the cytoplasmic domain of hG-CSFR, and the mutant cDNAs were transfected into the murine interleukin-3 (IL-3)-dependent Ba/F3 and FDCP cell lines.

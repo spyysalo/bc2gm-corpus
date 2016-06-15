@@ -1,0 +1,1 @@
+For capsules containing only the drug, the value of T50 increased as the particle size of the drug decreased.

@@ -1,0 +1,9 @@
+T1	GENE 0 21	Neuron-specific Bcl-2
+T2	GENE 0 30	Neuron-specific Bcl-2 homology
+T3	GENE 0 44	Neuron-specific Bcl-2 homology 3 domain-only
+T4	GENE 0 59	Neuron-specific Bcl-2 homology 3 domain-only splice variant
+T5	GENE 16 21	Bcl-2
+T6	GENE 16 30	Bcl-2 homology
+T7	GENE 16 44	Bcl-2 homology 3 domain-only
+T8	GENE 16 59	Bcl-2 homology 3 domain-only splice variant
+T9	GENE 63 66	Bak

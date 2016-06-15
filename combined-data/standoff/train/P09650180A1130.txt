@@ -1,0 +1,1 @@
+The general recombination at a polarizing voltage of 300 V is less than 2% for dose-rates up to about 100 mGy min-1.

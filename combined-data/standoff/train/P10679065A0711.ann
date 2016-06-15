@@ -1,0 +1,13 @@
+T1	GENE 0 3	BCR
+T2	GENE 130 133	p38
+T3	GENE 130 138	p38 MAPK
+T4	GENE 140 144	MAPK
+T5	GENE 140 171	MAPK-activated protein kinase-2
+T6	GENE 140 188	MAPK-activated protein kinase-2 immune complexes
+T7	GENE 155 171	protein kinase-2
+T8	GENE 239 243	CREB
+T9	GENE 239 270	CREB serine 133 phosphoacceptor
+T10	GENE 239 276	CREB serine 133 phosphoacceptor motif
+T11	GENE 40 44	MAPK
+T12	GENE 40 71	MAPK-activated protein kinase-2
+T13	GENE 55 71	protein kinase-2

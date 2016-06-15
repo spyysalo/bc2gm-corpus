@@ -1,0 +1,1 @@
+The Scm and ph proteins share a homology domain with 38% identity over a length of 65 amino acids, termed the SPM domain, that is located at their respective C termini.

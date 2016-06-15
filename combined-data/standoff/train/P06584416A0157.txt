@@ -1,0 +1,1 @@
+Three radiologists without knowledge of patients' data and treatment analyzed 30 angiograms with and 30 examinations without PGF.

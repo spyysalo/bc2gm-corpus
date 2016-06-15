@@ -1,0 +1,11 @@
+T1	GENE 144 147	neu
+T2	GENE 144 156	neu promoter
+T3	GENE 144 190	neu promoter-chloramphenicol acetyltransferase
+T4	GENE 144 199	neu promoter-chloramphenicol acetyltransferase reporter
+T5	GENE 144 204	neu promoter-chloramphenicol acetyltransferase reporter gene
+T6	GENE 157 190	chloramphenicol acetyltransferase
+T7	GENE 157 199	chloramphenicol acetyltransferase reporter
+T8	GENE 157 204	chloramphenicol acetyltransferase reporter gene
+T9	GENE 35 37	Rb
+T10	GENE 99 102	neu
+T11	GENE 109 111	Rb

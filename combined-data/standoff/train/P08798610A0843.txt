@@ -1,0 +1,1 @@
+PIP2, when incorporated into phosphatidylcholine carrier vesicles, binds tightly to the guanine nucleotide-depleted form of Cdc42Hs and weakly to the GDP-bound form of the GTP-binding protein but does not bind to GTP-bound Cdc42Hs, similar to what was observed for the Dbl oncoprotein.

@@ -1,0 +1,1 @@
+The nucleotide sequence consists of 48 bp of 5'-end non-coding region, 1695 bp of coding region and 212 bp of 3'-end non-coding region including a 20 bp poly(A) tail.

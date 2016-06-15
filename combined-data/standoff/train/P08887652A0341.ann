@@ -1,0 +1,12 @@
+T1	GENE 152 158	con-10
+T2	GENE 152 177	con-10 open reading frame
+T3	GENE 202 243	bacterial hygromycin B phosphotransferase
+T4	GENE 202 259	bacterial hygromycin B phosphotransferase structural gene
+T5	GENE 202 273	bacterial hygromycin B phosphotransferase structural gene (con10'-'hph)
+T6	GENE 212 243	hygromycin B phosphotransferase
+T7	GENE 212 259	hygromycin B phosphotransferase structural gene
+T8	GENE 212 273	hygromycin B phosphotransferase structural gene (con10'-'hph)
+T9	GENE 261 272	con10'-'hph
+T10	GENE 79 85	con-10
+T11	GENE 79 94	con-10 promoter
+T12	GENE 79 112	con-10 promoter-regulatory region

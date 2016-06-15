@@ -1,0 +1,1 @@
+Here, we report the isolation of a new spindle checkpoint gene, mph1 (Mps1p-like pombe homolog), in the fission yeast Schizosaccharomyces pombe, that is required for checkpoint activation in response to spindle defects. mph1 functions upstream of mad2, a previously characterized component of the spindle checkpoint.

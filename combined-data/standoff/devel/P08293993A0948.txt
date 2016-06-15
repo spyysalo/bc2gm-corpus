@@ -1,0 +1,1 @@
+ENV also was secreted from P. pastoris using the S. cerevisiae alpha-factor prepro secretion leader and the S. cerevisiae invertase signal sequence.

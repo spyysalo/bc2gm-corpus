@@ -1,0 +1,15 @@
+T1	GENE 118 122	Wee1
+T2	GENE 127 131	Mik1
+T3	GENE 127 148	Mik1 tyrosine kinases
+T4	GENE 132 148	tyrosine kinases
+T5	GENE 167 172	Cdc25
+T6	GENE 177 181	Pyp3
+T7	GENE 177 203	Pyp3 tyrosine phosphatases
+T8	GENE 182 203	tyrosine phosphatases
+T9	GENE 50 71	M-phase-inducing Cdc2
+T10	GENE 50 101	M-phase-inducing Cdc2/Cdc13 cyclin-dependent kinase
+T11	GENE 67 71	Cdc2
+T12	GENE 67 77	Cdc2/Cdc13
+T13	GENE 67 101	Cdc2/Cdc13 cyclin-dependent kinase
+T14	GENE 72 77	Cdc13
+T15	GENE 72 101	Cdc13 cyclin-dependent kinase

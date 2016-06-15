@@ -1,0 +1,1 @@
+This paper describes the results of an initial study on the application of linear solvation energy relationships (LSERs) to the prediction of internal standard compounds in reversed-phase liquid chromatographic (RPLC) method development.

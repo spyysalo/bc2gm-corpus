@@ -1,0 +1,13 @@
+T1	GENE 144 172	gene for neomycin resistance
+T2	GENE 144 179	gene for neomycin resistance (neoR)
+T3	GENE 153 179	neomycin resistance (neoR)
+T4	GENE 174 178	neoR
+T5	GENE 4 10	pWP-19
+T6	GENE 98 127	herpes virus thymidine kinase
+T7	GENE 98 136	herpes virus thymidine kinase promoter
+T8	GENE 98 172	herpes virus thymidine kinase promoter-driven gene for neomycin resistance
+T9	GENE 98 179	herpes virus thymidine kinase promoter-driven gene for neomycin resistance (neoR)
+T10	GENE 111 127	thymidine kinase
+T11	GENE 111 136	thymidine kinase promoter
+T12	GENE 111 172	thymidine kinase promoter-driven gene for neomycin resistance
+T13	GENE 111 179	thymidine kinase promoter-driven gene for neomycin resistance (neoR)

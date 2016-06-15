@@ -1,0 +1,1 @@
+The exon sequences determined from genomic DNA sequencing showed some differences when compared to the published rat GLUT2 cDNA.

@@ -1,0 +1,1 @@
+A simple algorithm fitting the data for the moving 192Ir source is proposed.

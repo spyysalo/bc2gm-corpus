@@ -1,0 +1,20 @@
+T1	GENE 155 194	noncanonical GnRH-R activating sequence
+T2	GENE 155 201	noncanonical GnRH-R activating sequence (GRAS)
+T3	GENE 168 194	GnRH-R activating sequence
+T4	GENE 168 201	GnRH-R activating sequence (GRAS)
+T5	GENE 196 200	GRAS
+T6	GENE 207 226	activator protein-1
+T7	GENE 207 233	activator protein-1 (AP-1)
+T8	GENE 207 241	activator protein-1 (AP-1) element
+T9	GENE 227 241	(AP-1) element
+T10	GENE 228 232	AP-1
+T11	GENE 251 273	steroidogenic factor-1
+T12	GENE 251 280	steroidogenic factor-1 (SF-1)
+T13	GENE 251 293	steroidogenic factor-1 (SF-1) binding site
+T14	GENE 274 293	(SF-1) binding site
+T15	GENE 275 279	SF-1
+T16	GENE 57 70	GnRH receptor
+T17	GENE 57 79	GnRH receptor (GnRH-R)
+T18	GENE 57 84	GnRH receptor (GnRH-R) gene
+T19	GENE 71 84	(GnRH-R) gene
+T20	GENE 72 78	GnRH-R

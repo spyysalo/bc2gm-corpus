@@ -1,0 +1,1 @@
+Analysis of the sequence identified four open reading frames (ORFs) which are designated UL1, UL2, UL3, and UL3.5 based on their homology with proteins of herpes simplex virus-1 (HSV-1), pseudorabies virus (PRV), equine herpesvirus-1, and varicella-zoster virus.

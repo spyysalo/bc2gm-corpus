@@ -1,0 +1,1 @@
+Our analysis indicates that a gene correction mechanism has been operating on the Hbbs chromosome to keep beta s and beta t evolving in concert, whereas on the Hbbd chromosome, beta dmin has diverged considerably from beta dmaj.

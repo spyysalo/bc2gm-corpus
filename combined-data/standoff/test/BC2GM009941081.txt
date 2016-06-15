@@ -1,0 +1,1 @@
+Basal level expression was reduced to 20 and 50% when the UGA stop codon was replaced by UAG or UAA, respectively, consistent with the finding that in E. coli translation terminates more efficiently at UAG and UAA than at UGA.

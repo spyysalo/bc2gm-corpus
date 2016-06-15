@@ -1,0 +1,8 @@
+T1	GENE 134 137	suc
+T2	GENE 134 152	suc coding regions
+T3	GENE 172 176	atpE
+T4	GENE 172 198	atpE ribosome-binding site
+T5	GENE 44 49	sucCD
+T6	GENE 44 58	sucCD fragment
+T7	GENE 77 80	lac
+T8	GENE 77 89	lac promoter

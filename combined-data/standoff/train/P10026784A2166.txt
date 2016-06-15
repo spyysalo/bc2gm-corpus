@@ -1,0 +1,1 @@
+In the Oct-1 crystal, the POU-specific domain recognizes a GCAT half-site, while the corresponding sequence recognized by the Pit-1 POU-specific domain, GTAT, is on the opposing strand.

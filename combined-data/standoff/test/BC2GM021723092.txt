@@ -1,0 +1,1 @@
+Mutation of the HNF3 element significantly reduced promoter activity in HepG2 cells, whereas this element in isolation conferred HNF3beta responsiveness to a heterologous promoter.

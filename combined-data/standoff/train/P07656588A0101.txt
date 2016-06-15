@@ -1,0 +1,1 @@
+Comparative DNA sequence analysis showed the Genethon microsatellite D19S596 lies 2.2 kb downstream of the coding region of FUT1, indicating that the cluster comprising the closely linked FUT1 and FUT2 genes is located 4 cM distal to D19S412 (lod score 13.7) and 9 cM proximal to D19S571 (lod score 11.7).

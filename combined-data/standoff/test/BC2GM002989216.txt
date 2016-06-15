@@ -1,0 +1,1 @@
+Mutating bases -142 to -151 abolishes formation of complex VII and partially inhibits complex IV, suggesting that the proteins forming these complexes bind neighboring segments of DNA.

@@ -1,0 +1,13 @@
+T1	GENE 124 131	kappa B
+T2	GENE 124 138	kappa B-motifs
+T3	GENE 25 29	p100
+T4	GENE 25 29	p100
+T5	GENE 25 48	p100 (lyt-10, p97, p98)
+T6	GENE 31 37	lyt-10
+T7	GENE 4 14	NF-kappa B
+T8	GENE 4 14	NF-kappa B
+T9	GENE 4 24	NF-kappa B precursor
+T10	GENE 4 29	NF-kappa B precursor p100
+T11	GENE 4 48	NF-kappa B precursor p100 (lyt-10, p97, p98)
+T12	GENE 39 42	p97
+T13	GENE 44 47	p98

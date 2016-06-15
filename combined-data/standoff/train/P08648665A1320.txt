@@ -1,0 +1,1 @@
+ORF E8 colinear with ORF E6, which could generate a 50-amino-acid protein with a hydrophobic segment, did not transform cells when cloned into the pZipNeo vector.

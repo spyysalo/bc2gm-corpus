@@ -1,0 +1,18 @@
+T1	GENE 222 258	39K gene promoter-beta-glucuronidase
+T2	GENE 222 265	39K gene promoter-beta-glucuronidase fusion
+T3	GENE 226 258	gene promoter-beta-glucuronidase
+T4	GENE 231 258	promoter-beta-glucuronidase
+T5	GENE 231 265	promoter-beta-glucuronidase fusion
+T6	GENE 240 258	beta-glucuronidase
+T7	GENE 25 29	hr1a
+T8	GENE 25 55	hr1a-containing AcMNPV HindIII
+T9	GENE 25 57	hr1a-containing AcMNPV HindIII-N
+T10	GENE 25 66	hr1a-containing AcMNPV HindIII-N fragment
+T11	GENE 357 381	trans-acting factor IE-1
+T12	GENE 377 381	IE-1
+T13	GENE 41 55	AcMNPV HindIII
+T14	GENE 41 57	AcMNPV HindIII-N
+T15	GENE 41 66	AcMNPV HindIII-N fragment
+T16	GENE 48 55	HindIII
+T17	GENE 48 57	HindIII-N
+T18	GENE 48 66	HindIII-N fragment

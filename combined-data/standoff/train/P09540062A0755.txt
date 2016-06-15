@@ -1,0 +1,1 @@
+These mutants were tested for ability to bind each of the Site II cognate proteins, and subsequently evaluated for ability to confer H4 transcriptional activity using chimeric H4 promoter/CAT fusion constructs in different cell types.

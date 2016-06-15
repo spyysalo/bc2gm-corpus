@@ -1,0 +1,1 @@
+In the multivariate analysis, six variables were independently correlated with survival: blood urea nitrogen level, serum aspartate aminotransferase level, community-acquired vs. hospital-acquired peritonitis, age, Child-Pugh score and ileus.

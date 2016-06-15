@@ -1,0 +1,1 @@
+When the E1A N-terminus is used as a competitor in squelshing experiments it abolishes CBP-induced activation of E2F1/DP1, whereas an E1A mutant lacking CBP binding ability fails to do so.

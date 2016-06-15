@@ -1,0 +1,1 @@
+Quantitative predictions are confirmed for the positive responses, but not for the negatives, suggesting that the SSTS model is incorrect.

@@ -1,0 +1,20 @@
+T1	GENE 132 142	mutant myc
+T2	GENE 132 148	mutant myc genes
+T3	GENE 139 142	myc
+T4	GENE 139 148	myc genes
+T5	GENE 184 187	myc
+T6	GENE 184 197	myc sequences
+T7	GENE 216 233	human beta-globin
+T8	GENE 216 238	human beta-globin gene
+T9	GENE 222 233	beta-globin
+T10	GENE 222 238	beta-globin gene
+T11	GENE 249 292	bacterial chloramphenicol acetyltransferase
+T12	GENE 249 298	bacterial chloramphenicol acetyltransferase (CAT)
+T13	GENE 249 303	bacterial chloramphenicol acetyltransferase (CAT) gene
+T14	GENE 259 292	chloramphenicol acetyltransferase
+T15	GENE 259 298	chloramphenicol acetyltransferase (CAT)
+T16	GENE 259 303	chloramphenicol acetyltransferase (CAT) gene
+T17	GENE 293 303	(CAT) gene
+T18	GENE 294 297	CAT
+T19	GENE 44 49	c-myc
+T20	GENE 44 54	c-myc mRNA

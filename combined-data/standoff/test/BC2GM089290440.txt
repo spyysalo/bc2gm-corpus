@@ -1,0 +1,1 @@
+For the albino, both the ST1 and ST2 spatial responses peak at around 0.3 cycles deg-1, and both curves are displaced considerably to the low spatial frequency side of the normal ST2 spatial response.

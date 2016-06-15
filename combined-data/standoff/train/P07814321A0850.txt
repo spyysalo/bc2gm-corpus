@@ -1,0 +1,1 @@
+Deletion of both prfA and ponA resulted in extremely slow growth and a reduction in sporulation efficiency.

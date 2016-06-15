@@ -1,0 +1,1 @@
+The Schizosaccharomyces pombe rad1+ cell cycle checkpoint control gene is required for S-phase and G2/M arrest in response to both DNA damage and incomplete DNA replication.

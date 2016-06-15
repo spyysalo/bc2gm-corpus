@@ -1,0 +1,1 @@
+Mutations in UPF1 lead to the selective stabilization of mRNAs containing early nonsense mutations without affecting the decay rates of most other mRNAs.

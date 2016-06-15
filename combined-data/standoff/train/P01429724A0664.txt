@@ -1,0 +1,1 @@
+The data indicate that the minimal catalytic domain of Nmt1p is located between Ile59-->Phe96 and Gly451-->Leu455.

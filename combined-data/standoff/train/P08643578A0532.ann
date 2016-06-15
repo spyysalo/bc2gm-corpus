@@ -1,0 +1,16 @@
+T1	GENE 130 132	FG
+T2	GENE 130 137	FG(TyA)
+T3	GENE 130 143	FG(TyA)::lacZ
+T4	GENE 132 143	(TyA)::lacZ
+T5	GENE 133 136	TyA
+T6	GENE 139 143	lacZ
+T7	GENE 14 17	Rho
+T8	GENE 14 24	Rho family
+T9	GENE 14 32	Rho family protein
+T10	GENE 14 32	Rho family protein
+T11	GENE 14 38	Rho family protein Cdc42
+T12	GENE 25 38	protein Cdc42
+T13	GENE 33 38	Cdc42
+T14	GENE 33 38	Cdc42
+T15	GENE 52 75	morphogenetic G protein
+T16	GENE 66 75	G protein

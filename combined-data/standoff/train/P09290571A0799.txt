@@ -1,0 +1,1 @@
+The cycle length of induced VT (n = 10 VTs) was 380 +/- 41 msec.

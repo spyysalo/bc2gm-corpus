@@ -1,0 +1,1 @@
+In the cell-free import assay, beta-catenin rapidly migrates into the nucleus without the exogenous addition of cytosol, Ran, or ATP/GTP.

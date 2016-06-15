@@ -1,0 +1,1 @@
+Since each transcript appears to encode the same protein, this complexity may reflect the need for lineage-specific or differentiation-dependent control of expression.

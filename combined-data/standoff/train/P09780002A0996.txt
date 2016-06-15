@@ -1,0 +1,1 @@
+Although E2FBP1 lacks the transactivation domain, it stimulates E2F site-dependent transcription in cooperation with E2F-1.

@@ -1,0 +1,1 @@
+Cell lines expressing single amino acid substitutions of the carboxyl-terminal asparagine of CD2 are incapable of avidity regulation by TCR signaling, PMA treatment, or elevation of intracellular cAMP levels, demonstrating that each of these stimuli utilizes a common structural element for regulating CD2 avidity.

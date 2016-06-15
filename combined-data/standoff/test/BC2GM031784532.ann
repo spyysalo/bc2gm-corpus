@@ -1,0 +1,8 @@
+T1	GENE 127 132	pcaIJ
+T2	GENE 138 142	pcaF
+T3	GENE 4 25	pcaR regulatory locus
+T4	GENE 4 8	pcaR
+T5	GENE 106 143	pca regulon (pcaBDC, pcaIJ, and pcaF)
+T6	GENE 106 109	pca
+T7	GENE 106 117	pca regulon
+T8	GENE 119 125	pcaBDC

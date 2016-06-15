@@ -1,0 +1,1 @@
+Comparison of dose volume histograms revealed that the 6-field plan spared relatively more heart whereas the 8-field plan spared relatively more lung.

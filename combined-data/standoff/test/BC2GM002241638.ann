@@ -1,0 +1,5 @@
+T1	GENE 153 162	cdc42-1ts
+T2	GENE 153 169	cdc42-1ts mutant
+T3	GENE 4 13	cdc42W97R
+T4	GENE 4 35	cdc42W97R temperature-sensitive
+T5	GENE 4 42	cdc42W97R temperature-sensitive allele

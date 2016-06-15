@@ -1,0 +1,1 @@
+We have developed a new method for estimation of regional CBF (rCBF) and cerebrovascular reserve capacity on a pixel-by-pixel basis by means of dynamic magnetic resonance imaging (MRI).

@@ -1,0 +1,1 @@
+A minimal pheromone induction domain, delineated as residues 301 to 335 of Ste12p, is dependent on the pheromone mitogen-activated protein (MAP) kinase pathway for induction activity.

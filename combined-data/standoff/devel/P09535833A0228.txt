@@ -1,0 +1,1 @@
+The predicted amino acid sequence of m-Staf is highly homologous to that of Staf, another selenocysteine tRNA gene transcription activating factor of Xenopus laevis.

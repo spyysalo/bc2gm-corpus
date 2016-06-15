@@ -1,0 +1,1 @@
+These mutants all failed to interact with the TraR fusion in the two-hybrid system.

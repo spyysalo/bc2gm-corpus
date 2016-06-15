@@ -1,0 +1,1 @@
+RESULTS: Using information in the dbEST database of expressed sequence tags, we isolated an Arabidopsis thaliana gene (GCR1) that encodes a protein with seven predicted membrane-spanning domains and other features characteristic of 7TM receptors.

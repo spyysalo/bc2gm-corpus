@@ -1,0 +1,1 @@
+Using the postural and force data as input to a 3-D biomechanical model, the lumbosacral spinal compression was calculated.

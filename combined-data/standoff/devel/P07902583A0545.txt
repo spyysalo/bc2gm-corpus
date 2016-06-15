@@ -1,0 +1,1 @@
+Analysis of disassociation rates indicates that the Grf10-Swi5-DNA complex has a longer half-life than protein-DNA complexes that contain only Swi5 or Grf10.

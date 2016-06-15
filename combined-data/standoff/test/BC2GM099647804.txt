@@ -1,0 +1,1 @@
+Categorisation of the different substructures within the sections allows them to be analysed and displayed separately.

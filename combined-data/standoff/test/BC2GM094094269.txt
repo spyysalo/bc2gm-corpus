@@ -1,0 +1,1 @@
+Interestingly, VDR was able to bind to VDREs with high affinity and to fully activate transcription in intact yeast cells in the presence of the retinoid X receptor (RXR).

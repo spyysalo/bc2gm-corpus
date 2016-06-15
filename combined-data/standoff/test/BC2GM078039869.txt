@@ -1,0 +1,1 @@
+Most significantly, the cyclin E-Cdk2 complex is maximally active at the G1/S transition, and overexpression of cyclin E decreases the time it takes the cell to complete G1 and enter S phase.

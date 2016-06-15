@@ -1,0 +1,1 @@
+CTF1alpha, expressed in Escherichia coli, showed specific binding to the palindrome 2 DNA fragment but not to palindrome 1 or mutant palindrome 2 DNA fragments, suggesting specific binding of CTF1alpha to palindrome 2.

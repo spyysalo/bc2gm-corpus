@@ -1,0 +1,1 @@
+In contrast to the wild-type protein, expression of p45 NF-E2 lacking this activation domain in an NF-E2 null cell line fails to support enhancer-dependent transcription in transient assays.

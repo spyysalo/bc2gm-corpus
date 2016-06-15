@@ -1,0 +1,16 @@
+T1	GENE 121 143	ribosomal proteins L11
+T2	GENE 121 150	ribosomal proteins L11 and L1
+T3	GENE 140 143	L11
+T4	GENE 148 150	L1
+T5	GENE 166 170	PkwR
+T6	GENE 21 38	tryptophanyl tRNA
+T7	GENE 209 213	LacI
+T8	GENE 209 218	LacI-GalR
+T9	GENE 209 225	LacI-GalR family
+T10	GENE 214 218	GalR
+T11	GENE 44 63	protein translocase
+T12	GENE 44 78	protein translocase component SecE
+T13	GENE 74 78	SecE
+T14	GENE 84 111	antiterminator protein NusG
+T15	GENE 99 111	protein NusG
+T16	GENE 107 111	NusG

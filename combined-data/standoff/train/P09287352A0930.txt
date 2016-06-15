@@ -1,0 +1,1 @@
+Consistent with effects on STAT activation, altered SHP-1 expression also affected EGF-induced activation of the mitogen-activated protein kinase pathway; expression of SHP-1-(Cys --> Ser) inhibited activity of MEK by approximately 25%, whereas expression of SHP-1 resulted in a approximately 25% increase.

@@ -1,0 +1,1 @@
+Inspection of enhancer mutants suggests that trans-activation by hLEF/GAL4 is especially dependent on TCF-2, a distinct T-cell-enriched protein that binds to sequences flanking the hLEF-binding site in the enhancer.

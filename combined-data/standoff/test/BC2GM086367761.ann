@@ -1,0 +1,14 @@
+T1	GENE 179 183	tnaC
+T2	GENE 30 34	tnaC
+T3	GENE 30 44	tnaC-UGA-'lacZ
+T4	GENE 30 54	tnaC-UGA-'lacZ construct
+T5	GENE 39 44	'lacZ
+T6	GENE 39 54	'lacZ construct
+T7	GENE 40 44	lacZ
+T8	GENE 40 54	lacZ construct
+T9	GENE 67 71	tnaC
+T10	GENE 67 76	tnaC-tnaA
+T11	GENE 67 83	tnaC-tnaA spacer
+T12	GENE 67 90	tnaC-tnaA spacer region
+T13	GENE 72 76	tnaA
+T14	GENE 116 120	TnaC

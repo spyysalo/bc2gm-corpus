@@ -1,0 +1,12 @@
+T1	GENE 19 42	protein-tyrosine kinase
+T2	GENE 19 49	protein-tyrosine kinase domain
+T3	GENE 27 42	tyrosine kinase
+T4	GENE 27 49	tyrosine kinase domain
+T5	GENE 51 57	p56lck
+T6	GENE 68 82	Src homology 2
+T7	GENE 68 88	Src homology 2 and 3
+T8	GENE 68 102	Src homology 2 and 3 (SH2 and SH3)
+T9	GENE 68 110	Src homology 2 and 3 (SH2 and SH3) domains
+T10	GENE 89 110	(SH2 and SH3) domains
+T11	GENE 90 93	SH2
+T12	GENE 98 101	SH3

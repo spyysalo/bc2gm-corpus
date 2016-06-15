@@ -1,0 +1,1 @@
+Wild-type AT1A receptors, expressed in Chinese hamster ovary cells, rapidly internalized after Ang II stimulation [t1/2 2.3 min; maximal level of internalization (Ymax) 78.2%], as did mutant receptors carrying single acidic substitutions (T332E, t1/2 2.7 min, Ymax 76.3%; S335D, t1/2 2.4 min, Ymax 76.7%; T336E, t1/2 2.5 min, Ymax 78.2%; S338D, t1/2 2.6 min, Ymax 78.4%).

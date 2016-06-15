@@ -1,0 +1,1 @@
+Data were processed with a semi-automatic computer program which develops an averaged-volume curve from an assigned LV region-of-interest.

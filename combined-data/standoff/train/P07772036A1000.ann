@@ -1,0 +1,10 @@
+T1	GENE 119 122	CTF
+T2	GENE 119 126	CTF/NF1
+T3	GENE 123 126	NF1
+T4	GENE 50 53	USF
+T5	GENE 50 58	USF/MLTF
+T6	GENE 54 58	MLTF
+T7	GENE 67 117	CAAT-binding transcription factor/nuclear factor 1
+T8	GENE 67 127	CAAT-binding transcription factor/nuclear factor 1 (CTF/NF1)
+T9	GENE 67 100	CAAT-binding transcription factor
+T10	GENE 101 117	nuclear factor 1

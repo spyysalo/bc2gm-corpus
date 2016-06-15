@@ -1,0 +1,1 @@
+Binding of ZAP-70 to phospho-TAMs is notable for the high level of cooperativity between the two SH2 domains, which individually demonstrate low affinity interaction with the ligand.

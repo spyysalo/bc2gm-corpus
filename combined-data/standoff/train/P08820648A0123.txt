@@ -1,0 +1,1 @@
+Despite the presence of one additional ribonucleotide reductase, the nrdAB-encoded enzyme is essential to the aerobic growth of the cell because nrdAB-defective mutants of both species are not viable in the presence of oxygen.

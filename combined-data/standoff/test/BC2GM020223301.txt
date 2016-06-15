@@ -1,0 +1,1 @@
+It encodes a sequence-specific transcription factor that controls, in concert with other gene products, differentiative pathways of tissues in which Scr is expressed.

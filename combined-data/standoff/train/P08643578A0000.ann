@@ -1,0 +1,19 @@
+T1	GENE 0 9	RAS2val19
+T2	GENE 126 153	transcriptional reporter FG
+T3	GENE 126 158	transcriptional reporter FG(TyA)
+T4	GENE 126 164	transcriptional reporter FG(TyA)::lacZ
+T5	GENE 142 164	reporter FG(TyA)::lacZ
+T6	GENE 151 153	FG
+T7	GENE 151 158	FG(TyA)
+T8	GENE 151 164	FG(TyA)::lacZ
+T9	GENE 153 164	(TyA)::lacZ
+T10	GENE 154 157	TyA
+T11	GENE 160 164	lacZ
+T12	GENE 189 217	mating pathway reporter FUS1
+T13	GENE 189 223	mating pathway reporter FUS1::lacZ
+T14	GENE 204 223	reporter FUS1::lacZ
+T15	GENE 213 217	FUS1
+T16	GENE 213 223	FUS1::lacZ
+T17	GENE 219 223	lacZ
+T18	GENE 40 69	Saccharomyces cerevisiae Ras2
+T19	GENE 65 69	Ras2

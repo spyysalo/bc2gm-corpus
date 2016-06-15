@@ -1,0 +1,1 @@
+Although mutant pex5delta cells expressing a yeast/tobacco Pex5p chimaera failed to import a GFP-Eci1p reporter protein, they were able to grow on oleic acid.

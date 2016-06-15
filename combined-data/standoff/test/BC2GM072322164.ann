@@ -1,0 +1,13 @@
+T1	GENE 16 40	transcription factor CDP
+T2	GENE 16 44	transcription factor CDP/cut
+T3	GENE 4 15	homeodomain
+T4	GENE 4 36	homeodomain transcription factor
+T5	GENE 4 40	homeodomain transcription factor CDP
+T6	GENE 4 44	homeodomain transcription factor CDP/cut
+T7	GENE 37 40	CDP
+T8	GENE 37 44	CDP/cut
+T9	GENE 41 44	cut
+T10	GENE 97 107	histone H4
+T11	GENE 97 113	histone H4 genes
+T12	GENE 105 107	H4
+T13	GENE 105 113	H4 genes

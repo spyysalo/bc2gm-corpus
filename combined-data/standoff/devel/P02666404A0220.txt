@@ -1,0 +1,1 @@
+The galactose transporter shows both sequence and structural homology with a superfamily of sugar transporters which includes the human HepG2-erythrocyte and fetal muscle glucose transporters, the rat brain and liver glucose transporters, the Escherichia coli xylose and arabinose permeases, and the S. cerevisiae glucose, maltose, and galactose transporters.

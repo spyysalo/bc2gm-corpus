@@ -1,0 +1,1 @@
+Previously, we identified two human SMC family proteins, hCAP-C and hCAP-E, which form a heterodimeric complex (hCAP-C-hCAP-E) in the cell.

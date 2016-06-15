@@ -1,0 +1,1 @@
+Like the p190-B exon, the first exon of p190-A is extremely large (3.7 kb in length), encoding both the GTPase and middle domains (residues 1-1228), but not the remaining GAP domain, suggesting a high conservation of genomic structure between two p190 genes.

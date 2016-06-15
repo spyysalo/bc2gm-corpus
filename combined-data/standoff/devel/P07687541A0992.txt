@@ -1,0 +1,1 @@
+Since RCC1p acts as GNRP for Ran, a small nuclear GTPase of the ras superfamily, we have identified two homologs of Ran in S.cerevisiae (CNR1 and CNR2).

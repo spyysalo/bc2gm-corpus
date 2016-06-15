@@ -1,0 +1,1 @@
+A small molecule ILK inhibitor suppresses the phosphorylation of PKB at the Ser-473 but not the Thr-308 site in the PTEN mutant cells.

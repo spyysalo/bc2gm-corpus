@@ -1,0 +1,1 @@
+A mutational analysis has resolved a region of seven amino acids (amino acids 26-32) in the N-terminus of Bob1 that are important for contacting the DNA binding POU domain of Oct-1 or Oct-2.

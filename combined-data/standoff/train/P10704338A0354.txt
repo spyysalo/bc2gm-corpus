@@ -1,0 +1,1 @@
+In order to gain deeper insight into the role of the amino-terminal domain of the p24(CA) protein during viral replication, eight highly conserved proline residues known to promote turns and to terminate alpha-helices within the p24 tertiary structure were replaced by a leucine residue (P-position-L).

@@ -1,0 +1,1 @@
+Data collection was made with a query language, and data analysis performed with an interactive knowledge-based statistical tool, MAXITAB, employing a multivariate tabular analysis technique.

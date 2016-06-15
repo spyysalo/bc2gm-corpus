@@ -1,0 +1,1 @@
+Upstream stimulatory factor USF is a human transcriptional activation factor, which uses a basic/helix-loop-helix/ leucin zipper (b/HLH/Z) motif to homodimerize and recognize specific sequences in the promoter region of both nuclear and viral genes transcribed by RNA polymerase II.

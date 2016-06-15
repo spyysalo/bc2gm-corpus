@@ -1,0 +1,20 @@
+T1	GENE 120 133	S. pombe leu1
+T2	GENE 120 134	S. pombe leu1-
+T3	GENE 120 139	S. pombe leu1- gene
+T4	GENE 129 133	leu1
+T5	GENE 129 134	leu1-
+T6	GENE 129 139	leu1- gene
+T7	GENE 144 157	S. pombe ura4
+T8	GENE 144 158	S. pombe ura4+
+T9	GENE 144 168	S. pombe ura4+ and his3+
+T10	GENE 144 174	S. pombe ura4+ and his3+ genes
+T11	GENE 153 157	ura4
+T12	GENE 153 158	ura4+
+T13	GENE 163 167	his3
+T14	GENE 163 168	his3+
+T15	GENE 163 174	his3+ genes
+T16	GENE 206 210	nmt1
+T17	GENE 206 219	nmt1 promoter
+T18	GENE 65 100	Saccharomyces cerevisiae LEU 2 gene
+T19	GENE 90 95	LEU 2
+T20	GENE 90 100	LEU 2 gene

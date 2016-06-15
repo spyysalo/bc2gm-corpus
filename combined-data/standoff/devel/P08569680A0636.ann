@@ -1,0 +1,7 @@
+T1	GENE 2 13	mutant areA
+T2	GENE 2 21	mutant areA product
+T3	GENE 9 13	areA
+T4	GENE 9 21	areA product
+T5	GENE 91 95	GATA
+T6	GENE 91 109	GATA (DNA-binding)
+T7	GENE 91 116	GATA (DNA-binding) domain

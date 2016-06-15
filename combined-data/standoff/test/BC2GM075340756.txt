@@ -1,0 +1,1 @@
+Two estimates of the fractal exponent are considered which do not suffer from this limit: one derived from the Allan variance, which was developed by the authors, and one based on the periodogram.

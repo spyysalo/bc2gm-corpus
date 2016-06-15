@@ -1,0 +1,6 @@
+T1	GENE 0 25	Prostate-specific antigen
+T2	GENE 0 31	Prostate-specific antigen (PSA)
+T3	GENE 0 40	Prostate-specific antigen (PSA) promoter
+T4	GENE 26 40	(PSA) promoter
+T5	GENE 27 30	PSA
+T6	GENE 81 104	sodium iodide symporter

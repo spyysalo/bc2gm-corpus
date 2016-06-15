@@ -1,0 +1,1 @@
+The open reading frames of rbsD, rbsA, and rbsC encode proteins of 139, 501, and 321 amino acid residues, respectively.

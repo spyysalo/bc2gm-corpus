@@ -1,0 +1,1 @@
+Single amino acid substitutions were shown to result from the mutations pdr1-2 (M308I), pdr1-3 (F815S), pdr1-6 (K302Q), pdr1-7 (P298A) and pdr1-8 (L1036 W), whereas the intragenic suppressor mutant pdr1-100 is deleted for the two amino acids L537 and A538.

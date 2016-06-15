@@ -1,0 +1,1 @@
+The C-terminal region contains the PTP-like domain, whereas the N-terminal region shows no homology to any known mammalian protein.

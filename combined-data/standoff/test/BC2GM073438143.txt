@@ -1,0 +1,1 @@
+The Rep proteins of adeno-associated virus type 2 (AAV) are known to bind to Rep recognition sequences (RRSs) in the AAV inverted terminal repeats (ITRs), the AAV p5 promoter, and the preferred AAV integration site in human chromosome 19, called AAVS1.

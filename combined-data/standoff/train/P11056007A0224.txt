@@ -1,0 +1,1 @@
+It contained seven extra amino acids of FVVLNLQ; this short stretch of extra sequence was found between Gln(421) and Phe(422) within the SET (Suvar3-9, Enhancer-of-zeste, Trithorax) interacting domain (SID) of rMTM.

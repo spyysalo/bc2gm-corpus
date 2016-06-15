@@ -1,0 +1,1 @@
+These results support the hypothesis that in the presence of tryptophan the ribosome translating tnaC blocks Rho's access to the boxA and rut sites, thereby preventing transcription termination.

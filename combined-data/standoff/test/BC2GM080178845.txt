@@ -1,0 +1,1 @@
+PKCI-1 is a member of the HIT family of proteins, shown by sequence identity to be conserved in a broad range of organisms including mycoplasma, plants, and humans.

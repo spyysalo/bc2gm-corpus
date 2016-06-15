@@ -1,0 +1,12 @@
+T1	GENE 2 13	9.5-kb KpnI
+T2	GENE 2 27	9.5-kb KpnI-SalI fragment
+T3	GENE 124 130	su(Hw)
+T4	GENE 124 137	su(Hw) mutant
+T5	GENE 14 18	SalI
+T6	GENE 14 27	SalI fragment
+T7	GENE 154 163	P-element
+T8	GENE 71 77	su(Hw)
+T9	GENE 71 87	su(Hw) mutations
+T10	GENE 9 13	KpnI
+T11	GENE 9 18	KpnI-SalI
+T12	GENE 9 27	KpnI-SalI fragment

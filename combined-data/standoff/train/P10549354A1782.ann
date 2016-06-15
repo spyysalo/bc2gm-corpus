@@ -1,0 +1,15 @@
+T1	GENE 16 19	APC
+T2	GENE 16 29	APC wild-type
+T3	GENE 180 192	beta-catenin
+T4	GENE 241 244	APC
+T5	GENE 246 255	GSK3 beta
+T6	GENE 261 265	Axin
+T7	GENE 261 275	Axin/Conductin
+T8	GENE 266 275	Conductin
+T9	GENE 88 114	nuclear Tcf-4/beta-catenin
+T10	GENE 88 124	nuclear Tcf-4/beta-catenin complexes
+T11	GENE 88 101	nuclear Tcf-4
+T12	GENE 96 114	Tcf-4/beta-catenin
+T13	GENE 96 124	Tcf-4/beta-catenin complexes
+T14	GENE 96 101	Tcf-4
+T15	GENE 102 114	beta-catenin

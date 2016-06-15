@@ -1,0 +1,10 @@
+T1	GENE 14 18	C mu
+T2	GENE 14 23	C mu RNAs
+T3	GENE 16 18	mu
+T4	GENE 32 34	mu
+T5	GENE 32 40	mu mRNAs
+T6	GENE 82 96	joining region
+T7	GENE 82 101	joining region (JH)
+T8	GENE 82 107	joining region (JH) locus
+T9	GENE 97 107	(JH) locus
+T10	GENE 98 100	JH

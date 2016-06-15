@@ -1,0 +1,16 @@
+T1	GENE 15 20	Vbeta
+T2	GENE 15 28	Vbeta domains
+T3	GENE 152 155	FR2
+T4	GENE 174 177	FR3
+T5	GENE 4 20	Valpha and Vbeta
+T6	GENE 4 28	Valpha and Vbeta domains
+T7	GENE 4 10	Valpha
+T8	GENE 66 91	teleost and mammalian TCR
+T9	GENE 66 93	teleost and mammalian TCR V
+T10	GENE 66 101	teleost and mammalian TCR V domains
+T11	GENE 78 91	mammalian TCR
+T12	GENE 78 93	mammalian TCR V
+T13	GENE 78 101	mammalian TCR V domains
+T14	GENE 88 91	TCR
+T15	GENE 88 93	TCR V
+T16	GENE 88 101	TCR V domains

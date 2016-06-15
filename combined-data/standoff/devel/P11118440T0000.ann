@@ -1,0 +1,8 @@
+T1	GENE 118 123	HDAC1
+T2	GENE 118 151	HDAC1 transcriptional corepressor
+T3	GENE 81 102	tumor suppressor ING1
+T4	GENE 98 102	ING1
+T5	GENE 112 117	mSin3
+T6	GENE 112 123	mSin3/HDAC1
+T7	GENE 112 151	mSin3/HDAC1 transcriptional corepressor
+T8	GENE 112 159	mSin3/HDAC1 transcriptional corepressor complex

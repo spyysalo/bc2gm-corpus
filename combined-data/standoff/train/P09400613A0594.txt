@@ -1,0 +1,1 @@
+Coexpression of mouse PKR(1-515)WT as a Gal4 DNA-binding domain fusion with either the catalytic-deficient human PKR(1-551) K296R mutant, the RNA-binding-deficient human PKR(1-551)K64E/K296R double mutant, or wild-type mouse PKR(1-515)WT as full-length PKR-Gal4 activation domain fusions resulted in activation of the HIS3 and lacZ reporters.

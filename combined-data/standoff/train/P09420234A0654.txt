@@ -1,0 +1,1 @@
+MpB GroEL has extensive sequence similarity (92%) with Escherichia coli GroEL and other members of the chaperonin-60 family.

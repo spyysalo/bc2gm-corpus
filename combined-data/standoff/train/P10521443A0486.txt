@@ -1,0 +1,1 @@
+This effect required (i) IR activation since it was abrogated by IR mutation at tyrosines 1162 and 1163 and (ii) NF-kappaB activation since it was abolished by overexpression of dominant-negative IkappaB-alpha(A32/36) and mimicked by overexpression of the NF-kappaB c-Rel subunit.

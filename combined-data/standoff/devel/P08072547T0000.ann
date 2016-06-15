@@ -1,0 +1,5 @@
+T1	GENE 0 5	c-Fos
+T2	GENE 45 50	H-Ras
+T3	GENE 45 75	H-Ras-activated protein kinase
+T4	GENE 90 93	JNK
+T5	GENE 98 101	ERK

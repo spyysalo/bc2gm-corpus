@@ -1,0 +1,13 @@
+T1	GENE 117 121	lacZ
+T2	GENE 143 147	spc1
+T3	GENE 143 152	spc1 MAPK
+T4	GENE 172 176	atf1
+T5	GENE 19 24	tup11
+T6	GENE 29 34	tup12
+T7	GENE 40 44	atf1
+T8	GENE 40 49	atf1-pcr1
+T9	GENE 40 75	atf1-pcr1 transcriptional activator
+T10	GENE 45 49	pcr1
+T11	GENE 45 75	pcr1 transcriptional activator
+T12	GENE 112 121	fbp1-lacZ
+T13	GENE 112 116	fbp1

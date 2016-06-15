@@ -1,0 +1,1 @@
+A drug with ISA "down regulates" beta receptors; thus, when the drug is withdrawn there is no post-beta-blocking drug hypersensitivity in contrast to agents without ISA.

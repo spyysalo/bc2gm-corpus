@@ -1,0 +1,1 @@
+By applying a sufficiently strong crusher gradient in the EPI pulse sequence, the temporal variation induced by SSFP disturbance can be suppressed due to diffusion.

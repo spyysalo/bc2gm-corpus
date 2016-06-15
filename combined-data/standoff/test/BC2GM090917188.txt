@@ -1,0 +1,1 @@
+Hydropathy analysis of deduced A4 amino acid sequence revealed four putative membrane-spanning alpha-helices.

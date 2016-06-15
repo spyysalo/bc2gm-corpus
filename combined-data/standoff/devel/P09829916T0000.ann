@@ -1,0 +1,12 @@
+T1	GENE 14 18	lacZ
+T2	GENE 44 64	Escherichia coli spc
+T3	GENE 44 71	Escherichia coli spc operon
+T4	GENE 61 64	spc
+T5	GENE 61 71	spc operon
+T6	GENE 105 124	W205 trp-lac fusion
+T7	GENE 105 113	W205 trp
+T8	GENE 105 117	W205 trp-lac
+T9	GENE 110 124	trp-lac fusion
+T10	GENE 110 113	trp
+T11	GENE 110 117	trp-lac
+T12	GENE 114 117	lac

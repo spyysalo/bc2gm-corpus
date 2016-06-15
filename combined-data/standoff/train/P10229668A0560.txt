@@ -1,0 +1,1 @@
+A cdc33-1 strain expressing either stable Cln3p (Cln3-1p) or a hybrid UBI4 5'-CLN3 mRNA, whose translation displays decreased dependence on eIF4E, arrested randomly in the cell cycle.

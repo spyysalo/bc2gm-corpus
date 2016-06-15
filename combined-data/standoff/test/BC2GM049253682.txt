@@ -1,0 +1,1 @@
+The isolation of crt5-262, an additional cdc allele of POL1/CDC17, suggests for the first time that directly blocking DNA replication can provide a signal to induce the DNA damage response. crt2 mutants show a defect in basal level expression of RNR1-lacZ reporter constructs.

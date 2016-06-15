@@ -1,0 +1,1 @@
+A single nucleotide polymorphism (SNP) in exon 2, which is tightly liked to another SNP (GTG83/ATG83), creates an additional alternative in-frame AUG in B-type MTH1 mRNAs yielding the fourth MTH1 polypeptide, p26 that possesses an additional mitochondrial targeting signal.

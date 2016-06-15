@@ -1,0 +1,1 @@
+Module 2 of RifA lacks a beta-ketoacyl:acyl carrier protein reductase (KR) domain and the one in module 3 has an apparently inactive NADPH binding motif, similar to one found in the Er PKS, while the other eight KR domains of the Rf PKS should be functional.

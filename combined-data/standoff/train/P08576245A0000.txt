@@ -1,0 +1,1 @@
+GRP78, a molecular chaperone expressed in the endoplasmic reticulum, is a "glucose-regulated protein" induced by stress responses that deplete glucose or intracisternal calcium or otherwise disrupt glycoprotein trafficking.

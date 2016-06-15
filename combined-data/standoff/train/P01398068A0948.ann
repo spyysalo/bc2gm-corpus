@@ -1,0 +1,11 @@
+T1	GENE 42 69	his175 or his273 mutant p53
+T2	GENE 42 78	his175 or his273 mutant p53 proteins
+T3	GENE 52 69	his273 mutant p53
+T4	GENE 52 78	his273 mutant p53 proteins
+T5	GENE 59 69	mutant p53
+T6	GENE 59 78	mutant p53 proteins
+T7	GENE 66 69	p53
+T8	GENE 66 78	p53 proteins
+T9	GENE 116 119	RGC
+T10	GENE 116 123	RGC DNA
+T11	GENE 116 132	RGC DNA sequence

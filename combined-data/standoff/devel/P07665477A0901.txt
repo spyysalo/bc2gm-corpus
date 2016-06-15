@@ -1,0 +1,1 @@
+EsaR can repress its own expression but seems not to regulate the expression of esaI.

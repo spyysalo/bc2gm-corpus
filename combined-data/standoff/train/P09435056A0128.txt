@@ -1,0 +1,1 @@
+The functional mature domain of pediocin AcH (Lys+1 to Cys+44) is targeted into the E. coli sec machinery and secreted to the periplasm in active form when fused in frame to the COOH terminus of the secretory protein maltose-binding protein (MBP).

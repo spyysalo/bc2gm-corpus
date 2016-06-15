@@ -1,0 +1,1 @@
+The enhanced binding of c-Abl to DNA containing 5-methylcytosine residues may result from an increased propensity of the double helix to denature locally coupled with a protein-induced reduction in the base stacking interaction.

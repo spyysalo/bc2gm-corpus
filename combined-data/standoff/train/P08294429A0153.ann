@@ -1,0 +1,12 @@
+T1	GENE 127 137	luciferase
+T2	GENE 127 143	luciferase genes
+T3	GENE 186 189	hGH
+T4	GENE 186 198	hGH promoter
+T5	GENE 23 26	hGH
+T6	GENE 23 31	hGH gene
+T7	GENE 35 38	hGH
+T8	GENE 35 54	hGH 5'-flanking DNA
+T9	GENE 35 62	hGH 5'-flanking DNA (5'-FR)
+T10	GENE 78 81	hGh
+T11	GENE 78 86	hGh cDNA
+T12	GENE 90 123	chloramphenicol acetyltransferase

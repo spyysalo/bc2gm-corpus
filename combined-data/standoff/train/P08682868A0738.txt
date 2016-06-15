@@ -1,0 +1,1 @@
+Although the DSK2-1 mutation alters a conserved residue in the Dsk2p ubiquitin-like domain, we detect no differences in Dsk2p or Cdc31p stability.

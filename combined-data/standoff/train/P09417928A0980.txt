@@ -1,0 +1,1 @@
+Replacement of residues in positions +3 (His128Asn) and +2 (Gln155Lys) of the reading helices of fingers 2 and 3, respectively, prevented binding.

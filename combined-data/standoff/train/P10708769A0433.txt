@@ -1,0 +1,1 @@
+The Mif1 5' flanking region contains a functional ER stress-responsive element which is sufficient for induction by tunicamycin.

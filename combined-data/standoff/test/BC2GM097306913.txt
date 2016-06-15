@@ -1,0 +1,1 @@
+In contrast, vRel lacks a strong C-terminal gene activation function, since a LexA fusion protein containing C-terminal vRel sequences alone only weakly activated transcription.

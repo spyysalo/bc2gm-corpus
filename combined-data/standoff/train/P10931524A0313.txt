@@ -1,0 +1,1 @@
+To analyze the regulatory activity of Gtx, we first identified the optimal Gtx-binding sequence using an in vitro DNA-binding assay.

@@ -1,0 +1,1 @@
+Cyclin A expression is repressed in quiescent cells by E2F acting in conjunction with its pocket protein partners Rb, p107, and p130; however, v-Jun overrides this control, causing phosphorylated Rb and proliferation-specific E2F-p107 complexes to persist after mitogen withdrawal.

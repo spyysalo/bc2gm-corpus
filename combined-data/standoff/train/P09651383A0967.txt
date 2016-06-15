@@ -1,0 +1,1 @@
+However, mutations in the HNF-4 binding site on element CIIB and inhibition of HNF-4 synthesis in HepG2 cells by antisense HNF-4 constructs decreased the apoCII promoter activity to 25-40% of the control, indicating that HNF-4 is a positive regulator of the apoCII gene.

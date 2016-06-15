@@ -1,0 +1,1 @@
+We identified Tyr(112) and Leu(175) within the RNA-binding domain of the U1 70K protein to be cross-linked to G(28) and U(30) in stem-loop I, respectively.

@@ -1,0 +1,21 @@
+T1	GENE 135 139	PEP1
+T2	GENE 135 146	PEP1 (SAP1)
+T3	GENE 141 145	SAP1
+T4	GENE 155 165	human MADS
+T5	GENE 155 169	human MADS box
+T6	GENE 155 179	human MADS box consensus
+T7	GENE 155 192	human MADS box consensus binding site
+T8	GENE 161 165	MADS
+T9	GENE 161 169	MADS box
+T10	GENE 161 179	MADS box consensus
+T11	GENE 161 192	MADS box consensus binding site
+T12	GENE 197 218	serum response factor
+T13	GENE 28 32	MADS
+T14	GENE 28 36	MADS box
+T15	GENE 28 36	MADS box
+T16	GENE 28 46	MADS box consensus
+T17	GENE 28 59	MADS box consensus binding site
+T18	GENE 291 294	OP4
+T19	GENE 291 303	OP4 sequence
+T20	GENE 108 139	opaque-phase-specific gene PEP1
+T21	GENE 108 146	opaque-phase-specific gene PEP1 (SAP1)

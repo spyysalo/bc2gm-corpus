@@ -1,0 +1,1 @@
+The coefficient of determination, r2, of the other scores ranged from 0.56 to 0.61.

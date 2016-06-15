@@ -1,0 +1,1 @@
+The cDNA contains a reading frame for a 145-amino-acid protein and it lacks the UGA codons, which have been found in the reading frame of the mouse MCS cDNA and have been presumed to encode the selenocysteine in the amino terminal of the deduced mouse amino acid sequence.

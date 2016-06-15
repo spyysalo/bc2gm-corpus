@@ -1,0 +1,11 @@
+T1	GENE 137 140	SET
+T2	GENE 137 181	SET (Suvar3-9, Enhancer-of-zeste, Trithorax)
+T3	GENE 137 200	SET (Suvar3-9, Enhancer-of-zeste, Trithorax) interacting domain
+T4	GENE 137 206	SET (Suvar3-9, Enhancer-of-zeste, Trithorax) interacting domain (SID)
+T5	GENE 137 214	SET (Suvar3-9, Enhancer-of-zeste, Trithorax) interacting domain (SID) of rMTM
+T6	GENE 141 214	(Suvar3-9, Enhancer-of-zeste, Trithorax) interacting domain (SID) of rMTM
+T7	GENE 142 150	Suvar3-9
+T8	GENE 142 180	Suvar3-9, Enhancer-of-zeste, Trithorax
+T9	GENE 152 169	Enhancer-of-zeste
+T10	GENE 171 180	Trithorax
+T11	GENE 210 214	rMTM

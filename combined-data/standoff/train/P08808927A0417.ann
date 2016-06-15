@@ -1,0 +1,12 @@
+T1	GENE 2 16	1.5-kb HindIII
+T2	GENE 2 51	1.5-kb HindIII genomic fragment carrying the vspA
+T3	GENE 17 51	genomic fragment carrying the vspA
+T4	GENE 17 56	genomic fragment carrying the vspA gene
+T5	GENE 25 51	fragment carrying the vspA
+T6	GENE 25 56	fragment carrying the vspA gene
+T7	GENE 47 51	vspA
+T8	GENE 47 56	vspA gene
+T9	GENE 9 16	HindIII
+T10	GENE 9 33	HindIII genomic fragment
+T11	GENE 9 51	HindIII genomic fragment carrying the vspA
+T12	GENE 9 56	HindIII genomic fragment carrying the vspA gene

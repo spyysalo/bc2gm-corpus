@@ -1,0 +1,1 @@
+Regulatory motifs for gene expression such as nuclear-factor-kappaB-binding-site-like sequence (kappaB site) and nuclear-factor-interleukin-6-binding-site-like sequence (NF-IL-6 site) were found in the 5'-upstream regulatory region.

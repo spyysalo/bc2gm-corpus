@@ -1,0 +1,1 @@
+The following parameters were measured: onset time (time interval from injection to maximal or total block), T125/75 (time for T1 to reach 25% or 75% of control), TOF70 (time for TOF ratio to reach 70% of control), heart rate and blood pressure.

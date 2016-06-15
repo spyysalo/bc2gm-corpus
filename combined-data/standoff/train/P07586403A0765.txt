@@ -1,0 +1,1 @@
+On the basis of these relations, a risk factor-selection scale (RFSS) (range, 0 to 10) was developed by computing appropriate weights for each risk factor.

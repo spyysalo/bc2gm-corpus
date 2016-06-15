@@ -1,0 +1,10 @@
+T1	GENE 16 19	Mnt
+T2	GENE 16 23	Mnt:Max
+T3	GENE 16 38	Mnt:Max:Sin3 complexes
+T4	GENE 20 23	Max
+T5	GENE 20 28	Max:Sin3
+T6	GENE 20 38	Max:Sin3 complexes
+T7	GENE 24 28	Sin3
+T8	GENE 24 38	Sin3 complexes
+T9	GENE 69 72	Myc
+T10	GENE 73 76	Max

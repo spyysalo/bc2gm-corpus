@@ -1,0 +1,1 @@
+The analysis consisted of 1) fitting first- and second-order autoregressive models (AR1 and AR2) and 2) obtaining the power spectra of the data by fast-Fourier transform.

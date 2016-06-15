@@ -1,0 +1,1 @@
+In order to examine the potential role of transcriptional silencing during productive HSV-1 infection, recombinant viruses were generated in which wild-type or mutant ICP34.5 promoters controlling the expression of a chloramphenicol acetyltransferase reporter gene were inserted into the thymidine kinase gene of the viral genome.

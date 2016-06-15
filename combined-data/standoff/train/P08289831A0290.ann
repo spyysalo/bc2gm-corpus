@@ -1,0 +1,8 @@
+T1	GENE 12 15	mig
+T2	GENE 12 19	mig/CAT
+T3	GENE 12 39	mig/CAT chimeric constructs
+T4	GENE 127 136	IFN-gamma
+T5	GENE 127 155	IFN-gamma-responsive element
+T6	GENE 127 168	IFN-gamma-responsive element (gamma RE-1)
+T7	GENE 157 167	gamma RE-1
+T8	GENE 16 19	CAT

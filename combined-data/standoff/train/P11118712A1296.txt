@@ -1,0 +1,1 @@
+This sensitivity analysis showed that the practical limits of the accuracy of the used screening test jeopardize the estimation of the true herd prevalence within reasonable confidence limits, because the within-herd PTB true prevalence was low.For this reason we augmented the herd specificity for herds with larger adult herd size (>5).

@@ -1,0 +1,1 @@
+The amino acid sequence alignment of TC II with that of other Cbl binding proteins (rat intrinsic factor, human transcobalamin I and porcine haptocorrin) revealed only 33% overall homology.

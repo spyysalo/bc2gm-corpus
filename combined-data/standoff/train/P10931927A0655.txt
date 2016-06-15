@@ -1,0 +1,1 @@
+Using an oligomer duplex 5'-A(GGGTTA)(5)-3'/5'-(TAACCC)(5)T-3' as a template-primer, we show that both the Klenow fragment of Escherichia coli DNA polymerase I and HIV reverse transcriptase could expand telomere DNA sequences as well, giving products greater than the size of the template DNA.

@@ -1,0 +1,21 @@
+T1	GENE 139 164	triosephosphate isomerase
+T2	GENE 139 170	triosephosphate isomerase (TIM)
+T3	GENE 15 70	genes encoding glyceraldehyde-3-phosphate dehydrogenase
+T4	GENE 15 78	genes encoding glyceraldehyde-3-phosphate dehydrogenase (GAPDH)
+T5	GENE 166 169	TIM
+T6	GENE 250 253	gap
+T7	GENE 250 260	gap operon
+T8	GENE 287 307	Escherichia coli gap
+T9	GENE 287 313	Escherichia coli gap amber
+T10	GENE 287 320	Escherichia coli gap amber mutant
+T11	GENE 30 70	glyceraldehyde-3-phosphate dehydrogenase
+T12	GENE 30 78	glyceraldehyde-3-phosphate dehydrogenase (GAPDH)
+T13	GENE 304 307	gap
+T14	GENE 304 313	gap amber
+T15	GENE 304 320	gap amber mutant
+T16	GENE 4 70	structural genes encoding glyceraldehyde-3-phosphate dehydrogenase
+T17	GENE 4 78	structural genes encoding glyceraldehyde-3-phosphate dehydrogenase (GAPDH)
+T18	GENE 72 77	GAPDH
+T19	GENE 80 111	3-phosphoglycerate kinase (PGK)
+T20	GENE 80 105	3-phosphoglycerate kinase
+T21	GENE 107 110	PGK

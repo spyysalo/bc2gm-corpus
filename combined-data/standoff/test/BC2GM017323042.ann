@@ -1,0 +1,18 @@
+T1	GENE 121 124	LUC
+T2	GENE 231 234	Sp1
+T3	GENE 231 234	Sp1
+T4	GENE 238 241	Sp1
+T5	GENE 238 246	Sp1-like
+T6	GENE 238 254	Sp1-like factors
+T7	GENE 63 66	Ahr
+T8	GENE 63 76	Ahr Sp1 sites
+T9	GENE 67 70	Sp1
+T10	GENE 67 76	Sp1 sites
+T11	GENE 91 94	Ahr
+T12	GENE 91 103	Ahr promoter
+T13	GENE 109 125	luciferase (LUC)
+T14	GENE 109 134	luciferase (LUC) reporter
+T15	GENE 109 139	luciferase (LUC) reporter gene
+T16	GENE 109 119	luciferase
+T17	GENE 120 134	(LUC) reporter
+T18	GENE 120 139	(LUC) reporter gene

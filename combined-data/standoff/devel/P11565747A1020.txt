@@ -1,0 +1,1 @@
+Data from in vitro splicing assays, UV crosslinking and RNA-binding competition experiments indicates a strong correlation between the binding affinities of PSI for the SELEX sequences and their ability to modulate splicing of P element IVS3 in vitro.

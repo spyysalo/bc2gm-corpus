@@ -1,0 +1,12 @@
+T1	GENE 16 19	p53
+T2	GENE 28 31	p73
+T3	GENE 35 56	adenovirus type 5 E1B
+T4	GENE 35 70	adenovirus type 5 E1B 55-kilodalton
+T5	GENE 35 104	adenovirus type 5 E1B 55-kilodalton and E4 34-kilodalton oncoproteins
+T6	GENE 53 56	E1B
+T7	GENE 53 70	E1B 55-kilodalton
+T8	GENE 53 91	E1B 55-kilodalton and E4 34-kilodalton
+T9	GENE 53 104	E1B 55-kilodalton and E4 34-kilodalton oncoproteins
+T10	GENE 75 77	E4
+T11	GENE 75 91	E4 34-kilodalton
+T12	GENE 75 104	E4 34-kilodalton oncoproteins

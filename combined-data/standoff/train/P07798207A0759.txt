@@ -1,0 +1,1 @@
+The deduced amino acid sequences of each of the W3A1 ETF subunits exhibit only approximately 30% identity with the corresponding subunits of the ETF from human, rat, and Paracoccus denitrificans, which as a group are greater than 50% identical.

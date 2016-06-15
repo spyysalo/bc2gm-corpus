@@ -1,0 +1,1 @@
+The cDNA segment is flanked by the immunoglobulin gene recombination signal sequences so that the cDNA segment can invert and the human IL-2R L chain is subsequently expressed under the control of the SV40 promoter.

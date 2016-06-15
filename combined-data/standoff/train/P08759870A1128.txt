@@ -1,0 +1,1 @@
+The extent of the fbpA operator sequence (42 bp), as defined by our footprinting analysis, would suggest the binding of two Fur repressor dimers.

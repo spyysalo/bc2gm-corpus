@@ -1,0 +1,1 @@
+This spindle defect of pds1 mutants results from a temperature-sensitive step that occurs around the G1/S boundary about the time of spindle assembly.

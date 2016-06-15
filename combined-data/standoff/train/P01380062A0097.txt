@@ -1,0 +1,1 @@
+T antigen contains four H-2Db-restricted cytotoxic T lymphocyte (CTL) recognition epitopes that are targets for CTL clones Y-1, Y-2, Y-3, and Y-5.

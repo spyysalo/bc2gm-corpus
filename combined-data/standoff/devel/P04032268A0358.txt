@@ -1,0 +1,1 @@
+Either a UV detector set at 268 nm or an electrochemical (EC) detector set at a potential of +0.9 V (versus Ag/AgCl/3 M NaCl) was used to monitor the drug.

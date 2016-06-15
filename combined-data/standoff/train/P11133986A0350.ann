@@ -1,0 +1,8 @@
+T1	GENE 125 128	PIP
+T2	GENE 160 165	c-Fos
+T3	GENE 171 176	c-Jun
+T4	GENE 194 202	kappaE3'
+T5	GENE 194 211	kappaE3'-enhancer
+T6	GENE 90 94	PU.1
+T7	GENE 99 123	PU.1 interaction partner
+T8	GENE 99 129	PU.1 interaction partner (PIP)

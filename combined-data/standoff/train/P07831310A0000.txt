@@ -1,0 +1,1 @@
+A genetic complementation system was developed in which tobacco etch virus (TEV) polymerase (NIb)-expressing transgenic plants or protoplasts were inoculated with NIb-defective TEV mutants.

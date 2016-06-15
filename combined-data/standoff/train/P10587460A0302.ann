@@ -1,0 +1,10 @@
+T1	GENE 46 55	human VDR
+T2	GENE 46 62	human VDR (hVDR)
+T3	GENE 57 61	hVDR
+T4	GENE 57 61	hVDR
+T5	GENE 76 103	C-terminally truncated hVDR
+T6	GENE 76 111	C-terminally truncated hVDR mutants
+T7	GENE 89 103	truncated hVDR
+T8	GENE 89 111	truncated hVDR mutants
+T9	GENE 99 103	hVDR
+T10	GENE 99 111	hVDR mutants

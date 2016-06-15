@@ -1,0 +1,1 @@
+The predicted protein, Seb1p, consists of 82 amino acids and contains one potential membrane-spanning region at the C-terminus but no N-terminal signal sequence.

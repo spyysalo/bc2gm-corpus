@@ -1,0 +1,1 @@
+Various stimuli inactivate IkappaB alpha by triggering phosphorylation of the N-terminal residues Ser32 and Ser36.

@@ -1,0 +1,1 @@
+SRFDelta5 acts as a naturally occurring dominant negative regulatory mutant that blocks SRF-dependent skeletal alpha-actin, cardiac alpha-actin, smooth alpha-actin, SM22alpha, and SRF promoter-luciferase reporter activities.

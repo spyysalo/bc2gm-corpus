@@ -1,0 +1,13 @@
+T1	GENE 0 5	Fig1p
+T2	GENE 57 61	Fig1
+T3	GENE 57 72	Fig1:: beta-gal
+T4	GENE 64 72	beta-gal
+T5	GENE 64 72	beta-gal
+T6	GENE 77 81	Fig2
+T7	GENE 77 91	Fig2::beta-gal
+T8	GENE 77 98	Fig2::beta-gal fusion
+T9	GENE 77 107	Fig2::beta-gal fusion proteins
+T10	GENE 83 91	beta-gal
+T11	GENE 83 98	beta-gal fusion
+T12	GENE 83 107	beta-gal fusion proteins
+T13	GENE 10 15	Fig2p

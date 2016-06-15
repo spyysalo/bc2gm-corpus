@@ -1,0 +1,1 @@
+Deletion of the region from amino acid residues 2-67 in E1A, which has been postulated to interact with p300/CBP, also abolished the inhibitory effect of E1A, whereas deletion of the region from residues 120 to 140 had no effect.

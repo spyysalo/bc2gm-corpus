@@ -1,0 +1,1 @@
+Oscillatory flow is reestablished in the model at the capillary-cerebrospinal fluid and capillary-venous interfaces.

@@ -1,0 +1,1 @@
+The predicted amino acid sequence is 78.0% identical to the cytoplasmic dynein heavy chain of Neurospora crassa, 70.2% identical to that of Aspergillus nidulans and 24.8% identical to that of Saccharomyces cerevisiae.

@@ -1,0 +1,1 @@
+We have isolated three mutant alleles of CDC4 (cdc4-10, cdc4-11, and cdc4-16) which suppress the nuclear division defect of cdc20-1 cells.

@@ -1,0 +1,1 @@
+RESULTS: In the test data set, the single-sample model was confirmed to give excellent estimation of the AUC: AUC (mg/ml x min) = 0.93 x C3h + 0.47 (MPE% = 4.4%, RMSE% = 8.9%).

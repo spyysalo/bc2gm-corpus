@@ -1,0 +1,1 @@
+Partial N-terminal amino acid sequence analysis showed that the 43K and 42K T antigens contain methionine at residues 1 and 5, as predicted from the DNA sequence, whereas no methionine was released from the 39K T antigen during the first six cycles of Edman degradation.

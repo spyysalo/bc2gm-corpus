@@ -1,0 +1,1 @@
+To determine whether interaction of arsenite with the hormone-binding domain results in receptor activation, COS-1 cells were transiently cotransfected with the chimeric receptors GAL-ER, which contains the hormone-binding domain of ERalpha and the DNA-binding domain of the transcription factor GAL4, and a GAL4-responsive CAT reporter gene.

@@ -1,0 +1,12 @@
+T1	GENE 0 21	Tumor necrosis factor
+T2	GENE 35 66	stress-activated protein kinase
+T3	GENE 35 73	stress-activated protein kinase (SAPK)
+T4	GENE 35 97	stress-activated protein kinase (SAPK)/Jun NH2-terminal kinase
+T5	GENE 35 103	stress-activated protein kinase (SAPK)/Jun NH2-terminal kinase (JNK)
+T6	GENE 67 97	(SAPK)/Jun NH2-terminal kinase
+T7	GENE 67 103	(SAPK)/Jun NH2-terminal kinase (JNK)
+T8	GENE 68 72	SAPK
+T9	GENE 74 97	Jun NH2-terminal kinase
+T10	GENE 74 103	Jun NH2-terminal kinase (JNK)
+T11	GENE 99 102	JNK
+T12	GENE 108 111	p38

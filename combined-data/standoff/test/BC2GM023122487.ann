@@ -1,0 +1,8 @@
+T1	GENE 154 158	lacZ
+T2	GENE 154 167	lacZ reporter
+T3	GENE 154 172	lacZ reporter gene
+T4	GENE 223 226	tol
+T5	GENE 223 231	tol-oprL
+T6	GENE 223 237	tol-oprL locus
+T7	GENE 227 231	oprL
+T8	GENE 227 237	oprL locus

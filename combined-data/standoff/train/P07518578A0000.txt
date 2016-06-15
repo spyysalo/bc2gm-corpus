@@ -1,0 +1,1 @@
+The transforming protein of Rous sarcoma virus, pp60v-src, and its normal cellular homolog, pp60c-src, differ not only in oncogenic potential but also in their subcellular localization and cytoskeletal binding ability. pp60v-src has been shown to stably associate with a detergent-insoluble cytoskeletal matrix, whereas pp60c-src does not.

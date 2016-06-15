@@ -1,0 +1,1 @@
+The first one is a TPA-responsive element that controls the base-line ST3 promoter activity but is not required for its activation.

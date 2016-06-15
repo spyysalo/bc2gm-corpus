@@ -1,0 +1,1 @@
+We characterized the structure of this leader mRNA by using the program Mfold and a combination of nested and internal deletions transcriptionally fused to a promoterless lac operon.

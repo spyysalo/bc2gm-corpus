@@ -1,0 +1,1 @@
+Null alleles of SAS4 and SAS5 bypassed the role of the Abf1p binding site of the HMR-E silencer but not the role of the ACS or Rap1p binding site.

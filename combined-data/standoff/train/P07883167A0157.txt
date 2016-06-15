@@ -1,0 +1,1 @@
+In yeast, the products of the UPF1 and UPF3 genes are required for this decay pathway, and in this report we focus on the identification and characterization of additional factors required for rapid decay of nonsense-containing mRNAs.

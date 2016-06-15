@@ -1,0 +1,1 @@
+The interaction of zf4-6 with full-length 5 S RNA was far more sensitive to non-specific competitor concentration than was the zf4-7:5 S RNA interaction, suggesting that finger seven contributes to both affinity and specificity in this protein:RNA interaction.

@@ -1,0 +1,1 @@
+Interestingly, the interaction of ZAP-70 with the motif was dependent on the presence of both ZAP-70 SH2 domains and both of the tyrosine residues in the motif, suggesting that ZAP-70 interacts with two phosphotyrosine residues and that the binding of the two SH2 domains is cooperative.

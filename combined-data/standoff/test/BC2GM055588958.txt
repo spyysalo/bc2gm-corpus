@@ -1,0 +1,1 @@
+Two plasmids, one containing the amino terminus of P fused to the DNA-binding domain of the yeast transactivator, GAL4, and the other containing the amino terminus of NP fused to the herpesvirus transactivator, VP16, were transfected in COS-1 cells along with a chloramphenicol acetyltransferase (CAT) reporter plasmid containing GAL4 DNA-binding sites.

@@ -1,0 +1,12 @@
+T1	GENE 17 25	RXRalpha
+T2	GENE 58 60	HD
+T3	GENE 58 65	HD-PPRE
+T4	GENE 58 76	HD-PPRE luciferase
+T5	GENE 58 85	HD-PPRE luciferase reporter
+T6	GENE 58 95	HD-PPRE luciferase reporter construct
+T7	GENE 66 76	luciferase
+T8	GENE 66 85	luciferase reporter
+T9	GENE 66 95	luciferase reporter construct
+T10	GENE 66 95	luciferase reporter construct
+T11	GENE 9 16	CARbeta
+T12	GENE 9 25	CARbeta/RXRalpha

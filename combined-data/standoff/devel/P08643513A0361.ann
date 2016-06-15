@@ -1,0 +1,10 @@
+T1	GENE 205 216	osteocalcin
+T2	GENE 205 221	osteocalcin gene
+T3	GENE 21 24	rOC
+T4	GENE 21 33	rOC promoter
+T5	GENE 21 67	rOC promoter-chloramphenicol acetyltransferase
+T6	GENE 21 78	rOC promoter-chloramphenicol acetyltransferase constructs
+T7	GENE 34 67	chloramphenicol acetyltransferase
+T8	GENE 34 78	chloramphenicol acetyltransferase constructs
+T9	GENE 100 122	AML-1-binding sequence
+T10	GENE 100 105	AML-1

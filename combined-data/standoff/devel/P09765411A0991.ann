@@ -1,0 +1,10 @@
+T1	GENE 199 212	NH2-ubiquitin
+T2	GENE 199 222	NH2-ubiquitin-S27a-COOH
+T3	GENE 203 212	ubiquitin
+T4	GENE 203 217	ubiquitin-S27a
+T5	GENE 203 222	ubiquitin-S27a-COOH
+T6	GENE 213 217	S27a
+T7	GENE 213 222	S27a-COOH
+T8	GENE 47 51	S27a
+T9	GENE 60 69	ubiquitin
+T10	GENE 60 86	ubiquitin coding sequences

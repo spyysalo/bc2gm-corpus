@@ -1,0 +1,24 @@
+T1	GENE 130 150	tyrosine phosphatase
+T2	GENE 130 160	tyrosine phosphatase (PT-Pase)
+T3	GENE 152 159	PT-Pase
+T4	GENE 176 227	cDNA encoding a 2861-amino acid protein termed Trio
+T5	GENE 192 227	2861-amino acid protein termed Trio
+T6	GENE 208 227	protein termed Trio
+T7	GENE 223 227	Trio
+T8	GENE 279 282	GEF
+T9	GENE 279 290	GEF domains
+T10	GENE 297 328	protein serine/threonine kinase
+T11	GENE 297 334	protein serine/threonine kinase (PSK)
+T12	GENE 297 341	protein serine/threonine kinase (PSK) domain
+T13	GENE 305 328	serine/threonine kinase
+T14	GENE 305 334	serine/threonine kinase (PSK)
+T15	GENE 305 341	serine/threonine kinase (PSK) domain
+T16	GENE 329 334	(PSK)
+T17	GENE 329 341	(PSK) domain
+T18	GENE 330 333	PSK
+T19	GENE 330 333	PSK
+T20	GENE 78 150	cytoplasmic region of the LAR transmembrane protein tyrosine phosphatase
+T21	GENE 104 129	LAR transmembrane protein
+T22	GENE 104 150	LAR transmembrane protein tyrosine phosphatase
+T23	GENE 104 160	LAR transmembrane protein tyrosine phosphatase (PT-Pase)
+T24	GENE 104 107	LAR

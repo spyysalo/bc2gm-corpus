@@ -1,0 +1,1 @@
+To assay for sequences that could potentially regulate Xenopus proenkephalin expression, we transfected constructs that contained upstream genomic sequences linked to the CAT reporter gene into various eukaryotic cell lines.

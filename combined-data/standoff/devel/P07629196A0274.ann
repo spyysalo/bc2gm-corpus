@@ -1,0 +1,15 @@
+T1	GENE 152 155	Jun
+T2	GENE 152 162	Jun kinase
+T3	GENE 152 194	Jun kinase/stress-activated protein kinase
+T4	GENE 152 205	Jun kinase/stress-activated protein kinase (JNK/SAPK)
+T5	GENE 163 194	stress-activated protein kinase
+T6	GENE 196 199	JNK
+T7	GENE 196 204	JNK/SAPK
+T8	GENE 200 204	SAPK
+T9	GENE 37 43	GTPase
+T10	GENE 65 73	alpha 12
+T11	GENE 65 89	alpha 12 (alpha 12Q229L)
+T12	GENE 75 88	alpha 12Q229L
+T13	GENE 93 101	alpha 13
+T14	GENE 93 117	alpha 13 (alpha 13Q226L)
+T15	GENE 103 116	alpha 13Q226L

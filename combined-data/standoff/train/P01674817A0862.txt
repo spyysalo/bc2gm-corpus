@@ -1,0 +1,1 @@
+No homology was found between RNA14 and RNA15 or between RNA14 and other proteins contained in data banks.

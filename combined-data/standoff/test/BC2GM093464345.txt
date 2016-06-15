@@ -1,0 +1,1 @@
+This enhancer element functioned in a position- and orientation-independent manner both on the Pax-QNR P0 promoter and the heterologous thymidine kinase promoter.

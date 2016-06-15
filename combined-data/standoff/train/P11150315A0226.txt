@@ -1,0 +1,1 @@
+A novel approach was developed for identifying transcription factor activities associated with NGF-activated, but not EGF-activated, signaling, using random oligonucleotide clones from a DNA recognition library to isolate specific DNA binding proteins from PC12 nuclear extracts.

@@ -1,0 +1,1 @@
+However, the sequence of mRAR-beta 3 region A differs from that of mRAR-beta 1 by an additional 27 C-terminal amino acids encoded in an 81 nucleotide-long putative exon which is spliced in between the exons encoding the A and B regions of mRAR-beta 1.

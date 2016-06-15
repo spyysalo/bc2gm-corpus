@@ -1,0 +1,5 @@
+T1	GENE 30 32	L4
+T2	GENE 69 72	S10
+T3	GENE 69 82	S10 r-protein
+T4	GENE 69 89	S10 r-protein operon
+T5	GENE 69 109	S10 r-protein operon of Escherichia coli

@@ -1,0 +1,1 @@
+These TxRE contain cyclic AMP-responsive elements (CRE), but, remarkably, the "TGACGTCA" consensus is never strictly conserved in any viral strain (e.g.,AGACGTCA, TGACGGCA, TGACCTCA).

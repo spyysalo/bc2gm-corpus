@@ -1,0 +1,1 @@
+This is predicted to encode a 315-residue protein containing seven hydrophobic helical regions and a 17 amino acid motif characteristic of the R7G family of G-protein coupled membrane-bound receptors.

@@ -1,0 +1,1 @@
+Sequence analysis indicates that in addition to an ATA and GC box, this region contains domains that have been implicated in the regulation of other muscle-specific genes: a CArG box at -91 bp; myocyte-specific enhancer-binding nuclear factor 1 binding site homologies at -58, -535, and -583 bp; and a muscle-CAAT consensus sequence at -394 bp relative to the cap site.

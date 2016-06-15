@@ -1,0 +1,17 @@
+T1	GENE 0 5	TRAF2
+T2	GENE 118 141	c-Jun N-terminal kinase
+T3	GENE 118 173	c-Jun N-terminal kinase/stress-activated protein kinase
+T4	GENE 118 184	c-Jun N-terminal kinase/stress-activated protein kinase (JNK/SAPK)
+T5	GENE 142 173	stress-activated protein kinase
+T6	GENE 175 178	JNK
+T7	GENE 175 183	JNK/SAPK
+T8	GENE 179 183	SAPK
+T9	GENE 219 260	transcription factor activating protein 1
+T10	GENE 219 266	transcription factor activating protein 1 (AP1)
+T11	GENE 262 265	AP1
+T12	GENE 301 306	c-Jun
+T13	GENE 301 316	c-Jun component
+T14	GENE 56 98	transcription factor nuclear factor kappaB
+T15	GENE 56 109	transcription factor nuclear factor kappaB (NFkappaB)
+T16	GENE 77 98	nuclear factor kappaB
+T17	GENE 100 108	NFkappaB

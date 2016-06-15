@@ -1,0 +1,1 @@
+We have been developing a digital fluoroscopic imaging system to replace the portal films that are currently used to verify patient positioning during radiotherapy treatments.

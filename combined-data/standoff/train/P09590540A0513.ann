@@ -1,0 +1,10 @@
+T1	GENE 158 162	Sac1
+T2	GENE 158 167	Sac1-Sal1
+T3	GENE 158 187	Sac1-Sal1 restricted fragment
+T4	GENE 163 167	Sal1
+T5	GENE 163 187	Sal1 restricted fragment
+T6	GENE 244 247	lac
+T7	GENE 244 256	lac operator
+T8	GENE 4 13	bZP2 cDNA
+T9	GENE 4 35	bZP2 cDNA (115-1914 nt, 1.8 kb)
+T10	GENE 4 8	bZP2

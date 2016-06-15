@@ -1,0 +1,10 @@
+T1	GENE 33 44	G alpha i-2
+T2	GENE 48 59	G alpha i-3
+T3	GENE 48 64	G alpha i-3 gene
+T4	GENE 48 86	G alpha i-3 gene 5'-flanking sequences
+T5	GENE 96 128	firefly luciferase cDNA reporter
+T6	GENE 96 114	firefly luciferase
+T7	GENE 96 119	firefly luciferase cDNA
+T8	GENE 104 128	luciferase cDNA reporter
+T9	GENE 104 114	luciferase
+T10	GENE 104 119	luciferase cDNA

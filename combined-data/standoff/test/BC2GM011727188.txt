@@ -1,0 +1,1 @@
+One ORF extends from nucleotides 415 to 1620, encodes 402 amino acids, and is preceded by a ribosome-binding site.

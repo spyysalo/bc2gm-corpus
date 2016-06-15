@@ -1,0 +1,9 @@
+T1	GENE 0 14	F-box proteins
+T2	GENE 75 78	SCF
+T3	GENE 75 88	SCF ubiquitin
+T4	GENE 75 95	SCF ubiquitin-ligase
+T5	GENE 75 103	SCF ubiquitin-ligase complex
+T6	GENE 79 88	ubiquitin
+T7	GENE 79 95	ubiquitin-ligase
+T8	GENE 79 103	ubiquitin-ligase complex
+T9	GENE 89 95	ligase

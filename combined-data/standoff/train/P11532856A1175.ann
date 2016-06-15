@@ -1,0 +1,11 @@
+T1	GENE 125 131	p42/44
+T2	GENE 125 156	p42/44 mitogen activated kinase
+T3	GENE 125 163	p42/44 mitogen activated kinase (MAPK)
+T4	GENE 209 232	c-Jun-N-terminal kinase
+T5	GENE 209 238	c-Jun-N-terminal kinase (JNK)
+T6	GENE 234 237	JNK
+T7	GENE 243 246	p38
+T8	GENE 243 251	p38 MAPK
+T9	GENE 255 260	HIF-1
+T10	GENE 86 89	HGF
+T11	GENE 93 106	stress kinase

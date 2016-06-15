@@ -1,0 +1,1 @@
+For signal durations less than 10 ms, however, the SoNo and S pi No threshold functions converged and the masking-level difference decreased.

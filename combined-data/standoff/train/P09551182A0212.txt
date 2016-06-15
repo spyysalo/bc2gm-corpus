@@ -1,0 +1,1 @@
+To study retinoid signalling in zebrafish embryos, we developed a novel method to detect endogenous retinoids in situ in embryos, using a fusion protein of the ligand inducible transactivation domain of a retinoic acid receptor and a heterologous DNA binding domain.

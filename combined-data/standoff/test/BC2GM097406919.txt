@@ -1,0 +1,1 @@
+Site-directed mutagenesis of the conserved cysteine residue (tom1C3235A) in the hect-domain, supposed to be necessary for thioester-bond formation with ubiquitin, abolished the gene function.

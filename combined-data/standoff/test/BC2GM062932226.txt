@@ -1,0 +1,1 @@
+Multivariable logistic regression showed that mean blood glucose level for the first 2 days (p = 0.002), obesity (p < 0.002), and use of the internal mammary artery (p < 0.02) were all independent predictors of deep wound infection.

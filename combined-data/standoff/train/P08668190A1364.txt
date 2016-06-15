@@ -1,0 +1,1 @@
+Vacuolar membrane vesicles from hum1 mutants lack all Ca2+/H+ antiport activity, demonstrating that Hum1p catalyzes the exchange of Ca2+ for H+ across the yeast vacuolar membrane.

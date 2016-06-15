@@ -1,0 +1,8 @@
+T1	GENE 20 24	coat
+T2	GENE 20 32	coat protein
+T3	GENE 20 41	coat protein promoter
+T4	GENE 101 103	C1
+T5	GENE 101 106	C1-C2
+T6	GENE 101 111	C1-C2 gene
+T7	GENE 103 120	-C2 gene products
+T8	GENE 104 106	C2

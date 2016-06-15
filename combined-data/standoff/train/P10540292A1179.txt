@@ -1,0 +1,1 @@
+These data show that the spv virulence genes belong simultaneously to several regulons in the cell, raising the possibility that spv expression can be fine-tuned in response to multiple environmental inputs.

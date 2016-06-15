@@ -1,0 +1,1 @@
+A sharp transition from a random chaotic state to a correlated turbulent state of finite coherence time is found when the Rayleigh number becomes larger than a critical value Ra(c) approximately equal to 5 x 10(7).

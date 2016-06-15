@@ -1,0 +1,1 @@
+A recombinant vector, p410+, was constructed which carried the BamHI-K fragment (nucleotides 107565 to 112625 of the B95-8 strain, encoding the EBV-associated nuclear antigen EBNA-1), the cis-acting sequence from the BamHI-C fragment, and a dominant selectable marker gene encoding G-418 resistance in animal cells.

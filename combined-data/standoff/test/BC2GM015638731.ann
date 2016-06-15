@@ -1,0 +1,13 @@
+T1	GENE 216 219	Ets
+T2	GENE 216 239	Ets-responsive promoter
+T3	GENE 216 248	Ets-responsive promoter elements
+T4	GENE 277 281	HER2
+T5	GENE 277 285	HER2/neu
+T6	GENE 277 294	HER2/neu oncogene
+T7	GENE 282 285	neu
+T8	GENE 282 294	neu oncogene
+T9	GENE 31 34	ESX
+T10	GENE 31 78	ESX (for epithelial-restricted with serine box)
+T11	GENE 40 77	epithelial-restricted with serine box
+T12	GENE 88 91	Ets
+T13	GENE 88 96	Ets-like

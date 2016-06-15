@@ -1,0 +1,1 @@
+In addition, while GCN1 is required in vivo for phosphorylation of eIF-2 alpha by GCN2, cell extracts from gcn1 delta strains contained wild-type levels of GCN2 eIF-2 alpha-kinase activity.

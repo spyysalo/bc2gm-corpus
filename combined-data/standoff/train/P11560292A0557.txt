@@ -1,0 +1,1 @@
+Using the presented categorical structure as domain model a prototype DSS for dipslide urine cultures has been developed.

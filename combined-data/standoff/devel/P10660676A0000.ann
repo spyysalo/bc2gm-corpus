@@ -1,0 +1,12 @@
+T1	GENE 0 17	Zebrafish cyclops
+T2	GENE 0 23	Zebrafish cyclops (cyc)
+T3	GENE 118 123	Nodal
+T4	GENE 19 22	cyc
+T5	GENE 34 65	Transforming Growth Factor beta
+T6	GENE 34 75	Transforming Growth Factor beta (TGFbeta)
+T7	GENE 34 92	Transforming Growth Factor beta (TGFbeta) signaling factor
+T8	GENE 66 92	(TGFbeta) signaling factor
+T9	GENE 67 74	TGFbeta
+T10	GENE 10 17	cyclops
+T11	GENE 10 23	cyclops (cyc)
+T12	GENE 112 123	mouse Nodal

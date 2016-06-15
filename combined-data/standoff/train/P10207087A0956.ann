@@ -1,0 +1,12 @@
+T1	GENE 0 3	MEF
+T2	GENE 127 130	MEF
+T3	GENE 150 153	MEF
+T4	GENE 175 179	AML1
+T5	GENE 175 183	AML1/ETO
+T6	GENE 180 183	ETO
+T7	GENE 48 61	interleukin 3
+T8	GENE 48 70	interleukin 3 promoter
+T9	GENE 48 79	interleukin 3 promoter reporter
+T10	GENE 48 84	interleukin 3 promoter reporter gene
+T11	GENE 48 94	interleukin 3 promoter reporter gene construct
+T12	GENE 8 13	AML1B

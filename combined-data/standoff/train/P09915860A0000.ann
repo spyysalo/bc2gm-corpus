@@ -1,0 +1,14 @@
+T1	GENE 134 137	Sp1
+T2	GENE 134 142	Sp1 site
+T3	GENE 20 28	rat pgp2
+T4	GENE 20 34	rat pgp2/mdr1b
+T5	GENE 20 39	rat pgp2/mdr1b gene
+T6	GENE 24 28	pgp2
+T7	GENE 24 34	pgp2/mdr1b
+T8	GENE 24 39	pgp2/mdr1b gene
+T9	GENE 29 34	mdr1b
+T10	GENE 29 39	mdr1b gene
+T11	GENE 46 69	GC-rich region (pgp2GC)
+T12	GENE 62 68	pgp2GC
+T13	GENE 98 101	mdr
+T14	GENE 98 107	mdr genes

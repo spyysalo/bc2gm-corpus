@@ -1,0 +1,1 @@
+Transfer of F-like plasmids is regulated by the FinOP system, which controls the expression of traJ, a positive regulator of the transfer operon.

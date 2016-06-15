@@ -1,0 +1,1 @@
+These involve (1) subcloning a promoterless sucCD fragment downstream of the lac promoter in M13mp10, and (2) precise splicing of the suc coding regions with the efficient atpE ribosome-binding site and expression from the thermoinducible lambda promoters in the pJLA503 vector.

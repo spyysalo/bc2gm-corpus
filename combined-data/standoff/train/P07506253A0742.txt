@@ -1,0 +1,1 @@
+This enhancer activates both the K19 and TK basal promoters in HeLa cells.

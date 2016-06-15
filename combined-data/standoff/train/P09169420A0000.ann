@@ -1,0 +1,19 @@
+T1	GENE 115 118	SH2
+T2	GENE 14 40	phosphoinositide 3-kinases
+T3	GENE 14 48	phosphoinositide 3-kinases (PI3Ks)
+T4	GENE 14 64	phosphoinositide 3-kinases (PI3Ks) p110alpha, beta
+T5	GENE 155 163	p85alpha
+T6	GENE 167 170	p55
+T7	GENE 167 175	p55(PIK)
+T8	GENE 171 174	PIK
+T9	GENE 4 40	mammalian phosphoinositide 3-kinases
+T10	GENE 4 48	mammalian phosphoinositide 3-kinases (PI3Ks)
+T11	GENE 4 64	mammalian phosphoinositide 3-kinases (PI3Ks) p110alpha, beta
+T12	GENE 4 75	mammalian phosphoinositide 3-kinases (PI3Ks) p110alpha, beta, and delta
+T13	GENE 42 47	PI3Ks
+T14	GENE 49 75	p110alpha, beta, and delta
+T15	GENE 99 119	Src homology 2 (SH2)
+T16	GENE 99 126	Src homology 2 (SH2) domain
+T17	GENE 99 146	Src homology 2 (SH2) domain-containing adaptors
+T18	GENE 99 113	Src homology 2
+T19	GENE 114 146	(SH2) domain-containing adaptors
