@@ -21,6 +21,19 @@ task-flavored standoff format with
 and a set of 2500 documents was then moved from `standoff/train` to
 `standoff/devel` as a development set.
 
+## CoNLL data
+
+The standoff was converted into a CoNLL-like format using
+
+    https://github.com/spyysalo/standoff2conll
+
+with
+
+    mkdir conll
+    for s in train devel test; do
+        standoff2conll.py -n standoff/$s > conll/$s.tsv; done
+    done
+
 ## Combined data
 
 A version of the data combining the GENE and ALTGENE versions of the data
@@ -37,3 +50,16 @@ was created as
     tools/bc2gm2ann.py combined-data/test/{test.in,GENE.eval} combined-data/standoff/test/
 
     for f in standoff/devel/*; do mv combined-data/standoff/train/`basename $f` combined-data/standoff/devel/; done
+
+Two versions in CoNLL-like format were created using standoff2conll: a
+"wide" version where overlapping annotations with longer spans were
+kept and shorter ones discarded, and a "narrow" version where shorter
+were kept and longer discarded:
+
+    mkdir combined-data/conll-{wide,narrow}
+    for s in train devel test; do
+        standoff2conll.py -n -o keep-longer combined-data/standoff/$s > combined-data/conll-wide/$s.tsv;
+    done
+    for s in train devel test; do
+        standoff2conll.py -n -o keep-shorter combined-data/standoff/$s > combined-data/conll-narrow/$s.tsv;
+    done
