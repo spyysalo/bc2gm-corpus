@@ -63,3 +63,16 @@ were kept and longer discarded:
     for s in train devel test; do
         standoff2conll.py -n -o keep-shorter combined-data/standoff/$s > combined-data/conll-narrow/$s.tsv;
     done
+
+## Train / devel split
+
+A development set of 2500 sentences was split off from the data in the
+original format with
+
+    mkdir -p devel-split/{train,devel}
+    ls standoff/devel/ | egrep '\.txt' | perl -pe 's/\.txt//' > devel.ids
+    echo '^('$(tr '\n' '|' < devel.ids | perl -pe 's/\|$//')')\b' > devel.re
+    egrep -f devel.re original-data/train/train.in > devel-split/devel/devel.in
+    egrep -vf devel.re original-data/train/train.in > devel-split/train/train.in
+    for f in {GENE,ALTGENE}.eval; do egrep -f devel.re original-data/train/$f > devel-split/devel/$f; done
+    for f in {GENE,ALTGENE}.eval; do egrep -vf devel.re original-data/train/$f > devel-split/train/$f; done
