@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Convert CoNLL-formatted data into BC2GM format and evaluate using
+# BC2GM evaluation script alt_eval.perl on test data.
+
+set -e
+set -u
+
+SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+BC2GMDIR="$SCRIPTDIR/.."
+DATADIR="$BC2GMDIR/original-data/test/"
+
+CONLLFILE=$1
+
+BC2GMFILE=$(mktemp)
+trap "rm -rf $BC2GMFILE" EXIT
+
+python "$SCRIPTDIR"/conll_to_bc2gm.py $CONLLFILE "$DATADIR"/test.in \
+    > $BC2GMFILE
+
+$BC2GMDIR/original-data/train/alt_eval.perl \
+    -gene "$DATADIR"/GENE.eval \
+    -altgene "$DATADIR"/ALTGENE.eval \
+    $BC2GMFILE
