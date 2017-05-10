@@ -5,8 +5,10 @@
 
 import sys
 
-from collections import OrderedDict
+from collections import defaultdict, OrderedDict
 from itertools import chain, tee, izip
+
+from logging import warn
 
 # Sentence separator(s) used in predictions
 SEPARATORS = ['-DOCSTART-', '-X-']
@@ -119,11 +121,43 @@ def check_text(gold_text, pred_text):
         ))
     return True
 
+def texts_match(sentid_and_text, predictions):
+    assert len(sentid_and_text) == len(predictions)
+    for i in range(len(sentid_and_text)):
+        gold_text = sentid_and_text[i][1]
+        text_and_tags = predictions[i]
+        pred_text = ' '.join(map(lambda t: t[0], text_and_tags))
+        if gold_text.replace(' ', '') != pred_text.replace(' ', ''):
+            return False
+    return True
+
+def reorder_predictions(sentid_and_text, predictions):
+    assert len(sentid_and_text) == len(predictions)
+    text_to_index = defaultdict(list)
+    for i, (sentid, gold_text) in enumerate(sentid_and_text):
+        # Map without space to accommodate tokenization differences
+        chars = gold_text.replace(' ', '')
+        text_to_index[chars].append(i)
+    indexed_predictions = {}
+    for text_and_tags in predictions:
+        pred_text = ' '.join(map(lambda t: t[0], text_and_tags))
+        chars = pred_text.replace(' ', '')
+        if not text_to_index[chars]:
+            raise ValueError('Failed to match predicted text "{}"'.format(
+                pred_text))
+        index = text_to_index[chars].pop(0)
+        indexed_predictions[index] = text_and_tags
+    reordered = [ip[1] for ip in sorted(indexed_predictions.items())]
+    return reordered
+
 def convert_to_bc2gm(sentid_and_text, predictions):
     if len(sentid_and_text) != len(predictions):
         raise ValueError('Sentence number mismatch: {} vs {}'.format(
             len(sentid_and_text), len(predictions)
         ))
+    if not texts_match(sentid_and_text, predictions):
+        warn('text mismatch, trying to reorder...')
+        predictions = reorder_predictions(sentid_and_text, predictions)
     bc2gm_fields = []
     for i in range(len(sentid_and_text)):
         sentid, gold_text = sentid_and_text[i]
